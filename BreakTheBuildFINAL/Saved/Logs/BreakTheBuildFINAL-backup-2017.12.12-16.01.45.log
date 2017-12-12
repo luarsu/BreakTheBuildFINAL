@@ -1,0 +1,1325 @@
+﻿Log file open, 12/12/17 12:43:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BreakTheBuildFINAL
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1611177215) SRandInit(1611177215).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.523734
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3754814
+LogInit: Engine Version: 4.18.1-3754814+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Nov 14 2017 02:05:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.12.12-12.44.00:343][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.12-12.44.00:343][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.12-12.44.00:393][  0]LogInit: Computer: GRANDPOPO
+[2017.12.12-12.44.00:393][  0]LogInit: User: kinop
+[2017.12.12-12.44.00:393][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.12-12.44.00:393][  0]LogInit: High frequency timer resolution =2.531253 MHz
+[2017.12.12-12.44.00:393][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2017.12.12-12.44.00:393][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.12-12.44.00:393][  0]LogMemory: Process Physical Memory: 279.08 MB used, 279.08 MB peak
+[2017.12.12-12.44.00:393][  0]LogMemory: Process Virtual Memory: 274.57 MB used, 274.57 MB peak
+[2017.12.12-12.44.00:393][  0]LogMemory: Physical Memory: 15910.63 MB used,  16793.23 MB free, 32703.86 MB total
+[2017.12.12-12.44.00:393][  0]LogMemory: Virtual Memory: 698.57 MB used,  16793.23 MB free, 134217728.00 MB total
+[2017.12.12-12.44.00:827][  0]LogInit: Using OS detected language (en-GB).
+[2017.12.12-12.44.00:827][  0]LogInit: Using OS detected locale (en-GB).
+[2017.12.12-12.44.00:915][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2017.12.12-12.44.01:502][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.12-12.44.05:024][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.12-12.44.05:077][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980M' (Feature Level 11_0)
+[2017.12.12-12.44.05:077][  0]LogD3D11RHI:       8152/0/16351 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.12-12.44.05:078][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.12-12.44.05:078][  0]LogD3D11RHI:       0/0/16351 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.12-12.44.05:078][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.12-12.44.05:103][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.12-12.44.05:103][  0]LogD3D11RHI:     GPU DeviceId: 0x1617 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.12-12.44.05:103][  0]LogWindows: EnumDisplayDevices:
+[2017.12.12-12.44.05:104][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980M' (P:1 D:1)
+[2017.12.12-12.44.05:104][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2017.12.12-12.44.05:104][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2017.12.12-12.44.05:104][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980M' (P:0 D:0)
+[2017.12.12-12.44.05:104][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.12.12-12.44.05:104][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980M
+[2017.12.12-12.44.05:105][  0]LogD3D11RHI:   Driver Version: 369.09 (internal:21.21.13.6909, unified:369.09)
+[2017.12.12-12.44.05:105][  0]LogD3D11RHI:      Driver Date: 8-1-2016
+[2017.12.12-12.44.05:105][  0]LogRHI: Texture pool is 5706 MB (70% of 8152 MB)
+[2017.12.12-12.44.05:134][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.12-12.44.05:157][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.12-12.44.05:202][  0]LogShaderCompilers: Guid format shader working directory is -19 characters bigger than the processId version (D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Intermediate/Shaders/WorkingDirectory/82608/).
+[2017.12.12-12.44.05:202][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/kinop/AppData/Local/Temp/UnrealShaderWorkingDir/10EBCD9743FB405E720FEFA75A15445E/'.
+[2017.12.12-12.44.05:203][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.12-12.44.08:100][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.12-12.44.08:166][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.12-12.44.08:231][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.12-12.44.08:299][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.12-12.44.08:372][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.12-12.44.08:436][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.12-12.44.08:499][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.12-12.44.08:570][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.12-12.44.08:629][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.12-12.44.08:697][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.12-12.44.08:767][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.12-12.44.08:840][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.12-12.44.08:906][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.12-12.44.08:970][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.12-12.44.09:109][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.12-12.44.09:110][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.12-12.44.09:184][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.12-12.44.09:240][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.12-12.44.09:362][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.12-12.44.09:395][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.12-12.44.09:468][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.12-12.44.09:538][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.12-12.44.09:607][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.12-12.44.09:685][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.12-12.44.09:685][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.12-12.44.10:639][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.12-12.44.10:843][  0]LogDerivedDataCache: Loaded boot cache 0.20s 78MB C:/Users/kinop/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.12-12.44.10:843][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/kinop/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.12-12.44.10:843][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.12-12.44.10:843][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.12-12.44.10:843][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.12-12.44.10:843][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.12-12.44.10:876][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.12-12.44.10:892][  0]LogDerivedDataCache: Using Local data cache path C:/Users/kinop/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.12-12.44.10:907][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.12-12.44.10:911][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.12-12.44.10:930][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.12-12.44.10:931][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.12-12.44.12:223][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.12-12.44.13:066][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.12-12.44.13:126][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.12-12.44.13:127][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.12-12.44.13:127][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.12-12.44.13:127][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.12-12.44.13:127][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.12-12.44.13:275][  0]LogNetVersion: BreakTheBuildFINAL , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4088768677)
+[2017.12.12-12.44.13:950][  0]LogAssetRegistry: FAssetRegistry took 0.0295 seconds to start up
+[2017.12.12-12.44.15:789][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.201447 seconds
+[2017.12.12-12.44.15:796][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.12-12.44.15:796][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.12-12.44.15:796][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.12-12.44.15:870][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.12-12.44.25:537][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.12-12.44.25:690][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.12-12.44.27:466][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.12-12.44.28:525][  0]SourceControl: Source control is disabled
+[2017.12.12-12.44.28:526][  0]SourceControl: Source control is disabled
+[2017.12.12-12.44.28:678][  0]SourceControl: Source control is disabled
+[2017.12.12-12.44.28:817][  0]SourceControl: Source control is disabled
+[2017.12.12-12.44.31:097][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.12-12.44.31:859][  0]LogOcInput: OculusInput pre-init called
+[2017.12.12-12.44.32:478][  0]LogEngine: Initializing Engine...
+[2017.12.12-12.44.32:658][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2017.12.12-12.44.32:964][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.12-12.44.32:965][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.12-12.44.33:147][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.12-12.44.33:172][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.44.33:289][  0]LogInit: FAudioDevice initialized.
+[2017.12.12-12.44.33:347][  0]LogDerivedDataCache: Saved boot cache 0.06s 78MB C:/Users/kinop/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.12-12.44.33:357][  0]LogInit: Texture streaming: Enabled
+[2017.12.12-12.44.33:549][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.12-12.44.33:764][  0]LogInit: Transaction tracking system initialized
+[2017.12.12-12.44.34:436][  0]BlueprintLog: New page: Editor Load
+[2017.12.12-12.44.35:751][  0]LocalizationService: Localization service is disabled
+[2017.12.12-12.44.37:018][  0]LogConsoleResponse: Display: 
+[2017.12.12-12.44.37:885][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.12-12.44.37:885][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.12-12.44.37:885][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.12-12.44.38:558][  0]LogFileCache: Scanning file cache for directory 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/' took 0.15s
+[2017.12.12-12.44.42:034][  0]SourceControl: Source control is disabled
+[2017.12.12-12.44.42:035][  0]Cmd: MAP LOAD FILE="D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Tobys_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.12-12.44.42:036][  0]LightingResults: New page: Lighting Build
+[2017.12.12-12.44.42:109][  0]MapCheck: New page: Map Check
+[2017.12.12-12.44.42:109][  0]LightingResults: New page: Lighting Build
+[2017.12.12-12.44.43:823][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2017.12.12-12.44.43:870][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2017.12.12-12.44.43:872][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] Set Input Mode UI Only (Deprecated)  is deprecated; Use the new version of Set Input Mode UI Only instead
+[2017.12.12-12.44.43:945][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0055.30] Compile of FirstPersonCharacter successful, but with 1 Warning(s) [in 187 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2017.12.12-12.44.43:945][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] [0055.30] Compile of ThirdPersonCharacterThomas successful, but with 2 Warning(s) [in 187 ms] (/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/ThirdPersonCharacterThomas.ThirdPersonCharacterThomas)
+[2017.12.12-12.44.44:291][  0]LogLinker: Warning: Can't find file '/Game/Maps/Tobys_Nightmare_BuiltData'
+[2017.12.12-12.44.44:292][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Tobys_Nightmare_BuiltData' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Tobys_Nightmare.umap.
+[2017.12.12-12.44.44:292][  0]LoadErrors: Error: /Game/Maps/Tobys_Nightmare : Can't find file for asset. /Game/Maps/Tobys_Nightmare_BuiltData
+[2017.12.12-12.44.44:436][  0]LogLinker: Warning: Can't find file '/Game/Maps/Tobys_Nightmare_BuiltData'
+[2017.12.12-12.44.44:437][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Tobys_Nightmare_BuiltData' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Tobys_Nightmare.umap.
+[2017.12.12-12.44.44:437][  0]LoadErrors: Error: /Game/Maps/Tobys_Nightmare : Can't find file for asset. /Game/Maps/Tobys_Nightmare_BuiltData
+[2017.12.12-12.44.44:495][  0]LogLinker: Warning: Can't find file '/Game/Maps/Tobys_Nightmare_BuiltData'
+[2017.12.12-12.44.44:495][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Tobys_Nightmare_BuiltData' while loading NULL.
+[2017.12.12-12.44.44:495][  0]LogLinker: Warning: Can't find file '/Game/Maps/Tobys_Nightmare_BuiltData'
+[2017.12.12-12.44.44:495][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Tobys_Nightmare_BuiltData' while loading NULL.
+[2017.12.12-12.44.44:587][  0]LogLinker: Warning: Can't find file '/Game/Maps/Tobys_Nightmare_BuiltData'
+[2017.12.12-12.44.44:588][  0]LoadErrors: Failed to load /Game/Maps/Tobys_Nightmare_BuiltData.Tobys_Nightmare_BuiltData Referenced by PersistentLevel
+[2017.12.12-12.44.44:588][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Tobys_Nightmare_BuiltData' while loading NULL.
+[2017.12.12-12.44.44:588][  0]LoadErrors: Failed to load /Game/Maps/Tobys_Nightmare_BuiltData.Tobys_Nightmare_BuiltData Referenced by PersistentLevel
+[2017.12.12-12.44.45:101][  0]LogTexture: Display: Building textures: RGBTable16xblueIs_All (AutoDXT, 256X16)
+[2017.12.12-12.44.45:101][  0]LogTexture: Display: Building textures: heart_damaged (BGRA8, 874X798)
+[2017.12.12-12.44.45:102][  0]LogTexture: Display: Building textures: heart_fill (BGRA8, 874X798)
+[2017.12.12-12.45.00:720][  0]LogTexture: Display: Building textures: bloodsreentransparencyMoreT (AutoDXT, 3888X2592)
+[2017.12.12-12.45.00:810][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_05...
+[2017.12.12-12.45.00:858][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_07...
+[2017.12.12-12.45.00:904][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_06...
+[2017.12.12-12.45.01:514][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_02...
+[2017.12.12-12.45.01:562][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_04...
+[2017.12.12-12.45.01:596][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_03...
+[2017.12.12-12.45.01:641][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_14...
+[2017.12.12-12.45.01:669][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_17...
+[2017.12.12-12.45.01:723][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_16...
+[2017.12.12-12.45.01:771][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_15...
+[2017.12.12-12.45.01:810][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_10...
+[2017.12.12-12.45.01:871][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_13...
+[2017.12.12-12.45.01:905][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_12...
+[2017.12.12-12.45.01:932][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_11...
+[2017.12.12-12.45.01:961][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_08...
+[2017.12.12-12.45.02:001][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_09...
+[2017.12.12-12.45.02:033][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_18...
+[2017.12.12-12.45.02:065][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_20...
+[2017.12.12-12.45.02:097][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_19...
+[2017.12.12-12.45.02:144][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_21...
+[2017.12.12-12.45.02:281][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
+[2017.12.12-12.45.02:450][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave enemyTxtRush1_Sub_01...
+[2017.12.12-12.45.02:507][  0]LogAIModule: Creating AISystem for world Tobys_Nightmare
+[2017.12.12-12.45.02:566][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.12-12.45.02:603][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.12-12.45.02:739][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 136.528ms to complete.
+[2017.12.12-12.45.02:740][  0]LogFileHelpers: Loading map 'Tobys_Nightmare' took 20.705
+[2017.12.12-12.45.03:015][  0]LogCollectionManager: Loaded 0 collections in 0.002441 seconds
+[2017.12.12-12.45.03:162][  0]LogFileCache: Scanning file cache for directory 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Saved/Collections/' took 0.01s
+[2017.12.12-12.45.03:162][  0]LogFileCache: Scanning file cache for directory 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Developers/kinop/Collections/' took 0.01s
+[2017.12.12-12.45.03:162][  0]LogFileCache: Scanning file cache for directory 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Collections/' took 0.01s
+[2017.12.12-12.45.03:163][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.12-12.45.03:178][  0]LogContentBrowser: Native class hierarchy populated in 0.0141 seconds. Added 2363 classes and 519 folders.
+[2017.12.12-12.45.03:308][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2017.12.12-12.45.04:139][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.12-12.45.04:211][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.12-12.45.04:294][  0]LogSlate: Took 0.009340 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.12-12.45.04:304][  0]LogSlate: Took 0.006965 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.12-12.45.04:317][  0]LogSlate: Took 0.006239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.12-12.45.04:563][  0]LogRenderer: Reallocating scene render targets to support 1208x600 Format 10 NumSamples 1 (Frame:1).
+[2017.12.12-12.45.04:850][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.12-12.45.04:850][  0]LogLoad: (Engine Initialization) Total time: 76.20 seconds
+[2017.12.12-12.45.04:850][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.12-12.45.04:850][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.12.12-12.45.04:850][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.12.12-12.45.05:220][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.12-12.45.05:286][  0]LogSlate: Took 0.007846 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.12-12.45.05:592][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/' took 0.39s
+[2017.12.12-12.45.05:618][  1]LogAssetRegistry: Asset discovery search completed in 51.6897 seconds
+[2017.12.12-12.45.05:622][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.12.12-12.45.05:622][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000082 seconds (updated 0 objects)
+[2017.12.12-12.46.30:792][549]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-12.46.31:095][549]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.46.31:096][549]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-12.46.31:098][549]PIE: New page: PIE session: Tobys_Nightmare (12 Dec 2017 12:46:31)
+[2017.12.12-12.46.31:098][549]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tobys_Nightmare
+[2017.12.12-12.46.31:133][549]LogPlayLevel: PIE: StaticDuplicateObject took: (0.035098s)
+[2017.12.12-12.46.31:134][549]LogAIModule: Creating AISystem for world Tobys_Nightmare
+[2017.12.12-12.46.31:134][549]LogPlayLevel: PIE: World Init took: (0.000826s)
+[2017.12.12-12.46.31:135][549]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tobys_Nightmare.Tobys_Nightmare to /Game/Maps/UEDPIE_0_Tobys_Nightmare.Tobys_Nightmare (0.036569s)
+[2017.12.12-12.46.31:159][549]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.46.31:174][549]LogInit: FAudioDevice initialized.
+[2017.12.12-12.46.31:219][549]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-12.46.31:236][549]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tobys_Nightmare.Tobys_Nightmare up for play (max tick rate 60) at 2017.12.12-12.46.31
+[2017.12.12-12.46.31:239][549]LogWorld: Bringing up level for play took: 0.018487
+[2017.12.12-12.46.31:296][549]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
+[2017.12.12-12.46.31:301][549]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tobys_Nightmare 0.425
+[2017.12.12-12.46.31:302][549]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.46.33:432][673]LogBlueprintUserMessages: [GameHUD_C_0] Hello
+[2017.12.12-12.46.59:363][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.46.59:405][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.47.01:321][340]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-12.47.01:346][340]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.47.01:346][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-12.47.01:347][340]PIE: New page: PIE session: Tobys_Nightmare (12 Dec 2017 12:47:01)
+[2017.12.12-12.47.01:347][340]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tobys_Nightmare
+[2017.12.12-12.47.01:385][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.037861s)
+[2017.12.12-12.47.01:385][340]LogAIModule: Creating AISystem for world Tobys_Nightmare
+[2017.12.12-12.47.01:385][340]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2017.12.12-12.47.01:386][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tobys_Nightmare.Tobys_Nightmare to /Game/Maps/UEDPIE_0_Tobys_Nightmare.Tobys_Nightmare (0.039292s)
+[2017.12.12-12.47.01:410][340]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.47.01:423][340]LogInit: FAudioDevice initialized.
+[2017.12.12-12.47.01:462][340]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-12.47.01:478][340]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tobys_Nightmare.Tobys_Nightmare up for play (max tick rate 60) at 2017.12.12-12.47.01
+[2017.12.12-12.47.01:479][340]LogWorld: Bringing up level for play took: 0.016695
+[2017.12.12-12.47.01:482][340]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tobys_Nightmare 0.605
+[2017.12.12-12.47.01:483][340]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.47.04:696][529]LogBlueprintUserMessages: [GameHUD_C_1] Hello
+[2017.12.12-12.47.15:634][185]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.47.15:673][185]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.47.16:766][247]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-12.47.16:793][247]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.47.16:793][247]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-12.47.16:793][247]PIE: New page: PIE session: Tobys_Nightmare (12 Dec 2017 12:47:16)
+[2017.12.12-12.47.16:793][247]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tobys_Nightmare
+[2017.12.12-12.47.16:829][247]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034936s)
+[2017.12.12-12.47.16:829][247]LogAIModule: Creating AISystem for world Tobys_Nightmare
+[2017.12.12-12.47.16:830][247]LogPlayLevel: PIE: World Init took: (0.000721s)
+[2017.12.12-12.47.16:830][247]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tobys_Nightmare.Tobys_Nightmare to /Game/Maps/UEDPIE_0_Tobys_Nightmare.Tobys_Nightmare (0.036074s)
+[2017.12.12-12.47.16:853][247]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.47.16:865][247]LogInit: FAudioDevice initialized.
+[2017.12.12-12.47.16:899][247]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-12.47.16:914][247]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tobys_Nightmare.Tobys_Nightmare up for play (max tick rate 60) at 2017.12.12-12.47.16
+[2017.12.12-12.47.16:914][247]LogWorld: Bringing up level for play took: 0.014868
+[2017.12.12-12.47.16:917][247]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tobys_Nightmare 0.04
+[2017.12.12-12.47.16:917][247]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.47.20:166][439]LogBlueprintUserMessages: [GameHUD_C_2] Hello
+[2017.12.12-12.47.22:868][601]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.22:868][601]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.22:868][601]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.22:868][601]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.22:868][601]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.22:868][601]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.24:173][679]LogBlueprintUserMessages: [GameHUD_C_2] Hello
+[2017.12.12-12.47.24:907][723]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.24:907][723]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.24:907][723]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.24:907][723]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.24:907][723]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.24:907][723]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.33:975][267]LogBlueprintUserMessages: [GameHUD_C_2] Hello
+[2017.12.12-12.47.55:166][538]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.55:166][538]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.55:166][538]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.55:166][538]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.55:166][538]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.55:166][538]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.59:516][799]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.59:516][799]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.59:516][799]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.59:516][799]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.59:517][799]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.47.59:517][799]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.12:771][594]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.12:771][594]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.12:771][594]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.12:771][594]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.12:771][594]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.12:771][594]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.27:429][473]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.27:429][473]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.27:429][473]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.27:429][473]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.27:429][473]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.27:429][473]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.28:762][553]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.28:762][553]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.28:762][553]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.28:762][553]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.28:762][553]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.48.28:762][553]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.12-12.49.00:290][444]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.49.00:329][444]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.49.05:714][752]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-12.49.05:742][752]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.49.05:742][752]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-12.49.05:742][752]PIE: New page: PIE session: Tobys_Nightmare (12 Dec 2017 12:49:05)
+[2017.12.12-12.49.05:742][752]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Tobys_Nightmare
+[2017.12.12-12.49.05:774][752]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031944s)
+[2017.12.12-12.49.05:775][752]LogAIModule: Creating AISystem for world Tobys_Nightmare
+[2017.12.12-12.49.05:775][752]LogPlayLevel: PIE: World Init took: (0.000640s)
+[2017.12.12-12.49.05:775][752]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Tobys_Nightmare.Tobys_Nightmare to /Game/Maps/UEDPIE_0_Tobys_Nightmare.Tobys_Nightmare (0.032943s)
+[2017.12.12-12.49.05:799][752]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.49.05:811][752]LogInit: FAudioDevice initialized.
+[2017.12.12-12.49.05:846][752]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-12.49.05:862][752]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Tobys_Nightmare.Tobys_Nightmare up for play (max tick rate 60) at 2017.12.12-12.49.05
+[2017.12.12-12.49.05:863][752]LogWorld: Bringing up level for play took: 0.015955
+[2017.12.12-12.49.05:866][752]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Tobys_Nightmare 0.99
+[2017.12.12-12.49.05:867][752]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.49.06:619][793]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.49.06:663][793]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare' with GeneratedClass '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Tobys_Nightmare.Tobys_Nightmare:PersistentLevel.Tobys_Nightmare'
+[2017.12.12-12.49.22:218][721]LogSlate: Took 0.000126 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.12-12.49.22:268][721]LogLinker: Warning: Can't find file '/Game/Maps/Luis_Nightmare_BuiltData'
+[2017.12.12-12.49.22:268][721]LogLinker: Warning: Can't find file for asset '/Game/Maps/Luis_Nightmare_BuiltData' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap.
+[2017.12.12-12.49.22:268][721]LoadErrors: Error: /Game/Maps/Luis_Nightmare : Can't find file for asset. /Game/Maps/Luis_Nightmare_BuiltData
+[2017.12.12-12.49.22:323][721]LogLinker: Warning: Can't find file '/Game/Maps/Luis_Nightmare_BuiltData'
+[2017.12.12-12.49.22:324][721]LogLinker: Warning: Can't find file for asset '/Game/Maps/Luis_Nightmare_BuiltData' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap.
+[2017.12.12-12.49.22:385][721]LogLinker: Warning: Can't find file '/Game/Maps/Luis_Nightmare_BuiltData'
+[2017.12.12-12.49.22:385][721]LogLinker: Warning: Can't find file for asset '/Game/Maps/Luis_Nightmare_BuiltData' while loading NULL.
+[2017.12.12-12.49.22:385][721]LogLinker: Warning: Can't find file '/Game/Maps/Luis_Nightmare_BuiltData'
+[2017.12.12-12.49.22:385][721]LogLinker: Warning: Can't find file for asset '/Game/Maps/Luis_Nightmare_BuiltData' while loading NULL.
+[2017.12.12-12.49.22:504][721]LogLinker: Warning: Can't find file '/Game/Maps/Luis_Nightmare_BuiltData'
+[2017.12.12-12.49.22:504][721]LoadErrors: Failed to load /Game/Maps/Luis_Nightmare_BuiltData.Luis_Nightmare_BuiltData Referenced by PersistentLevel
+[2017.12.12-12.49.22:505][721]LogLinker: Warning: Can't find file for asset '/Game/Maps/Luis_Nightmare_BuiltData' while loading NULL.
+[2017.12.12-12.49.22:564][721]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.12-12.49.22:618][721]Cmd: MAP LOAD FILE="D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.12-12.49.22:618][721]LightingResults: New page: Lighting Build
+[2017.12.12-12.49.22:619][721]LoadErrors: New page: Loading map: Luis_Nightmare.umap
+[2017.12.12-12.49.22:625][721]MapCheck: New page: Map Check
+[2017.12.12-12.49.22:625][721]LightingResults: New page: Lighting Build
+[2017.12.12-12.49.22:683][721]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.12-12.49.22:757][721]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.12-12.49.22:846][721]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.195ms to complete.
+[2017.12.12-12.49.22:847][721]LogFileHelpers: Loading map 'Luis_Nightmare' took 0.231
+[2017.12.12-12.50.11:955][625]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.12-12.50.11:980][625]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.12-12.50.11:981][625]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.12-12.50.11:981][625]PIE: New page: PIE session: Luis_Nightmare (12 Dec 2017 12:50:11)
+[2017.12.12-12.50.11:981][625]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.12-12.50.12:030][625]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049573s)
+[2017.12.12-12.50.12:031][625]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.12-12.50.12:031][625]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2017.12.12-12.50.12:031][625]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.050761s)
+[2017.12.12-12.50.12:057][625]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.12-12.50.12:071][625]LogInit: FAudioDevice initialized.
+[2017.12.12-12.50.12:109][625]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.12-12.50.12:132][625]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.12-12.50.12
+[2017.12.12-12.50.12:133][625]LogWorld: Bringing up level for play took: 0.024048
+[2017.12.12-12.50.12:137][625]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.74
+[2017.12.12-12.50.12:137][625]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.12-12.50.59:951][489]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.12-12.50.59:998][489]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.12-12.51.09:850][ 72]LogLinker: Warning: Can't find file '/Game/Maps/Tobys_Nightmare_BuiltData'
+[2017.12.12-12.51.09:850][ 72]LogLinker: Warning: Can't find file for asset '/Game/Maps/Tobys_Nightmare_BuiltData' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Tobys_Nightmare.umap.
+[2017.12.12-12.51.09:850][ 72]LoadErrors: Error: /Game/Maps/Tobys_Nightmare : Can't find file for asset. /Game/Maps/Tobys_Nightmare_BuiltData
+[2017.12.12-12.51.09:939][ 72]LogLinker: Warning: Can't find file '/Game/Maps/Tobys_Nightmare_BuiltData'
+[2017.12.12-12.51.09:939][ 72]LogLinker: Warning: Can't find file for asset '/Game/Maps/Tobys_Nightmare_BuiltData' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Tobys_Nightmare.umap.
+[2017.12.12-12.51.10:000][ 72]LogLinker: Warning: Can't find file '/Game/Maps/Tobys_Nightmare_BuiltData'
+[2017.12.12-12.51.10:000][ 72]LogLinker: Warning: Can't find file for asset '/Game/Maps/Tobys_Nightmare_BuiltData' while loading NULL.
+[2017.12.12-12.51.10:000][ 72]LogLinker: Warning: Can't find file '/Game/Maps/Tobys_Nightmare_BuiltData'
+[2017.12.12-12.51.10:001][ 72]LogLinker: Warning: Can't find file for asset '/Game/Maps/Tobys_Nightmare_BuiltData' while loading NULL.
+[2017.12.12-12.51.10:089][ 72]LogLinker: Warning: Can't find file '/Game/Maps/Tobys_Nightmare_BuiltData'
+[2017.12.12-12.51.10:089][ 72]LoadErrors: Failed to load /Game/Maps/Tobys_Nightmare_BuiltData.Tobys_Nightmare_BuiltData Referenced by PersistentLevel
+[2017.12.12-12.51.10:089][ 72]LogLinker: Warning: Can't find file for asset '/Game/Maps/Tobys_Nightmare_BuiltData' while loading NULL.
+[2017.12.12-12.51.10:134][ 72]LogAIModule: Creating AISystem for world Tobys_Nightmare
+[2017.12.12-12.51.10:171][ 72]Cmd: MAP LOAD FILE="D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Tobys_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.12-12.51.10:172][ 72]LightingResults: New page: Lighting Build
+[2017.12.12-12.51.10:173][ 72]LoadErrors: New page: Loading map: Tobys_Nightmare.umap
+[2017.12.12-12.51.10:181][ 72]MapCheck: New page: Map Check
+[2017.12.12-12.51.10:181][ 72]LightingResults: New page: Lighting Build
+[2017.12.12-12.51.10:227][ 72]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.12-12.51.10:284][ 72]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.12-12.51.10:367][ 72]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 83.252ms to complete.
+[2017.12.12-12.51.10:369][ 72]LogFileHelpers: Loading map 'Tobys_Nightmare' took 0.199
+[2017.12.12-12.51.34:673][495]SourceControl: On branch master
+[2017.12.12-12.51.34:673][495]SourceControl: Your branch is up-to-date with 'origin/master'.
+[2017.12.12-12.51.34:673][495]SourceControl: Changes to be committed:
+[2017.12.12-12.51.34:673][495]SourceControl:   (use "git reset HEAD <file>..." to unstage)
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Materials/Damage/M_CrackedGround_Lightning_01_INST.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_01_Add_6X6_INST.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Materials/Fire/M_Fire_02_Add_5X5_INST.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Materials/Gradient/M_Flare_02_INST.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Materials/ICE/M_IceChunksBase.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Materials/Smoke/M_Smoke_01_8X8_INST.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_03_1_4_INST.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Materials/Spark/M_Spark_Core_01_INST.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Smoke_Trail_01_Trans_INST.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Materials/Trails/M_Trail_Ice_01_INST.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_Ausar/P_AU_Shieldslam_Impact.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Monsters/FX_Monster_GolemBot/Projectiles/P_Proj_Missile_01.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Skill_TeleCharge/P_Skill_Telecharge_Ice_Proj_Trail_03.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Textures/Damage/T_Cracks_Lightning_01_E.uasset
+[2017.12.12-12.51.34:673][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Textures/Damage/T_cracks_01_N.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_Sprite_01_5x5.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Textures/Fire/T_Fire_subUV_6X6.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeBall_01_8_8.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Textures/Smoke/T_SmokeTile_Trail_D.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Spark_Core.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Textures/Spark/T_Sparks_03_SubUV_1_4.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/FX_Textures/Tile/T_Black_32.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_Master_DepthFade.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/Masters/M_Add_Sprite_SubUV_Master.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/Masters/M_Add_Trail_2Sided_Pan_Master.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/Masters/M_Trans_Sprite_Master_Surface.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/InfinityBladeEffects/Effects/Masters/M_Trans_Trail_2Sided_Pan_Tile_Master.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/StarterContent/Audio/Explosion02.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/StarterContent/Blueprints/UMG/gamehealth.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/StarterContent/Blueprints/UMG/lifebar.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/StarterContent/Blueprints/UMG/lifebarBackground.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/StarterContent/Blueprints/mainMenuWidget.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/StarterContent/UI/a_day_at_the_beach.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/StarterContent/UI/button1.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/StarterContent/textures/wall1_initialShadingGroup_BaseColor.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/CharacterAnimBP.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/CharacterBP.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/Fall_A_Loop_Anim.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/Happy_Idle_Anim.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/Hard_Landing_Anim.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/IdleWalkRun.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/Running_in_place_Anim.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/Start_Jumping_Jacks_Anim.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/Walking_in_place_Anim.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/drolebebe2.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/drolebebe2_PhysicsAsset.uasset
+[2017.12.12-12.51.34:674][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/drolebebe2_Skeleton.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/customCharacter/materialBEBE.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/indoor/doorCoridor.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/indoor/doorCoridor_initialShadingGroup_BaseColor.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/indoor/doorCoridor_initialShadingGroup_Normal.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/indoor/doorCoridor_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/indoor/doorCorridor.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/Gate1.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2a.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2b.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button3.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button3a.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button3b.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4a.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/door2.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/doorCoridor5_Blueprint.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/gatePablo3_Blueprint.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/gateDoor.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/gatePablo01.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/gatePablo01_initialShadingGroup_BaseColor.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/gatePablo01_initialShadingGroup_Normal.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/gatePablo01_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/projectile/destructionFire.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/projectile/explosion2.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/projectile/projectile.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/projectile/projectile2.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/props/white-concrete-wall.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Impact_laser.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser_02.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser_03.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser_04.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser_05__hot.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser_06__reverb.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser_07__high_reverb.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser_08__absorb.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser_09__nice.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser_10.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Laser_ghost.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/Lasershooting_Cue.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/fireballs.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/step1.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/step2.uasset
+[2017.12.12-12.51.34:675][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/step3.uasset
+[2017.12.12-12.51.34:676][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/step4.uasset
+[2017.12.12-12.51.34:676][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/soundeffects/step5.uasset
+[2017.12.12-12.51.34:676][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/textures/switchPillard.uasset
+[2017.12.12-12.51.34:676][495]SourceControl: 	new file:   BreakTheBuildFINAL/Content/PabloPuzzle/textures/switchWheel.uasset
+[2017.12.12-12.51.34:676][495]SourceControl: Changes not staged for commit:
+[2017.12.12-12.51.34:676][495]SourceControl:   (use "git add <file>..." to update what will be committed)
+[2017.12.12-12.51.34:676][495]SourceControl:   (use "git checkout -- <file>..." to discard changes in working directory)
+[2017.12.12-12.51.34:676][495]SourceControl: 	modified:   BreakTheBuildFINAL/Intermediate/AssetRegistryCache/311563bb.bin
+[2017.12.12-12.51.34:676][495]SourceControl: 	modified:   BreakTheBuildFINAL/Intermediate/AssetRegistryCache/c90e3f55.bin
+[2017.12.12-12.51.34:676][495]SourceControl: 	modified:   BreakTheBuildFINAL/Intermediate/CachedAssetRegistry.bin
+[2017.12.12-12.51.34:676][495]SourceControl: 	modified:   BreakTheBuildFINAL/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+[2017.12.12-12.51.34:676][495]SourceControl: Untracked files:
+[2017.12.12-12.51.34:676][495]SourceControl:   (use "git add <file>..." to include in what will be committed)
+[2017.12.12-12.51.34:676][495]SourceControl: 	BreakTheBuildFINAL/Intermediate/AssetRegistryCache/0db2bfa9.bin
+[2017.12.12-12.51.34:676][495]SourceControl: 	BreakTheBuildFINAL/Intermediate/AssetRegistryCache/266574c4.bin
+[2017.12.12-12.51.34:676][495]SourceControl: 	BreakTheBuildFINAL/Intermediate/AssetRegistryCache/7c5240f2.bin
+[2017.12.12-12.51.34:676][495]SourceControl: 	BreakTheBuildFINAL/Intermediate/AssetRegistryCache/aff1c699.bin
+[2017.12.12-12.51.34:676][495]SourceControl: 	BreakTheBuildFINAL/Intermediate/AssetRegistryCache/e2765583.bin
+[2017.12.12-12.51.34:676][495]SourceControl: 	BreakTheBuildFINAL/Intermediate/AssetRegistryCache/e8c2d44a.bin
+[2017.12.12-12.51.34:676][495]SourceControl: 	BreakTheBuildFINAL/Intermediate/AssetRegistryCache/f66358aa.bin
+[2017.12.12-12.51.34:676][495]SourceControl: 	BreakTheBuildFINAL/Saved/Config/CrashReportClient/UE4CC-Windows-B03D154148C6401F3D168491407528C6/
+[2017.12.12-12.51.34:676][495]SourceControl: 	BreakTheBuildFINAL/Saved/Logs/
+[2017.12.12-12.51.42:025][933]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2017.12.12-12.51.42:913][933]EditorErrors: Warning: No assets to check in!
+[2017.12.12-12.52.01:179][948]LogSavePackage: Save=1147.60ms
+[2017.12.12-12.52.01:179][948]LogSavePackage: Moving 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Saved/Tobys_Nightmare4967EDAD4D8C3F8E270420B210E20233.tmp' to 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Tobys_Nightmare.umap'
+[2017.12.12-12.52.01:191][948]LogSavePackage: Display: Finished SavePackage D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Maps/Tobys_Nightmare.umap
+[2017.12.12-12.52.04:562][146]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.18/Engine/Content/: 'C:/Program Files/Epic Games/UE_4.18/Engine/Content/' is outside repository
+[2017.12.12-12.52.49:207][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:207][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button.uasset.
+[2017.12.12-12.52.49:207][385]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button : Can't find file for asset. /Game/modular/wall/doorButton/Gate1
+[2017.12.12-12.52.49:207][385]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.52.49:207][385]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button.uasset.
+[2017.12.12-12.52.49:207][385]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.12-12.52.49:208][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:208][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button.uasset.
+[2017.12.12-12.52.49:210][385]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.52.49:210][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button.uasset.
+[2017.12.12-12.52.49:210][385]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button : Can't find file for asset. /Game/textures/switchPillard
+[2017.12.12-12.52.49:210][385]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.52.49:211][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button.uasset.
+[2017.12.12-12.52.49:211][385]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button : Can't find file for asset. /Game/textures/switchWheel
+[2017.12.12-12.52.49:228][385]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.52.49:228][385]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button.uasset.
+[2017.12.12-12.52.49:228][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:229][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button.uasset.
+[2017.12.12-12.52.49:229][385]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.52.49:229][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button.uasset.
+[2017.12.12-12.52.49:229][385]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.52.49:229][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button.uasset.
+[2017.12.12-12.52.49:236][385]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.52.49:236][385]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.52.49:236][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:236][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading NULL.
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading NULL.
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading NULL.
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading NULL.
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading NULL.
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.52.49:237][385]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.52.49:238][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:238][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading NULL.
+[2017.12.12-12.52.49:238][385]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.52.49:238][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading NULL.
+[2017.12.12-12.52.49:238][385]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.52.49:238][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading NULL.
+[2017.12.12-12.52.49:238][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:238][385]LoadErrors: Failed to load /Game/modular/wall/doorButton/Gate1.Gate1_C Referenced by button
+[2017.12.12-12.52.49:239][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading NULL.
+[2017.12.12-12.52.49:240][385]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.52.49:240][385]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_33
+[2017.12.12-12.52.49:240][385]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.52.49:241][385]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.52.49:241][385]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.52.49:241][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:241][385]LoadErrors: Failed to load /Game/modular/wall/doorButton/Gate1.Gate1 Referenced by K2Node_MacroInstance_1
+[2017.12.12-12.52.49:241][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading NULL.
+[2017.12.12-12.52.49:242][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:242][385]LoadErrors: Failed to load /Game/modular/wall/doorButton/Gate1.Gate1_C Referenced by K2Node_CallFunction_14
+[2017.12.12-12.52.49:242][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading NULL.
+[2017.12.12-12.52.49:242][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:242][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading NULL.
+[2017.12.12-12.52.49:242][385]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/Gate1'
+[2017.12.12-12.52.49:242][385]LoadErrors: Failed to load /Game/modular/wall/doorButton/Gate1.Gate1_C Referenced by K2Node_VariableGet_1
+[2017.12.12-12.52.49:242][385]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/Gate1' while loading NULL.
+[2017.12.12-12.52.49:243][385]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.52.49:243][385]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_2
+[2017.12.12-12.52.49:243][385]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.52.49:243][385]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.52.49:243][385]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.52.49:244][385]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.52.49:244][385]LoadErrors: Failed to load /Game/textures/switchWheel.switchWheel Referenced by Cylinder_GEN_VARIABLE
+[2017.12.12-12.52.49:244][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading NULL.
+[2017.12.12-12.52.49:244][385]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.52.49:245][385]LoadErrors: Failed to load /Game/textures/switchWheel.switchWheel Referenced by Cube1_GEN_VARIABLE
+[2017.12.12-12.52.49:245][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading NULL.
+[2017.12.12-12.52.49:245][385]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.52.49:245][385]LoadErrors: Failed to load /Game/textures/switchWheel.switchWheel Referenced by StaticMesh2_GEN_VARIABLE
+[2017.12.12-12.52.49:245][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading NULL.
+[2017.12.12-12.52.49:245][385]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.52.49:245][385]LoadErrors: Failed to load /Game/textures/switchPillard.switchPillard Referenced by StaticMesh_GEN_VARIABLE
+[2017.12.12-12.52.49:246][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading NULL.
+[2017.12.12-12.52.49:246][385]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.52.49:246][385]LoadErrors: Failed to load /Game/textures/switchPillard.switchPillard Referenced by Cube_GEN_VARIABLE
+[2017.12.12-12.52.49:246][385]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading NULL.
+[2017.12.12-12.52.49:251][385]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.52.49:252][385]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.52.49:252][385]LogBlueprint: Error: [Compiler button] In use pin  Attache Door  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2017.12.12-12.52.49:252][385]LogBlueprint: Error: [Compiler button] In use pin  <Unnamed>  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.52.49:252][385]LogBlueprint: Error: [Compiler button] In use pin  Target  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.52.49:252][385]LogBlueprint: Error: [Compiler button] Could not find a function named "toggleOpen" in 'button'.
+Make sure 'button' has been compiled for  Toggle Open
+[2017.12.12-12.52.49:252][385]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.52.49:252][385]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.52.49:253][385]LogBlueprint: Warning: [Compiler button] [0540.61] Compile of button failed. 8 Fatal Issue(s) 0 Warning(s) [in 7 ms] (/Game/PabloPuzzle/modular/wall/doorButton/button.button)
+[2017.12.12-12.52.59:854][984]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2017.12.12-12.53.00:743][984]LogMaterial: Missing cached shader map for material GridMaterial, compiling. 
+[2017.12.12-12.53.00:770][984]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.12-12.53.00:822][984]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.12.12-12.53.01:019][984]LogSlate: Took 0.007786 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.12-12.53.01:220][985]LogSlate: Took 0.006360 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.12-12.53.03:194][ 77]BlueprintLog: New page: Compile button
+[2017.12.12-12.53.03:221][ 77]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.03:221][ 77]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.03:221][ 77]LogBlueprint: Error: [Compiler button] In use pin  Attache Door  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2017.12.12-12.53.03:221][ 77]LogBlueprint: Error: [Compiler button] In use pin  <Unnamed>  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.53.03:221][ 77]LogBlueprint: Error: [Compiler button] In use pin  Target  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.53.03:221][ 77]LogBlueprint: Error: [Compiler button] Could not find a function named "toggleOpen" in 'button'.
+Make sure 'button' has been compiled for  Toggle Open
+[2017.12.12-12.53.03:222][ 77]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.03:222][ 77]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.03:427][ 77]LogBlueprint: Warning: [Compiler button] [0554.78] Compile of button failed. 8 Fatal Issue(s) 0 Warning(s) [in 232 ms] (/Game/PabloPuzzle/modular/wall/doorButton/button.button)
+[2017.12.12-12.53.18:480][899]BlueprintLog: New page: Compile button
+[2017.12.12-12.53.18:496][899]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.18:496][899]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.18:496][899]LogBlueprint: Error: [Compiler button] In use pin  Attache Door  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2017.12.12-12.53.18:496][899]LogBlueprint: Error: [Compiler button] In use pin  <Unnamed>  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.53.18:497][899]LogBlueprint: Error: [Compiler button] In use pin  Target  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.53.18:497][899]LogBlueprint: Error: [Compiler button] Could not find a function named "toggleOpen" in 'button'.
+Make sure 'button' has been compiled for  Toggle Open
+[2017.12.12-12.53.18:497][899]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.18:497][899]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.18:672][899]LogBlueprint: Warning: [Compiler button] [0570.02] Compile of button failed. 8 Fatal Issue(s) 0 Warning(s) [in 191 ms] (/Game/PabloPuzzle/modular/wall/doorButton/button.button)
+[2017.12.12-12.53.34:771][840]BlueprintLog: New page: Compile button
+[2017.12.12-12.53.34:788][840]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.34:789][840]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.34:789][840]LogBlueprint: Error: [Compiler button] In use pin  Attache Door  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2017.12.12-12.53.34:789][840]LogBlueprint: Error: [Compiler button] In use pin  <Unnamed>  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.53.34:789][840]LogBlueprint: Error: [Compiler button] In use pin  Target  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.53.34:789][840]LogBlueprint: Error: [Compiler button] Could not find a function named "toggleOpen" in 'button'.
+Make sure 'button' has been compiled for  Toggle Open
+[2017.12.12-12.53.34:789][840]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.34:789][840]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.53.34:931][840]LogBlueprint: Warning: [Compiler button] [0586.28] Compile of button failed. 8 Fatal Issue(s) 0 Warning(s) [in 160 ms] (/Game/PabloPuzzle/modular/wall/doorButton/button.button)
+[2017.12.12-12.53.43:092][309]LogSlate: Took 0.005464 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.12.12-12.54.13:624][664]LogLinker: Warning: Can't find file '/Game/modular/wall/gatePablo01'
+[2017.12.12-12.54.13:624][664]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gatePablo01' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/Gate1.uasset.
+[2017.12.12-12.54.13:625][664]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/Gate1 : Can't find file for asset. /Game/modular/wall/gatePablo01
+[2017.12.12-12.54.13:625][664]LogLinker: Warning: Can't find file '/Game/modular/wall/gatePablo01'
+[2017.12.12-12.54.13:625][664]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gatePablo01' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/Gate1.uasset.
+[2017.12.12-12.54.13:627][664]LogLinker: Warning: Can't find file '/Game/modular/wall/gatePablo01'
+[2017.12.12-12.54.13:627][664]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gatePablo01' while loading NULL.
+[2017.12.12-12.54.13:627][664]LogLinker: Warning: Can't find file '/Game/modular/wall/gatePablo01'
+[2017.12.12-12.54.13:627][664]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gatePablo01' while loading NULL.
+[2017.12.12-12.54.13:631][664]LogLinker: Warning: Can't find file '/Game/modular/wall/gatePablo01'
+[2017.12.12-12.54.13:631][664]LoadErrors: Failed to load /Game/modular/wall/gatePablo01.gatePablo01 Referenced by gatePablo01_GEN_VARIABLE
+[2017.12.12-12.54.13:631][664]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gatePablo01' while loading NULL.
+[2017.12.12-12.54.14:618][694]LogLinker: Warning: Can't find file '/Game/modular/wall/gatePablo01'
+[2017.12.12-12.54.14:618][694]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gatePablo01' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/gatePablo3_Blueprint.uasset.
+[2017.12.12-12.54.14:618][694]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/gatePablo3_Blueprint : Can't find file for asset. /Game/modular/wall/gatePablo01
+[2017.12.12-12.54.14:618][694]LogLinker: Warning: Can't find file '/Game/modular/wall/gatePablo01'
+[2017.12.12-12.54.14:618][694]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gatePablo01' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/gatePablo3_Blueprint.uasset.
+[2017.12.12-12.54.14:619][694]LogLinker: Warning: Can't find file '/Game/modular/wall/gatePablo01'
+[2017.12.12-12.54.14:619][694]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gatePablo01' while loading NULL.
+[2017.12.12-12.54.14:619][694]LogLinker: Warning: Can't find file '/Game/modular/wall/gatePablo01'
+[2017.12.12-12.54.14:619][694]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gatePablo01' while loading NULL.
+[2017.12.12-12.54.14:620][694]LogLinker: Warning: Can't find file '/Game/modular/wall/gatePablo01'
+[2017.12.12-12.54.14:620][694]LoadErrors: Failed to load /Game/modular/wall/gatePablo01.gatePablo01 Referenced by Default__gatePablo3_Blueprint_C
+[2017.12.12-12.54.14:620][694]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gatePablo01' while loading NULL.
+[2017.12.12-12.54.34:851][732]BlueprintLog: New page: Compile button
+[2017.12.12-12.54.34:868][732]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.54.34:868][732]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.54.34:868][732]LogBlueprint: Error: [Compiler button] In use pin  Attache Door  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2017.12.12-12.54.34:868][732]LogBlueprint: Error: [Compiler button] In use pin  <Unnamed>  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.54.34:868][732]LogBlueprint: Error: [Compiler button] In use pin  Target  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.54.34:868][732]LogBlueprint: Error: [Compiler button] Could not find a function named "toggleOpen" in 'button'.
+Make sure 'button' has been compiled for  Toggle Open
+[2017.12.12-12.54.34:868][732]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.54.34:868][732]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.54.35:019][732]LogBlueprint: Warning: [Compiler button] [0646.37] Compile of button failed. 8 Fatal Issue(s) 0 Warning(s) [in 167 ms] (/Game/PabloPuzzle/modular/wall/doorButton/button.button)
+[2017.12.12-12.55.13:339][848]BlueprintLog: New page: Compile button
+[2017.12.12-12.55.13:358][848]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.55.13:358][848]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.55.13:358][848]LogBlueprint: Error: [Compiler button] In use pin  Attache Door  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2017.12.12-12.55.13:358][848]LogBlueprint: Error: [Compiler button] In use pin  <Unnamed>  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.55.13:358][848]LogBlueprint: Error: [Compiler button] In use pin  Target  no longer exists on node  Toggle Open . Please refresh node or break links to remove pin.
+[2017.12.12-12.55.13:358][848]LogBlueprint: Error: [Compiler button] Could not find a function named "toggleOpen" in 'button'.
+Make sure 'button' has been compiled for  Toggle Open
+[2017.12.12-12.55.13:358][848]LogBlueprint: Error: [Compiler button] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.55.13:358][848]LogBlueprint: Error: [Compiler button] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.55.13:508][848]LogBlueprint: Warning: [Compiler button] [0684.86] Compile of button failed. 8 Fatal Issue(s) 0 Warning(s) [in 168 ms] (/Game/PabloPuzzle/modular/wall/doorButton/button.button)
+[2017.12.12-12.55.22:975][223]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.12-12.55.44:629][500]LogEditorActor: Deleted Actor: Gate1_C
+[2017.12.12-12.55.44:651][500]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2017.12.12-12.55.59:781][387]LogEditorActor: Deleted Actor: Gate1_C
+[2017.12.12-12.55.59:803][387]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2017.12.12-12.56.06:985][807]Cmd: DELETE
+[2017.12.12-12.56.06:985][807]Cmd: ACTOR DELETE
+[2017.12.12-12.56.06:999][807]LogEditorActor: Deleted Actor: gatePablo3_Blueprint_C
+[2017.12.12-12.56.07:021][807]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2017.12.12-12.56.13:009][109]LogRenderer: Reallocating scene render targets to support 1208x680 Format 10 NumSamples 1 (Frame:1).
+[2017.12.12-12.56.24:854][666]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.24:854][666]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/doorCoridor5_Blueprint.uasset.
+[2017.12.12-12.56.24:854][666]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/doorCoridor5_Blueprint : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.12-12.56.24:859][666]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.24:859][666]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/doorCoridor5_Blueprint.uasset.
+[2017.12.12-12.56.24:859][666]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
+[2017.12.12-12.56.24:860][666]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/doorCoridor5_Blueprint.uasset.
+[2017.12.12-12.56.24:860][666]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/doorCoridor5_Blueprint : Can't find file for asset. /Game/modular/indoor/doorCoridor
+[2017.12.12-12.56.24:864][666]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
+[2017.12.12-12.56.24:864][666]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/doorCoridor5_Blueprint.uasset.
+[2017.12.12-12.56.24:869][666]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.24:869][666]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.24:869][666]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.24:869][666]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.24:869][666]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.24:869][666]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.24:869][666]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
+[2017.12.12-12.56.24:869][666]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading NULL.
+[2017.12.12-12.56.24:869][666]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
+[2017.12.12-12.56.24:869][666]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading NULL.
+[2017.12.12-12.56.24:870][666]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
+[2017.12.12-12.56.24:870][666]LoadErrors: Failed to load /Game/modular/indoor/doorCoridor.doorCoridor Referenced by Default__doorCoridor5_Blueprint_C
+[2017.12.12-12.56.24:871][666]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading NULL.
+[2017.12.12-12.56.24:874][666]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.24:874][666]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.24:874][666]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.24:874][666]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.24:874][666]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.24:875][666]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.24:875][666]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.24:875][666]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.24:887][666]LogBlueprint: Error: [Compiler doorCoridor5_Blueprint] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.56.24:887][666]LogBlueprint: Error: [Compiler doorCoridor5_Blueprint] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.56.24:887][666]LogBlueprint: Error: [Compiler doorCoridor5_Blueprint] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.56.24:888][666]LogBlueprint: Error: [Compiler doorCoridor5_Blueprint] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.56.24:892][666]LogBlueprint: Warning: [Compiler doorCoridor5_Blueprint] [0756.24] Compile of doorCoridor5_Blueprint failed. 4 Fatal Issue(s) 0 Warning(s) [in 14 ms] (/Game/PabloPuzzle/modular/wall/doorButton/doorCoridor5_Blueprint.doorCoridor5_Blueprint)
+[2017.12.12-12.56.35:793][220]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.12-12.56.37:061][291]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.12-12.56.38:142][346]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.12.12-12.56.39:392][416]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.39:392][416]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2.uasset.
+[2017.12.12-12.56.39:392][416]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button2 : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.12-12.56.39:392][416]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/door2'
+[2017.12.12-12.56.39:392][416]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/door2' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2.uasset.
+[2017.12.12-12.56.39:392][416]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button2 : Can't find file for asset. /Game/modular/wall/doorButton/door2
+[2017.12.12-12.56.39:394][416]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.56.39:394][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2.uasset.
+[2017.12.12-12.56.39:394][416]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button2 : Can't find file for asset. /Game/textures/switchPillard
+[2017.12.12-12.56.39:394][416]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.56.39:395][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2.uasset.
+[2017.12.12-12.56.39:395][416]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button2 : Can't find file for asset. /Game/textures/switchWheel
+[2017.12.12-12.56.39:399][416]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.39:399][416]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2.uasset.
+[2017.12.12-12.56.39:399][416]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/door2'
+[2017.12.12-12.56.39:399][416]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/door2' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2.uasset.
+[2017.12.12-12.56.39:399][416]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.56.39:399][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2.uasset.
+[2017.12.12-12.56.39:399][416]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.56.39:399][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button2.uasset.
+[2017.12.12-12.56.39:407][416]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/door2'
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/door2' while loading NULL.
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/door2'
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/door2' while loading NULL.
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading NULL.
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading NULL.
+[2017.12.12-12.56.39:408][416]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.39:409][416]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.39:409][416]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/door2'
+[2017.12.12-12.56.39:409][416]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/door2' while loading NULL.
+[2017.12.12-12.56.39:409][416]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.56.39:409][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading NULL.
+[2017.12.12-12.56.39:409][416]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.56.39:409][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading NULL.
+[2017.12.12-12.56.39:409][416]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/door2'
+[2017.12.12-12.56.39:410][416]LoadErrors: Failed to load /Game/modular/wall/doorButton/door2.door2_C Referenced by button2
+[2017.12.12-12.56.39:410][416]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/door2' while loading NULL.
+[2017.12.12-12.56.39:411][416]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.39:411][416]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.39:412][416]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.39:412][416]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.39:412][416]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.39:413][416]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.39:413][416]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.12-12.56.39:413][416]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading NULL.
+[2017.12.12-12.56.39:413][416]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/door2'
+[2017.12.12-12.56.39:413][416]LoadErrors: Failed to load /Game/modular/wall/doorButton/door2.door2_C Referenced by K2Node_VariableGet_13
+[2017.12.12-12.56.39:413][416]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/door2' while loading NULL.
+[2017.12.12-12.56.39:414][416]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/door2'
+[2017.12.12-12.56.39:414][416]LoadErrors: Failed to load /Game/modular/wall/doorButton/door2.door2_C Referenced by K2Node_CallFunction_688
+[2017.12.12-12.56.39:414][416]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/door2' while loading NULL.
+[2017.12.12-12.56.39:414][416]LogLinker: Warning: Can't find file '/Game/modular/wall/doorButton/door2'
+[2017.12.12-12.56.39:414][416]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/doorButton/door2' while loading NULL.
+[2017.12.12-12.56.39:415][416]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.56.39:415][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading NULL.
+[2017.12.12-12.56.39:415][416]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.56.39:415][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading NULL.
+[2017.12.12-12.56.39:415][416]LogLinker: Warning: Can't find file '/Game/textures/switchWheel'
+[2017.12.12-12.56.39:415][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchWheel' while loading NULL.
+[2017.12.12-12.56.39:416][416]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.56.39:416][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading NULL.
+[2017.12.12-12.56.39:416][416]LogLinker: Warning: Can't find file '/Game/textures/switchPillard'
+[2017.12.12-12.56.39:416][416]LogLinker: Warning: Can't find file for asset '/Game/textures/switchPillard' while loading NULL.
+[2017.12.12-12.56.39:421][416]LogBlueprint: Error: [Compiler button2] In use pin  <Unnamed>  no longer exists on node  Puzzleswitch 1 . Please refresh node or break links to remove pin.
+[2017.12.12-12.56.39:421][416]LogBlueprint: Error: [Compiler button2] In use pin  <Unnamed>  no longer exists on node  Puzzleswitch 1 . Please refresh node or break links to remove pin.
+[2017.12.12-12.56.39:421][416]LogBlueprint: Error: [Compiler button2] In use pin  Target  no longer exists on node  Puzzleswitch 1 . Please refresh node or break links to remove pin.
+[2017.12.12-12.56.39:421][416]LogBlueprint: Error: [Compiler button2] Could not find a function named "puzzleswitch1" in 'button2'.
+Make sure 'button2' has been compiled for  Puzzleswitch 1
+[2017.12.12-12.56.39:421][416]LogBlueprint: Error: [Compiler button2] In use pin  Attache Door  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2017.12.12-12.56.39:421][416]LogBlueprint: Error: [Compiler button2] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.56.39:421][416]LogBlueprint: Error: [Compiler button2] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.56.39:421][416]LogBlueprint: Error: [Compiler button2] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.56.39:421][416]LogBlueprint: Error: [Compiler button2] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.12-12.56.39:423][416]LogBlueprint: Warning: [Compiler button2] [0770.78] Compile of button2 failed. 9 Fatal Issue(s) 0 Warning(s) [in 6 ms] (/Game/PabloPuzzle/modular/wall/doorButton/button2.button2)
+[2017.12.12-12.57.48:298][503]LogLinker: Warning: Can't find file '/Game/modular/wall/gateDoor'
+[2017.12.12-12.57.48:298][503]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gateDoor' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/gatePablo01.uasset.
+[2017.12.12-12.57.48:298][503]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/gatePablo01 : Can't find file for asset. /Game/modular/wall/gateDoor
+[2017.12.12-12.57.48:298][503]LogLinker: Warning: Can't find file '/Game/modular/wall/gateDoor'
+[2017.12.12-12.57.48:298][503]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gateDoor' while loading D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/gatePablo01.uasset.
+[2017.12.12-12.57.48:299][503]LogLinker: Warning: Can't find file '/Game/modular/wall/gateDoor'
+[2017.12.12-12.57.48:299][503]LoadErrors: Failed to load /Game/modular/wall/gateDoor.gateDoor Referenced by gatePablo01
+[2017.12.12-12.57.48:299][503]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gateDoor' while loading NULL.
+[2017.12.12-12.57.48:299][503]LogLinker: Warning: Can't find file '/Game/modular/wall/gateDoor'
+[2017.12.12-12.57.48:299][503]LogLinker: Warning: Can't find file for asset '/Game/modular/wall/gateDoor' while loading NULL.
+[2017.12.12-12.57.48:300][503]LogStaticMesh: Building static mesh gatePablo01...
+[2017.12.12-12.57.48:331][503]LogStaticMesh: Built static mesh [0.03s] /Game/PabloPuzzle/modular/wall/gatePablo01.gatePablo01
+[2017.12.12-12.57.48:695][503]LogMaterial: Missing cached shader map for material M_SkyBox, compiling. 
+[2017.12.12-12.57.49:060][504]LogRenderer: Reallocating scene render targets to support 1208x704 Format 10 NumSamples 1 (Frame:1).
+[2017.12.12-12.58.44:622][756]BlueprintLog: New page: Compile Gate1
+[2017.12.12-12.59.16:954][533]Cmd: QUIT_EDITOR
+[2017.12.12-12.59.17:714][533]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.12-12.59.17:715][533]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.12-12.59.17:734][533]LogExit: Preparing to exit.
+[2017.12.12-12.59.18:052][533]LogExit: Editor shut down
+[2017.12.12-12.59.18:056][533]LogExit: Transaction tracking system shut down
+[2017.12.12-12.59.18:303][533]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.12-12.59.18:303][533]LogDirectoryWatcher: A directory notification for 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/' was aborted.
+[2017.12.12-12.59.18:304][533]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.12-12.59.18:304][533]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.12-12.59.18:304][533]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.12-12.59.18:304][533]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.12-12.59.18:305][533]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.12-12.59.18:400][533]LogExit: Object subsystem successfully closed.
+[2017.12.12-12.59.18:416][533]LogD3D11RHI: Shutdown
+[2017.12.12-12.59.18:416][533]LogD3D11RHI: CleanupD3DDevice
+[2017.12.12-12.59.18:419][533]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.12-12.59.18:445][533]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (554)
+[2017.12.12-12.59.18:445][533]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2017.12.12-12.59.18:445][533]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2017.12.12-12.59.18:445][533]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.12.12-12.59.18:445][533]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.12-12.59.18:445][533]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.12-12.59.18:445][533]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.12-12.59.18:446][533]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.12-12.59.18:446][533]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.12-12.59.18:446][533]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.12-12.59.18:446][533]LogDirectoryWatcher: A directory notification for 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Collections/' was aborted.
+[2017.12.12-12.59.18:446][533]LogDirectoryWatcher: A directory notification for 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Content/Developers/kinop/Collections/' was aborted.
+[2017.12.12-12.59.18:447][533]LogDirectoryWatcher: A directory notification for 'D:/projects pc/uni/unreal/BreakTheBuildFINAL1/BreakTheBuildFINAL/Saved/Collections/' was aborted.
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.12-12.59.18:448][533]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.12-12.59.18:449][533]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.12-12.59.18:450][533]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.12-12.59.18:451][533]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.12-12.59.18:451][533]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.12-12.59.18:451][533]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.12-12.59.18:451][533]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.12-12.59.18:451][533]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.12-12.59.18:451][533]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.12-12.59.18:756][533]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.12-12.59.18:756][533]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.12-12.59.18:756][533]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.12-12.59.18:756][533]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.12-12.59.18:756][533]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.12-12.59.18:757][533]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.12-12.59.18:758][533]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.12-12.59.18:758][533]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.12-12.59.18:758][533]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.12-12.59.18:811][533]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.12-12.59.18:811][533]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.12-12.59.18:811][533]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.12-12.59.18:812][533]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.12-12.59.18:812][533]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.12-12.59.18:812][533]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.12-12.59.18:813][533]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.12-12.59.18:813][533]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.12-12.59.18:813][533]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.12-12.59.18:813][533]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.12-12.59.18:823][533]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.12-12.59.18:823][533]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.12-12.59.18:823][533]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.12-12.59.18:824][533]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.12-12.59.18:824][533]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.12-12.59.18:824][533]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.12-12.59.18:824][533]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.12.12-12.59.18:825][533]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.12.12-12.59.19:068][533]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.12.12-12.59.19:069][533]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.12.12-12.59.19:070][533]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.12.12-12.59.19:071][533]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.12.12-12.59.19:071][533]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.12.12-12.59.19:071][533]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.12.12-12.59.19:073][533]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.12-12.59.19:073][533]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.12-12.59.19:073][533]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.12-12.59.19:073][533]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.12-12.59.19:073][533]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.12-12.59.19:073][533]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.12-12.59.19:073][533]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.12-12.59.19:073][533]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.12-12.59.19:174][533]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.12-12.59.19:275][533]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.12-12.59.19:275][533]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.12-12.59.19:275][533]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.12-12.59.19:275][533]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.12-12.59.19:275][533]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.12-12.59.19:275][533]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.12-12.59.19:276][533]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.12-12.59.19:276][533]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.12-12.59.19:276][533]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.12-12.59.19:276][533]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.12-12.59.19:276][533]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.12-12.59.19:276][533]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.12-12.59.19:276][533]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.12-12.59.19:276][533]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.12-12.59.19:277][533]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.12-12.59.19:277][533]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.12-12.59.19:283][533]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.12-12.59.19:283][533]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.12-12.59.19:283][533]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.12-12.59.19:284][533]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.12-12.59.19:284][533]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.12-12.59.19:284][533]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.12-12.59.19:284][533]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.12-12.59.19:284][533]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.12-12.59.19:284][533]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.12-12.59.19:284][533]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.12-12.59.19:284][533]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.12-12.59.19:285][533]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.12-12.59.19:285][533]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.12-12.59.19:285][533]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.12-12.59.19:286][533]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.12-12.59.19:286][533]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.12-12.59.19:290][533]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.12-12.59.19:290][533]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.12-12.59.19:290][533]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.12-12.59.19:290][533]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.12-12.59.19:290][533]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.12-12.59.19:290][533]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.12-12.59.19:290][533]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.12-12.59.19:290][533]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.12-12.59.19:291][533]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.12-12.59.19:291][533]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.12-12.59.19:291][533]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.12-12.59.19:291][533]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.12-12.59.19:291][533]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.12-12.59.19:291][533]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.12-12.59.19:291][533]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.12-12.59.19:291][533]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.12-12.59.19:291][533]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.12-12.59.19:293][533]LogDerivedDataCache: Shutdown
+[2017.12.12-12.59.19:293][533]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.12-12.59.19:293][533]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.12-12.59.19:293][533]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.12-12.59.19:293][533]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.12-12.59.19:294][533]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.12-12.59.19:295][533]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.12-12.59.19:295][533]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.12-12.59.19:295][533]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B5F01A532-47E1-F95F-E4E4-C8917DBFAA5B%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=2db98ffe4b7d4976664bb69020a091b2%7Cdfeee23a7a7245c89b9572bb71830046%7C4a961900-8863-4d3e-94ce-4ef2fdd47c3f&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.12-12.59.19:314][533]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.12-12.59.19:316][533]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.12-12.59.19:316][533]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.12-12.59.19:316][533]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.12-12.59.19:316][533]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.12-12.59.19:316][533]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.12-12.59.19:316][533]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.12-12.59.19:316][533]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.12-12.59.19:318][533]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.12-12.59.19:319][533]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.12-12.59.19:319][533]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.12-12.59.19:319][533]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.12-12.59.19:319][533]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.12-12.59.19:319][533]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.12-12.59.19:319][533]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.12-12.59.19:319][533]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.12-12.59.19:319][533]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.12-12.59.19:319][533]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.12-12.59.19:319][533]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.12-12.59.19:322][533]LogExit: Exiting.
+[2017.12.12-12.59.19:344][533]Log file closed, 12/12/17 12:59:19
