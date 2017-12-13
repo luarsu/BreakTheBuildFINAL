@@ -1214,3 +1214,746 @@ LogInit: Object subsystem initialized
 [2017.12.13-01.25.56:946][185]LogSavePackage: Save=1432.14ms
 [2017.12.13-01.25.56:946][185]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareB5ED9CC5423CE2173C9A20816C9D8DA7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2017.12.13-01.25.56:951][185]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2017.12.13-01.29.49:608][549]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.29.49:608][549]LogMaterial: Warning: /Engine/Transient.SkyBox_Materiala (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.13-01.29.49:608][549]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.13-01.29.49:664][549]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.29.49:665][549]LogMaterial: Warning: /Engine/Transient.SkyBox_Materiala (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.13-01.29.49:665][549]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.13-01.29.49:667][549]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.29.49:668][549]LogMaterial: Warning: /Engine/Transient.SkyBox_Materiala (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.13-01.29.49:668][549]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.13-01.29.49:694][549]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2017.12.13-01.29.49:696][549]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.12.13-01.29.49:701][549]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.12.13-01.29.49:703][549]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2017.12.13-01.29.49:707][549]MaterialEditorStats: Error: [SM5] (Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.13-01.30.01:653][254]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.30.01:654][254]LogMaterial: Warning: /Engine/Transient.SkyBox_Materiala (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2017.12.13-01.30.01:654][254]LogMaterial: 	(Node TextureSampleParameter2D) Param2D> Requires Texture2D
+[2017.12.13-01.30.10:696][794]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.30.10:707][794]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2017.12.13-01.30.10:740][794]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.12.13-01.30.11:218][819]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.12.13-01.30.11:218][819]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.13-01.30.11:218][819]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.13-01.30.11:218][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.13-01.30.13:235][940]LogMaterialEditor: Applying material SkyBox_Materiala
+[2017.12.13-01.30.13:723][940]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.30.13:759][940]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.30.13:785][940]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.30.13:825][940]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SkyBox_Materiala, compiling. 
+[2017.12.13-01.30.13:984][940]TextureStreamingBuild: Display: Compiling optional shaders took 0.165 seconds.
+[2017.12.13-01.30.15:118][  6]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.12.13-01.30.15:118][  6]MaterialEditorStats: Vertex shader: 35 instructions
+[2017.12.13-01.30.15:118][  6]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.13-01.30.15:118][  6]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.13-01.30.30:345][917]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Skybox_Blueprint_338.SkySphere' 
+[2017.12.13-01.30.30:345][917]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Skybox_Blueprint_338.SkySphere' 
+[2017.12.13-01.30.30:711][939]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Skybox_Blueprint_338.SkySphere' 
+[2017.12.13-01.30.30:711][939]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Skybox_Blueprint_338.SkySphere' 
+[2017.12.13-01.30.36:544][287]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.30.41:927][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.31.04:129][938]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.31.04:137][938]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.31.04:137][938]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.31.04:137][938]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:31:04)
+[2017.12.13-01.31.04:137][938]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.31.04:180][938]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042482s)
+[2017.12.13-01.31.04:180][938]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.31.04:181][938]LogPlayLevel: PIE: World Init took: (0.000667s)
+[2017.12.13-01.31.04:181][938]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.043921s)
+[2017.12.13-01.31.04:194][938]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.31.04:206][938]LogInit: FAudioDevice initialized.
+[2017.12.13-01.31.04:241][938]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.31.04:262][938]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.31.04
+[2017.12.13-01.31.04:263][938]LogWorld: Bringing up level for play took: 0.020611
+[2017.12.13-01.31.04:266][938]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.972
+[2017.12.13-01.31.04:266][938]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.31.14:513][550]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.31.14:555][550]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.31.18:161][746]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 116 classes and 0 folders.
+[2017.12.13-01.31.18:746][746]LogMaterial: Missing cached shader map for material PersonaFloorMat, compiling. 
+[2017.12.13-01.31.45:663][335]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.31.51:593][689]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.31.51:600][689]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.31.51:600][689]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.31.51:601][689]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:31:51)
+[2017.12.13-01.31.51:601][689]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.31.51:648][689]LogPlayLevel: PIE: StaticDuplicateObject took: (0.047034s)
+[2017.12.13-01.31.51:648][689]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.31.51:648][689]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2017.12.13-01.31.51:649][689]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.048398s)
+[2017.12.13-01.31.51:670][689]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.31.51:684][689]LogInit: FAudioDevice initialized.
+[2017.12.13-01.31.51:720][689]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.31.51:740][689]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.31.51
+[2017.12.13-01.31.51:741][689]LogWorld: Bringing up level for play took: 0.020164
+[2017.12.13-01.31.51:744][689]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.45
+[2017.12.13-01.31.51:744][689]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.01:863][294]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.01:902][294]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.05:224][492]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.32.05:224][492]Can't find target actor or component.
+[2017.12.13-01.32.06:291][556]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.32.06:291][556]Can't find target actor or component.
+[2017.12.13-01.32.08:197][670]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.32.17:088][202]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.32.17:097][202]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.17:097][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.32.17:097][202]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:32:17)
+[2017.12.13-01.32.17:097][202]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.32.17:143][202]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045493s)
+[2017.12.13-01.32.17:144][202]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.32.17:144][202]LogPlayLevel: PIE: World Init took: (0.000595s)
+[2017.12.13-01.32.17:145][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.046927s)
+[2017.12.13-01.32.17:162][202]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.32.17:174][202]LogInit: FAudioDevice initialized.
+[2017.12.13-01.32.17:204][202]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.32.17:222][202]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.32.17
+[2017.12.13-01.32.17:224][202]LogWorld: Bringing up level for play took: 0.019354
+[2017.12.13-01.32.17:226][202]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.067
+[2017.12.13-01.32.17:227][202]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.22:429][512]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.22:475][512]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.23:680][578]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.32.23:680][578]Can't find target actor or component.
+[2017.12.13-01.32.25:430][683]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.32.25:430][683]Can't find target actor or component.
+[2017.12.13-01.32.26:684][758]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.32.31:931][ 72]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.32.31:939][ 72]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.31:940][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.32.31:940][ 72]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:32:31)
+[2017.12.13-01.32.31:940][ 72]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.32.31:981][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041013s)
+[2017.12.13-01.32.31:982][ 72]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.32.31:982][ 72]LogPlayLevel: PIE: World Init took: (0.000724s)
+[2017.12.13-01.32.31:983][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.042487s)
+[2017.12.13-01.32.32:001][ 72]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.32.32:014][ 72]LogInit: FAudioDevice initialized.
+[2017.12.13-01.32.32:047][ 72]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.32.32:067][ 72]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.32.32
+[2017.12.13-01.32.32:068][ 72]LogWorld: Bringing up level for play took: 0.020156
+[2017.12.13-01.32.32:071][ 72]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.778
+[2017.12.13-01.32.32:072][ 72]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.40:576][580]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.40:621][580]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.41:869][647]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.32.41:869][647]Can't find target actor or component.
+[2017.12.13-01.32.43:073][719]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.32.43:727][758]Cmd: TRANSACTION UNDO
+[2017.12.13-01.32.43:727][758]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.13-01.32.44:183][785]Cmd: TRANSACTION UNDO
+[2017.12.13-01.32.44:183][785]LogEditorTransaction: Undo Scale Actors
+[2017.12.13-01.32.44:668][814]Cmd: TRANSACTION UNDO
+[2017.12.13-01.32.44:668][814]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.13-01.32.45:137][842]Cmd: TRANSACTION UNDO
+[2017.12.13-01.32.45:137][842]LogEditorTransaction: Undo Move Actors
+[2017.12.13-01.32.45:653][873]Cmd: TRANSACTION UNDO
+[2017.12.13-01.32.45:653][873]LogEditorTransaction: Undo Scale Actors
+[2017.12.13-01.32.47:609][990]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
+[2017.12.13-01.32.51:607][228]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.32.51:616][228]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.32.51:616][228]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.32.51:616][228]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:32:51)
+[2017.12.13-01.32.51:616][228]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.32.51:662][228]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045338s)
+[2017.12.13-01.32.51:662][228]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.32.51:663][228]LogPlayLevel: PIE: World Init took: (0.000648s)
+[2017.12.13-01.32.51:664][228]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.047473s)
+[2017.12.13-01.32.51:681][228]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.32.51:693][228]LogInit: FAudioDevice initialized.
+[2017.12.13-01.32.51:727][228]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.32.51:747][228]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.32.51
+[2017.12.13-01.32.51:748][228]LogWorld: Bringing up level for play took: 0.020603
+[2017.12.13-01.32.51:751][228]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.457
+[2017.12.13-01.32.51:751][228]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.00:986][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.01:029][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.05:053][ 20]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.33.14:688][597]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.33.14:696][597]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.14:696][597]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.33.14:696][597]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:33:14)
+[2017.12.13-01.33.14:696][597]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.33.14:737][597]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041072s)
+[2017.12.13-01.33.14:738][597]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.33.14:738][597]LogPlayLevel: PIE: World Init took: (0.000854s)
+[2017.12.13-01.33.14:739][597]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.042695s)
+[2017.12.13-01.33.14:756][597]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.33.14:767][597]LogInit: FAudioDevice initialized.
+[2017.12.13-01.33.14:804][597]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.33.14:823][597]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.33.14
+[2017.12.13-01.33.14:824][597]LogWorld: Bringing up level for play took: 0.019366
+[2017.12.13-01.33.14:827][597]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.467
+[2017.12.13-01.33.14:827][597]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.20:165][915]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.20:218][915]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.22:233][ 27]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.33.30:131][500]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.33.30:140][500]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.30:140][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.33.30:141][500]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:33:30)
+[2017.12.13-01.33.30:141][500]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.33.30:181][500]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040106s)
+[2017.12.13-01.33.30:181][500]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.33.30:181][500]LogPlayLevel: PIE: World Init took: (0.000614s)
+[2017.12.13-01.33.30:182][500]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.041449s)
+[2017.12.13-01.33.30:198][500]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.33.30:210][500]LogInit: FAudioDevice initialized.
+[2017.12.13-01.33.30:244][500]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.33.30:283][500]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.33.30
+[2017.12.13-01.33.30:284][500]LogWorld: Bringing up level for play took: 0.039122
+[2017.12.13-01.33.30:288][500]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.994
+[2017.12.13-01.33.30:288][500]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.52:932][854]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.52:971][854]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.33.55:714][ 17]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.34.04:681][552]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.34.04:690][552]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.34.04:690][552]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.34.04:690][552]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:34:04)
+[2017.12.13-01.34.04:690][552]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.34.04:731][552]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040718s)
+[2017.12.13-01.34.04:731][552]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.34.04:732][552]LogPlayLevel: PIE: World Init took: (0.000602s)
+[2017.12.13-01.34.04:733][552]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.042022s)
+[2017.12.13-01.34.04:750][552]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.34.04:762][552]LogInit: FAudioDevice initialized.
+[2017.12.13-01.34.04:797][552]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.34.04:830][552]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.34.04
+[2017.12.13-01.34.04:832][552]LogWorld: Bringing up level for play took: 0.033949
+[2017.12.13-01.34.04:837][552]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.456
+[2017.12.13-01.34.04:838][552]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.34.13:245][ 50]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.34.13:285][ 50]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.34.15:331][147]LogRenderer: Reallocating scene render targets to support 964x524 Format 10 NumSamples 1 (Frame:62465).
+[2017.12.13-01.34.15:403][148]LogRenderer: Reallocating scene render targets to support 964x532 Format 10 NumSamples 1 (Frame:62467).
+[2017.12.13-01.34.15:444][149]LogRenderer: Reallocating scene render targets to support 964x540 Format 10 NumSamples 1 (Frame:62469).
+[2017.12.13-01.34.15:519][151]LogRenderer: Reallocating scene render targets to support 964x544 Format 10 NumSamples 1 (Frame:62473).
+[2017.12.13-01.34.16:686][221]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.34.16:695][221]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.34.16:695][221]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.34.16:695][221]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:34:16)
+[2017.12.13-01.34.16:695][221]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.34.16:745][221]LogPlayLevel: PIE: StaticDuplicateObject took: (0.049265s)
+[2017.12.13-01.34.16:745][221]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.34.16:745][221]LogPlayLevel: PIE: World Init took: (0.000673s)
+[2017.12.13-01.34.16:746][221]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.050687s)
+[2017.12.13-01.34.16:763][221]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.34.16:774][221]LogInit: FAudioDevice initialized.
+[2017.12.13-01.34.16:809][221]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.34.16:830][221]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.34.16
+[2017.12.13-01.34.16:831][221]LogWorld: Bringing up level for play took: 0.021039
+[2017.12.13-01.34.16:833][221]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.46
+[2017.12.13-01.34.16:834][221]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.34.26:097][774]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.34.26:140][774]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.34.30:964][ 53]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.34.30:964][ 53]Can't find target actor or component.
+[2017.12.13-01.34.37:872][466]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.13-01.35.01:198][863]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.35.01:208][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.35.01:208][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.35.01:208][863]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:35:01)
+[2017.12.13-01.35.01:208][863]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.35.01:252][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043623s)
+[2017.12.13-01.35.01:253][863]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.35.01:253][863]LogPlayLevel: PIE: World Init took: (0.001021s)
+[2017.12.13-01.35.01:254][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.045430s)
+[2017.12.13-01.35.01:272][863]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.35.01:285][863]LogInit: FAudioDevice initialized.
+[2017.12.13-01.35.01:320][863]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.35.01:349][863]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.35.01
+[2017.12.13-01.35.01:351][863]LogWorld: Bringing up level for play took: 0.030134
+[2017.12.13-01.35.01:356][863]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.063
+[2017.12.13-01.35.01:357][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.35.02:687][940]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.35.02:732][940]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.35.44:466][609]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Unreal Projects/Reveal_Stairway/Image import/360 Equirectangular/starsky.jpg)
+[2017.12.13-01.35.44:514][609]LogTexture: Display: Building textures: starsky (BGRA8, 2000X573)
+[2017.12.13-01.36.00:317][513]LogSavePackage: Save=182.70ms
+[2017.12.13-01.36.00:317][513]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/starsky3925273B468EA315BA69C79F23F49EA8.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/SkyBox/starsky.uasset'
+[2017.12.13-01.36.00:321][513]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/SkyBox/starsky.uasset
+[2017.12.13-01.36.15:440][413]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.13-01.36.15:498][413]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.13-01.36.15:505][413]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.13-01.36.15:539][413]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2017.12.13-01.36.15:546][413]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2017.12.13-01.36.15:552][413]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.12.13-01.36.16:091][439]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.12.13-01.36.16:091][439]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.13-01.36.16:091][439]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.13-01.36.16:091][439]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.13-01.36.24:679][952]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.13-01.36.24:688][952]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2017.12.13-01.36.24:719][952]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2017.12.13-01.36.24:928][961]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.12.13-01.36.24:928][961]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.13-01.36.24:928][961]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.13-01.36.24:928][961]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.13-01.36.29:255][220]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.13-01.36.29:522][234]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.12.13-01.36.29:522][234]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.13-01.36.29:522][234]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.13-01.36.29:522][234]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.13-01.36.30:955][319]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.13-01.36.30:989][319]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2017.12.13-01.36.30:995][319]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2017.12.13-01.36.31:385][340]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.12.13-01.36.31:385][340]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.13-01.36.31:385][340]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.13-01.36.31:385][340]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.13-01.36.43:106][ 41]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.13-01.36.43:118][ 41]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2017.12.13-01.36.43:357][ 54]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.12.13-01.36.43:358][ 54]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.13-01.36.43:358][ 54]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.13-01.36.43:358][ 54]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.13-01.36.47:022][274]LogMaterialEditor: Applying material SkyBox_Materiala
+[2017.12.13-01.36.47:499][274]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.13-01.36.47:535][274]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.36.47:562][274]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.36.47:605][274]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SkyBox_Materiala, compiling. 
+[2017.12.13-01.36.47:765][274]TextureStreamingBuild: Display: Compiling optional shaders took 0.166 seconds.
+[2017.12.13-01.36.49:070][347]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.12.13-01.36.49:070][347]MaterialEditorStats: Vertex shader: 35 instructions
+[2017.12.13-01.36.49:070][347]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.13-01.36.49:070][347]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.13-01.36.50:756][448]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.36.50:764][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.36.50:765][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.36.50:765][448]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:36:50)
+[2017.12.13-01.36.50:765][448]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.36.50:806][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041507s)
+[2017.12.13-01.36.50:807][448]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.36.50:807][448]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2017.12.13-01.36.50:808][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.042915s)
+[2017.12.13-01.36.50:825][448]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.36.50:837][448]LogInit: FAudioDevice initialized.
+[2017.12.13-01.36.50:871][448]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.36.50:890][448]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.36.50
+[2017.12.13-01.36.50:891][448]LogWorld: Bringing up level for play took: 0.019840
+[2017.12.13-01.36.50:894][448]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.4
+[2017.12.13-01.36.50:894][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.36.57:850][863]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.36.57:896][863]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.37.03:062][163]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.13-01.37.03:070][163]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2017.12.13-01.37.03:337][178]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.12.13-01.37.03:337][178]MaterialEditorStats: Vertex shader: 31 instructions
+[2017.12.13-01.37.03:337][178]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.13-01.37.03:337][178]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.13-01.37.14:865][869]LogMaterialEditor: Applying material SkyBox_Materiala
+[2017.12.13-01.37.15:346][869]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2017.12.13-01.37.15:378][869]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.37.15:406][869]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
+[2017.12.13-01.37.15:449][869]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy SkyBox_Materiala, compiling. 
+[2017.12.13-01.37.15:619][869]TextureStreamingBuild: Display: Compiling optional shaders took 0.176 seconds.
+[2017.12.13-01.37.16:734][933]MaterialEditorStats: Base pass shader without light map: 31 instructions
+[2017.12.13-01.37.16:734][933]MaterialEditorStats: Vertex shader: 35 instructions
+[2017.12.13-01.37.16:734][933]MaterialEditorStats: Texture samplers: 1/16
+[2017.12.13-01.37.16:734][933]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2017.12.13-01.37.22:456][276]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.37.22:465][276]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.37.22:465][276]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.37.22:465][276]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:37:22)
+[2017.12.13-01.37.22:465][276]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.37.22:506][276]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040850s)
+[2017.12.13-01.37.22:506][276]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.37.22:506][276]LogPlayLevel: PIE: World Init took: (0.000565s)
+[2017.12.13-01.37.22:507][276]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.042157s)
+[2017.12.13-01.37.22:523][276]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.37.22:535][276]LogInit: FAudioDevice initialized.
+[2017.12.13-01.37.22:564][276]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.37.22:584][276]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.37.22
+[2017.12.13-01.37.22:585][276]LogWorld: Bringing up level for play took: 0.019527
+[2017.12.13-01.37.22:588][276]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.706
+[2017.12.13-01.37.22:588][276]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.37.28:709][641]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.37.28:751][641]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.38.17:242][531]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.13-01.38.17:250][531]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.38.17:251][531]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.13-01.38.17:251][531]PIE: New page: PIE session: Luis_Nightmare (13 Dec 2017 01:38:17)
+[2017.12.13-01.38.17:251][531]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.13-01.38.17:294][531]LogPlayLevel: PIE: StaticDuplicateObject took: (0.042758s)
+[2017.12.13-01.38.17:295][531]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-01.38.17:295][531]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2017.12.13-01.38.17:296][531]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.044424s)
+[2017.12.13-01.38.17:312][531]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.13-01.38.17:324][531]LogInit: FAudioDevice initialized.
+[2017.12.13-01.38.17:355][531]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.13-01.38.17:375][531]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-01.38.17
+[2017.12.13-01.38.17:377][531]LogWorld: Bringing up level for play took: 0.021347
+[2017.12.13-01.38.17:379][531]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.086
+[2017.12.13-01.38.17:380][531]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.38.21:441][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.38.21:492][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.13-01.38.27:963][ 65]LogSavePackage: Save=1375.33ms
+[2017.12.13-01.38.27:963][ 65]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareC14F17D94259795A7892A6B6AAC871CD.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2017.12.13-01.38.27:968][ 65]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2017.12.13-01.38.33:475][211]LogSavePackage: Save=1050.33ms
+[2017.12.13-01.38.33:475][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gnome_with_UV_3_lambert3SG_BaseCEF8E29F94E5717B10A78258DF1F713A9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/Gnome_with_UV_3_lambert3SG_BaseColor.uasset'
+[2017.12.13-01.38.33:478][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/Gnome_with_UV_3_lambert3SG_BaseColor.uasset
+[2017.12.13-01.38.35:635][211]LogSavePackage: Save=2138.52ms
+[2017.12.13-01.38.35:635][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gnome_with_UV_3_lambert3SG_Norma1B404FB44AF0A8218287DA8063F09088.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/Gnome_with_UV_3_lambert3SG_Normal.uasset'
+[2017.12.13-01.38.35:639][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/Gnome_with_UV_3_lambert3SG_Normal.uasset
+[2017.12.13-01.38.36:328][211]LogSavePackage: Save=670.70ms
+[2017.12.13-01.38.36:328][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gnome_with_UV_3_lambert3SG_OccluA0C5BCBF418E23982E3F0682297EFE4B.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic.uasset'
+[2017.12.13-01.38.36:333][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/Gnome_with_UV_3_lambert3SG_OcclusionRoughnessMetallic.uasset
+[2017.12.13-01.38.36:961][211]LogSavePackage: Save=610.54ms
+[2017.12.13-01.38.36:961][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/KEY_lambert3SG_BaseColorCDA7FAC046CCFF43991FF4BAC657DEF3.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/KEY_lambert3SG_BaseColor.uasset'
+[2017.12.13-01.38.36:966][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/KEY_lambert3SG_BaseColor.uasset
+[2017.12.13-01.38.37:708][211]LogSavePackage: Save=726.40ms
+[2017.12.13-01.38.37:708][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/KEY_lambert3SG_NormalA492770849472852199630BE4091B34F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/KEY_lambert3SG_Normal.uasset'
+[2017.12.13-01.38.37:712][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/KEY_lambert3SG_Normal.uasset
+[2017.12.13-01.38.38:157][211]LogSavePackage: Save=425.89ms
+[2017.12.13-01.38.38:157][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/KEY_lambert3SG_OcclusionRoughnes2770DAC0418B84617E5B298B2DD340CF.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/KEY_lambert3SG_OcclusionRoughnessMetallic.uasset'
+[2017.12.13-01.38.38:161][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Material_TextureMap/KEY_lambert3SG_OcclusionRoughnessMetallic.uasset
+[2017.12.13-01.38.38:250][211]LogSavePackage: Save=17.41ms
+[2017.12.13-01.38.38:250][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/GRASSC168B1344E1D5C8DC734AB85EE8DD4FA.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Plants/GRASS.uasset'
+[2017.12.13-01.38.38:256][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Plants/GRASS.uasset
+[2017.12.13-01.38.38:307][211]LogSavePackage: Save=10.79ms
+[2017.12.13-01.38.38:307][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/GRASS_2119A98354F56494A4A678BB9E65D34D9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Plants/GRASS_2.uasset'
+[2017.12.13-01.38.38:312][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Plants/GRASS_2.uasset
+[2017.12.13-01.38.38:386][211]LogSavePackage: Save=33.59ms
+[2017.12.13-01.38.38:386][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/WHEAT446654974BEFEDB8455507A5C56FB676.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Plants/WHEAT.uasset'
+[2017.12.13-01.38.38:393][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Plants/WHEAT.uasset
+[2017.12.13-01.38.38:451][211]LogSavePackage: Save=13.37ms
+[2017.12.13-01.38.38:451][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/WHEAT_smallAB4060E6437BF0D61D276CB000BAAE1F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Plants/WHEAT_small.uasset'
+[2017.12.13-01.38.38:456][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Plants/WHEAT_small.uasset
+[2017.12.13-01.38.38:528][211]LogSavePackage: Save=16.16ms
+[2017.12.13-01.38.38:528][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/SkyBox_Materiala71E656B5480CCA20BE7A36A37D602352.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/SkyBox/SkyBox_Materiala.uasset'
+[2017.12.13-01.38.38:532][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/SkyBox/SkyBox_Materiala.uasset
+[2017.12.13-01.38.38:581][211]LogSavePackage: Save=10.29ms
+[2017.12.13-01.38.38:581][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gnome_with_UV_37A662C984AD02EB4B0857599C7B8F48D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/Gnome_with_UV_3.uasset'
+[2017.12.13-01.38.38:586][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/Gnome_with_UV_3.uasset
+[2017.12.13-01.38.38:636][211]LogSavePackage: Save=9.81ms
+[2017.12.13-01.38.38:636][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rusty_KEYB0D16A4140DF05E6A38D43B72D021769.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/Rusty_KEY.uasset'
+[2017.12.13-01.38.38:639][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/Rusty_KEY.uasset
+[2017.12.13-01.38.38:688][211]LogSavePackage: Save=9.61ms
+[2017.12.13-01.38.38:688][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_Bot_Lever0F5E2C724CF1EBEC2563EAA6F7116D95.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_Bot_Lever.uasset'
+[2017.12.13-01.38.38:692][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_Bot_Lever.uasset
+[2017.12.13-01.38.38:741][211]LogSavePackage: Save=9.84ms
+[2017.12.13-01.38.38:741][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_G_GATE_HingeD8880E704540FE85E07DEA8C4AB28BE7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_G_GATE_Hinge.uasset'
+[2017.12.13-01.38.38:746][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_G_GATE_Hinge.uasset
+[2017.12.13-01.38.38:795][211]LogSavePackage: Save=10.56ms
+[2017.12.13-01.38.38:796][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_LAMP_BODY6BC6C905455152699BFD12ADF6588AFA.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_LAMP_BODY.uasset'
+[2017.12.13-01.38.38:800][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_LAMP_BODY.uasset
+[2017.12.13-01.38.38:847][211]LogSavePackage: Save=9.37ms
+[2017.12.13-01.38.38:847][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_LAMP_LIGHTB638878342F614149493AF912C2A2BD9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_LAMP_LIGHT.uasset'
+[2017.12.13-01.38.38:851][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_LAMP_LIGHT.uasset
+[2017.12.13-01.38.38:900][211]LogSavePackage: Save=10.30ms
+[2017.12.13-01.38.38:900][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_Spectacle_BODY448D6BAB487E760A7EEF5F9AC71446A4.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_Spectacle_BODY.uasset'
+[2017.12.13-01.38.38:904][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_Spectacle_BODY.uasset
+[2017.12.13-01.38.38:953][211]LogSavePackage: Save=9.13ms
+[2017.12.13-01.38.38:953][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_Spectacle_LENS001453474DF9C72AD2AE11A33A13B040.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_Spectacle_LENS.uasset'
+[2017.12.13-01.38.38:956][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_Spectacle_LENS.uasset
+[2017.12.13-01.38.39:005][211]LogSavePackage: Save=9.31ms
+[2017.12.13-01.38.39:005][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_Top_LeverBB5BC3FF4E6C3BE9B34B138F6991ADC1.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_Top_Lever.uasset'
+[2017.12.13-01.38.39:009][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_Top_Lever.uasset
+[2017.12.13-01.38.39:060][211]LogSavePackage: Save=10.29ms
+[2017.12.13-01.38.39:060][211]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_WALL_Gate1842E8B640A66F0D3435118B852CD72A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_WALL_Gate.uasset'
+[2017.12.13-01.38.39:064][211]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/StaticMesh/UV_WALL_Gate.uasset
+[2017.12.13-01.38.39:096][211]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.13-01.38.39:311][212]Cmd: QUIT_EDITOR
+[2017.12.13-01.38.39:934][212]LogExit: Preparing to exit.
+[2017.12.13-01.38.40:765][212]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2017.12.13-01.38.40:829][212]LogExit: Editor shut down
+[2017.12.13-01.38.40:833][212]LogExit: Transaction tracking system shut down
+[2017.12.13-01.38.41:057][212]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.12.13-01.38.41:057][212]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2017.12.13-01.38.41:057][212]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.12.13-01.38.41:057][212]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2017.12.13-01.38.41:057][212]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2017.12.13-01.38.41:057][212]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.12.13-01.38.41:057][212]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.12.13-01.38.41:150][212]LogExit: Object subsystem successfully closed.
+[2017.12.13-01.38.41:182][212]LogD3D11RHI: Shutdown
+[2017.12.13-01.38.41:182][212]LogD3D11RHI: CleanupD3DDevice
+[2017.12.13-01.38.41:187][212]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.12.13-01.38.41:214][212]LogModuleManager: Shutting down and abandoning module BlueprintGraph (558)
+[2017.12.13-01.38.41:214][212]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (556)
+[2017.12.13-01.38.41:214][212]LogModuleManager: Shutting down and abandoning module MaterialEditor (554)
+[2017.12.13-01.38.41:214][212]LogModuleManager: Shutting down and abandoning module TextureEditor (552)
+[2017.12.13-01.38.41:214][212]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2017.12.13-01.38.41:214][212]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2017.12.13-01.38.41:214][212]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2017.12.13-01.38.41:214][212]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2017.12.13-01.38.41:215][212]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2017.12.13-01.38.41:216][212]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2017.12.13-01.38.41:216][212]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2017.12.13-01.38.41:216][212]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2017.12.13-01.38.41:216][212]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' was aborted.
+[2017.12.13-01.38.41:216][212]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/Leszek/Collections/' was aborted.
+[2017.12.13-01.38.41:216][212]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' was aborted.
+[2017.12.13-01.38.41:216][212]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2017.12.13-01.38.41:216][212]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2017.12.13-01.38.41:216][212]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2017.12.13-01.38.41:217][212]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2017.12.13-01.38.41:217][212]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2017.12.13-01.38.41:217][212]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2017.12.13-01.38.41:217][212]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2017.12.13-01.38.41:217][212]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2017.12.13-01.38.41:217][212]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2017.12.13-01.38.41:217][212]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2017.12.13-01.38.41:217][212]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2017.12.13-01.38.41:217][212]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2017.12.13-01.38.41:217][212]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2017.12.13-01.38.41:218][212]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2017.12.13-01.38.41:218][212]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2017.12.13-01.38.41:220][212]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2017.12.13-01.38.41:221][212]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2017.12.13-01.38.41:222][212]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2017.12.13-01.38.41:223][212]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2017.12.13-01.38.41:224][212]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2017.12.13-01.38.41:224][212]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2017.12.13-01.38.41:224][212]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2017.12.13-01.38.41:224][212]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2017.12.13-01.38.41:224][212]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2017.12.13-01.38.41:331][212]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2017.12.13-01.38.41:331][212]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2017.12.13-01.38.41:331][212]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2017.12.13-01.38.41:331][212]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2017.12.13-01.38.41:332][212]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2017.12.13-01.38.41:337][212]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2017.12.13-01.38.41:337][212]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2017.12.13-01.38.41:338][212]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2017.12.13-01.38.41:338][212]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2017.12.13-01.38.41:339][212]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2017.12.13-01.38.41:340][212]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2017.12.13-01.38.41:340][212]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2017.12.13-01.38.41:340][212]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2017.12.13-01.38.41:340][212]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2017.12.13-01.38.41:340][212]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2017.12.13-01.38.41:340][212]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2017.12.13-01.38.41:340][212]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2017.12.13-01.38.41:340][212]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2017.12.13-01.38.41:341][212]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2017.12.13-01.38.41:341][212]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2017.12.13-01.38.41:342][212]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2017.12.13-01.38.41:343][212]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2017.12.13-01.38.41:344][212]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2017.12.13-01.38.41:345][212]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2017.12.13-01.38.41:398][212]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2017.12.13-01.38.41:399][212]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2017.12.13-01.38.41:400][212]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2017.12.13-01.38.41:403][212]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2017.12.13-01.38.41:403][212]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2017.12.13-01.38.41:403][212]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2017.12.13-01.38.41:403][212]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2017.12.13-01.38.41:405][212]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2017.12.13-01.38.41:405][212]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2017.12.13-01.38.41:405][212]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2017.12.13-01.38.41:425][212]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2017.12.13-01.38.41:425][212]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2017.12.13-01.38.41:425][212]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2017.12.13-01.38.41:426][212]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2017.12.13-01.38.41:426][212]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2017.12.13-01.38.41:427][212]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2017.12.13-01.38.41:427][212]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2017.12.13-01.38.41:428][212]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2017.12.13-01.38.41:429][212]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2017.12.13-01.38.41:429][212]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2017.12.13-01.38.41:677][212]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2017.12.13-01.38.41:678][212]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2017.12.13-01.38.41:681][212]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2017.12.13-01.38.41:681][212]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2017.12.13-01.38.41:681][212]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2017.12.13-01.38.41:681][212]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2017.12.13-01.38.41:682][212]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2017.12.13-01.38.41:682][212]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2017.12.13-01.38.41:682][212]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2017.12.13-01.38.41:682][212]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2017.12.13-01.38.41:682][212]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2017.12.13-01.38.41:684][212]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2017.12.13-01.38.41:685][212]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2017.12.13-01.38.41:685][212]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2017.12.13-01.38.41:685][212]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2017.12.13-01.38.41:685][212]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2017.12.13-01.38.41:686][212]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2017.12.13-01.38.41:687][212]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2017.12.13-01.38.41:688][212]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2017.12.13-01.38.41:688][212]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2017.12.13-01.38.41:688][212]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2017.12.13-01.38.41:688][212]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2017.12.13-01.38.41:688][212]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2017.12.13-01.38.41:689][212]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2017.12.13-01.38.41:690][212]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2017.12.13-01.38.41:691][212]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2017.12.13-01.38.41:692][212]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2017.12.13-01.38.41:692][212]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2017.12.13-01.38.41:693][212]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2017.12.13-01.38.41:693][212]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2017.12.13-01.38.41:693][212]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2017.12.13-01.38.41:693][212]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2017.12.13-01.38.41:693][212]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2017.12.13-01.38.41:693][212]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2017.12.13-01.38.41:693][212]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2017.12.13-01.38.41:693][212]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2017.12.13-01.38.41:794][212]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2017.12.13-01.38.41:894][212]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2017.12.13-01.38.41:894][212]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2017.12.13-01.38.41:894][212]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2017.12.13-01.38.41:894][212]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2017.12.13-01.38.41:894][212]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2017.12.13-01.38.41:894][212]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2017.12.13-01.38.41:897][212]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2017.12.13-01.38.41:897][212]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2017.12.13-01.38.41:897][212]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2017.12.13-01.38.41:897][212]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2017.12.13-01.38.41:909][212]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2017.12.13-01.38.41:910][212]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2017.12.13-01.38.41:910][212]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2017.12.13-01.38.41:910][212]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2017.12.13-01.38.41:910][212]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2017.12.13-01.38.41:910][212]LogModuleManager: Shutting down and abandoning module Media (221)
+[2017.12.13-01.38.41:918][212]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2017.12.13-01.38.41:918][212]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2017.12.13-01.38.41:918][212]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.12.13-01.38.41:918][212]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.12.13-01.38.41:918][212]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.12.13-01.38.41:918][212]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.12.13-01.38.41:919][212]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.12.13-01.38.41:919][212]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.12.13-01.38.41:919][212]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.12.13-01.38.41:919][212]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.12.13-01.38.41:919][212]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.12.13-01.38.41:919][212]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.12.13-01.38.41:919][212]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.12.13-01.38.41:920][212]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.12.13-01.38.41:920][212]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.12.13-01.38.41:920][212]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.12.13-01.38.41:925][212]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.12.13-01.38.41:925][212]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.12.13-01.38.41:925][212]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.12.13-01.38.41:926][212]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.12.13-01.38.41:926][212]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.12.13-01.38.41:926][212]LogModuleManager: Shutting down and abandoning module Core (172)
+[2017.12.13-01.38.41:926][212]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.12.13-01.38.41:926][212]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2017.12.13-01.38.41:927][212]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2017.12.13-01.38.41:927][212]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2017.12.13-01.38.41:927][212]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2017.12.13-01.38.41:927][212]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2017.12.13-01.38.41:927][212]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2017.12.13-01.38.41:927][212]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2017.12.13-01.38.41:927][212]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2017.12.13-01.38.41:927][212]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2017.12.13-01.38.41:927][212]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2017.12.13-01.38.42:028][212]LogDerivedDataCache: Shutdown
+[2017.12.13-01.38.42:028][212]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2017.12.13-01.38.42:029][212]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.12.13-01.38.42:030][212]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2017.12.13-01.38.42:031][212]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2017.12.13-01.38.42:032][212]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2017.12.13-01.38.42:032][212]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2017.12.13-01.38.42:032][212]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2017.12.13-01.38.42:032][212]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2017.12.13-01.38.42:032][212]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2017.12.13-01.38.42:033][212]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.12.13-01.38.42:033][212]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.12.13-01.38.42:033][212]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.12.13-01.38.42:033][212]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B84B269E4-4303-6388-2314-0E89C5605771%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=a202bbab4bfb72a6c72ab59bf5105770%7Ca6b7376151474e159cf10430cd50646e%7C20bc636a-a4d7-41a8-a2dc-7238c7cddcf0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.12.13-01.38.42:042][212]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.12.13-01.38.42:045][212]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.12.13-01.38.42:045][212]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.12.13-01.38.42:045][212]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.12.13-01.38.42:045][212]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.12.13-01.38.42:045][212]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.12.13-01.38.42:045][212]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.12.13-01.38.42:045][212]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.12.13-01.38.42:049][212]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.12.13-01.38.42:049][212]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.12.13-01.38.42:049][212]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.12.13-01.38.42:050][212]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.12.13-01.38.42:050][212]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.12.13-01.38.42:050][212]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.12.13-01.38.42:050][212]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.12.13-01.38.42:050][212]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.12.13-01.38.42:050][212]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.12.13-01.38.42:050][212]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.12.13-01.38.42:050][212]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.12.13-01.38.42:061][212]LogExit: Exiting.
+[2017.12.13-01.38.42:087][212]Log file closed, 12/13/17 01:38:42
