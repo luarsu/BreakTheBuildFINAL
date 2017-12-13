@@ -1,4 +1,4 @@
-﻿Log file open, 12/13/17 15:23:52
+﻿Log file open, 12/13/17 16:45:36
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: BreakTheBuildFINAL
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-1005922703) SRandInit(-1005922703).
+LogInit: Display: RandInit(584318424) SRandInit(584318425).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 7.899219
+LogStats: Stats thread started at 1.273754
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -196,566 +196,225 @@ LogInit: Base directory: D:/Program files (x86)/Epic Games/UE_4.18/Engine/Binari
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.12.13-15.23.55:827][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.13-15.23.55:827][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.12.13-15.23.55:943][  0]LogInit: Computer: MSI
-[2017.12.13-15.23.55:943][  0]LogInit: User: PaopuKid
-[2017.12.13-15.23.55:943][  0]LogInit: CPU Page size=4096, Cores=4
-[2017.12.13-15.23.55:943][  0]LogInit: High frequency timer resolution =2.742190 MHz
-[2017.12.13-15.23.55:943][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2017.12.13-15.23.55:943][  0]LogMemory: Platform Memory Stats for Windows
-[2017.12.13-15.23.55:943][  0]LogMemory: Process Physical Memory: 273.32 MB used, 273.32 MB peak
-[2017.12.13-15.23.55:943][  0]LogMemory: Process Virtual Memory: 269.59 MB used, 269.59 MB peak
-[2017.12.13-15.23.55:943][  0]LogMemory: Physical Memory: 5105.74 MB used,  2971.41 MB free, 8077.16 MB total
-[2017.12.13-15.23.55:943][  0]LogMemory: Virtual Memory: 644.16 MB used,  2971.41 MB free, 134217728.00 MB total
-[2017.12.13-15.23.57:147][  0]LogInit: Overriding language with editor language configuration option (en).
-[2017.12.13-15.23.57:147][  0]LogInit: Overriding locale with editor locale configuration option (en).
-[2017.12.13-15.23.58:217][  0]LogInit: Setting process to per monitor DPI aware
-[2017.12.13-15.23.59:634][  0]LogD3D11RHI: D3D11 adapters:
-[2017.12.13-15.23.59:704][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
-[2017.12.13-15.23.59:704][  0]LogD3D11RHI:       3019/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2017.12.13-15.23.59:715][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2017.12.13-15.23.59:715][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2017.12.13-15.23.59:718][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.12.13-15.23.59:718][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.12.13-15.23.59:718][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.12.13-15.23.59:726][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.12.13-15.23.59:727][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
-[2017.12.13-15.23.59:727][  0]LogWindows: EnumDisplayDevices:
-[2017.12.13-15.23.59:727][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
-[2017.12.13-15.23.59:728][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2017.12.13-15.23.59:728][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2017.12.13-15.23.59:728][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.13-15.23.59:728][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.13-15.23.59:728][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.13-15.23.59:728][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.13-15.23.59:728][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2017.12.13-15.23.59:728][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
-[2017.12.13-15.23.59:729][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
-[2017.12.13-15.23.59:729][  0]LogD3D11RHI:      Driver Date: 5-1-2017
-[2017.12.13-15.23.59:729][  0]LogRHI: Texture pool is 2113 MB (70% of 3019 MB)
-[2017.12.13-15.23.59:773][  0]LogD3D11RHI: Async texture creation enabled
-[2017.12.13-15.23.59:973][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2017.12.13-15.24.00:036][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Intermediate/Shaders/WorkingDirectory/7140/).
-[2017.12.13-15.24.00:036][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PaopuKid/AppData/Local/Temp/UnrealShaderWorkingDir/A07022FD43AD6CCDFB6566A6EE522160/'.
-[2017.12.13-15.24.00:042][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2017.12.13-15.24.03:745][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2017.12.13-15.24.03:808][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2017.12.13-15.24.03:898][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2017.12.13-15.24.03:964][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2017.12.13-15.24.04:052][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2017.12.13-15.24.04:159][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2017.12.13-15.24.04:277][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.12.13-15.24.04:357][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2017.12.13-15.24.04:427][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2017.12.13-15.24.04:526][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2017.12.13-15.24.04:643][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2017.12.13-15.24.04:814][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2017.12.13-15.24.04:978][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2017.12.13-15.24.05:125][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2017.12.13-15.24.05:396][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2017.12.13-15.24.05:396][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.12.13-15.24.05:521][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2017.12.13-15.24.05:580][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2017.12.13-15.24.05:790][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2017.12.13-15.24.05:852][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2017.12.13-15.24.05:924][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2017.12.13-15.24.05:989][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.12.13-15.24.06:049][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2017.12.13-15.24.06:136][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2017.12.13-15.24.06:136][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2017.12.13-15.24.07:754][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2017.12.13-15.24.08:075][  0]LogDerivedDataCache: Loaded boot cache 0.32s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.13-15.24.08:075][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2017.12.13-15.24.08:075][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.12.13-15.24.08:075][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.12.13-15.24.08:075][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.12.13-15.24.08:075][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.12.13-15.24.08:140][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.12.13-15.24.08:155][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PaopuKid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.12.13-15.24.08:240][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2017.12.13-15.24.08:287][  0]LogSlate: Using Freetype 2.6.0
-[2017.12.13-15.24.08:372][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.13-15.24.08:385][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.13-15.24.13:291][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.13-15.24.14:902][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.12.13-15.24.14:957][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.12.13-15.24.14:957][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.12.13-15.24.14:957][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2017.12.13-15.24.14:957][  0]LogMeshReduction: No automatic mesh merging module available
-[2017.12.13-15.24.14:957][  0]LogMeshMerging: No automatic mesh merging module available
-[2017.12.13-15.24.15:488][  0]LogNetVersion: BreakTheBuildFINAL , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4088768677)
-[2017.12.13-15.24.16:749][  0]LogAssetRegistry: FAssetRegistry took 0.0381 seconds to start up
-[2017.12.13-15.24.20:224][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.082248 seconds
-[2017.12.13-15.24.20:250][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2017.12.13-15.24.20:250][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
-[2017.12.13-15.24.20:250][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.12.13-15.24.20:311][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.12.13-15.24.29:979][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.12.13-15.24.30:082][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.12.13-15.24.31:558][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.12.13-15.24.32:464][  0]SourceControl: Source control is disabled
-[2017.12.13-15.24.32:465][  0]SourceControl: Source control is disabled
-[2017.12.13-15.24.32:579][  0]SourceControl: Source control is disabled
-[2017.12.13-15.24.32:651][  0]SourceControl: Source control is disabled
-[2017.12.13-15.24.34:165][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2017.12.13-15.24.34:528][  0]LogOcInput: OculusInput pre-init called
-[2017.12.13-15.24.35:200][  0]LogEngine: Initializing Engine...
-[2017.12.13-15.24.35:241][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.12.13-15.24.35:950][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.12.13-15.24.35:951][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.12.13-15.24.36:416][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.12.13-15.24.36:613][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.13-15.24.36:721][  0]LogInit: FAudioDevice initialized.
-[2017.12.13-15.24.36:869][  0]LogDerivedDataCache: Saved boot cache 0.12s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.13-15.24.36:894][  0]LogInit: Texture streaming: Enabled
-[2017.12.13-15.24.37:115][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2017.12.13-15.24.37:466][  0]LogInit: Transaction tracking system initialized
-[2017.12.13-15.24.38:017][  0]BlueprintLog: New page: Editor Load
-[2017.12.13-15.24.39:972][  0]LocalizationService: Localization service is disabled
-[2017.12.13-15.24.41:379][  0]LogConsoleResponse: Display: 
-[2017.12.13-15.24.42:869][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.02s
-[2017.12.13-15.24.42:870][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.12.13-15.24.42:870][  0]LogCook: Display: Mobile HDR setting 1
-[2017.12.13-15.24.42:883][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2017.12.13-15.24.45:211][  0]SourceControl: Source control is disabled
-[2017.12.13-15.24.45:254][  0]Cmd: MAP LOAD FILE="../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.12.13-15.24.45:263][  0]LightingResults: New page: Lighting Build
-[2017.12.13-15.24.45:455][  0]MapCheck: New page: Map Check
-[2017.12.13-15.24.45:455][  0]LightingResults: New page: Lighting Build
-[2017.12.13-15.24.49:241][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
-[2017.12.13-15.24.49:279][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
-[2017.12.13-15.24.49:280][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] Set Input Mode UI Only (Deprecated)  is deprecated; Use the new version of Set Input Mode UI Only instead
-[2017.12.13-15.24.49:351][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0070.43] Compile of FirstPersonCharacter successful, but with 1 Warning(s) [in 221 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
-[2017.12.13-15.24.49:351][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] [0070.43] Compile of ThirdPersonCharacterThomas successful, but with 2 Warning(s) [in 222 ms] (/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/ThirdPersonCharacterThomas.ThirdPersonCharacterThomas)
-[2017.12.13-15.24.50:911][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
-[2017.12.13-15.24.50:911][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/door2.uasset.
-[2017.12.13-15.24.50:911][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/door2 : Can't find file for asset. /Game/customCharacter/CharacterBP
-[2017.12.13-15.24.50:913][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
-[2017.12.13-15.24.50:913][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/door2.uasset.
-[2017.12.13-15.24.50:913][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/door2 : Can't find file for asset. /Game/customCharacter/CharacterBP
-[2017.12.13-15.24.50:913][  0]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
-[2017.12.13-15.24.50:913][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/door2.uasset.
-[2017.12.13-15.24.50:913][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/door2 : Can't find file for asset. /Game/modular/indoor/doorCoridor
-[2017.12.13-15.24.50:915][  0]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
-[2017.12.13-15.24.50:915][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/door2.uasset.
-[2017.12.13-15.24.50:915][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/door2 : Can't find file for asset. /Game/modular/indoor/doorCoridor
-[2017.12.13-15.24.50:921][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
-[2017.12.13-15.24.50:921][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
-[2017.12.13-15.24.50:921][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
-[2017.12.13-15.24.50:921][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
-[2017.12.13-15.24.50:921][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
-[2017.12.13-15.24.50:921][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
-[2017.12.13-15.24.50:921][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
-[2017.12.13-15.24.50:921][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
-[2017.12.13-15.24.50:922][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
-[2017.12.13-15.24.50:922][  0]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
-[2017.12.13-15.24.50:922][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
-[2017.12.13-15.24.50:922][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/modular/indoor/doorCoridor
-[2017.12.13-15.24.50:922][  0]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
-[2017.12.13-15.24.50:922][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
-[2017.12.13-15.24.50:922][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/modular/indoor/doorCoridor
-[2017.12.13-15.24.50:926][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
-[2017.12.13-15.24.50:926][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_33
-[2017.12.13-15.24.50:926][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
-[2017.12.13-15.24.50:926][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_33
-[2017.12.13-15.24.50:926][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
-[2017.12.13-15.24.50:926][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
-[2017.12.13-15.24.50:926][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_33
-[2017.12.13-15.24.50:926][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
-[2017.12.13-15.24.50:926][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_33
-[2017.12.13-15.24.50:926][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
-[2017.12.13-15.24.50:926][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
-[2017.12.13-15.24.50:926][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_2
-[2017.12.13-15.24.50:927][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
-[2017.12.13-15.24.50:927][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_2
-[2017.12.13-15.24.50:927][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
-[2017.12.13-15.24.50:927][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
-[2017.12.13-15.24.50:927][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_2
-[2017.12.13-15.24.50:927][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
-[2017.12.13-15.24.50:927][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_2
-[2017.12.13-15.24.50:927][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
-[2017.12.13-15.24.50:929][  0]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
-[2017.12.13-15.24.50:929][  0]LoadErrors: Failed to load /Game/modular/indoor/doorCoridor.doorCoridor Referenced by doorCoridor_GEN_VARIABLE
-[2017.12.13-15.24.50:929][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
-[2017.12.13-15.24.50:929][  0]LoadErrors: Failed to load /Game/modular/indoor/doorCoridor.doorCoridor Referenced by doorCoridor_GEN_VARIABLE
-[2017.12.13-15.24.50:929][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/modular/indoor/doorCoridor
-[2017.12.13-15.24.50:931][  0]LogBlueprint: Warning: [Compiler door2] Get : 'StaticMeshComponent' variable not found. Base class was probably changed. /Game/PabloPuzzle/modular/wall/doorButton/door2.door2
-[2017.12.13-15.24.50:952][  0]LogBlueprint: Error: [Compiler door2] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
-[2017.12.13-15.24.50:952][  0]LogBlueprint: Error: [Compiler door2] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
-[2017.12.13-15.24.50:953][  0]LogBlueprint: Error: [Compiler door2] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
-[2017.12.13-15.24.50:953][  0]LogBlueprint: Error: [Compiler door2] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
-[2017.12.13-15.24.50:957][  0]LogBlueprint: Warning: [Compiler door2] [0072.03] Compile of door2 failed. 4 Fatal Issue(s) 1 Warning(s) [in 27 ms] (/Game/PabloPuzzle/modular/wall/doorButton/door2.door2)
-[2017.12.13-15.24.53:062][  0]LogTexture: Display: Building textures: gatePablo01_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
-[2017.12.13-15.24.54:067][  0]LogTexture: Display: Building textures: gatePablo01_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
-[2017.12.13-15.24.54:067][  0]LogTexture: Display: Building textures: gatePablo01_initialShadingGroup_Normal (BC5, 2048X2048)
-[2017.12.13-15.24.54:067][  0]LogTexture: Display: Building textures: basicWallPablo_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
-[2017.12.13-15.24.54:067][  0]LogTexture: Display: Building textures: basicWallPablo_initialShadingGroup_Normal (BC5, 2048X2048)
-[2017.12.13-15.24.54:067][  0]LogMaterial: Missing cached shader map for material Mat_PuzzleColours, compiling. 
-[2017.12.13-15.24.58:731][  0]LogTexture: Display: Building textures: basicWallPablo_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
-[2017.12.13-15.24.58:731][  0]LogTexture: Display: Building textures: gateWallPablo_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
-[2017.12.13-15.24.58:731][  0]LogTexture: Display: Building textures: gateWallPablo_initialShadingGroup_Normal (BC5, 2048X2048)
-[2017.12.13-15.24.58:731][  0]LogTexture: Display: Building textures: gateWallPablo_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
-[2017.12.13-15.25.03:670][  0]LogTexture: Display: Building textures: sunset_nighsky4BIG (BGRA8, 6000X4008)
-[2017.12.13-15.25.03:670][  0]LogTexture: Display: Building textures: starsky (BGRA8, 2000X573)
-[2017.12.13-15.25.03:674][  0]LogMaterial: Missing cached shader map for material gateDoor, compiling. 
-[2017.12.13-15.25.03:778][  0]LogTexture: Display: Building textures: sculptureCherub_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
-[2017.12.13-15.25.03:778][  0]LogStaticMesh: Building static mesh gatePablo01...
-[2017.12.13-15.25.03:833][  0]LogStaticMesh: Built static mesh [0.06s] /Game/PabloPuzzle/modular/wall/gatePablo01.gatePablo01
-[2017.12.13-15.25.04:059][  0]LogMaterial: Missing cached shader map for material Mat_Glow, compiling. 
-[2017.12.13-15.25.04:287][  0]LogStaticMesh: Building static mesh house_lo...
-[2017.12.13-15.25.05:458][  0]LogStaticMesh: Built static mesh [1.17s] /Game/Geometry/Meshes/House/house_lo.house_lo
-[2017.12.13-15.25.05:565][  0]LogMaterial: Missing cached shader map for material M_Procedural_Sky_MASTER02, compiling. 
-[2017.12.13-15.25.05:654][  0]LogMaterial: Missing cached shader map for material CubeMaterial, compiling. 
-[2017.12.13-15.25.06:004][  0]LogMaterial: Missing cached shader map for material WallBasic, compiling. 
-[2017.12.13-15.25.06:043][  0]LogStaticMesh: Building static mesh OutwallICornerPablo01...
-[2017.12.13-15.25.06:052][  0]LogStaticMesh: Built static mesh [0.01s] /Game/PabloPuzzle/modular/wall/OutwallICornerPablo01.OutwallICornerPablo01
-[2017.12.13-15.25.06:637][  0]LogMaterial: Missing cached shader map for material GateWall1, compiling. 
-[2017.12.13-15.25.06:682][  0]LogStaticMesh: Building static mesh gateWallPablo...
-[2017.12.13-15.25.06:711][  0]LogStaticMesh: Built static mesh [0.03s] /Game/PabloPuzzle/modular/wall/gateWallPablo.gateWallPablo
-[2017.12.13-15.25.07:203][  0]LogMaterial: Missing cached shader map for material SkyBox_Materiala, compiling. 
-[2017.12.13-15.25.07:244][  0]LogMaterial: Missing cached shader map for material switchPillard, compiling. 
-[2017.12.13-15.25.07:346][  0]LogMaterial: Missing cached shader map for material switchWheel, compiling. 
-[2017.12.13-15.25.07:424][  0]LogAIModule: Creating AISystem for world Luis_Nightmare
-[2017.12.13-15.25.08:600][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
-[2017.12.13-15.25.08:962][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.12.13-15.25.09:507][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 535.744ms to complete.
-[2017.12.13-15.25.09:508][  0]LogFileHelpers: Loading map 'Luis_Nightmare' took 24.273
-[2017.12.13-15.25.11:567][  0]LogCollectionManager: Loaded 0 collections in 0.001783 seconds
-[2017.12.13-15.25.11:744][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' took 0.01s
-[2017.12.13-15.25.11:744][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/PaopuKid/Collections/' took 0.01s
-[2017.12.13-15.25.11:744][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' took 0.01s
-[2017.12.13-15.25.11:744][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000007 seconds
-[2017.12.13-15.25.11:763][  0]LogContentBrowser: Native class hierarchy populated in 0.0172 seconds. Added 2363 classes and 519 folders.
-[2017.12.13-15.25.11:976][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0007 seconds. Added 0 classes and 0 folders.
-[2017.12.13-15.25.12:519][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
-[2017.12.13-15.25.12:690][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
-[2017.12.13-15.25.13:973][  0]LogSlate: Took 0.023701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.13-15.25.14:008][  0]LogSlate: Took 0.022436 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2017.12.13-15.25.14:094][  0]LogSlate: Took 0.030651 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2017.12.13-15.25.14:725][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
-[2017.12.13-15.25.15:741][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
-[2017.12.13-15.25.15:741][  0]LogLoad: (Engine Initialization) Total time: 96.82 seconds
-[2017.12.13-15.25.15:741][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2017.12.13-15.25.15:750][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2017.12.13-15.25.16:478][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.12.13-15.25.16:904][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.64s
-[2017.12.13-15.25.17:241][  4]LogAssetRegistry: Asset discovery search completed in 60.5143 seconds
-[2017.12.13-15.25.17:278][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
-[2017.12.13-15.25.17:278][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000192 seconds (updated 0 objects)
-[2017.12.13-15.25.17:420][  4]LogSlate: Took 0.022819 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.13-15.25.48:837][474]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gateWallPablo3)
-[2017.12.13-15.26.16:629][920]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.13-15.26.20:399][920]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.26.20:415][920]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.13-15.26.25:902][920]PIE: New page: PIE session: Luis_Nightmare (Dec 13, 2017, 3:26:25 PM)
-[2017.12.13-15.26.25:914][920]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
-[2017.12.13-15.26.26:002][920]LogPlayLevel: PIE: StaticDuplicateObject took: (0.086859s)
-[2017.12.13-15.26.26:002][920]LogAIModule: Creating AISystem for world Luis_Nightmare
-[2017.12.13-15.26.26:003][920]LogPlayLevel: PIE: World Init took: (0.000988s)
-[2017.12.13-15.26.26:011][920]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.096235s)
-[2017.12.13-15.26.26:050][920]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.13-15.26.26:140][920]LogInit: FAudioDevice initialized.
-[2017.12.13-15.26.26:206][920]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2017.12.13-15.26.26:318][920]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-15.26.26
-[2017.12.13-15.26.26:430][920]LogWorld: Bringing up level for play took: 0.156204
-[2017.12.13-15.26.26:539][920]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
-[2017.12.13-15.26.26:618][920]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 6.371
-[2017.12.13-15.26.26:619][920]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.27.30:332][707]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.27.30:448][707]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.27.43:669][459]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_House)
-[2017.12.13-15.27.44:534][500]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.13-15.28.06:644][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gateWallPablo2)
-[2017.12.13-15.28.07:670][859]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.13-15.28.18:181][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gateWallPablo2)
-[2017.12.13-15.28.20:072][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OutwallICornerPablo2)
-[2017.12.13-15.28.39:802][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OutwallICornerPablo01)
-[2017.12.13-15.28.43:461][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
-[2017.12.13-15.28.44:136][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OutwallICornerPablo01)
-[2017.12.13-15.28.54:713][626]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OutwallICornerPablo01)
-[2017.12.13-15.28.57:729][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
-[2017.12.13-15.29.01:223][  7]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (OutwallICornerPablo01)
-[2017.12.13-15.29.03:746][154]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
-[2017.12.13-15.29.25:927][473]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.13-15.29.25:940][473]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.29.25:941][473]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.13-15.29.25:941][473]PIE: New page: PIE session: Luis_Nightmare (Dec 13, 2017, 3:29:25 PM)
-[2017.12.13-15.29.25:941][473]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
-[2017.12.13-15.29.25:997][473]LogPlayLevel: PIE: StaticDuplicateObject took: (0.056082s)
-[2017.12.13-15.29.25:998][473]LogAIModule: Creating AISystem for world Luis_Nightmare
-[2017.12.13-15.29.25:998][473]LogPlayLevel: PIE: World Init took: (0.001119s)
-[2017.12.13-15.29.25:999][473]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.058272s)
-[2017.12.13-15.29.26:023][473]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.13-15.29.26:112][473]LogInit: FAudioDevice initialized.
-[2017.12.13-15.29.26:434][473]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2017.12.13-15.29.26:457][473]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-15.29.26
-[2017.12.13-15.29.26:458][473]LogWorld: Bringing up level for play took: 0.023875
-[2017.12.13-15.29.26:461][473]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.213
-[2017.12.13-15.29.26:462][473]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.29.33:950][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.29.34:000][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.29.57:433][314]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_House)
-[2017.12.13-15.34.05:758][112]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
-[2017.12.13-15.34.06:699][164]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.13-15.34.11:968][478]LogEditorViewport: Clicking on Actor (LMB): button4b_C (button4b)
-[2017.12.13-15.36.13:186][ 62]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.13-15.36.13:203][ 62]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.36.13:204][ 62]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.13-15.36.13:204][ 62]PIE: New page: PIE session: Luis_Nightmare (Dec 13, 2017, 3:36:13 PM)
-[2017.12.13-15.36.13:204][ 62]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
-[2017.12.13-15.36.13:269][ 62]LogPlayLevel: PIE: StaticDuplicateObject took: (0.064558s)
-[2017.12.13-15.36.13:270][ 62]LogAIModule: Creating AISystem for world Luis_Nightmare
-[2017.12.13-15.36.13:270][ 62]LogPlayLevel: PIE: World Init took: (0.001317s)
-[2017.12.13-15.36.13:272][ 62]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.067662s)
-[2017.12.13-15.36.13:299][ 62]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.13-15.36.13:393][ 62]LogInit: FAudioDevice initialized.
-[2017.12.13-15.36.13:427][ 62]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2017.12.13-15.36.13:452][ 62]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.13-15.36.13
-[2017.12.13-15.36.13:454][ 62]LogWorld: Bringing up level for play took: 0.025404
-[2017.12.13-15.36.13:458][ 62]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 1.211
-[2017.12.13-15.36.13:459][ 62]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.37.12:103][540]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.37.12:153][540]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.13-15.37.24:009][227]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening570)
-[2017.12.13-15.37.25:879][331]Cmd: DELETE
-[2017.12.13-15.37.25:879][331]Cmd: ACTOR DELETE
-[2017.12.13-15.37.26:062][331]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.13-15.37.26:075][331]LogEditorActor: Deleted 1 Actors (0.068 secs)
-[2017.12.13-15.37.26:896][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening566)
-[2017.12.13-15.37.27:309][399]Cmd: DELETE
-[2017.12.13-15.37.27:309][399]Cmd: ACTOR DELETE
-[2017.12.13-15.37.27:331][399]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.13-15.37.27:341][399]LogEditorActor: Deleted 1 Actors (0.032 secs)
-[2017.12.13-15.37.30:984][616]Cmd: TRANSACTION UNDO
-[2017.12.13-15.37.30:984][616]LogEditorTransaction: Undo Delete Actors
-[2017.12.13-15.37.31:071][616]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.13-15.37.31:463][633]Cmd: TRANSACTION UNDO
-[2017.12.13-15.37.31:463][633]LogEditorTransaction: Undo Clicking on Actors
-[2017.12.13-15.37.31:864][654]Cmd: TRANSACTION UNDO
-[2017.12.13-15.37.31:865][654]LogEditorTransaction: Undo Delete Actors
-[2017.12.13-15.37.52:326][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening706)
-[2017.12.13-15.37.53:340][915]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.13-15.37.58:586][221]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Hedge_Opening703)
-[2017.12.13-15.38.26:951][903]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.13-15.38.28:913][903]LogSlate: Took 0.000242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.13-15.38.29:160][903]LogSavePackage: Save=2079.21ms
-[2017.12.13-15.38.29:160][903]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare_Auto1BABFA5B249AC1718D56C838260455962.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap'
-[2017.12.13-15.38.29:204][903]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap
-[2017.12.13-15.38.29:212][903]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 2.222
-[2017.12.13-15.38.29:212][903]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.222
-[2017.12.13-15.40.20:270][540]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_House)
-[2017.12.13-15.40.21:446][606]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.13-15.41.19:938][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
-[2017.12.13-15.41.20:866][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
-[2017.12.13-15.41.22:166][199]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.13-15.41.26:552][457]Cmd: TRANSACTION UNDO
-[2017.12.13-15.41.26:552][457]LogEditorTransaction: Undo Move Actors
-[2017.12.13-15.41.41:797][346]Cmd: TRANSACTION UNDO
-[2017.12.13-15.41.41:797][346]LogEditorTransaction: Undo Move Actors
-[2017.12.13-15.41.42:251][367]Cmd: TRANSACTION UNDO
-[2017.12.13-15.41.42:251][367]LogEditorTransaction: Undo Move Actors
-[2017.12.13-15.41.43:062][412]Cmd: TRANSACTION UNDO
-[2017.12.13-15.41.43:062][412]LogEditorTransaction: Undo Clicking on Actors
-[2017.12.13-15.41.43:899][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gateWallPablo2)
-[2017.12.13-15.41.44:801][507]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (gateWallPablo)
-[2017.12.13-15.41.45:845][565]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (gateWallPablo4)
-[2017.12.13-15.41.47:623][668]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (gateWallPablo3)
-[2017.12.13-15.41.48:651][726]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (OutwallICornerPablo01)
-[2017.12.13-15.41.49:582][778]LogEditorViewport: Clicking on Actor (CTRL LMB): button_C (button)
-[2017.12.13-15.41.50:831][850]LogEditorViewport: Clicking on Actor (CTRL LMB): SkeletalMeshActor (SK_Mannequin)
-[2017.12.13-15.41.51:523][889]LogEditorViewport: Clicking on Actor (CTRL LMB): Gate1_C (Gate3)
-[2017.12.13-15.41.52:465][943]LogEditorViewport: Clicking on Actor (CTRL LMB): Gate1_C (Gate2)
-[2017.12.13-15.41.53:713][ 16]LogEditorViewport: Clicking on Actor (CTRL LMB): Gate1_C (Gate5)
-[2017.12.13-15.41.54:223][ 44]LogEditorViewport: Clicking on Actor (CTRL LMB): Gate1_C (Gate6)
-[2017.12.13-15.41.55:638][127]LogEditorViewport: Clicking on Actor (CTRL LMB): Gate1_C (Gate1)
-[2017.12.13-15.41.58:247][281]LogEditorViewport: Clicking on Actor (CTRL LMB): Gate1_C (Gate7)
-[2017.12.13-15.41.59:363][346]LogEditorViewport: Clicking on Actor (CTRL LMB): Gate1_C (Gate8)
-[2017.12.13-15.42.00:731][426]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (OutwallICornerPablo2)
-[2017.12.13-15.42.02:111][506]LogEditorViewport: Clicking on Actor (CTRL LMB): button4b_C (button4b)
-[2017.12.13-15.42.08:166][866]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Cube7)
-[2017.12.13-15.42.34:614][436]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube7)
-[2017.12.13-15.42.59:057][884]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
-[2017.12.13-15.43.28:442][636]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
-[2017.12.13-15.43.29:150][674]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.13-15.43.32:071][844]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening706)
-[2017.12.13-15.43.32:810][884]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.13-15.44.01:416][531]LogActorFactory: Actor Factory created mazeHedge_wideShortThreeWay
-[2017.12.13-15.44.02:506][594]LogActorFactory: Actor Factory created mazeHedge_wideShortThreeWay
-[2017.12.13-15.44.15:103][342]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening705)
-[2017.12.13-15.44.21:290][703]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
-[2017.12.13-15.44.21:935][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay13)
-[2017.12.13-15.44.22:765][785]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.13-15.44.35:140][517]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
-[2017.12.13-15.44.39:264][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening649)
-[2017.12.13-15.44.42:938][966]Cmd: TRANSACTION UNDO
-[2017.12.13-15.44.42:938][966]LogEditorTransaction: Undo Move Actors
-[2017.12.13-15.44.49:130][319]Cmd: TRANSACTION UNDO
-[2017.12.13-15.44.49:130][319]LogEditorTransaction: Undo Move Actors
-[2017.12.13-15.45.19:005][ 79]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay13)
-[2017.12.13-15.45.28:085][609]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
-[2017.12.13-15.45.33:177][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening765)
-[2017.12.13-15.45.38:269][203]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.13-15.45.48:668][786]LogActorFactory: Actor Factory created Hedge_Wall
-[2017.12.13-15.45.49:832][853]LogActorFactory: Actor Factory created Hedge_Wall
-[2017.12.13-15.45.50:314][881]LogActorFactory: Actor Factory created Hedge_Wall
-[2017.12.13-15.48.31:311][362]LogSavePackage: Save=1885.35ms
-[2017.12.13-15.48.31:311][362]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare_Auto2A595C8E84AB15247D1077BB469A5ACEA.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto2.umap'
-[2017.12.13-15.48.31:316][362]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto2.umap
-[2017.12.13-15.48.31:319][362]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 1.923
-[2017.12.13-15.48.31:319][362]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.923
-[2017.12.13-15.54.13:438][759]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall25)
-[2017.12.13-15.54.49:379][875]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall80)
-[2017.12.13-15.54.50:585][944]Cmd: DELETE
-[2017.12.13-15.54.50:586][944]Cmd: ACTOR DELETE
-[2017.12.13-15.54.50:611][944]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.13-15.54.50:625][944]LogEditorActor: Deleted 1 Actors (0.040 secs)
-[2017.12.13-15.55.07:192][926]LogActorFactory: Actor Factory created Hedge_Opening
-[2017.12.13-15.55.08:594][  9]LogActorFactory: Actor Factory created Hedge_Opening
-[2017.12.13-15.55.30:924][323]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
-[2017.12.13-15.58.33:390][136]LogSavePackage: Save=1865.93ms
-[2017.12.13-15.58.33:390][136]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare_Auto31428DB064033996AAB3EA5A227AB85F5.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto3.umap'
-[2017.12.13-15.58.33:397][136]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto3.umap
-[2017.12.13-15.58.33:401][136]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 1.901
-[2017.12.13-15.58.33:401][136]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.901
-[2017.12.13-16.08.26:851][244]LogMaterial: Missing cached shader map for material Verde, compiling. 
-[2017.12.13-16.08.28:066][284]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0010 seconds. Added 1 classes and 0 folders.
-[2017.12.13-16.08.28:078][284]LogMaterial: Missing cached shader map for material Verde, compiling. 
-[2017.12.13-16.08.29:123][284]LogMaterial: Missing cached shader map for material Verde, compiling. 
-[2017.12.13-16.08.29:203][284]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.08.29:265][284]LogSlate: Took 0.026234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2017.12.13-16.08.33:680][396]MaterialEditorStats: Base pass shader: 100 instructions
-[2017.12.13-16.08.33:680][396]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
-[2017.12.13-16.08.33:680][396]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
-[2017.12.13-16.08.33:680][396]MaterialEditorStats: Vertex shader: 29 instructions
-[2017.12.13-16.08.33:680][396]MaterialEditorStats: Texture samplers: 3/16
-[2017.12.13-16.08.36:344][524]LogMaterial: Missing cached shader map for material Verde, compiling. 
-[2017.12.13-16.08.36:368][524]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.08.38:355][586]LogMaterialEditor: Saving and Compiling material Verde
-[2017.12.13-16.08.39:165][586]LogMaterial: Missing cached shader map for material Verde, compiling. 
-[2017.12.13-16.08.39:235][586]LogMaterial: Missing cached shader map for material Verde, compiling. 
-[2017.12.13-16.08.39:351][586]LogMaterial: Missing cached shader map for material Verde, compiling. 
-[2017.12.13-16.08.39:456][586]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Verde, compiling. 
-[2017.12.13-16.08.40:700][586]TextureStreamingBuild: Display: Compiling optional shaders took 1.262 seconds.
-[2017.12.13-16.08.43:344][586]LogSavePackage: Save=57.00ms
-[2017.12.13-16.08.43:344][586]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/VerdeF293A56E4894C7FF30FFC1B7F33F39B7.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Geometry/Meshes/Maze/Verde.uasset'
-[2017.12.13-16.08.43:348][586]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Geometry/Meshes/Maze/Verde.uasset
-[2017.12.13-16.08.43:362][586]MaterialEditorStats: Base pass shader: 100 instructions
-[2017.12.13-16.08.43:362][586]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
-[2017.12.13-16.08.43:362][586]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
-[2017.12.13-16.08.43:362][586]MaterialEditorStats: Vertex shader: 29 instructions
-[2017.12.13-16.08.43:362][586]MaterialEditorStats: Texture samplers: 3/16
-[2017.12.13-16.08.51:619][ 43]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.08.52:715][ 89]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.08.52:845][ 89]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.08.52:883][ 89]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.08.52:961][ 89]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.08.57:819][226]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.08.57:858][226]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.08.59:089][262]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.08.59:130][262]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.08.59:822][281]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.08.59:859][281]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.09.01:238][321]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.09.01:275][321]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.09.02:889][369]LogMaterialEditor: Saving and Compiling material Azul
-[2017.12.13-16.09.03:713][369]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.09.03:795][369]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.09.03:865][369]LogMaterial: Missing cached shader map for material Azul, compiling. 
-[2017.12.13-16.09.03:951][369]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Azul, compiling. 
-[2017.12.13-16.09.05:225][369]TextureStreamingBuild: Display: Compiling optional shaders took 1.284 seconds.
-[2017.12.13-16.09.07:837][369]LogSavePackage: Save=13.41ms
-[2017.12.13-16.09.07:837][369]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Azul5187E5FF45C984B27C7965AA6C12CF11.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Geometry/Meshes/Maze/Azul.uasset'
-[2017.12.13-16.09.07:841][369]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Geometry/Meshes/Maze/Azul.uasset
-[2017.12.13-16.09.07:851][369]MaterialEditorStats: Base pass shader: 100 instructions
-[2017.12.13-16.09.07:851][369]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
-[2017.12.13-16.09.07:851][369]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
-[2017.12.13-16.09.07:851][369]MaterialEditorStats: Vertex shader: 29 instructions
-[2017.12.13-16.09.07:851][369]MaterialEditorStats: Texture samplers: 3/16
-[2017.12.13-16.09.15:620][783]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.16:375][815]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.16:508][815]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.16:546][815]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.16:621][815]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.09.19:130][880]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.19:168][880]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.09.22:339][976]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.22:382][976]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.09.23:523][ 10]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.23:563][ 10]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.09.25:137][ 58]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.25:173][ 58]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.09.26:065][ 85]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.26:107][ 85]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.09.29:356][189]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.29:397][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.09.30:321][216]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.30:357][216]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
-[2017.12.13-16.09.31:107][236]LogMaterialEditor: Saving and Compiling material Lila
-[2017.12.13-16.09.31:914][236]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.32:002][236]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.32:083][236]LogMaterial: Missing cached shader map for material Lila, compiling. 
-[2017.12.13-16.09.32:167][236]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Lila, compiling. 
-[2017.12.13-16.09.33:595][236]TextureStreamingBuild: Display: Compiling optional shaders took 1.437 seconds.
-[2017.12.13-16.09.36:226][236]LogSavePackage: Save=16.73ms
-[2017.12.13-16.09.36:226][236]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/LilaBE0E129B4F6CC9E66FD02DB15F3D3FB4.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Geometry/Meshes/Maze/Lila.uasset'
-[2017.12.13-16.09.36:234][236]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Geometry/Meshes/Maze/Lila.uasset
-[2017.12.13-16.09.36:249][236]MaterialEditorStats: Base pass shader: 100 instructions
-[2017.12.13-16.09.36:249][236]MaterialEditorStats: Base pass shader with Surface Lightmap: 117 instructions
-[2017.12.13-16.09.36:249][236]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 173 instructions
-[2017.12.13-16.09.36:249][236]MaterialEditorStats: Vertex shader: 29 instructions
-[2017.12.13-16.09.36:249][236]MaterialEditorStats: Texture samplers: 3/16
-[2017.12.13-16.11.31:952][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LuisPuzzle/Verde" FILE="../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Verde.uasset" SILENT=true
-[2017.12.13-16.11.31:969][642]LogSavePackage: Save=13.86ms
-[2017.12.13-16.11.31:969][642]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/VerdeD15D30BA4CA5AFF84CE067AFE91870AA.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Verde.uasset'
-[2017.12.13-16.11.31:974][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Verde.uasset
-[2017.12.13-16.11.32:008][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LuisPuzzle/Turning" FILE="../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Turning.uasset" SILENT=true
-[2017.12.13-16.11.32:024][642]LogSavePackage: Save=12.99ms
-[2017.12.13-16.11.32:024][642]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Turning229B736045B81DDF99E8868D2632B48D.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Turning.uasset'
-[2017.12.13-16.11.32:029][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Turning.uasset
-[2017.12.13-16.11.32:045][642]LogSavePackage: Save=2.00ms
-[2017.12.13-16.11.32:045][642]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Turning98AC22DD48D9867AF3D3468018B231E3.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Geometry/Meshes/Maze/Turning.uasset'
-[2017.12.13-16.11.32:051][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Geometry/Meshes/Maze/Turning.uasset
-[2017.12.13-16.11.32:074][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LuisPuzzle/Lila" FILE="../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Lila.uasset" SILENT=true
-[2017.12.13-16.11.32:091][642]LogSavePackage: Save=13.03ms
-[2017.12.13-16.11.32:091][642]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Lila870940AD49C278F73A900DB0AE37B774.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Lila.uasset'
-[2017.12.13-16.11.32:095][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Lila.uasset
-[2017.12.13-16.11.32:126][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LuisPuzzle/Azul" FILE="../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Azul.uasset" SILENT=true
-[2017.12.13-16.11.32:141][642]LogSavePackage: Save=12.71ms
-[2017.12.13-16.11.32:141][642]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Azul15558E5E4061DBD245CB52AE7F965AFC.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Azul.uasset'
-[2017.12.13-16.11.32:146][642]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/Azul.uasset
-[2017.12.13-16.11.40:743][ 73]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0013 seconds. Added 116 classes and 0 folders.
-[2017.12.13-16.11.44:541][179]LogSlate: Took 0.016891 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2017.12.13-16.11.51:591][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue_56.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:595][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue_56.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:596][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue_56.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:597][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue_56.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:597][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue2_386.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:599][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue2_386.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:600][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue2_386.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:600][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue2_386.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:601][446]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_9:PersistentLevel.KeyBlue_C_1.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:602][446]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_9:PersistentLevel.KeyBlue_C_1.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:602][446]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_9:PersistentLevel.KeyBlue_C_1.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:640][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue2_386.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:641][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue2_386.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:641][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue2_386.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:641][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue2_386.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:642][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue_56.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:643][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue_56.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:643][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue_56.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:643][446]PIE: Warning: Trying to simulate physics on ''/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyBlue_56.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:644][446]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_9:PersistentLevel.KeyBlue_C_1.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:645][446]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_9:PersistentLevel.KeyBlue_C_1.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.11.51:645][446]PIE: Warning: Trying to simulate physics on ''/Engine/Transient.World_9:PersistentLevel.KeyBlue_C_1.Cube'' but it has ComplexAsSimple collision.
-[2017.12.13-16.12.10:854][255]LogSavePackage: Save=91.77ms
-[2017.12.13-16.12.10:854][255]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/BP_PuzzleDoorA60B496B44599A3BB9A7758DE22F7551.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleDoor.uasset'
-[2017.12.13-16.12.10:862][255]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleDoor.uasset
-[2017.12.13-16.12.10:886][255]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LuisPuzzle/KeyBlue" FILE="../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/KeyBlue.uasset" SILENT=true
-[2017.12.13-16.12.10:910][255]LogSavePackage: Save=16.62ms
-[2017.12.13-16.12.10:910][255]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/KeyBlue8D153D5E418F2E0195A6DCA57813267D.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/KeyBlue.uasset'
-[2017.12.13-16.12.10:916][255]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/LuisPuzzle/KeyBlue.uasset
-[2017.12.13-16.12.13:424][255]LogSavePackage: Save=2387.39ms
-[2017.12.13-16.12.13:424][255]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare0354403247C1CDCBF6BCDCADB39F9AD7.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
-[2017.12.13-16.12.13:443][255]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
-[2017.12.13-16.12.13:467][255]LogFileHelpers: Saving map 'Luis_Nightmare' took 2.546
+[2017.12.13-16.45.41:677][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.13-16.45.41:677][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.13-16.45.41:800][  0]LogInit: Computer: MSI
+[2017.12.13-16.45.41:800][  0]LogInit: User: PaopuKid
+[2017.12.13-16.45.41:800][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.13-16.45.41:800][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2017.12.13-16.45.41:806][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.13-16.45.41:806][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.13-16.45.41:806][  0]LogMemory: Process Physical Memory: 273.26 MB used, 273.26 MB peak
+[2017.12.13-16.45.41:806][  0]LogMemory: Process Virtual Memory: 271.53 MB used, 271.53 MB peak
+[2017.12.13-16.45.41:806][  0]LogMemory: Physical Memory: 4200.11 MB used,  3877.04 MB free, 8077.16 MB total
+[2017.12.13-16.45.41:806][  0]LogMemory: Virtual Memory: 646.23 MB used,  3877.04 MB free, 134217728.00 MB total
+[2017.12.13-16.45.43:021][  0]LogInit: Overriding language with editor language configuration option (en).
+[2017.12.13-16.45.43:022][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2017.12.13-16.45.43:969][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.13-16.45.45:296][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.13-16.45.45:381][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2017.12.13-16.45.45:381][  0]LogD3D11RHI:       3019/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.13-16.45.45:396][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.12.13-16.45.45:396][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.13-16.45.45:401][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.13-16.45.45:401][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.13-16.45.45:401][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.13-16.45.45:409][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.13-16.45.45:409][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.13-16.45.45:409][  0]LogWindows: EnumDisplayDevices:
+[2017.12.13-16.45.45:409][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2017.12.13-16.45.45:418][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.12.13-16.45.45:418][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.12.13-16.45.45:419][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.13-16.45.45:419][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.13-16.45.45:419][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.13-16.45.45:419][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.13-16.45.45:419][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.12.13-16.45.45:419][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2017.12.13-16.45.45:419][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.12.13-16.45.45:419][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.12.13-16.45.45:419][  0]LogRHI: Texture pool is 2113 MB (70% of 3019 MB)
+[2017.12.13-16.45.45:461][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.13-16.45.45:678][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.13-16.45.45:734][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Intermediate/Shaders/WorkingDirectory/4812/).
+[2017.12.13-16.45.45:734][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PaopuKid/AppData/Local/Temp/UnrealShaderWorkingDir/6C6ACD9D47A49848ABB570BC0C7A6896/'.
+[2017.12.13-16.45.45:742][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.13-16.45.49:026][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.13-16.45.49:108][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.13-16.45.49:185][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.13-16.45.49:252][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.13-16.45.49:344][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.13-16.45.49:406][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.13-16.45.49:468][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.13-16.45.49:541][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.13-16.45.49:609][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.13-16.45.49:683][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.13-16.45.49:745][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.13-16.45.49:807][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.13-16.45.49:875][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.13-16.45.49:940][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.13-16.45.50:063][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.13-16.45.50:063][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.13-16.45.50:144][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.13-16.45.50:211][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.13-16.45.50:461][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.13-16.45.50:514][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.13-16.45.50:576][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.13-16.45.50:640][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.13-16.45.50:704][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.13-16.45.50:782][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.13-16.45.50:783][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.13-16.45.52:573][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.13-16.45.52:878][  0]LogDerivedDataCache: Loaded boot cache 0.30s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.13-16.45.52:878][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.13-16.45.52:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.13-16.45.52:878][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.13-16.45.52:878][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.13-16.45.52:878][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.13-16.45.52:941][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.13-16.45.52:958][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PaopuKid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.13-16.45.53:022][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.13-16.45.53:045][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.13-16.45.53:114][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.13-16.45.53:125][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.13-16.45.58:646][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.13-16.46.00:085][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.13-16.46.00:158][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.13-16.46.00:158][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.13-16.46.00:158][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.13-16.46.00:158][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.13-16.46.00:158][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.13-16.46.00:528][  0]LogNetVersion: BreakTheBuildFINAL , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4088768677)
+[2017.12.13-16.46.01:463][  0]LogAssetRegistry: FAssetRegistry took 0.0370 seconds to start up
+[2017.12.13-16.46.06:021][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.164407 seconds
+[2017.12.13-16.46.06:049][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.13-16.46.06:049][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2017.12.13-16.46.06:049][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.13-16.46.06:103][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.13-16.46.18:320][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.13-16.46.18:390][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.13-16.46.19:857][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.13-16.46.20:604][  0]SourceControl: Source control is disabled
+[2017.12.13-16.46.20:614][  0]SourceControl: Source control is disabled
+[2017.12.13-16.46.20:748][  0]SourceControl: Source control is disabled
+[2017.12.13-16.46.20:825][  0]SourceControl: Source control is disabled
+[2017.12.13-16.46.22:342][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.13-16.46.22:661][  0]LogOcInput: OculusInput pre-init called
+[2017.12.13-16.46.23:248][  0]LogEngine: Initializing Engine...
+[2017.12.13-16.46.23:257][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.13-16.46.23:842][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.13-16.46.23:842][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.13-16.46.24:126][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.13-16.46.24:219][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.13-16.46.24:419][  0]LogInit: FAudioDevice initialized.
+[2017.12.13-16.46.24:512][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.13-16.46.24:530][  0]LogInit: Texture streaming: Enabled
+[2017.12.13-16.46.24:746][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.13-16.46.24:746][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={ABBE3A55-4CA7-410C-6C66-2D9C89DE06F4}
+[2017.12.13-16.46.24:972][  0]LogInit: Transaction tracking system initialized
+[2017.12.13-16.46.25:455][  0]BlueprintLog: New page: Editor Load
+[2017.12.13-16.46.27:258][  0]LocalizationService: Localization service is disabled
+[2017.12.13-16.46.28:557][  0]LogConsoleResponse: Display: 
+[2017.12.13-16.46.29:807][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.13-16.46.29:807][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.13-16.46.29:832][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.13-16.46.29:888][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.09s
+[2017.12.13-16.46.32:074][  0]SourceControl: Source control is disabled
+[2017.12.13-16.46.32:130][  0]Cmd: MAP LOAD FILE="../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.13-16.46.32:169][  0]LightingResults: New page: Lighting Build
+[2017.12.13-16.46.32:292][  0]MapCheck: New page: Map Check
+[2017.12.13-16.46.32:292][  0]LightingResults: New page: Lighting Build
+[2017.12.13-16.46.35:399][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2017.12.13-16.46.35:434][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2017.12.13-16.46.35:436][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] Set Input Mode UI Only (Deprecated)  is deprecated; Use the new version of Set Input Mode UI Only instead
+[2017.12.13-16.46.35:504][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0066.36] Compile of FirstPersonCharacter successful, but with 1 Warning(s) [in 180 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2017.12.13-16.46.35:504][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] [0066.36] Compile of ThirdPersonCharacterThomas successful, but with 2 Warning(s) [in 181 ms] (/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/ThirdPersonCharacterThomas.ThirdPersonCharacterThomas)
+[2017.12.13-16.46.37:252][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.13-16.46.37:253][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/door2.uasset.
+[2017.12.13-16.46.37:253][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/door2 : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.13-16.46.37:254][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.13-16.46.37:254][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/door2.uasset.
+[2017.12.13-16.46.37:254][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/door2 : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.13-16.46.37:255][  0]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
+[2017.12.13-16.46.37:255][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/door2.uasset.
+[2017.12.13-16.46.37:255][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/door2 : Can't find file for asset. /Game/modular/indoor/doorCoridor
+[2017.12.13-16.46.37:255][  0]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
+[2017.12.13-16.46.37:255][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/door2.uasset.
+[2017.12.13-16.46.37:255][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/door2 : Can't find file for asset. /Game/modular/indoor/doorCoridor
+[2017.12.13-16.46.37:264][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.13-16.46.37:264][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
+[2017.12.13-16.46.37:264][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.13-16.46.37:264][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.13-16.46.37:264][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
+[2017.12.13-16.46.37:264][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.13-16.46.37:264][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.13-16.46.37:264][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
+[2017.12.13-16.46.37:264][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.13-16.46.37:264][  0]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
+[2017.12.13-16.46.37:265][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
+[2017.12.13-16.46.37:265][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/modular/indoor/doorCoridor
+[2017.12.13-16.46.37:265][  0]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
+[2017.12.13-16.46.37:265][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
+[2017.12.13-16.46.37:265][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/modular/indoor/doorCoridor
+[2017.12.13-16.46.37:269][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.13-16.46.37:269][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_33
+[2017.12.13-16.46.37:269][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
+[2017.12.13-16.46.37:269][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_33
+[2017.12.13-16.46.37:269][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.13-16.46.37:269][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.13-16.46.37:269][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_33
+[2017.12.13-16.46.37:269][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
+[2017.12.13-16.46.37:269][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_33
+[2017.12.13-16.46.37:269][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.13-16.46.37:269][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.13-16.46.37:269][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_2
+[2017.12.13-16.46.37:269][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
+[2017.12.13-16.46.37:269][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_2
+[2017.12.13-16.46.37:269][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.13-16.46.37:270][  0]LogLinker: Warning: Can't find file '/Game/customCharacter/CharacterBP'
+[2017.12.13-16.46.37:270][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_2
+[2017.12.13-16.46.37:270][  0]LogLinker: Warning: Can't find file for asset '/Game/customCharacter/CharacterBP' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
+[2017.12.13-16.46.37:270][  0]LoadErrors: Failed to load /Game/customCharacter/CharacterBP.CharacterBP_C Referenced by K2Node_DynamicCast_2
+[2017.12.13-16.46.37:270][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/customCharacter/CharacterBP
+[2017.12.13-16.46.37:272][  0]LogLinker: Warning: Can't find file '/Game/modular/indoor/doorCoridor'
+[2017.12.13-16.46.37:272][  0]LoadErrors: Failed to load /Game/modular/indoor/doorCoridor.doorCoridor Referenced by doorCoridor_GEN_VARIABLE
+[2017.12.13-16.46.37:272][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/indoor/doorCoridor' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/wall/doorButton/button4b.uasset.
+[2017.12.13-16.46.37:272][  0]LoadErrors: Failed to load /Game/modular/indoor/doorCoridor.doorCoridor Referenced by doorCoridor_GEN_VARIABLE
+[2017.12.13-16.46.37:272][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/wall/doorButton/button4b : Can't find file for asset. /Game/modular/indoor/doorCoridor
+[2017.12.13-16.46.37:273][  0]LogBlueprint: Warning: [Compiler door2] Get : 'StaticMeshComponent' variable not found. Base class was probably changed. /Game/PabloPuzzle/modular/wall/doorButton/door2.door2
+[2017.12.13-16.46.37:292][  0]LogBlueprint: Error: [Compiler door2] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.13-16.46.37:292][  0]LogBlueprint: Error: [Compiler door2] Can't connect pins  Other Actor  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.13-16.46.37:293][  0]LogBlueprint: Error: [Compiler door2] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.13-16.46.37:293][  0]LogBlueprint: Error: [Compiler door2] Can't connect pins  Object  and  Other Actor : This cast has an invalid target type (was the class deleted without a redirect?).
+[2017.12.13-16.46.37:295][  0]LogBlueprint: Warning: [Compiler door2] [0068.15] Compile of door2 failed. 4 Fatal Issue(s) 1 Warning(s) [in 22 ms] (/Game/PabloPuzzle/modular/wall/doorButton/door2.door2)
+[2017.12.13-16.46.40:031][  0]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.13-16.46.40:573][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.13-16.46.40:710][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.13-16.46.40:800][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 89.804ms to complete.
+[2017.12.13-16.46.40:800][  0]LogFileHelpers: Loading map 'Luis_Nightmare' took 8.699
+[2017.12.13-16.46.41:815][  0]LogCollectionManager: Loaded 0 collections in 0.010674 seconds
+[2017.12.13-16.46.41:941][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' took 0.01s
+[2017.12.13-16.46.41:941][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/PaopuKid/Collections/' took 0.01s
+[2017.12.13-16.46.41:941][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' took 0.01s
+[2017.12.13-16.46.41:941][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.13-16.46.41:963][  0]LogContentBrowser: Native class hierarchy populated in 0.0091 seconds. Added 2363 classes and 519 folders.
+[2017.12.13-16.46.42:038][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.13-16.46.42:607][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.13-16.46.42:701][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.13-16.46.43:479][  0]LogSlate: Took 0.027546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.13-16.46.43:520][  0]LogSlate: Took 0.023525 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.13-16.46.43:581][  0]LogSlate: Took 0.039938 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.13-16.46.43:930][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2017.12.13-16.46.44:486][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.13-16.46.44:486][  0]LogLoad: (Engine Initialization) Total time: 75.34 seconds
+[2017.12.13-16.46.44:486][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.13-16.46.44:486][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.13-16.46.44:984][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.13-16.46.45:246][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.36s
+[2017.12.13-16.46.45:650][  2]LogSlate: Took 0.014567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.13-16.46.45:933][  3]LogAssetRegistry: Asset discovery search completed in 44.4914 seconds
+[2017.12.13-16.46.45:945][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.13-16.46.45:945][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000093 seconds (updated 0 objects)
+[2017.12.13-16.47.14:879][851]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2017.12.13-16.47.25:671][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening775)
+[2017.12.13-16.47.26:606][476]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
