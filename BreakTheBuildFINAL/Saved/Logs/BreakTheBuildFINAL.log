@@ -1,4 +1,4 @@
-﻿Log file open, 12/15/17 15:52:00
+﻿Log file open, 12/15/17 22:32:20
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: BreakTheBuildFINAL
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-2091555517) SRandInit(-2091555517).
+LogInit: Display: RandInit(503139637) SRandInit(503139637).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.475153
+LogStats: Stats thread started at 0.240064
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -192,102 +192,231 @@ LogInit: Compiled with Visual C++: 19.00.24215.01
 LogInit: Build Configuration: Development
 LogInit: Branch Name: ++UE4+Release-4.18
 LogInit: Command line:  
-LogInit: Base directory: D:/Program files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.12.15-15.52.02:951][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.15-15.52.02:951][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.12.15-15.52.03:000][  0]LogInit: Computer: MSI
-[2017.12.15-15.52.03:000][  0]LogInit: User: PaopuKid
-[2017.12.15-15.52.03:000][  0]LogInit: CPU Page size=4096, Cores=4
-[2017.12.15-15.52.03:000][  0]LogInit: High frequency timer resolution =2.742189 MHz
-[2017.12.15-15.52.03:000][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2017.12.15-15.52.03:001][  0]LogMemory: Platform Memory Stats for Windows
-[2017.12.15-15.52.03:001][  0]LogMemory: Process Physical Memory: 272.28 MB used, 272.28 MB peak
-[2017.12.15-15.52.03:001][  0]LogMemory: Process Virtual Memory: 263.54 MB used, 263.54 MB peak
-[2017.12.15-15.52.03:001][  0]LogMemory: Physical Memory: 3912.68 MB used,  4164.47 MB free, 8077.16 MB total
-[2017.12.15-15.52.03:001][  0]LogMemory: Virtual Memory: 638.23 MB used,  4164.47 MB free, 134217728.00 MB total
-[2017.12.15-15.52.03:448][  0]LogInit: Overriding language with editor language configuration option (en).
-[2017.12.15-15.52.03:448][  0]LogInit: Overriding locale with editor locale configuration option (en).
-[2017.12.15-15.52.04:273][  0]LogInit: Setting process to per monitor DPI aware
-[2017.12.15-15.52.05:101][  0]LogD3D11RHI: D3D11 adapters:
-[2017.12.15-15.52.05:181][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
-[2017.12.15-15.52.05:181][  0]LogD3D11RHI:       3019/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2017.12.15-15.52.05:192][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2017.12.15-15.52.05:192][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2017.12.15-15.52.05:195][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.12.15-15.52.05:195][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.12.15-15.52.05:195][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.12.15-15.52.05:205][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.12.15-15.52.05:205][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
-[2017.12.15-15.52.05:205][  0]LogWindows: EnumDisplayDevices:
-[2017.12.15-15.52.05:205][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
-[2017.12.15-15.52.05:206][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2017.12.15-15.52.05:206][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2017.12.15-15.52.05:206][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.15-15.52.05:206][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.15-15.52.05:206][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.15-15.52.05:206][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.15-15.52.05:207][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2017.12.15-15.52.05:207][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
-[2017.12.15-15.52.05:207][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
-[2017.12.15-15.52.05:207][  0]LogD3D11RHI:      Driver Date: 5-1-2017
-[2017.12.15-15.52.05:207][  0]LogRHI: Texture pool is 2113 MB (70% of 3019 MB)
-[2017.12.15-15.52.05:253][  0]LogD3D11RHI: Async texture creation enabled
-[2017.12.15-15.52.05:275][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2017.12.15-15.52.05:276][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Intermediate/Shaders/WorkingDirectory/4352/).
-[2017.12.15-15.52.05:276][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PaopuKid/AppData/Local/Temp/UnrealShaderWorkingDir/B13609C9494D79088E7AD3989002D8AC/'.
-[2017.12.15-15.52.05:276][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2017.12.15-15.52.07:187][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2017.12.15-15.52.07:247][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2017.12.15-15.52.07:294][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2017.12.15-15.52.07:339][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2017.12.15-15.52.07:390][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2017.12.15-15.52.07:426][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2017.12.15-15.52.07:489][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.12.15-15.52.07:539][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2017.12.15-15.52.07:568][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2017.12.15-15.52.07:603][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2017.12.15-15.52.07:637][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2017.12.15-15.52.07:673][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2017.12.15-15.52.07:709][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2017.12.15-15.52.07:745][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2017.12.15-15.52.07:904][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2017.12.15-15.52.07:905][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.12.15-15.52.07:956][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2017.12.15-15.52.07:988][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2017.12.15-15.52.08:096][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2017.12.15-15.52.08:129][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2017.12.15-15.52.08:168][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2017.12.15-15.52.08:203][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.12.15-15.52.08:257][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2017.12.15-15.52.08:302][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2017.12.15-15.52.08:302][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2017.12.15-15.52.09:275][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2017.12.15-15.52.09:641][  0]LogDerivedDataCache: Loaded boot cache 0.37s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.15-15.52.09:642][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2017.12.15-15.52.09:642][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.12.15-15.52.09:642][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.12.15-15.52.09:642][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.12.15-15.52.09:642][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.12.15-15.52.09:739][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.12.15-15.52.09:752][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PaopuKid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.12.15-15.52.09:765][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2017.12.15-15.52.09:766][  0]LogSlate: Using Freetype 2.6.0
-[2017.12.15-15.52.09:835][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.15-15.52.09:835][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.15-15.52.12:438][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.15-15.52.13:109][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.12.15-15.52.13:136][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.12.15-15.52.13:136][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.12.15-15.52.13:136][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2017.12.15-15.52.13:136][  0]LogMeshReduction: No automatic mesh merging module available
-[2017.12.15-15.52.13:136][  0]LogMeshMerging: No automatic mesh merging module available
-[2017.12.15-15.52.13:193][  0]LogNetVersion: BreakTheBuildFINAL , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4088768677)
-[2017.12.15-15.52.13:403][  0]LogAssetRegistry: FAssetRegistry took 0.0280 seconds to start up
-[2017.12.15-15.52.14:276][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.050849 seconds
-[2017.12.15-15.52.14:286][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2017.12.15-15.52.14:286][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
-[2017.12.15-15.52.14:286][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.12.15-15.52.14:330][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.15-22.32.22:061][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.15-22.32.22:061][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.15-22.32.22:072][  0]LogInit: Computer: DESKTOP-UTLPHC3
+[2017.12.15-22.32.22:072][  0]LogInit: User: Leszek
+[2017.12.15-22.32.22:072][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.15-22.32.22:072][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2017.12.15-22.32.22:072][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.12.15-22.32.22:072][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.15-22.32.22:072][  0]LogMemory: Process Physical Memory: 275.55 MB used, 275.55 MB peak
+[2017.12.15-22.32.22:072][  0]LogMemory: Process Virtual Memory: 269.88 MB used, 269.88 MB peak
+[2017.12.15-22.32.22:072][  0]LogMemory: Physical Memory: 5505.06 MB used,  10730.88 MB free, 16235.95 MB total
+[2017.12.15-22.32.22:072][  0]LogMemory: Virtual Memory: 677.89 MB used,  10730.88 MB free, 134217728.00 MB total
+[2017.12.15-22.32.22:460][  0]LogInit: Using OS detected language (en-US).
+[2017.12.15-22.32.22:460][  0]LogInit: Using OS detected locale (en-GB).
+[2017.12.15-22.32.22:464][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.12.15-22.32.22:880][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.15-22.32.23:172][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.15-22.32.23:222][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2017.12.15-22.32.23:222][  0]LogD3D11RHI:       4031/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.15-22.32.23:228][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.12.15-22.32.23:229][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.15-22.32.23:230][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.15-22.32.23:230][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.15-22.32.23:230][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.15-22.32.23:238][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.15-22.32.23:238][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2017.12.15-22.32.23:238][  0]LogWindows: EnumDisplayDevices:
+[2017.12.15-22.32.23:238][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2017.12.15-22.32.23:238][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.12.15-22.32.23:238][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.12.15-22.32.23:239][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2017.12.15-22.32.23:239][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2017.12.15-22.32.23:239][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2017.12.15-22.32.23:239][  0]LogD3D11RHI:      Driver Date: Unknown
+[2017.12.15-22.32.23:239][  0]LogRHI: Texture pool is 2821 MB (70% of 4031 MB)
+[2017.12.15-22.32.23:264][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.15-22.32.23:279][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.15-22.32.23:280][  0]LogShaderCompilers: Guid format shader working directory is -45 characters bigger than the processId version (../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Intermediate/Shaders/WorkingDirectory/92/).
+[2017.12.15-22.32.23:280][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Leszek/AppData/Local/Temp/UnrealShaderWorkingDir/E2239B354C16AF7E136EB09E9507AA45/'.
+[2017.12.15-22.32.23:280][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.15-22.32.24:228][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.15-22.32.24:300][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.15-22.32.24:372][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.15-22.32.24:444][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.15-22.32.24:518][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.15-22.32.24:591][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.15-22.32.24:661][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.15-22.32.24:731][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.15-22.32.24:795][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.15-22.32.24:867][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.15-22.32.24:937][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.15-22.32.25:009][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.15-22.32.25:082][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.15-22.32.25:151][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.15-22.32.25:292][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.15-22.32.25:292][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.15-22.32.25:365][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.15-22.32.25:423][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.15-22.32.25:543][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.15-22.32.25:599][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.15-22.32.25:668][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.15-22.32.25:738][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.15-22.32.25:810][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.15-22.32.25:880][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.15-22.32.25:881][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.15-22.32.26:623][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.15-22.32.26:682][  0]LogDerivedDataCache: Loaded boot cache 0.06s 78MB C:/Users/Leszek/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.15-22.32.26:683][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Leszek/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.15-22.32.26:683][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.15-22.32.26:683][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.15-22.32.26:683][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.15-22.32.26:683][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.15-22.32.26:698][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.15-22.32.26:711][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Leszek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.15-22.32.26:720][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.15-22.32.26:720][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.15-22.32.26:721][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.15-22.32.26:721][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.15-22.32.27:086][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.15-22.32.27:467][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.15-22.32.27:531][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.15-22.32.27:531][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.15-22.32.27:531][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.15-22.32.27:531][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.15-22.32.27:531][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.15-22.32.27:636][  0]LogNetVersion: BreakTheBuildFINAL , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4088768677)
+[2017.12.15-22.32.27:830][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2017.12.15-22.32.28:372][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.062912 seconds
+[2017.12.15-22.32.28:377][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.15-22.32.28:377][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.15-22.32.28:377][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.15-22.32.28:458][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.15-22.32.31:871][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.15-22.32.31:925][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.15-22.32.33:079][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.15-22.32.33:657][  0]SourceControl: Source control is disabled
+[2017.12.15-22.32.33:657][  0]SourceControl: Source control is disabled
+[2017.12.15-22.32.33:731][  0]SourceControl: Source control is disabled
+[2017.12.15-22.32.33:808][  0]SourceControl: Source control is disabled
+[2017.12.15-22.32.34:970][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.15-22.32.35:355][  0]LogOcInput: OculusInput pre-init called
+[2017.12.15-22.32.35:745][  0]LogEngine: Initializing Engine...
+[2017.12.15-22.32.35:748][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.15-22.32.35:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.15-22.32.35:949][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.15-22.32.36:138][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.15-22.32.36:148][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.12.15-22.32.37:289][  0]LogInit: FAudioDevice initialized.
+[2017.12.15-22.32.37:344][  0]LogDerivedDataCache: Saved boot cache 0.05s 78MB C:/Users/Leszek/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.15-22.32.37:351][  0]LogInit: Texture streaming: Enabled
+[2017.12.15-22.32.37:501][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.15-22.32.37:693][  0]LogInit: Transaction tracking system initialized
+[2017.12.15-22.32.38:179][  0]BlueprintLog: New page: Editor Load
+[2017.12.15-22.32.39:855][  0]LocalizationService: Localization service is disabled
+[2017.12.15-22.32.40:996][  0]LogConsoleResponse: Display: 
+[2017.12.15-22.32.41:197][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.15-22.32.41:197][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.15-22.32.41:197][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.15-22.32.42:394][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.02s
+[2017.12.15-22.32.42:937][  0]SourceControl: Source control is disabled
+[2017.12.15-22.32.42:937][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.15-22.32.42:938][  0]LightingResults: New page: Lighting Build
+[2017.12.15-22.32.42:999][  0]MapCheck: New page: Map Check
+[2017.12.15-22.32.42:999][  0]LightingResults: New page: Lighting Build
+[2017.12.15-22.32.43:189][  0]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: Kategorie String: "NewEnumerator3"  Struct: /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataStruct.ItemDataStruct 
+[2017.12.15-22.32.43:194][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator0'
+[2017.12.15-22.32.43:194][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator1'
+[2017.12.15-22.32.43:194][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator0'
+[2017.12.15-22.32.43:194][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator1'
+[2017.12.15-22.32.43:194][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Kategorie' with an invalid value of 'Kategorie::NewEnumerator1'
+[2017.12.15-22.32.43:194][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator0'
+[2017.12.15-22.32.43:194][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator1'
+[2017.12.15-22.32.43:353][  0]LogBlueprint: Error: [Compiler ActionsWidget] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2017.12.15-22.32.43:372][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2017.12.15-22.32.43:375][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2017.12.15-22.32.43:433][  0]LogBlueprint: Warning: [Compiler ActionsWidget] [0024.35] Compile of ActionsWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 108 ms] (/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/ActionsWidget.ActionsWidget)
+[2017.12.15-22.32.43:433][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0024.35] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 108 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2017.12.15-22.32.43:743][  0]LogBlueprint: Warning: [Compiler door2] Get : 'StaticMeshComponent' variable not found. Base class was probably changed. /Game/PabloPuzzle/modular/wall/doorButton/door2.door2
+[2017.12.15-22.32.43:754][  0]LogBlueprint: Warning: [Compiler door2] [0024.67] Compile of door2 successful, but with 1 Warning(s) [in 11 ms] (/Game/PabloPuzzle/modular/wall/doorButton/door2.door2)
+[2017.12.15-22.32.45:218][  0]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.15-22.32.45:325][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.15-22.32.45:396][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.15-22.32.45:499][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 102.724ms to complete.
+[2017.12.15-22.32.45:499][  0]LogFileHelpers: Loading map 'Luis_Nightmare' took 2.562
+[2017.12.15-22.32.45:564][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.12.15-22.32.45:670][  0]LogCollectionManager: Loaded 0 collections in 0.001428 seconds
+[2017.12.15-22.32.45:772][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' took 0.01s
+[2017.12.15-22.32.45:772][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/Leszek/Collections/' took 0.01s
+[2017.12.15-22.32.45:772][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' took 0.01s
+[2017.12.15-22.32.45:772][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.12.15-22.32.45:780][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 2363 classes and 519 folders.
+[2017.12.15-22.32.45:875][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2017.12.15-22.32.45:918][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2017.12.15-22.32.45:983][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.15-22.32.46:002][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.15-22.32.46:005][  0]LogSlate: Took 0.000245 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.15-22.32.46:010][  0]LogSlate: Took 0.000225 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.15-22.32.46:111][  0]LogRenderer: Reallocating scene render targets to support 964x624 Format 10 NumSamples 1 (Frame:1).
+[2017.12.15-22.32.46:344][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2017.12.15-22.32.46:344][  0]LogLoad: (Engine Initialization) Total time: 27.26 seconds
+[2017.12.15-22.32.46:344][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.15-22.32.46:344][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.15-22.32.46:384][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.15-22.32.46:407][  0]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.15-22.32.46:433][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.07s
+[2017.12.15-22.32.46:443][  1]LogAssetRegistry: Asset discovery search completed in 18.6350 seconds
+[2017.12.15-22.32.46:446][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.15-22.32.46:446][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000049 seconds (updated 0 objects)
+[2017.12.15-22.32.49:372][320]LogSlate: Took 0.000231 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.15-22.34.38:182][675]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.15-22.34.38:287][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.15-22.34.38:287][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.15-22.35.22:917][263]LogSlate: Took 0.000147 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.15-22.35.22:931][263]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Leszek/Pictures/Maya Projects 2017/EXPORT/UV_pedestal.obj)
+[2017.12.15-22.35.22:953][263]LogFbx: Loading FBX Scene from ../../../../../../Users/Leszek/Pictures/Maya Projects 2017/EXPORT/UV_pedestal.obj
+[2017.12.15-22.35.22:968][263]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.15-22.35.24:167][263]LogFbx: Loading FBX Scene from ../../../../../../Users/Leszek/Pictures/Maya Projects 2017/EXPORT/UV_pedestal.obj
+[2017.12.15-22.35.24:183][263]LogFbx: FBX Scene Loaded Succesfully
+[2017.12.15-22.35.24:187][263]LogMaterial: Missing cached shader map for material initialShadingGroup, compiling. 
+[2017.12.15-22.35.24:222][263]LogFbx: Warning: Triangulating static mesh pCylinder14
+[2017.12.15-22.35.24:262][263]LogStaticMesh: Building static mesh UV_pedestal...
+[2017.12.15-22.35.24:291][263]LogStaticMesh: Built static mesh [0.03s] /Game/GabiAsset/Objects/UV_pedestal.UV_pedestal
+[2017.12.15-22.35.36:126][283]LogSavePackage: Save=10.84ms
+[2017.12.15-22.35.36:126][283]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Pedestal18B0B6A44BBF4A61A5452E9CF2CDECC6.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Pedestal.uasset'
+[2017.12.15-22.35.36:130][283]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Pedestal.uasset
+[2017.12.15-22.35.37:601][377]LogActorFactory: Actor Factory created Pedestal
+[2017.12.15-22.35.38:171][436]LogActorFactory: Actor Factory created Pedestal
+[2017.12.15-22.36.28:215][898]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Pedestal)
+[2017.12.15-22.36.30:642][105]Cmd: ACTOR BAKEPREPIVOT
+[2017.12.15-22.36.38:862][998]Cmd: TRANSACTION UNDO
+[2017.12.15-22.36.38:862][998]LogEditorTransaction: Undo Scale Actors
+[2017.12.15-22.36.57:778][919]LogEditorViewport: Clicking on Actor (LMB): Altar_C (Altar4)
+[2017.12.15-22.37.00:078][109]LogEditorViewport: Clicking on Actor (LMB): KeyRed_C (KeyRed2)
+[2017.12.15-22.37.03:052][361]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall82)
+[2017.12.15-22.37.03:441][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal)
+[2017.12.15-22.37.13:079][209]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Hedge_Wall83)
+[2017.12.15-22.37.15:820][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal)
+[2017.12.15-22.37.18:893][706]LogEditorViewport: Clicking on Actor (LMB): KeyRed_C (KeyRed2)
+[2017.12.15-22.37.22:002][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal)
+[2017.12.15-22.37.35:303][137]LogEditorViewport: Clicking on Actor (LMB): KeyRed_C (KeyRed2)
+[2017.12.15-22.37.46:558][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal)
+[2017.12.15-22.37.47:426][194]Cmd: EDIT COPY
+[2017.12.15-22.37.47:634][212]Cmd: EDIT PASTE
+[2017.12.15-22.37.51:156][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall81)
+[2017.12.15-22.37.51:716][567]LogEditorViewport: Clicking on Actor (LMB): Altar_C (Altar3)
+[2017.12.15-22.37.52:748][660]Cmd: DELETE
+[2017.12.15-22.37.52:748][660]Cmd: ACTOR DELETE
+[2017.12.15-22.37.52:787][660]LogEditorActor: Deleted Actor: Altar_C
+[2017.12.15-22.37.52:805][660]LogEditorActor: Deleted 1 Actors (0.057 secs)
+[2017.12.15-22.37.53:424][725]LogEditorViewport: Clicking on Actor (LMB): Altar_C (Altar4)
+[2017.12.15-22.37.53:483][726]Cmd: DELETE
+[2017.12.15-22.37.53:483][726]Cmd: ACTOR DELETE
+[2017.12.15-22.37.53:520][726]LogEditorActor: Deleted Actor: Altar_C
+[2017.12.15-22.37.53:535][726]LogEditorActor: Deleted 1 Actors (0.052 secs)
+[2017.12.15-22.37.56:338][ 26]LogEditorViewport: Clicking on Actor (LMB): KeyBlue_C (KeyBlue3)
+[2017.12.15-22.38.02:928][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall82)
+[2017.12.15-22.38.05:372][800]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall128)
+[2017.12.15-22.38.07:156][950]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.15-22.38.07:174][950]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.15-22.38.07:174][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.15-22.38.19:623][527]LogSavePackage: Save=2458.69ms
+[2017.12.15-22.38.19:623][527]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare06D444C04A9B9CF04BEF1ABEAC195E6A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2017.12.15-22.38.19:628][527]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2017.12.15-22.38.19:657][527]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
