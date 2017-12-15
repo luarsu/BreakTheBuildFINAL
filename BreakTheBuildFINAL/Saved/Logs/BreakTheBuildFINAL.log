@@ -1,4 +1,4 @@
-﻿Log file open, 12/14/17 21:44:26
+﻿Log file open, 12/15/17 10:54:15
 LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
 LogWindows: File 'aqProf.dll' does not exist
 LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
@@ -9,12 +9,12 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: BreakTheBuildFINAL
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-284705838) SRandInit(-284705838).
+LogInit: Display: RandInit(423080311) SRandInit(423080312).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
 LogInit: Registered custom module enumerator with build ID '3709383'
 LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
-LogStats: Stats thread started at 0.160724
+LogStats: Stats thread started at 2.718757
 LogD3D11RHI: Aftermath initialized
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
 LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
@@ -196,648 +196,217 @@ LogInit: Base directory: D:/Program files (x86)/Epic Games/UE_4.18/Engine/Binari
 LogInit: Installed Engine Build: 1
 LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
 LogInit: Object subsystem initialized
-[2017.12.14-21.44.28:241][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.14-21.44.28:241][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
-[2017.12.14-21.44.28:286][  0]LogInit: Computer: MSI
-[2017.12.14-21.44.28:286][  0]LogInit: User: PaopuKid
-[2017.12.14-21.44.28:286][  0]LogInit: CPU Page size=4096, Cores=4
-[2017.12.14-21.44.28:286][  0]LogInit: High frequency timer resolution =2.742191 MHz
-[2017.12.14-21.44.28:286][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
-[2017.12.14-21.44.28:286][  0]LogMemory: Platform Memory Stats for Windows
-[2017.12.14-21.44.28:286][  0]LogMemory: Process Physical Memory: 274.00 MB used, 274.00 MB peak
-[2017.12.14-21.44.28:286][  0]LogMemory: Process Virtual Memory: 271.70 MB used, 271.70 MB peak
-[2017.12.14-21.44.28:286][  0]LogMemory: Physical Memory: 5902.29 MB used,  2174.87 MB free, 8077.16 MB total
-[2017.12.14-21.44.28:286][  0]LogMemory: Virtual Memory: 646.23 MB used,  2174.87 MB free, 134217728.00 MB total
-[2017.12.14-21.44.28:744][  0]LogInit: Overriding language with editor language configuration option (en).
-[2017.12.14-21.44.28:744][  0]LogInit: Overriding locale with editor locale configuration option (en).
-[2017.12.14-21.44.29:434][  0]LogInit: Setting process to per monitor DPI aware
-[2017.12.14-21.44.30:087][  0]LogD3D11RHI: D3D11 adapters:
-[2017.12.14-21.44.30:163][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
-[2017.12.14-21.44.30:163][  0]LogD3D11RHI:       3019/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
-[2017.12.14-21.44.30:175][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
-[2017.12.14-21.44.30:175][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
-[2017.12.14-21.44.30:176][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
-[2017.12.14-21.44.30:176][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
-[2017.12.14-21.44.30:176][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
-[2017.12.14-21.44.30:187][  0]LogD3D11RHI: Creating new Direct3DDevice
-[2017.12.14-21.44.30:187][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
-[2017.12.14-21.44.30:187][  0]LogWindows: EnumDisplayDevices:
-[2017.12.14-21.44.30:187][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
-[2017.12.14-21.44.30:187][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2017.12.14-21.44.30:188][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
-[2017.12.14-21.44.30:188][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.14-21.44.30:188][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.14-21.44.30:188][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.14-21.44.30:188][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
-[2017.12.14-21.44.30:188][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
-[2017.12.14-21.44.30:188][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
-[2017.12.14-21.44.30:188][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
-[2017.12.14-21.44.30:188][  0]LogD3D11RHI:      Driver Date: 5-1-2017
-[2017.12.14-21.44.30:188][  0]LogRHI: Texture pool is 2113 MB (70% of 3019 MB)
-[2017.12.14-21.44.30:221][  0]LogD3D11RHI: Async texture creation enabled
-[2017.12.14-21.44.30:237][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
-[2017.12.14-21.44.30:238][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Intermediate/Shaders/WorkingDirectory/54284/).
-[2017.12.14-21.44.30:238][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PaopuKid/AppData/Local/Temp/UnrealShaderWorkingDir/BD0E2D7D4540DEAAD4A8CAB26B19F273/'.
-[2017.12.14-21.44.30:238][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
-[2017.12.14-21.44.31:657][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
-[2017.12.14-21.44.31:692][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
-[2017.12.14-21.44.31:736][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
-[2017.12.14-21.44.31:777][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
-[2017.12.14-21.44.31:823][  0]LogTemp: Display: Loaded TP MacTargetPlatform
-[2017.12.14-21.44.31:861][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
-[2017.12.14-21.44.31:902][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
-[2017.12.14-21.44.31:945][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
-[2017.12.14-21.44.31:977][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
-[2017.12.14-21.44.32:012][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
-[2017.12.14-21.44.32:047][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
-[2017.12.14-21.44.32:083][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
-[2017.12.14-21.44.32:120][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
-[2017.12.14-21.44.32:155][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
-[2017.12.14-21.44.32:286][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
-[2017.12.14-21.44.32:286][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
-[2017.12.14-21.44.32:332][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
-[2017.12.14-21.44.32:357][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
-[2017.12.14-21.44.32:475][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
-[2017.12.14-21.44.32:496][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
-[2017.12.14-21.44.32:534][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
-[2017.12.14-21.44.32:569][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
-[2017.12.14-21.44.32:604][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
-[2017.12.14-21.44.32:639][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
-[2017.12.14-21.44.32:639][  0]LogTargetPlatformManager: Display: Building Assets For Windows
-[2017.12.14-21.44.33:232][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
-[2017.12.14-21.44.33:579][  0]LogDerivedDataCache: Loaded boot cache 0.35s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.14-21.44.33:580][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
-[2017.12.14-21.44.33:580][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
-[2017.12.14-21.44.33:580][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
-[2017.12.14-21.44.33:580][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
-[2017.12.14-21.44.33:580][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
-[2017.12.14-21.44.33:632][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
-[2017.12.14-21.44.33:645][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PaopuKid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
-[2017.12.14-21.44.33:656][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
-[2017.12.14-21.44.33:656][  0]LogSlate: Using Freetype 2.6.0
-[2017.12.14-21.44.33:686][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.14-21.44.33:686][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
-[2017.12.14-21.44.36:333][  0]LogInit: Selected Device Profile: [Windows]
-[2017.12.14-21.44.36:771][  0]LogSimplygon: Simplygon DLL not present - disabling.
-[2017.12.14-21.44.36:797][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
-[2017.12.14-21.44.36:797][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
-[2017.12.14-21.44.36:797][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
-[2017.12.14-21.44.36:797][  0]LogMeshReduction: No automatic mesh merging module available
-[2017.12.14-21.44.36:797][  0]LogMeshMerging: No automatic mesh merging module available
-[2017.12.14-21.44.36:822][  0]LogNetVersion: BreakTheBuildFINAL , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4088768677)
-[2017.12.14-21.44.36:984][  0]LogAssetRegistry: FAssetRegistry took 0.0255 seconds to start up
-[2017.12.14-21.44.37:936][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.044935 seconds
-[2017.12.14-21.44.37:941][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
-[2017.12.14-21.44.37:941][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
-[2017.12.14-21.44.37:941][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
-[2017.12.14-21.44.37:990][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
-[2017.12.14-21.44.43:967][  0]LogTcpMessaging: Initializing TcpMessaging bridge
-[2017.12.14-21.44.44:007][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
-[2017.12.14-21.44.44:667][  0]LogMaterial: Uniform references updated for custom material expression Custom.
-[2017.12.14-21.44.45:033][  0]SourceControl: Source control is disabled
-[2017.12.14-21.44.45:033][  0]SourceControl: Source control is disabled
-[2017.12.14-21.44.45:091][  0]SourceControl: Source control is disabled
-[2017.12.14-21.44.45:138][  0]SourceControl: Source control is disabled
-[2017.12.14-21.44.45:898][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
-[2017.12.14-21.44.46:119][  0]LogOcInput: OculusInput pre-init called
-[2017.12.14-21.44.46:419][  0]LogEngine: Initializing Engine...
-[2017.12.14-21.44.46:421][  0]LogHMD: Failed to initialize OpenVR with code 110
-[2017.12.14-21.44.46:661][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
-[2017.12.14-21.44.46:661][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
-[2017.12.14-21.44.46:805][  0]LogAIModule: Creating AISystem for world Untitled
-[2017.12.14-21.44.46:819][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.14-21.44.46:876][  0]LogInit: FAudioDevice initialized.
-[2017.12.14-21.44.46:964][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
-[2017.12.14-21.44.46:980][  0]LogInit: Texture streaming: Enabled
-[2017.12.14-21.44.47:085][  0]LogEngineSessionManager: EngineSessionManager initialized
-[2017.12.14-21.44.47:190][  0]LogInit: Transaction tracking system initialized
-[2017.12.14-21.44.47:454][  0]BlueprintLog: New page: Editor Load
-[2017.12.14-21.44.48:301][  0]LocalizationService: Localization service is disabled
-[2017.12.14-21.44.49:043][  0]LogConsoleResponse: Display: 
-[2017.12.14-21.44.49:512][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
-[2017.12.14-21.44.49:539][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.03s
-[2017.12.14-21.44.49:539][  0]LogCook: Display: Mobile HDR setting 1
-[2017.12.14-21.44.49:539][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
-[2017.12.14-21.44.50:918][  0]SourceControl: Source control is disabled
-[2017.12.14-21.44.50:919][  0]Cmd: MAP LOAD FILE="../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
-[2017.12.14-21.44.50:920][  0]LightingResults: New page: Lighting Build
-[2017.12.14-21.44.50:956][  0]MapCheck: New page: Map Check
-[2017.12.14-21.44.50:956][  0]LightingResults: New page: Lighting Build
-[2017.12.14-21.44.51:813][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
-[2017.12.14-21.44.51:847][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
-[2017.12.14-21.44.51:849][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] Set Input Mode UI Only (Deprecated)  is deprecated; Use the new version of Set Input Mode UI Only instead
-[2017.12.14-21.44.51:904][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0028.89] Compile of FirstPersonCharacter successful, but with 1 Warning(s) [in 145 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
-[2017.12.14-21.44.51:904][  0]LogBlueprint: Warning: [Compiler ThirdPersonCharacterThomas] [0028.89] Compile of ThirdPersonCharacterThomas successful, but with 2 Warning(s) [in 145 ms] (/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/ThirdPersonCharacterThomas.ThirdPersonCharacterThomas)
-[2017.12.14-21.44.52:525][  0]LogBlueprint: Warning: [Compiler door2] Get : 'StaticMeshComponent' variable not found. Base class was probably changed. /Game/PabloPuzzle/modular/wall/doorButton/door2.door2
-[2017.12.14-21.44.52:537][  0]LogBlueprint: Warning: [Compiler door2] [0029.52] Compile of door2 successful, but with 1 Warning(s) [in 13 ms] (/Game/PabloPuzzle/modular/wall/doorButton/door2.door2)
-[2017.12.14-21.44.55:099][  0]LogAIModule: Creating AISystem for world Luis_Nightmare
-[2017.12.14-21.44.55:235][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
-[2017.12.14-21.44.55:285][  0]Cmd: MAP CHECKDEP NOCLEARLOG
-[2017.12.14-21.44.55:340][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.603ms to complete.
-[2017.12.14-21.44.55:340][  0]LogFileHelpers: Loading map 'Luis_Nightmare' took 4.421
-[2017.12.14-21.44.55:523][  0]LogCollectionManager: Loaded 0 collections in 0.000760 seconds
-[2017.12.14-21.44.55:593][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' took 0.01s
-[2017.12.14-21.44.55:593][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/PaopuKid/Collections/' took 0.01s
-[2017.12.14-21.44.55:593][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' took 0.01s
-[2017.12.14-21.44.55:593][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
-[2017.12.14-21.44.55:602][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2363 classes and 519 folders.
-[2017.12.14-21.44.55:648][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2017.12.14-21.44.56:031][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
-[2017.12.14-21.44.56:074][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
-[2017.12.14-21.44.56:180][  0]LogSlate: Took 0.010027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.14-21.44.56:184][  0]LogSlate: Took 0.001152 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
-[2017.12.14-21.44.56:200][  0]LogSlate: Took 0.010317 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2017.12.14-21.44.56:350][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
-[2017.12.14-21.44.56:686][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
-[2017.12.14-21.44.56:686][  0]LogLoad: (Engine Initialization) Total time: 33.67 seconds
-[2017.12.14-21.44.56:686][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
-[2017.12.14-21.44.56:686][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
-[2017.12.14-21.44.56:706][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
-[2017.12.14-21.44.56:740][  0]LogContentStreaming: Texture pool size now 1000 MB
-[2017.12.14-21.44.56:804][  0]LogSlate: Took 0.004310 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.14-21.44.56:834][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.11s
-[2017.12.14-21.44.56:854][  1]LogAssetRegistry: Asset discovery search completed in 19.8919 seconds
-[2017.12.14-21.44.56:857][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
-[2017.12.14-21.44.56:857][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000043 seconds (updated 0 objects)
-[2017.12.14-21.45.20:297][277]LogSlate: Took 0.000150 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.14-21.45.20:348][277]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj)
-[2017.12.14-21.45.20:374][277]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj
-[2017.12.14-21.45.20:484][277]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-21.45.31:968][277]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj
-[2017.12.14-21.45.32:080][277]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-21.45.32:082][277]LogLinker: Can't find file '/Game/GabiAsset/Objects/initialShadingGroup'
-[2017.12.14-21.45.32:082][277]LogLinker: Can't find file '/Game/GabiAsset/Objects/initialShadingGroup'
-[2017.12.14-21.45.32:114][277]LogMaterial: Missing cached shader map for material initialShadingGroup, compiling. 
-[2017.12.14-21.45.32:154][277]LogFbx: Warning: Triangulating static mesh UV_Gnome_Gate:pPlane38
-[2017.12.14-21.45.32:318][277]LogStaticMesh: Building static mesh GnomeDoor...
-[2017.12.14-21.45.32:665][277]LogStaticMesh: Built static mesh [0.35s] /Game/GabiAsset/Objects/GnomeDoor.GnomeDoor
-[2017.12.14-21.45.32:694][277]LogStaticMesh: Warning: GnomeDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
-[2017.12.14-21.45.32:694][277]LogStaticMesh: Warning: GnomeDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2017.12.14-21.45.32:753][277]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
-[2017.12.14-21.45.32:754][277]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.12.14-21.45.32:754][277]FBXImport: Warning: GnomeDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
-[2017.12.14-21.45.32:754][277]FBXImport: Warning: GnomeDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2017.12.14-21.45.52:699][392]LogRenderer: Reallocating scene render targets to support 1432x924 Format 10 NumSamples 1 (Frame:1).
-[2017.12.14-21.46.15:066][551]LogEditorFactories: Performing atomic reimport of [D:/Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj]
-[2017.12.14-21.46.15:106][551]LogFbx: Loading FBX Scene from D:/Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj
-[2017.12.14-21.46.15:235][551]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-21.46.15:240][551]LogFbx: Warning: Triangulating static mesh UV_Gnome_Gate:pPlane38
-[2017.12.14-21.46.15:389][551]LogStaticMesh: Building static mesh Gnome_Gate_BASE...
-[2017.12.14-21.46.15:686][551]LogStaticMesh: Built static mesh [0.30s] /Game/GabiAsset/Objects/Gnome_Gate_BASE.Gnome_Gate_BASE
-[2017.12.14-21.46.15:713][551]LogStaticMesh: Warning: Gnome_Gate_BASE has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
-[2017.12.14-21.46.15:713][551]LogStaticMesh: Warning: Gnome_Gate_BASE has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2017.12.14-21.46.15:750][551]LogEditorFactories: -- imported successfully
-[2017.12.14-21.46.15:756][551]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.12.14-21.46.15:756][551]FBXImport: Warning: Gnome_Gate_BASE has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
-[2017.12.14-21.46.15:756][551]FBXImport: Warning: Gnome_Gate_BASE has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2017.12.14-21.46.15:792][551]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
-[2017.12.14-21.46.18:947][740]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
-[2017.12.14-21.46.25:647][135]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (BlueDoors)
-[2017.12.14-21.46.30:242][320]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0002 seconds. Added 15 classes and 2 folders.
-[2017.12.14-21.46.30:245][320]LogInit: Transaction tracking system initialized
-[2017.12.14-21.46.30:246][320]EditorErrors: New page: Matinee Initialization
-[2017.12.14-21.46.38:469][734]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.46.39:228][776]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-21.47.09:838][554]Cmd: TRANSACTION UNDO
-[2017.12.14-21.47.09:838][554]LogEditorTransaction: Undo NewTrack
-[2017.12.14-21.47.14:797][851]Cmd: DELETE
-[2017.12.14-21.47.14:797][851]Cmd: ACTOR DELETE
-[2017.12.14-21.47.16:314][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE34)
-[2017.12.14-21.47.16:631][955]Cmd: DELETE
-[2017.12.14-21.47.16:631][955]Cmd: ACTOR DELETE
-[2017.12.14-21.47.24:558][396]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (BlueDoors)
-[2017.12.14-21.47.28:304][555]LogInit: Transaction tracking system initialized
-[2017.12.14-21.47.28:304][555]EditorErrors: New page: Matinee Initialization
-[2017.12.14-21.47.31:852][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening795)
-[2017.12.14-21.47.32:892][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.47.33:813][854]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-21.48.32:402][183]Cmd: TRANSACTION UNDO
-[2017.12.14-21.48.32:402][183]LogEditorTransaction: Undo Update Key Frame
-[2017.12.14-21.48.33:846][269]Cmd: TRANSACTION UNDO
-[2017.12.14-21.48.33:846][269]LogEditorTransaction: Undo Update Key Frame
-[2017.12.14-21.48.42:602][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening778)
-[2017.12.14-21.48.43:890][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE34)
-[2017.12.14-21.48.45:401][945]Cmd: DELETE
-[2017.12.14-21.48.45:401][945]Cmd: ACTOR DELETE
-[2017.12.14-21.48.52:088][299]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening795)
-[2017.12.14-21.48.53:099][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.48.53:916][402]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-21.48.59:630][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE34)
-[2017.12.14-21.49.00:780][807]Cmd: DELETE
-[2017.12.14-21.49.00:780][807]Cmd: ACTOR DELETE
-[2017.12.14-21.49.00:808][807]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-21.49.00:818][807]LogExit: Transaction tracking system shut down
-[2017.12.14-21.49.00:818][807]LogExit: Transaction tracking system shut down
-[2017.12.14-21.49.00:819][807]LogEditorActor: Deleted 1 Actors (0.039 secs)
-[2017.12.14-21.49.02:333][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.49.11:480][372]LogInit: Transaction tracking system initialized
-[2017.12.14-21.49.11:480][372]EditorErrors: New page: Matinee Initialization
-[2017.12.14-21.49.28:940][352]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.49.53:431][613]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.50.04:964][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.50.12:759][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.50.28:363][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.50.38:243][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE14)
-[2017.12.14-21.50.43:718][203]LogInit: Transaction tracking system initialized
-[2017.12.14-21.50.43:718][203]EditorErrors: New page: Matinee Initialization
-[2017.12.14-21.50.52:376][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
-[2017.12.14-21.50.52:808][693]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-21.51.19:246][191]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.51.20:087][236]LogSlate: Took 0.040298 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2017.12.14-21.51.28:251][660]LogInit: Transaction tracking system initialized
-[2017.12.14-21.51.28:251][660]EditorErrors: New page: Matinee Initialization
-[2017.12.14-21.51.39:754][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-21.52.46:314][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay17)
-[2017.12.14-21.52.47:133][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay17)
-[2017.12.14-21.52.47:856][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay17)
-[2017.12.14-21.54.29:808][623]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
-[2017.12.14-21.54.39:314][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE14)
-[2017.12.14-21.54.40:753][189]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-21.54.49:208][639]LogActorFactory: Actor Factory created Gnome_Gate_BASE
-[2017.12.14-21.54.49:718][669]LogActorFactory: Actor Factory created Gnome_Gate_BASE
-[2017.12.14-21.55.22:718][525]LogActorFactory: Actor Factory created GnomeDoor
-[2017.12.14-21.55.23:228][555]LogActorFactory: Actor Factory created GnomeDoor
-[2017.12.14-21.56.14:771][472]Cmd: TRANSACTION UNDO
-[2017.12.14-21.56.14:771][472]LogEditorTransaction: Undo Update Key Frame
-[2017.12.14-21.56.17:288][623]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay17)
-[2017.12.14-21.56.18:604][699]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening795)
-[2017.12.14-21.56.19:382][743]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GnomeDoor)
-[2017.12.14-21.56.25:444][ 94]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GnomeDoor)
-[2017.12.14-21.56.48:616][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GnomeDoor)
-[2017.12.14-21.57.02:015][905]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay17)
-[2017.12.14-21.57.03:114][968]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GnomeDoor)
-[2017.12.14-21.58.11:523][864]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj)
-[2017.12.14-21.58.11:538][864]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj
-[2017.12.14-21.58.11:665][864]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-21.58.27:089][864]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj
-[2017.12.14-21.58.27:212][864]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-21.58.27:213][864]LogFbx: Warning: Triangulating static mesh UV_Gnome_Gate:pPlane38
-[2017.12.14-21.58.27:347][864]LogStaticMesh: Building static mesh GnomeDoor2...
-[2017.12.14-21.58.27:649][864]LogStaticMesh: Built static mesh [0.30s] /Game/GabiAsset/Objects/GnomeDoor2.GnomeDoor2
-[2017.12.14-21.58.27:673][864]LogStaticMesh: Warning: GnomeDoor2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
-[2017.12.14-21.58.27:674][864]LogStaticMesh: Warning: GnomeDoor2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2017.12.14-21.58.27:782][864]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.12.14-21.58.27:782][864]FBXImport: Warning: GnomeDoor2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
-[2017.12.14-21.58.27:783][864]FBXImport: Warning: GnomeDoor2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2017.12.14-21.58.27:941][865]LogExit: Transaction tracking system shut down
-[2017.12.14-21.58.27:942][865]LogExit: Transaction tracking system shut down
-[2017.12.14-21.58.27:942][865]LogExit: Transaction tracking system shut down
-[2017.12.14-21.58.29:977][865]LogSavePackage: Save=1976.64ms
-[2017.12.14-21.58.29:977][865]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare_Auto1F1A79B224C8F205D535644BB290DB1C5.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap'
-[2017.12.14-21.58.29:981][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap
-[2017.12.14-21.58.29:986][865]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 2.057
-[2017.12.14-21.58.29:986][865]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.057
-[2017.12.14-21.58.30:028][865]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Gnome_Gate_BASE] ([1] browsable assets)...
-[2017.12.14-21.58.30:054][865]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GabiAsset/Objects/Gnome_Gate_BASE.Gnome_Gate_BASE]
-[2017.12.14-21.58.30:054][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Gnome_Gate_BASE]
-[2017.12.14-21.58.30:069][865]LogSavePackage: Save=9.38ms
-[2017.12.14-21.58.30:069][865]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gnome_Gate_BASE_Auto1DF5F8D4842D4831017AE598ED0EA6BD8.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Gnome_Gate_BASE_Auto1.uasset'
-[2017.12.14-21.58.30:072][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Gnome_Gate_BASE_Auto1.uasset
-[2017.12.14-21.58.30:072][865]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/GnomeDoor] ([1] browsable assets)...
-[2017.12.14-21.58.30:083][865]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GabiAsset/Objects/GnomeDoor.GnomeDoor]
-[2017.12.14-21.58.30:083][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/GnomeDoor]
-[2017.12.14-21.58.30:095][865]LogSavePackage: Save=9.51ms
-[2017.12.14-21.58.30:095][865]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/GnomeDoor_Auto1F27E9B3B4F8061351236AD83756646D7.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/GnomeDoor_Auto1.uasset'
-[2017.12.14-21.58.30:097][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/GnomeDoor_Auto1.uasset
-[2017.12.14-21.58.30:097][865]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/initialShadingGroup] ([1] browsable assets)...
-[2017.12.14-21.58.30:108][865]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GabiAsset/Objects/initialShadingGroup.initialShadingGroup]
-[2017.12.14-21.58.30:109][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/initialShadingGroup]
-[2017.12.14-21.58.30:126][865]LogSavePackage: Save=16.57ms
-[2017.12.14-21.58.30:127][865]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/initialShadingGroup_Auto16F53D5684B5CB3E285232BB808D7BEDF.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/initialShadingGroup_Auto1.uasset'
-[2017.12.14-21.58.30:129][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/initialShadingGroup_Auto1.uasset
-[2017.12.14-21.58.30:129][865]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/GnomeDoor2] ([1] browsable assets)...
-[2017.12.14-21.58.30:140][865]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GabiAsset/Objects/GnomeDoor2.GnomeDoor2]
-[2017.12.14-21.58.30:140][865]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/GnomeDoor2]
-[2017.12.14-21.58.30:152][865]LogSavePackage: Save=9.88ms
-[2017.12.14-21.58.30:152][865]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/GnomeDoor2_Auto1FC0DA69F47C24EEF32C163B75FF9053E.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/GnomeDoor2_Auto1.uasset'
-[2017.12.14-21.58.30:154][865]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/GnomeDoor2_Auto1.uasset
-[2017.12.14-21.58.30:154][865]LogFileHelpers: Auto-saving content packages took 0.165
-[2017.12.14-21.58.35:470][179]LogActorFactory: Actor Factory created GnomeDoor2
-[2017.12.14-21.58.35:863][202]LogActorFactory: Actor Factory created GnomeDoor2
-[2017.12.14-22.00.32:088][169]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-22.00.36:457][368]LogInit: Transaction tracking system initialized
-[2017.12.14-22.00.36:457][368]EditorErrors: New page: Matinee Initialization
-[2017.12.14-22.00.41:822][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-22.00.43:400][735]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-22.00.44:528][799]Cmd: DELETE
-[2017.12.14-22.00.44:528][799]Cmd: ACTOR DELETE
-[2017.12.14-22.01.05:061][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE15)
-[2017.12.14-22.02.33:445][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay17)
-[2017.12.14-22.02.34:159][722]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay17)
-[2017.12.14-22.02.34:777][758]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE)
-[2017.12.14-22.02.35:753][814]Cmd: DELETE
-[2017.12.14-22.02.35:753][814]Cmd: ACTOR DELETE
-[2017.12.14-22.02.35:781][814]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.02.35:791][814]LogExit: Transaction tracking system shut down
-[2017.12.14-22.02.35:792][814]LogEditorActor: Deleted 1 Actors (0.039 secs)
-[2017.12.14-22.02.36:694][868]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay17)
-[2017.12.14-22.02.36:887][877]Cmd: DELETE
-[2017.12.14-22.02.36:887][877]Cmd: ACTOR DELETE
-[2017.12.14-22.02.36:914][877]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.02.36:924][877]LogEditorActor: Deleted 1 Actors (0.037 secs)
-[2017.12.14-22.02.38:614][979]Cmd: TRANSACTION UNDO
-[2017.12.14-22.02.38:615][979]LogEditorTransaction: Undo Delete Actors
-[2017.12.14-22.02.39:267][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GnomeDoor2)
-[2017.12.14-22.02.40:095][ 62]Cmd: DELETE
-[2017.12.14-22.02.40:095][ 62]Cmd: ACTOR DELETE
-[2017.12.14-22.02.40:123][ 62]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.02.40:133][ 62]LogEditorActor: Deleted 1 Actors (0.038 secs)
-[2017.12.14-22.02.40:985][113]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay17)
-[2017.12.14-22.02.41:297][129]Cmd: DELETE
-[2017.12.14-22.02.41:297][129]Cmd: ACTOR DELETE
-[2017.12.14-22.02.41:329][129]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.02.41:341][129]LogEditorActor: Deleted 1 Actors (0.044 secs)
-[2017.12.14-22.02.42:544][201]Cmd: TRANSACTION UNDO
-[2017.12.14-22.02.42:544][201]LogEditorTransaction: Undo Delete Actors
-[2017.12.14-22.02.45:096][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay17)
-[2017.12.14-22.02.45:753][386]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GnomeDoor)
-[2017.12.14-22.02.46:447][425]Cmd: DELETE
-[2017.12.14-22.02.46:447][425]Cmd: ACTOR DELETE
-[2017.12.14-22.02.46:474][425]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.02.46:484][425]LogEditorActor: Deleted 1 Actors (0.037 secs)
-[2017.12.14-22.04.52:529][903]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj)
-[2017.12.14-22.04.52:544][903]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj
-[2017.12.14-22.04.52:659][903]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.05.48:532][191]LogEditorFactories: Performing atomic reimport of [D:/Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj]
-[2017.12.14-22.05.48:561][191]LogFbx: Loading FBX Scene from D:/Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj
-[2017.12.14-22.05.48:675][191]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.05.48:680][191]LogFbx: Warning: Triangulating static mesh UV_Gnome_Gate:pPlane38
-[2017.12.14-22.05.48:822][191]LogStaticMesh: Building static mesh Gnome_Gate_BASE...
-[2017.12.14-22.05.49:119][191]LogStaticMesh: Built static mesh [0.30s] /Game/GabiAsset/Objects/Gnome_Gate_BASE.Gnome_Gate_BASE
-[2017.12.14-22.05.49:144][191]LogStaticMesh: Warning: Gnome_Gate_BASE has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
-[2017.12.14-22.05.49:145][191]LogStaticMesh: Warning: Gnome_Gate_BASE has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2017.12.14-22.05.49:177][191]LogEditorFactories: -- imported successfully
-[2017.12.14-22.05.49:183][191]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.12.14-22.05.49:183][191]FBXImport: Warning: Gnome_Gate_BASE has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
-[2017.12.14-22.05.49:183][191]FBXImport: Warning: Gnome_Gate_BASE has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2017.12.14-22.05.57:647][696]LogEditorFactories: Performing atomic reimport of [D:/Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj]
-[2017.12.14-22.05.57:680][696]LogFbx: Loading FBX Scene from D:/Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj
-[2017.12.14-22.05.57:792][696]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.05.57:796][696]LogFbx: Warning: Triangulating static mesh UV_Gnome_Gate:pPlane38
-[2017.12.14-22.05.57:937][696]LogStaticMesh: Building static mesh Gnome_Gate_BASE...
-[2017.12.14-22.05.58:246][696]LogStaticMesh: Built static mesh [0.31s] /Game/GabiAsset/Objects/Gnome_Gate_BASE.Gnome_Gate_BASE
-[2017.12.14-22.05.58:273][696]LogStaticMesh: Warning: Gnome_Gate_BASE has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
-[2017.12.14-22.05.58:273][696]LogStaticMesh: Warning: Gnome_Gate_BASE has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2017.12.14-22.05.58:307][696]LogEditorFactories: -- imported successfully
-[2017.12.14-22.05.58:314][696]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.12.14-22.05.58:314][696]FBXImport: Warning: Gnome_Gate_BASE has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
-[2017.12.14-22.05.58:314][696]FBXImport: Warning: Gnome_Gate_BASE has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2017.12.14-22.06.02:208][927]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE5)
-[2017.12.14-22.06.14:294][489]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj)
-[2017.12.14-22.06.14:308][489]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj
-[2017.12.14-22.06.14:434][489]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.08.41:054][489]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj
-[2017.12.14-22.08.41:172][489]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.08.41:173][489]LogFbx: Warning: Triangulating static mesh UV_Gnome_Gate:pPlane38
-[2017.12.14-22.08.41:323][489]LogStaticMesh: Building static mesh GnomeDoor2...
-[2017.12.14-22.08.41:636][489]LogStaticMesh: Built static mesh [0.31s] /Game/GabiAsset/Objects/GnomeDoor2.GnomeDoor2
-[2017.12.14-22.08.41:661][489]LogStaticMesh: Warning: GnomeDoor2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
-[2017.12.14-22.08.41:661][489]LogStaticMesh: Warning: GnomeDoor2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2017.12.14-22.08.41:695][489]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.12.14-22.08.41:695][489]FBXImport: Warning: GnomeDoor2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
-[2017.12.14-22.08.41:695][489]FBXImport: Warning: GnomeDoor2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2017.12.14-22.08.44:239][633]LogActorFactory: Actor Factory created GnomeDoor2
-[2017.12.14-22.08.44:583][653]LogActorFactory: Actor Factory created GnomeDoor2
-[2017.12.14-22.08.50:966][ 32]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-22.08.53:762][199]Cmd: DELETE
-[2017.12.14-22.08.53:762][199]Cmd: ACTOR DELETE
-[2017.12.14-22.08.53:789][199]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.08.53:800][199]LogEditorActor: Deleted 1 Actors (0.038 secs)
-[2017.12.14-22.09.49:802][ 14]LogSavePackage: Save=1956.18ms
-[2017.12.14-22.09.49:802][ 14]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare_Auto27C421756479AD1DC96ECCCA688828BEA.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto2.umap'
-[2017.12.14-22.09.49:805][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto2.umap
-[2017.12.14-22.09.49:809][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 2.260
-[2017.12.14-22.09.49:809][ 14]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.260
-[2017.12.14-22.09.49:814][ 14]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Gnome_Gate_BASE] ([1] browsable assets)...
-[2017.12.14-22.09.49:834][ 14]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GabiAsset/Objects/Gnome_Gate_BASE.Gnome_Gate_BASE]
-[2017.12.14-22.09.49:834][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Gnome_Gate_BASE]
-[2017.12.14-22.09.49:850][ 14]LogSavePackage: Save=10.03ms
-[2017.12.14-22.09.49:851][ 14]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gnome_Gate_BASE_Auto227CD5F9C49F5377986347F8D9AA7D848.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Gnome_Gate_BASE_Auto2.uasset'
-[2017.12.14-22.09.49:853][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Gnome_Gate_BASE_Auto2.uasset
-[2017.12.14-22.09.49:854][ 14]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/GnomeDoor2] ([1] browsable assets)...
-[2017.12.14-22.09.49:872][ 14]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GabiAsset/Objects/GnomeDoor2.GnomeDoor2]
-[2017.12.14-22.09.49:872][ 14]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/GnomeDoor2]
-[2017.12.14-22.09.49:884][ 14]LogSavePackage: Save=10.46ms
-[2017.12.14-22.09.49:884][ 14]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/GnomeDoor2_Auto2330345EA4D69BD4EF38BB58C42576401.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/GnomeDoor2_Auto2.uasset'
-[2017.12.14-22.09.49:886][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/GnomeDoor2_Auto2.uasset
-[2017.12.14-22.09.49:886][ 14]LogFileHelpers: Auto-saving content packages took 0.073
-[2017.12.14-22.10.23:898][290]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj)
-[2017.12.14-22.10.23:900][290]LogEditorFactories: Performing atomic reimport of [D:/Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj]
-[2017.12.14-22.10.23:911][290]LogFbx: Loading FBX Scene from D:/Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj
-[2017.12.14-22.10.24:025][290]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.10.24:030][290]LogFbx: Warning: Triangulating static mesh UV_Gnome_Gate:pPlane38
-[2017.12.14-22.10.24:171][290]LogStaticMesh: Building static mesh GnomeDoor2...
-[2017.12.14-22.10.24:470][290]LogStaticMesh: Built static mesh [0.30s] /Game/GabiAsset/Objects/GnomeDoor2.GnomeDoor2
-[2017.12.14-22.10.24:496][290]LogStaticMesh: Warning: GnomeDoor2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
-[2017.12.14-22.10.24:496][290]LogStaticMesh: Warning: GnomeDoor2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2017.12.14-22.10.24:524][290]LogEditorFactories: -- imported successfully
-[2017.12.14-22.10.24:530][290]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.12.14-22.10.24:530][290]FBXImport: Warning: GnomeDoor2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
-[2017.12.14-22.10.24:530][290]FBXImport: Warning: GnomeDoor2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2017.12.14-22.10.29:627][590]LogEditorFactories: Performing atomic reimport of [D:/Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj]
-[2017.12.14-22.10.29:651][590]LogFbx: Loading FBX Scene from D:/Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj
-[2017.12.14-22.10.29:766][590]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.10.29:770][590]LogFbx: Warning: Triangulating static mesh UV_Gnome_Gate:pPlane38
-[2017.12.14-22.10.29:919][590]LogStaticMesh: Building static mesh GnomeDoor2...
-[2017.12.14-22.10.30:219][590]LogStaticMesh: Built static mesh [0.30s] /Game/GabiAsset/Objects/GnomeDoor2.GnomeDoor2
-[2017.12.14-22.10.30:245][590]LogStaticMesh: Warning: GnomeDoor2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
-[2017.12.14-22.10.30:245][590]LogStaticMesh: Warning: GnomeDoor2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2017.12.14-22.10.30:276][590]LogEditorFactories: -- imported successfully
-[2017.12.14-22.10.30:281][590]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.12.14-22.10.30:281][590]FBXImport: Warning: GnomeDoor2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
-[2017.12.14-22.10.30:282][590]FBXImport: Warning: GnomeDoor2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2017.12.14-22.10.52:444][666]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj)
-[2017.12.14-22.10.52:457][666]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj
-[2017.12.14-22.10.52:567][666]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.11.40:768][666]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor.obj
-[2017.12.14-22.11.40:887][666]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.11.40:888][666]LogFbx: Warning: Triangulating static mesh UV_Gnome_Gate:pPlane38
-[2017.12.14-22.11.41:024][666]LogStaticMesh: Building static mesh GnomeDoor...
-[2017.12.14-22.11.41:322][666]LogStaticMesh: Built static mesh [0.30s] /Game/GabiAsset/Objects/GnomeDoor.GnomeDoor
-[2017.12.14-22.11.41:348][666]LogStaticMesh: Warning: GnomeDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
-[2017.12.14-22.11.41:348][666]LogStaticMesh: Warning: GnomeDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2017.12.14-22.11.41:380][666]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.12.14-22.11.41:380][666]FBXImport: Warning: GnomeDoor has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
-[2017.12.14-22.11.41:380][666]FBXImport: Warning: GnomeDoor has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2017.12.14-22.11.48:247][ 41]LogActorFactory: Actor Factory created GnomeDoor
-[2017.12.14-22.11.48:560][ 59]LogActorFactory: Actor Factory created GnomeDoor
-[2017.12.14-22.11.49:598][118]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-22.12.04:823][ 25]Cmd: DELETE
-[2017.12.14-22.12.04:823][ 25]Cmd: ACTOR DELETE
-[2017.12.14-22.12.04:850][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.12.04:862][ 25]LogEditorActor: Deleted 1 Actors (0.040 secs)
-[2017.12.14-22.12.29:428][255]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj)
-[2017.12.14-22.12.29:442][255]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj
-[2017.12.14-22.12.29:573][255]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.12.50:027][255]LogFbx: Loading FBX Scene from ../../../../../../Documentos/maya/projects/ModeledObjectsNightmare/GnomeDoor2.obj
-[2017.12.14-22.12.50:145][255]LogFbx: FBX Scene Loaded Succesfully
-[2017.12.14-22.12.50:146][255]LogFbx: Warning: Triangulating static mesh UV_Gnome_Gate:pPlane38
-[2017.12.14-22.12.50:291][255]LogStaticMesh: Building static mesh GnomeDoor2...
-[2017.12.14-22.12.50:589][255]LogStaticMesh: Built static mesh [0.30s] /Game/GabiAsset/Objects/GnomeDoor2.GnomeDoor2
-[2017.12.14-22.12.50:614][255]LogStaticMesh: Warning: GnomeDoor2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
-[2017.12.14-22.12.50:614][255]LogStaticMesh: Warning: GnomeDoor2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
-[2017.12.14-22.12.50:647][255]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
-[2017.12.14-22.12.50:647][255]FBXImport: Warning: GnomeDoor2 has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
-[2017.12.14-22.12.50:647][255]FBXImport: Warning: GnomeDoor2 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
-[2017.12.14-22.12.54:484][477]LogActorFactory: Actor Factory created GnomeDoor2
-[2017.12.14-22.12.55:589][543]LogActorFactory: Actor Factory created GnomeDoor2
-[2017.12.14-22.12.56:573][600]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-22.13.03:789][ 30]Cmd: DELETE
-[2017.12.14-22.13.03:789][ 30]Cmd: ACTOR DELETE
-[2017.12.14-22.13.03:816][ 30]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.13.03:827][ 30]LogEditorActor: Deleted 1 Actors (0.038 secs)
-[2017.12.14-22.13.05:192][112]LogActorFactory: Actor Factory created GnomeDoor2
-[2017.12.14-22.13.05:447][127]LogActorFactory: Actor Factory created GnomeDoor2
-[2017.12.14-22.13.27:831][918]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening774)
-[2017.12.14-22.13.37:203][473]LogEditorViewport: Clicking on Actor (LMB): NavMeshBoundsVolume (NavMeshBoundsVolume)
-[2017.12.14-22.13.39:745][617]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-22.13.45:581][957]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-22.14.12:764][554]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
-[2017.12.14-22.14.13:600][601]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-22.14.36:436][952]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-22.14.53:106][932]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
-[2017.12.14-22.14.54:634][ 21]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.14-22.14.54:850][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.14-22.14.54:850][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.14-22.14.54:851][ 21]PIE: New page: PIE session: Luis_Nightmare (Dec 14, 2017, 10:14:54 PM)
-[2017.12.14-22.14.54:851][ 21]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
-[2017.12.14-22.14.54:920][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.069442s)
-[2017.12.14-22.14.54:921][ 21]LogAIModule: Creating AISystem for world Luis_Nightmare
-[2017.12.14-22.14.54:921][ 21]LogPlayLevel: PIE: World Init took: (0.000758s)
-[2017.12.14-22.14.54:922][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.071495s)
-[2017.12.14-22.14.54:946][ 21]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.14-22.14.55:000][ 21]LogInit: FAudioDevice initialized.
-[2017.12.14-22.14.55:043][ 21]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2017.12.14-22.14.55:078][ 21]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.14-22.14.55
-[2017.12.14-22.14.55:080][ 21]LogWorld: Bringing up level for play took: 0.035012
-[2017.12.14-22.14.55:109][ 21]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 11 classes and 0 folders.
-[2017.12.14-22.14.55:112][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:112][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:112][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:112][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.14.55:113][ 21]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.002
-[2017.12.14-22.14.55:114][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.14-22.15.06:171][680]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.14-22.15.06:220][680]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.14-22.15.22:201][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay13)
-[2017.12.14-22.15.26:848][905]Cmd: TRANSACTION UNDO
-[2017.12.14-22.15.26:848][905]LogEditorTransaction: Undo Move Actors
-[2017.12.14-22.15.58:140][747]Cmd: DELETE
-[2017.12.14-22.15.58:140][747]Cmd: ACTOR DELETE
-[2017.12.14-22.15.58:167][747]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.15.58:178][747]LogEditorActor: Deleted 1 Actors (0.037 secs)
-[2017.12.14-22.15.59:112][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay27)
-[2017.12.14-22.15.59:177][804]Cmd: DELETE
-[2017.12.14-22.15.59:177][804]Cmd: ACTOR DELETE
-[2017.12.14-22.15.59:205][804]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.15.59:215][804]LogEditorActor: Deleted 1 Actors (0.038 secs)
-[2017.12.14-22.15.59:584][826]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay26)
-[2017.12.14-22.15.59:614][826]Cmd: DELETE
-[2017.12.14-22.15.59:614][826]Cmd: ACTOR DELETE
-[2017.12.14-22.15.59:641][826]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.15.59:652][826]LogEditorActor: Deleted 1 Actors (0.038 secs)
-[2017.12.14-22.15.59:989][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay25)
-[2017.12.14-22.16.00:025][846]Cmd: DELETE
-[2017.12.14-22.16.00:025][846]Cmd: ACTOR DELETE
-[2017.12.14-22.16.00:051][846]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.16.00:062][846]LogEditorActor: Deleted 1 Actors (0.037 secs)
-[2017.12.14-22.16.00:480][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay24)
-[2017.12.14-22.16.00:511][871]Cmd: DELETE
-[2017.12.14-22.16.00:511][871]Cmd: ACTOR DELETE
-[2017.12.14-22.16.00:537][871]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.16.00:548][871]LogEditorActor: Deleted 1 Actors (0.037 secs)
-[2017.12.14-22.16.01:618][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay22)
-[2017.12.14-22.16.01:705][937]Cmd: DELETE
-[2017.12.14-22.16.01:705][937]Cmd: ACTOR DELETE
-[2017.12.14-22.16.01:732][937]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.16.01:742][937]LogEditorActor: Deleted 1 Actors (0.037 secs)
-[2017.12.14-22.16.02:235][967]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay23)
-[2017.12.14-22.16.02:266][967]Cmd: DELETE
-[2017.12.14-22.16.02:266][967]Cmd: ACTOR DELETE
-[2017.12.14-22.16.02:291][967]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.16.02:302][967]LogEditorActor: Deleted 1 Actors (0.036 secs)
-[2017.12.14-22.16.05:572][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening767)
-[2017.12.14-22.16.24:087][243]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening712)
-[2017.12.14-22.16.25:669][335]Cmd: DELETE
-[2017.12.14-22.16.25:669][335]Cmd: ACTOR DELETE
-[2017.12.14-22.16.25:696][335]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.16.25:707][335]LogEditorActor: Deleted 1 Actors (0.037 secs)
-[2017.12.14-22.16.27:710][455]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening768)
-[2017.12.14-22.16.28:658][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay13)
-[2017.12.14-22.16.39:487][149]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
-[2017.12.14-22.16.42:893][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay22)
-[2017.12.14-22.16.53:196][956]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening865)
-[2017.12.14-22.16.58:506][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay23)
-[2017.12.14-22.16.59:403][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay22)
-[2017.12.14-22.17.00:751][400]Cmd: DELETE
-[2017.12.14-22.17.00:751][400]Cmd: ACTOR DELETE
-[2017.12.14-22.17.00:777][400]LogEditorActor: Deleted Actor: StaticMeshActor
-[2017.12.14-22.17.00:787][400]LogEditorActor: Deleted 1 Actors (0.035 secs)
-[2017.12.14-22.17.01:571][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay23)
-[2017.12.14-22.17.21:634][641]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
-[2017.12.14-22.17.28:624][ 57]LogEditorViewport: Clicking on Actor (LMB): AIMonster_C (AIMonster)
-[2017.12.14-22.17.40:526][757]LogTemp: Repeating last play command: Selected Viewport
-[2017.12.14-22.17.40:539][757]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.14-22.17.40:540][757]LogPlayLevel: PlayLevel: No blueprints needed recompiling
-[2017.12.14-22.17.40:540][757]PIE: New page: PIE session: Luis_Nightmare (Dec 14, 2017, 10:17:40 PM)
-[2017.12.14-22.17.40:540][757]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
-[2017.12.14-22.17.40:610][757]LogPlayLevel: PIE: StaticDuplicateObject took: (0.070159s)
-[2017.12.14-22.17.40:610][757]LogAIModule: Creating AISystem for world Luis_Nightmare
-[2017.12.14-22.17.40:611][757]LogPlayLevel: PIE: World Init took: (0.000819s)
-[2017.12.14-22.17.40:612][757]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.072264s)
-[2017.12.14-22.17.40:635][757]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
-[2017.12.14-22.17.40:683][757]LogInit: FAudioDevice initialized.
-[2017.12.14-22.17.40:717][757]LogLoad: Game class is 'FirstPersonGameMode_C'
-[2017.12.14-22.17.40:747][757]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.14-22.17.40
-[2017.12.14-22.17.40:758][757]LogWorld: Bringing up level for play took: 0.039218
-[2017.12.14-22.17.40:761][757]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:761][757]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
-[2017.12.14-22.17.40:762][757]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.354
-[2017.12.14-22.17.40:763][757]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.14-22.17.54:267][564]LogBlueprintUserMessages: [GameHUD_C_1] Hello
-[2017.12.14-22.18.02:187][ 34]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.14-22.18.02:234][ 34]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
-[2017.12.14-22.18.05:597][162]LogSavePackage: Save=4.40ms
-[2017.12.14-22.18.05:597][162]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gnome_Gate_BASEE984BA8341AE3547E09378BAD21249D1.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Gnome_Gate_BASE.uasset'
-[2017.12.14-22.18.05:604][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Gnome_Gate_BASE.uasset
-[2017.12.14-22.18.05:645][162]LogSavePackage: Save=13.73ms
-[2017.12.14-22.18.05:645][162]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/initialShadingGroupACADA5A0496563DDD4E97F807CD0DD2D.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/initialShadingGroup.uasset'
-[2017.12.14-22.18.05:649][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/initialShadingGroup.uasset
-[2017.12.14-22.18.07:720][162]LogSavePackage: Save=1961.41ms
-[2017.12.14-22.18.07:720][162]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare7B8CF7F44ED57493355DE1BBB40923E5.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
-[2017.12.14-22.18.07:726][162]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
-[2017.12.14-22.18.07:751][162]LogFileHelpers: Saving map 'Luis_Nightmare' took 2.094
+[2017.12.15-10.54.21:480][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.15-10.54.21:480][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.12.15-10.54.21:586][  0]LogInit: Computer: MSI
+[2017.12.15-10.54.21:586][  0]LogInit: User: PaopuKid
+[2017.12.15-10.54.21:586][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.12.15-10.54.21:586][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2017.12.15-10.54.21:587][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.12.15-10.54.21:587][  0]LogMemory: Platform Memory Stats for Windows
+[2017.12.15-10.54.21:587][  0]LogMemory: Process Physical Memory: 272.00 MB used, 272.00 MB peak
+[2017.12.15-10.54.21:587][  0]LogMemory: Process Virtual Memory: 269.60 MB used, 269.60 MB peak
+[2017.12.15-10.54.21:587][  0]LogMemory: Physical Memory: 3452.78 MB used,  4624.38 MB free, 8077.16 MB total
+[2017.12.15-10.54.21:587][  0]LogMemory: Virtual Memory: 644.16 MB used,  4624.38 MB free, 134217728.00 MB total
+[2017.12.15-10.54.23:241][  0]LogInit: Overriding language with editor language configuration option (en).
+[2017.12.15-10.54.23:241][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2017.12.15-10.54.24:774][  0]LogInit: Setting process to per monitor DPI aware
+[2017.12.15-10.54.26:674][  0]LogD3D11RHI: D3D11 adapters:
+[2017.12.15-10.54.26:810][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2017.12.15-10.54.26:810][  0]LogD3D11RHI:       3019/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.12.15-10.54.26:837][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.12.15-10.54.26:837][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.12.15-10.54.26:864][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.12.15-10.54.26:864][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.12.15-10.54.26:864][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.12.15-10.54.26:880][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.12.15-10.54.26:881][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2017.12.15-10.54.26:881][  0]LogWindows: EnumDisplayDevices:
+[2017.12.15-10.54.26:881][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2017.12.15-10.54.26:882][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.12.15-10.54.26:882][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.12.15-10.54.26:883][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.15-10.54.26:883][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.15-10.54.26:884][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.15-10.54.26:884][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.12.15-10.54.26:885][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2017.12.15-10.54.26:885][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2017.12.15-10.54.26:885][  0]LogD3D11RHI:   Driver Version: 382.05 (internal:22.21.13.8205, unified:382.05)
+[2017.12.15-10.54.26:885][  0]LogD3D11RHI:      Driver Date: 5-1-2017
+[2017.12.15-10.54.26:885][  0]LogRHI: Texture pool is 2113 MB (70% of 3019 MB)
+[2017.12.15-10.54.26:967][  0]LogD3D11RHI: Async texture creation enabled
+[2017.12.15-10.54.27:241][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.12.15-10.54.27:295][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Intermediate/Shaders/WorkingDirectory/5320/).
+[2017.12.15-10.54.27:295][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PaopuKid/AppData/Local/Temp/UnrealShaderWorkingDir/E518B5974F0FCBE0982D7D8A28C099D1/'.
+[2017.12.15-10.54.27:303][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.12.15-10.54.31:304][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.12.15-10.54.31:411][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.12.15-10.54.31:491][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.12.15-10.54.31:579][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.12.15-10.54.31:705][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.12.15-10.54.31:798][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.12.15-10.54.31:876][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.12.15-10.54.31:936][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.12.15-10.54.31:974][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.12.15-10.54.32:018][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.12.15-10.54.32:070][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.12.15-10.54.32:119][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.12.15-10.54.32:170][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.12.15-10.54.32:218][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.12.15-10.54.32:342][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.12.15-10.54.32:342][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.12.15-10.54.32:426][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.12.15-10.54.32:518][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.12.15-10.54.32:697][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.12.15-10.54.32:729][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.12.15-10.54.32:805][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.12.15-10.54.32:940][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.12.15-10.54.33:066][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.12.15-10.54.33:200][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.12.15-10.54.33:200][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.12.15-10.54.35:444][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.12.15-10.54.36:200][  0]LogDerivedDataCache: Loaded boot cache 0.75s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.15-10.54.36:201][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2017.12.15-10.54.36:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.12.15-10.54.36:201][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.12.15-10.54.36:201][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.12.15-10.54.36:201][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.12.15-10.54.36:318][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.12.15-10.54.36:336][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PaopuKid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.12.15-10.54.36:410][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.12.15-10.54.36:442][  0]LogSlate: Using Freetype 2.6.0
+[2017.12.15-10.54.36:499][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.15-10.54.36:513][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.12.15-10.54.44:387][  0]LogInit: Selected Device Profile: [Windows]
+[2017.12.15-10.54.46:138][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.12.15-10.54.46:185][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.12.15-10.54.46:185][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.12.15-10.54.46:185][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.12.15-10.54.46:185][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.12.15-10.54.46:185][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.12.15-10.54.46:548][  0]LogNetVersion: BreakTheBuildFINAL , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4088768677)
+[2017.12.15-10.54.47:804][  0]LogAssetRegistry: FAssetRegistry took 0.0475 seconds to start up
+[2017.12.15-10.54.51:385][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.073873 seconds
+[2017.12.15-10.54.51:402][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2017.12.15-10.54.51:402][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2017.12.15-10.54.51:402][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.12.15-10.54.51:471][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.12.15-10.55.04:990][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.12.15-10.55.05:081][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.12.15-10.55.06:684][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.12.15-10.55.07:668][  0]SourceControl: Source control is disabled
+[2017.12.15-10.55.07:677][  0]SourceControl: Source control is disabled
+[2017.12.15-10.55.07:818][  0]SourceControl: Source control is disabled
+[2017.12.15-10.55.07:949][  0]SourceControl: Source control is disabled
+[2017.12.15-10.55.09:359][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.12.15-10.55.09:545][  0]LogOcInput: OculusInput pre-init called
+[2017.12.15-10.55.10:077][  0]LogEngine: Initializing Engine...
+[2017.12.15-10.55.10:090][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.12.15-10.55.10:996][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.12.15-10.55.10:997][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.12.15-10.55.11:369][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.12.15-10.55.11:474][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.15-10.55.11:789][  0]LogInit: FAudioDevice initialized.
+[2017.12.15-10.55.11:882][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2017.12.15-10.55.11:895][  0]LogInit: Texture streaming: Enabled
+[2017.12.15-10.55.12:102][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.12.15-10.55.12:364][  0]LogInit: Transaction tracking system initialized
+[2017.12.15-10.55.13:141][  0]BlueprintLog: New page: Editor Load
+[2017.12.15-10.55.15:050][  0]LocalizationService: Localization service is disabled
+[2017.12.15-10.55.16:364][  0]LogConsoleResponse: Display: 
+[2017.12.15-10.55.17:844][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.12.15-10.55.17:845][  0]LogCook: Display: Mobile HDR setting 1
+[2017.12.15-10.55.17:869][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.03s
+[2017.12.15-10.55.17:869][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.12.15-10.55.20:401][  0]SourceControl: Source control is disabled
+[2017.12.15-10.55.20:442][  0]Cmd: MAP LOAD FILE="../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.12.15-10.55.20:456][  0]LightingResults: New page: Lighting Build
+[2017.12.15-10.55.20:621][  0]MapCheck: New page: Map Check
+[2017.12.15-10.55.20:621][  0]LightingResults: New page: Lighting Build
+[2017.12.15-10.55.22:989][  0]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: Kategorie String: "NewEnumerator3"  Struct: /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataStruct.ItemDataStruct 
+[2017.12.15-10.55.23:003][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator0'
+[2017.12.15-10.55.23:004][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator1'
+[2017.12.15-10.55.23:004][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator0'
+[2017.12.15-10.55.23:004][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator1'
+[2017.12.15-10.55.23:004][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Kategorie' with an invalid value of 'Kategorie::NewEnumerator1'
+[2017.12.15-10.55.23:004][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator0'
+[2017.12.15-10.55.23:004][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator1'
+[2017.12.15-10.55.23:865][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2017.12.15-10.55.23:867][  0]LogBlueprint: Error: [Compiler FirstPersonCharacter] In use pin  Armor  no longer exists on node  Switch on Kategorie . Please refresh node or break links to remove pin.
+[2017.12.15-10.55.23:867][  0]LogBlueprint: Error: [Compiler FirstPersonCharacter] In use pin  Various  no longer exists on node  Switch on Kategorie . Please refresh node or break links to remove pin.
+[2017.12.15-10.55.23:868][  0]LogBlueprint: Error: [Compiler FirstPersonCharacter] In use pin  Armor  no longer exists on node  Switch on Kategorie . Please refresh node or break links to remove pin.
+[2017.12.15-10.55.23:869][  0]LogBlueprint: Error: [Compiler FirstPersonCharacter] In use pin  Armor  no longer exists on node  Switch on Kategorie . Please refresh node or break links to remove pin.
+[2017.12.15-10.55.24:040][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0079.20] Compile of FirstPersonCharacter failed. 4 Fatal Issue(s) 1 Warning(s) [in 283 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2017.12.15-10.55.26:746][  0]LogBlueprint: Warning: [Compiler door2] Get : 'StaticMeshComponent' variable not found. Base class was probably changed. /Game/PabloPuzzle/modular/wall/doorButton/door2.door2
+[2017.12.15-10.55.26:778][  0]LogBlueprint: Warning: [Compiler door2] [0081.94] Compile of door2 successful, but with 1 Warning(s) [in 35 ms] (/Game/PabloPuzzle/modular/wall/doorButton/door2.door2)
+[2017.12.15-10.55.31:040][  0]LogTexture: Display: Building textures: straightMod_Roughness (AutoDXT, 4096X4096)
+[2017.12.15-10.55.31:040][  0]LogTexture: Display: Building textures: threeGndMod_Roughness (AutoDXT, 4096X4096)
+[2017.12.15-10.55.52:078][  0]LogTexture: Display: Building textures: straightMod_Normal02 (AutoDXT, 4096X4096)
+[2017.12.15-10.55.52:078][  0]LogTexture: Display: Building textures: threeGndMod_BaseColour (AutoDXT, 4096X4096)
+[2017.12.15-10.55.52:078][  0]LogTexture: Display: Building textures: threeGndMod_Normal (AutoDXT, 4096X4096)
+[2017.12.15-10.55.52:078][  0]LogTexture: Display: Building textures: straightMod_BaseColour (AutoDXT, 4096X4096)
+[2017.12.15-10.56.07:448][  0]LogTexture: Display: Building textures: fourMod_Rough (AutoDXT, 4096X4096)
+[2017.12.15-10.56.07:448][  0]LogTexture: Display: Building textures: fourMod_Normal (AutoDXT, 4096X4096)
+[2017.12.15-10.56.07:448][  0]LogTexture: Display: Building textures: fourMod_BaseColour (AutoDXT, 4096X4096)
+[2017.12.15-10.56.07:448][  0]LogTexture: Display: Building textures: fourGndMod_Rougness (AutoDXT, 2044X2044)
+[2017.12.15-10.56.07:448][  0]LogTexture: Display: Building textures: fourGndMod_Normal (AutoDXT, 2044X2044)
+[2017.12.15-10.56.07:451][  0]LogMaterial: Missing cached shader map for material 3Way, compiling. 
+[2017.12.15-10.56.07:811][  0]LogTexture: Display: Building textures: fourGndMod_BaseColour (AutoDXT, 2044X2044)
+[2017.12.15-10.56.07:811][  0]LogMaterial: Missing cached shader map for material HedgeStraight, compiling. 
+[2017.12.15-10.56.18:983][  0]LogTexture: Display: Building textures: cornerGndMod_Rougness (AutoDXT, 4096X4096)
+[2017.12.15-10.56.18:983][  0]LogTexture: Display: Building textures: cornerGndMod_Normal (BC5, 4096X4096)
+[2017.12.15-10.56.18:983][  0]LogTexture: Display: Building textures: CornerGndMod_BaseColour (AutoDXT, 4096X4096)
+[2017.12.15-10.56.22:127][  0]LogMaterial: Missing cached shader map for material 4Way_Hedge, compiling. 
+[2017.12.15-10.56.22:155][  0]LogMaterial: Missing cached shader map for material 4Way_ground, compiling. 
+[2017.12.15-10.56.30:295][  0]LogMaterial: Missing cached shader map for material Corner, compiling. 
+[2017.12.15-10.56.30:507][  0]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.15-10.56.31:904][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.12.15-10.56.32:249][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.12.15-10.56.33:082][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 823.739ms to complete.
+[2017.12.15-10.56.33:097][  0]LogFileHelpers: Loading map 'Luis_Nightmare' took 72.676
+[2017.12.15-10.56.35:179][  0]LogCollectionManager: Loaded 0 collections in 0.002606 seconds
+[2017.12.15-10.56.36:630][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' took 0.01s
+[2017.12.15-10.56.36:630][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/PaopuKid/Collections/' took 0.01s
+[2017.12.15-10.56.36:630][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' took 0.01s
+[2017.12.15-10.56.36:630][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.12.15-10.56.36:671][  0]LogContentBrowser: Native class hierarchy populated in 0.0267 seconds. Added 2363 classes and 519 folders.
+[2017.12.15-10.56.36:889][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.15-10.56.37:806][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.12.15-10.56.37:984][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2017.12.15-10.56.39:269][  0]LogSlate: Took 0.014402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.15-10.56.39:313][  0]LogSlate: Took 0.019491 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.12.15-10.56.39:414][  0]LogSlate: Took 0.044801 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.12.15-10.56.40:084][  0]LogRenderer: Reallocating scene render targets to support 1208x580 Format 10 NumSamples 1 (Frame:1).
+[2017.12.15-10.56.41:006][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2017.12.15-10.56.41:006][  0]LogLoad: (Engine Initialization) Total time: 156.16 seconds
+[2017.12.15-10.56.41:006][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.12.15-10.56.41:030][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.12.15-10.56.41:666][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.12.15-10.56.42:004][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.50s
+[2017.12.15-10.56.42:220][  1]LogSlate: Took 0.029270 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.15-10.56.42:689][  3]LogSlate: Took 0.000584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.15-10.56.43:697][  6]LogAssetRegistry: Asset discovery search completed in 115.9165 seconds
+[2017.12.15-10.56.43:722][  6]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.12.15-10.56.43:723][  6]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000178 seconds (updated 0 objects)
+[2017.12.15-10.57.00:033][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening702)
+[2017.12.15-10.57.02:319][272]Cmd: DELETE
+[2017.12.15-10.57.02:319][272]Cmd: ACTOR DELETE
+[2017.12.15-10.57.02:638][272]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.15-10.57.02:713][272]LogEditorActor: Deleted 1 Actors (0.233 secs)
+[2017.12.15-10.57.06:031][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening625)
+[2017.12.15-10.57.07:032][336]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-10.57.25:490][604]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
+[2017.12.15-10.57.36:101][760]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
+[2017.12.15-10.57.36:972][773]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.12.15-10.57.43:890][874]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-10.58.05:120][190]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-10.58.16:965][367]LogEditorViewport: Clicking on Actor (LMB): AIMonster_C (AIMonster)
+[2017.12.15-10.58.38:883][686]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-10.58.54:957][922]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.12.15-10.58.56:005][937]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-10.59.01:769][  3]LogSlate: Took 0.000295 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.12.15-10.59.03:876][  3]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.15-10.59.04:976][  3]LogSavePackage: Save=2792.32ms
+[2017.12.15-10.59.04:976][  3]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareAEF3C37B4F3D04F2E9439EBB71D3500A.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2017.12.15-10.59.05:013][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2017.12.15-10.59.05:063][  3]LogFileHelpers: Saving map 'Luis_Nightmare' took 3.239
