@@ -420,3 +420,227 @@ LogInit: Object subsystem initialized
 [2017.12.15-22.38.19:623][527]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare06D444C04A9B9CF04BEF1ABEAC195E6A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2017.12.15-22.38.19:628][527]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
 [2017.12.15-22.38.19:657][527]LogSlate: Took 0.000233 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.12.15-22.39.39:669][310]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal2)
+[2017.12.15-22.39.41:165][460]Cmd: EDIT COPY
+[2017.12.15-22.39.41:410][485]Cmd: EDIT PASTE
+[2017.12.15-22.39.45:520][879]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.39.49:805][307]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.40.01:750][492]LogEditorViewport: Clicking on Actor (LMB): Altar_C (Altar)
+[2017.12.15-22.40.02:865][603]Cmd: DELETE
+[2017.12.15-22.40.02:865][603]Cmd: ACTOR DELETE
+[2017.12.15-22.40.02:900][603]LogEditorActor: Deleted Actor: Altar_C
+[2017.12.15-22.40.02:913][603]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2017.12.15-22.40.03:428][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal3)
+[2017.12.15-22.40.10:182][318]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall80)
+[2017.12.15-22.40.10:842][380]LogEditorViewport: Clicking on Actor (LMB): KeyGreen_C (KeyGreen)
+[2017.12.15-22.40.16:848][979]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal3)
+[2017.12.15-22.40.19:158][206]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall80)
+[2017.12.15-22.40.27:431][  2]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal3)
+[2017.12.15-22.40.40:948][317]Cmd: TRANSACTION UNDO
+[2017.12.15-22.40.40:948][317]LogEditorTransaction: Undo Move Actors
+[2017.12.15-22.40.49:822][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal2)
+[2017.12.15-22.40.50:431][186]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.41.03:548][504]Cmd: TRANSACTION UNDO
+[2017.12.15-22.41.03:548][504]LogEditorTransaction: Undo Move Actors
+[2017.12.15-22.41.05:133][622]Cmd: TRANSACTION UNDO
+[2017.12.15-22.41.05:133][622]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.15-22.41.07:770][827]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.41.20:740][116]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall83)
+[2017.12.15-22.41.32:034][216]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal3)
+[2017.12.15-22.41.33:082][321]Cmd: EDIT COPY
+[2017.12.15-22.41.33:280][340]Cmd: EDIT PASTE
+[2017.12.15-22.41.35:321][538]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.41.40:509][ 48]Cmd: TRANSACTION UNDO
+[2017.12.15-22.41.40:509][ 48]LogEditorTransaction: Undo Move Actors
+[2017.12.15-22.41.48:936][655]LogEditorViewport: Clicking on Actor (LMB): Altar_C (Altar2)
+[2017.12.15-22.41.50:027][727]Cmd: DELETE
+[2017.12.15-22.41.50:027][727]Cmd: ACTOR DELETE
+[2017.12.15-22.41.50:077][727]LogEditorActor: Deleted Actor: Altar_C
+[2017.12.15-22.41.50:095][727]LogEditorActor: Deleted 1 Actors (0.068 secs)
+[2017.12.15-22.41.50:725][778]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal4)
+[2017.12.15-22.41.56:776][321]LogEditorViewport: Clicking on Actor (LMB): KeyViolet_C (KeyViolet)
+[2017.12.15-22.42.06:038][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal4)
+[2017.12.15-22.42.11:303][341]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall89)
+[2017.12.15-22.42.30:722][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal4)
+[2017.12.15-22.42.31:713][725]Cmd: EDIT COPY
+[2017.12.15-22.42.31:915][740]Cmd: EDIT PASTE
+[2017.12.15-22.42.36:701][ 58]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.42.40:255][296]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.42.45:351][735]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.42.48:636][ 34]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.42.51:126][243]Cmd: TRANSACTION UNDO
+[2017.12.15-22.42.51:126][243]LogEditorTransaction: Undo Scale Actors
+[2017.12.15-22.42.57:276][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal5)
+[2017.12.15-22.43.07:328][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall95)
+[2017.12.15-22.43.08:347][  3]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Corner21)
+[2017.12.15-22.43.20:713][145]LogSavePackage: Save=8239.28ms
+[2017.12.15-22.43.20:713][145]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare9DA6CB014B87079B9F7425B0F6C488EF.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2017.12.15-22.43.20:728][145]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2017.12.15-22.43.35:382][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.43.37:001][728]Cmd: TRANSACTION UNDO
+[2017.12.15-22.43.37:002][728]LogEditorTransaction: Undo Move Actors
+[2017.12.15-22.43.46:200][ 99]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.43.53:922][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge2)
+[2017.12.15-22.44.09:215][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge34)
+[2017.12.15-22.44.11:131][132]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge35)
+[2017.12.15-22.44.12:313][178]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.44.24:480][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.44.25:573][812]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.44.47:440][863]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge2)
+[2017.12.15-22.44.56:955][391]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge34)
+[2017.12.15-22.45.02:248][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge34)
+[2017.12.15-22.45.07:730][ 13]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge34)
+[2017.12.15-22.45.14:416][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge35)
+[2017.12.15-22.45.15:911][493]Cmd: DELETE
+[2017.12.15-22.45.15:911][493]Cmd: ACTOR DELETE
+[2017.12.15-22.45.15:969][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.15-22.45.15:969][493]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.15-22.45.15:994][493]LogEditorActor: Deleted 2 Actors (0.083 secs)
+[2017.12.15-22.45.17:108][559]Cmd: TRANSACTION UNDO
+[2017.12.15-22.45.17:108][559]LogEditorTransaction: Undo Delete Actors
+[2017.12.15-22.45.18:177][589]LogEditorViewport: Clicking Background
+[2017.12.15-22.45.24:455][943]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.45.25:441][998]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.15-22.45.28:828][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE3)
+[2017.12.15-22.45.31:118][362]Cmd: DELETE
+[2017.12.15-22.45.31:118][362]Cmd: ACTOR DELETE
+[2017.12.15-22.45.31:176][362]LogEditorActor: Actor Gnome_Gate_BASE3 is referenced by RedDoors.
+[2017.12.15-22.45.38:367][362]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.15-22.45.38:471][362]LogEditorActor: Deleted 1 Actors (7.352 secs)
+[2017.12.15-22.45.46:644][681]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE3)
+[2017.12.15-22.45.47:463][713]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening773)
+[2017.12.15-22.45.49:328][775]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE3)
+[2017.12.15-22.45.49:756][786]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening773)
+[2017.12.15-22.45.50:407][806]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening773)
+[2017.12.15-22.45.51:025][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE3)
+[2017.12.15-22.45.52:677][891]Cmd: DELETE
+[2017.12.15-22.45.52:677][891]Cmd: ACTOR DELETE
+[2017.12.15-22.45.52:777][891]LogEditorActor: Actor Gnome_Gate_BASE3 is referenced by RedDoors.
+[2017.12.15-22.45.54:050][891]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.15-22.45.54:091][891]LogEditorActor: Deleted 1 Actors (1.414 secs)
+[2017.12.15-22.45.55:797][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening771)
+[2017.12.15-22.45.58:128][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.15-22.46.02:333][260]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.46.07:901][643]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening771)
+[2017.12.15-22.46.08:585][683]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge2)
+[2017.12.15-22.46.20:575][468]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening773)
+[2017.12.15-22.46.21:798][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening773)
+[2017.12.15-22.46.22:200][572]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge2)
+[2017.12.15-22.46.38:410][514]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_Hinge2)
+[2017.12.15-22.46.40:541][578]Cmd: ACTOR BAKEPREPIVOT
+[2017.12.15-22.46.48:708][924]LogEditorViewport: Clicking Background
+[2017.12.15-22.46.50:526][ 23]LogEditorViewport: Clicking Background
+[2017.12.15-22.46.51:055][ 60]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.47.22:781][559]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.47.25:056][691]Cmd: ACTOR BAKEPREPIVOT
+[2017.12.15-22.47.33:708][375]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge2)
+[2017.12.15-22.47.43:875][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.47.52:312][890]LogEditorViewport: Clicking Background
+[2017.12.15-22.47.53:596][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.48.24:958][373]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall84)
+[2017.12.15-22.48.31:345][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening771)
+[2017.12.15-22.48.37:522][275]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge2)
+[2017.12.15-22.48.44:832][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.48.49:288][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.48.55:233][574]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening771)
+[2017.12.15-22.48.56:080][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.49.04:696][337]LogEditorViewport: Clicking Background
+[2017.12.15-22.49.06:501][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge2)
+[2017.12.15-22.49.07:548][616]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.49.26:555][265]Cmd: EDIT COPY
+[2017.12.15-22.49.26:819][288]Cmd: EDIT PASTE
+[2017.12.15-22.49.31:872][741]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.31:872][741]LogEditorTransaction: Undo Paste
+[2017.12.15-22.49.32:239][756]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.32:239][756]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.15-22.49.35:099][997]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.35:099][997]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.15-22.49.35:548][ 26]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.35:548][ 26]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.15-22.49.35:884][ 54]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.35:884][ 54]LogEditorTransaction: Undo Clicking Background
+[2017.12.15-22.49.36:241][ 74]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.36:242][ 74]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.15-22.49.36:653][ 99]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.36:654][ 99]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.15-22.49.37:050][125]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.37:051][125]LogEditorTransaction: Undo Rotate Actors
+[2017.12.15-22.49.41:303][479]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.49.46:295][899]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.49.49:415][120]Cmd: ACTOR MIRROR Z=-1
+[2017.12.15-22.49.50:463][208]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.50:463][208]LogEditorTransaction: Undo Mirroring Actors
+[2017.12.15-22.49.51:549][286]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.49.53:659][417]Cmd: ACTOR MIRROR Y=-1
+[2017.12.15-22.49.54:244][464]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.54:244][464]LogEditorTransaction: Undo Mirroring Actors
+[2017.12.15-22.49.55:129][524]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.49.56:992][640]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.56:992][640]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.12.15-22.49.57:360][662]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.57:360][662]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.12.15-22.49.57:737][689]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.57:737][689]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.12.15-22.49.58:129][718]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.58:130][718]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2017.12.15-22.49.58:882][782]Cmd: TRANSACTION UNDO
+[2017.12.15-22.49.58:883][782]LogEditorTransaction: Undo Clicking on Actors
+[2017.12.15-22.50.04:485][277]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.50.17:281][340]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.50.19:716][515]Cmd: ACTOR MIRROR X=-1
+[2017.12.15-22.50.20:767][606]Cmd: TRANSACTION UNDO
+[2017.12.15-22.50.20:767][606]LogEditorTransaction: Undo Mirroring Actors
+[2017.12.15-22.50.22:104][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.50.23:630][832]Cmd: EDIT COPY
+[2017.12.15-22.50.23:889][855]Cmd: EDIT PASTE
+[2017.12.15-22.50.26:661][115]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE3)
+[2017.12.15-22.50.28:937][272]Cmd: ACTOR MIRROR X=-1
+[2017.12.15-22.50.40:306][359]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge2)
+[2017.12.15-22.50.45:142][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE3)
+[2017.12.15-22.50.49:070][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge2)
+[2017.12.15-22.50.54:589][720]LogEditorViewport: Clicking Background
+[2017.12.15-22.51.06:330][897]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE2)
+[2017.12.15-22.51.15:011][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE3)
+[2017.12.15-22.51.29:699][423]LogSavePackage: Save=6954.85ms
+[2017.12.15-22.51.29:699][423]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare2838AE1B4FC36D4842044B98F6452E77.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2017.12.15-22.51.29:715][423]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2017.12.15-22.51.30:795][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge3)
+[2017.12.15-22.51.36:978][701]Cmd: EDIT COPY
+[2017.12.15-22.51.37:458][731]Cmd: EDIT PASTE
+[2017.12.15-22.51.52:494][676]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge35)
+[2017.12.15-22.51.53:731][745]Cmd: DELETE
+[2017.12.15-22.51.53:731][745]Cmd: ACTOR DELETE
+[2017.12.15-22.51.53:793][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.15-22.51.53:794][745]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.15-22.51.53:819][745]LogEditorActor: Deleted 2 Actors (0.087 secs)
+[2017.12.15-22.51.56:747][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge34)
+[2017.12.15-22.52.17:368][299]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_Hinge34)
+[2017.12.15-22.52.20:598][460]Cmd: ACTOR BAKEPREPIVOT
+[2017.12.15-22.52.24:578][715]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE34)
+[2017.12.15-22.52.26:193][813]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge34)
+[2017.12.15-22.52.34:573][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE34)
+[2017.12.15-22.52.45:921][114]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE34)
+[2017.12.15-22.52.48:387][288]Cmd: ACTOR BAKEPREPIVOT
+[2017.12.15-22.52.57:891][252]LogEditorViewport: Clicking Background
+[2017.12.15-22.52.58:726][350]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE34)
+[2017.12.15-22.53.06:239][125]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge6)
+[2017.12.15-22.53.06:955][195]Cmd: DELETE
+[2017.12.15-22.53.06:955][195]Cmd: ACTOR DELETE
+[2017.12.15-22.53.06:989][195]LogEditorActor: Deleted Actor: StaticMeshActor
+[2017.12.15-22.53.07:003][195]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2017.12.15-22.53.08:305][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge34)
+[2017.12.15-22.53.09:752][494]Cmd: EDIT COPY
+[2017.12.15-22.53.09:973][517]Cmd: EDIT PASTE
+[2017.12.15-22.53.10:505][567]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE35)
+[2017.12.15-22.53.23:969][670]LogRenderer: Reallocating scene render targets to support 964x660 Format 10 NumSamples 1 (Frame:86564).
+[2017.12.15-22.53.24:010][671]LogRenderer: Reallocating scene render targets to support 964x680 Format 10 NumSamples 1 (Frame:86566).
+[2017.12.15-22.53.28:124][ 41]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Gnome_Gate_BASE35)
+[2017.12.15-22.53.30:492][233]Cmd: ACTOR MIRROR X=-1
+[2017.12.15-22.53.34:199][612]Cmd: TRANSACTION UNDO
+[2017.12.15-22.53.34:199][612]LogEditorTransaction: Undo Marquee Select
+[2017.12.15-22.53.41:148][328]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge34)
+[2017.12.15-22.53.49:408][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE35)
+[2017.12.15-22.53.54:591][806]LogEditorViewport: Clicking Background
+[2017.12.15-22.54.10:500][ 68]LogSavePackage: Save=4490.69ms
+[2017.12.15-22.54.10:500][ 68]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare9A2804534B55F32AA814EC95364007E4.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2017.12.15-22.54.10:512][ 68]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
