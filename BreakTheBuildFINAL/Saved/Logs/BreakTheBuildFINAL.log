@@ -1213,3 +1213,141 @@ LogInit: Object subsystem initialized
 [2017.12.16-00.06.46:728][895]LogSavePackage: Save=2063.34ms
 [2017.12.16-00.06.46:728][895]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare9BC8F4EB4ACFA88EFF2F58B11855E20F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2017.12.16-00.06.46:733][895]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2017.12.16-00.07.49:831][746]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge26)
+[2017.12.16-00.08.01:055][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.16-00.08.02:709][501]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.16-00.08.09:029][873]LogInit: Transaction tracking system initialized
+[2017.12.16-00.08.09:029][873]EditorErrors: New page: Matinee Initialization
+[2017.12.16-00.08.31:057][141]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.16-00.08.35:855][425]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.16-00.08.55:352][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.16-00.09.10:113][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.16-00.09.23:202][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.16-00.09.44:747][439]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge24)
+[2017.12.16-00.09.45:459][479]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.16-00.09.58:639][242]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.16-00.10.05:781][655]LogEditorViewport: Clicking Background
+[2017.12.16-00.10.06:401][691]LogEditorViewport: Clicking Background
+[2017.12.16-00.10.06:884][720]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.16-00.10.15:069][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.16-00.10.28:597][984]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE24)
+[2017.12.16-00.10.47:704][104]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE25)
+[2017.12.16-00.11.03:135][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE25)
+[2017.12.16-00.11.13:531][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE25)
+[2017.12.16-00.11.22:026][100]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE25)
+[2017.12.16-00.11.43:786][364]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE25)
+[2017.12.16-00.12.05:472][503]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge25)
+[2017.12.16-00.12.06:180][541]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge25)
+[2017.12.16-00.12.06:599][565]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE25)
+[2017.12.16-00.12.11:413][822]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE25)
+[2017.12.16-00.12.16:159][ 80]LogEditorViewport: Clicking Background
+[2017.12.16-00.12.16:823][118]LogEditorViewport: Clicking Background
+[2017.12.16-00.12.17:139][137]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE25)
+[2017.12.16-00.12.44:525][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE25)
+[2017.12.16-00.13.15:643][339]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.13.19:143][539]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.16-00.13.33:763][404]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.13.38:404][673]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.13.47:546][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.13.55:589][651]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.15.29:020][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.15.44:190][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.15.57:714][888]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.16.07:799][452]LogEditorViewport: Clicking Background
+[2017.12.16-00.16.08:413][488]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.16.08:752][506]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.16.37:785][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.16.51:841][945]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.16.56:341][195]LogEditorViewport: Clicking Background
+[2017.12.16-00.16.57:055][236]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.17.05:799][723]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.17.15:478][271]LogEditorViewport: Clicking Background
+[2017.12.16-00.17.25:400][856]LogEditorViewport: Clicking Background
+[2017.12.16-00.17.26:421][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.17.30:237][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.17.40:727][738]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.17.53:134][447]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE26)
+[2017.12.16-00.18.13:058][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.18.30:122][592]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint)
+[2017.12.16-00.18.30:982][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.18.46:169][512]LogEditorTransaction: Undo Add Key
+[2017.12.16-00.18.50:476][763]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.19.00:040][303]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.19.07:208][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.19.14:297][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.19.37:261][358]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.19.47:545][949]LogEditorViewport: Clicking Background
+[2017.12.16-00.19.48:869][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.19.53:224][266]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.19.57:933][532]LogEditorViewport: Clicking Background
+[2017.12.16-00.19.58:787][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.20.03:759][858]LogEditorViewport: Clicking Background
+[2017.12.16-00.20.04:640][910]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.16-00.20.43:335][  1]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening815)
+[2017.12.16-00.20.45:413][120]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.16-00.20.46:420][180]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.20.51:506][464]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.16-00.21.07:553][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.21.10:955][609]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.21.17:463][987]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.21.37:748][141]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.21.43:081][451]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.21.45:397][582]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.21.57:404][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.22.17:192][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.22.38:566][654]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.22.57:020][732]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.23.04:198][151]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.23.10:652][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.23.16:023][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.23.27:220][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.23.52:808][993]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.24.29:724][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.24.36:977][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.24.50:090][309]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.24.57:940][757]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.25.14:080][625]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.25.20:368][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.25.26:413][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.25.30:442][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.25.54:573][940]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.26.23:767][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.26.41:592][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE31)
+[2017.12.16-00.27.18:035][764]LogEditorViewport: Clicking Background
+[2017.12.16-00.27.18:511][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.27.30:399][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.27.48:084][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.27.53:917][807]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.27.57:916][ 32]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.28.06:101][490]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.28.17:176][110]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge41)
+[2017.12.16-00.28.18:024][158]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.28.23:988][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.28.30:877][873]LogEditorViewport: Clicking Background
+[2017.12.16-00.28.31:623][916]LogEditorViewport: Clicking Background
+[2017.12.16-00.28.32:090][944]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.28.40:366][401]LogEditorViewport: Clicking Background
+[2017.12.16-00.28.43:447][582]LogEditorViewport: Clicking Background
+[2017.12.16-00.28.44:087][620]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.28.47:625][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.29.01:869][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.29.31:743][332]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.29.35:129][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.29.42:333][935]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.29.49:955][366]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.29.58:914][882]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.30.04:526][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.30.09:919][507]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.30.18:848][ 19]LogEditorViewport: Clicking Background
+[2017.12.16-00.30.19:479][ 55]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge41)
+[2017.12.16-00.30.20:075][ 88]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.30.36:943][ 49]LogEditorViewport: Clicking Background
+[2017.12.16-00.30.37:918][106]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.30.41:655][316]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.30.46:890][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.30.52:647][931]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_Hinge41)
+[2017.12.16-00.30.53:553][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE41)
+[2017.12.16-00.31.31:107][735]LogExit: Transaction tracking system shut down
+[2017.12.16-00.31.33:101][735]LogSavePackage: Save=1980.53ms
+[2017.12.16-00.31.33:101][735]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare1A44DA9A46635E82B3E8A1AED0BF1431.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2017.12.16-00.31.33:107][735]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
