@@ -910,3 +910,894 @@ LogInit: Object subsystem initialized
 [2017.12.21-11.23.07:265][723]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
 [2017.12.21-11.23.08:437][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (sculptureCherub)
 [2017.12.21-11.23.09:162][828]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.23.32:890][117]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.12.21-11.23.37:068][322]LogEditorViewport: Clicking on Actor (LMB): CubeInvisiblePAB3_C (CubeInvisiblePAB13)
+[2017.12.21-11.23.38:263][376]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.23.39:905][472]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.21-11.23.39:918][472]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.23.39:918][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-11.23.39:919][472]PIE: New page: PIE session: Luis_Nightmare (Dec 21, 2017, 11:23:39 AM)
+[2017.12.21-11.23.39:919][472]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.21-11.23.40:002][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.083026s)
+[2017.12.21-11.23.40:002][472]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.21-11.23.40:002][472]LogPlayLevel: PIE: World Init took: (0.000777s)
+[2017.12.21-11.23.40:004][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.085125s)
+[2017.12.21-11.23.40:027][472]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.21-11.23.40:074][472]LogInit: FAudioDevice initialized.
+[2017.12.21-11.23.40:107][472]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.21-11.23.40:142][472]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.21-11.23.40
+[2017.12.21-11.23.40:145][472]LogWorld: Bringing up level for play took: 0.036811
+[2017.12.21-11.23.40:148][472]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:148][472]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:148][472]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:148][472]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:148][472]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:148][472]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:148][472]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:148][472]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:148][472]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:148][472]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.40:149][472]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.019
+[2017.12.21-11.23.40:150][472]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:934][697]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:935][697]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:935][697]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:935][697]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:935][697]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:935][697]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:935][697]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.43:935][697]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:534][793]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:534][793]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:534][793]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:534][793]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:534][793]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:534][793]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:534][793]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:534][793]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:534][793]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:534][793]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:535][793]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:535][793]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:535][793]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:535][793]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:535][793]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:535][793]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:535][793]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:535][793]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:535][793]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.45:535][793]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:451][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:452][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:452][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:452][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.50:452][ 88]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.23.51:586][156]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.23.51:632][156]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.23.53:292][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WallOutdoorDoorToIn9)
+[2017.12.21-11.23.56:172][416]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CorridorToRoomIndoor11)
+[2017.12.21-11.23.57:664][502]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening854)
+[2017.12.21-11.23.58:911][573]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening857)
+[2017.12.21-11.24.00:996][694]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening858)
+[2017.12.21-11.24.01:883][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening857)
+[2017.12.21-11.24.02:290][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortFourWay8)
+[2017.12.21-11.24.02:829][794]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortFourWay8)
+[2017.12.21-11.24.04:909][917]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening853)
+[2017.12.21-11.24.06:920][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening854)
+[2017.12.21-11.24.07:566][ 70]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening854)
+[2017.12.21-11.24.08:117][102]LogEditorViewport: Clicking on Actor (LMB): CubeInvisiblePAB3_C (CubeInvisiblePAB13)
+[2017.12.21-11.24.13:291][368]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2017.12.21-11.24.14:653][368]LogSlate: Took 0.013223 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.12.21-11.24.14:932][369]LogSlate: Took 0.002530 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.12.21-11.24.25:643][941]BlueprintLog: New page: Compile CubeInvisiblePAB3
+[2017.12.21-11.24.27:628][ 21]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.21-11.24.27:693][ 21]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.24.27:693][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-11.24.27:693][ 21]PIE: New page: PIE session: Luis_Nightmare (Dec 21, 2017, 11:24:27 AM)
+[2017.12.21-11.24.27:693][ 21]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.21-11.24.27:773][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.080307s)
+[2017.12.21-11.24.27:774][ 21]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.21-11.24.27:774][ 21]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2017.12.21-11.24.27:775][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.082244s)
+[2017.12.21-11.24.27:805][ 21]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.21-11.24.27:851][ 21]LogInit: FAudioDevice initialized.
+[2017.12.21-11.24.27:884][ 21]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.21-11.24.27:918][ 21]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.21-11.24.27
+[2017.12.21-11.24.27:921][ 21]LogWorld: Bringing up level for play took: 0.036093
+[2017.12.21-11.24.27:924][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:924][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:924][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:924][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:925][ 21]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.27:926][ 21]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.205
+[2017.12.21-11.24.27:926][ 21]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.24.31:723][245]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:723][245]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:723][245]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:723][245]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:723][245]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:723][245]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:723][245]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:723][245]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:723][245]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:723][245]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:724][245]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:724][245]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:724][245]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:724][245]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:724][245]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:724][245]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:724][245]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:724][245]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:724][245]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.31:724][245]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:556][295]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.32:557][295]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:924][617]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:925][617]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:925][617]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:925][617]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:925][617]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.37:925][617]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.24.38:941][678]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.24.38:990][678]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.26.03:493][740]LogEditorViewport: Clicking on Actor (LMB): CubeInvisiblePAB3_C (CubeInvisiblePAB13)
+[2017.12.21-11.27.51:335][863]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.21-11.27.51:349][863]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.27.51:349][863]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-11.27.51:350][863]PIE: New page: PIE session: Luis_Nightmare (Dec 21, 2017, 11:27:51 AM)
+[2017.12.21-11.27.51:350][863]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.21-11.27.51:433][863]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082956s)
+[2017.12.21-11.27.51:434][863]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.21-11.27.51:434][863]LogPlayLevel: PIE: World Init took: (0.000660s)
+[2017.12.21-11.27.51:435][863]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.085142s)
+[2017.12.21-11.27.51:467][863]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.21-11.27.51:516][863]LogInit: FAudioDevice initialized.
+[2017.12.21-11.27.51:553][863]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.21-11.27.51:588][863]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.21-11.27.51
+[2017.12.21-11.27.51:590][863]LogWorld: Bringing up level for play took: 0.036199
+[2017.12.21-11.27.51:594][863]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:594][863]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:594][863]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:594][863]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:594][863]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:594][863]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:594][863]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:594][863]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.27.51:595][863]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.535
+[2017.12.21-11.27.51:596][863]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.28.05:005][665]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.05:006][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.13:117][151]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.15:051][267]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.28.15:105][267]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.28.18:280][451]LogEditorViewport: Clicking on Actor (LMB): CubeInvisiblePAB3_C (CubeInvisiblePAB13)
+[2017.12.21-11.28.36:516][540]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.21-11.28.36:530][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.28.36:530][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-11.28.36:530][540]PIE: New page: PIE session: Luis_Nightmare (Dec 21, 2017, 11:28:36 AM)
+[2017.12.21-11.28.36:530][540]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.21-11.28.36:612][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082319s)
+[2017.12.21-11.28.36:613][540]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.21-11.28.36:613][540]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2017.12.21-11.28.36:614][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.084085s)
+[2017.12.21-11.28.36:644][540]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.21-11.28.36:692][540]LogInit: FAudioDevice initialized.
+[2017.12.21-11.28.36:725][540]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.21-11.28.36:760][540]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.21-11.28.36
+[2017.12.21-11.28.36:763][540]LogWorld: Bringing up level for play took: 0.036439
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:766][540]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:767][540]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:767][540]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:767][540]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:767][540]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:767][540]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:767][540]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.36:767][540]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.637
+[2017.12.21-11.28.36:768][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:812][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:813][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:813][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:813][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.44:813][ 18]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:495][239]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:495][239]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:495][239]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:495][239]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:495][239]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:495][239]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:495][239]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:495][239]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.48:496][239]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.28.49:879][322]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.28.49:932][322]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.28.52:655][479]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint2)
+[2017.12.21-11.28.53:420][522]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint2)
+[2017.12.21-11.28.55:263][631]LogEditorViewport: Clicking on Actor (LMB): CubeInvisiblePAB3_C (CubeInvisiblePAB13)
+[2017.12.21-11.29.14:151][651]BlueprintLog: New page: Compile CubeInvisiblePAB3
+[2017.12.21-11.29.17:317][809]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.21-11.29.17:336][809]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.29.17:337][809]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-11.29.17:337][809]PIE: New page: PIE session: Luis_Nightmare (Dec 21, 2017, 11:29:17 AM)
+[2017.12.21-11.29.17:337][809]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.21-11.29.17:418][809]LogPlayLevel: PIE: StaticDuplicateObject took: (0.081449s)
+[2017.12.21-11.29.17:419][809]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.21-11.29.17:419][809]LogPlayLevel: PIE: World Init took: (0.000824s)
+[2017.12.21-11.29.17:420][809]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.083615s)
+[2017.12.21-11.29.17:451][809]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.21-11.29.17:504][809]LogInit: FAudioDevice initialized.
+[2017.12.21-11.29.17:537][809]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.21-11.29.17:571][809]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.21-11.29.17
+[2017.12.21-11.29.17:574][809]LogWorld: Bringing up level for play took: 0.036011
+[2017.12.21-11.29.17:577][809]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:577][809]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.17:578][809]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.552
+[2017.12.21-11.29.17:579][809]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.29.25:700][294]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:700][294]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:700][294]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:700][294]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:700][294]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:700][294]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:700][294]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:700][294]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.25:701][294]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.29.29:303][510]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.29.29:356][510]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.29.31:076][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert183)
+[2017.12.21-11.29.35:347][859]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.29.38:931][ 67]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.12.21-11.29.47:941][595]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.29.57:866][178]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.30.02:232][434]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.21-11.30.02:245][434]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.30.02:245][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-11.30.02:245][434]PIE: New page: PIE session: Luis_Nightmare (Dec 21, 2017, 11:30:02 AM)
+[2017.12.21-11.30.02:246][434]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.21-11.30.02:328][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082616s)
+[2017.12.21-11.30.02:329][434]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.21-11.30.02:329][434]LogPlayLevel: PIE: World Init took: (0.000751s)
+[2017.12.21-11.30.02:330][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.084583s)
+[2017.12.21-11.30.02:389][434]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.21-11.30.02:440][434]LogInit: FAudioDevice initialized.
+[2017.12.21-11.30.02:473][434]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.21-11.30.02:508][434]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.21-11.30.02
+[2017.12.21-11.30.02:511][434]LogWorld: Bringing up level for play took: 0.036703
+[2017.12.21-11.30.02:514][434]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:514][434]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:515][434]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.02:516][434]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.386
+[2017.12.21-11.30.02:516][434]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.30.07:359][722]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:359][722]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:359][722]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:359][722]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:359][722]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:359][722]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.07:360][722]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:575][975]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:575][975]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:575][975]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:575][975]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:575][975]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.11:576][975]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.12:359][ 22]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.19:801][467]LogBlueprintUserMessages: [FirstPersonCharacter_452] soltando
+[2017.12.21-11.30.20:417][504]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:418][504]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:419][504]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:419][504]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:419][504]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.20:419][504]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:718][762]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:718][762]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:718][762]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:718][762]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:718][762]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:718][762]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:718][762]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:719][762]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:719][762]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:719][762]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:719][762]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:719][762]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:719][762]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:719][762]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:720][762]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:720][762]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:720][762]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:720][762]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:720][762]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.24:720][762]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.30.28:504][989]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.30.28:554][989]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.30.29:879][ 62]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (Matinee_RED_Doors)
+[2017.12.21-11.30.34:581][264]LogContentBrowser: Native class hierarchy updated for 'Matinee' in 0.0004 seconds. Added 15 classes and 2 folders.
+[2017.12.21-11.30.34:597][264]LogInit: Transaction tracking system initialized
+[2017.12.21-11.30.34:610][264]EditorErrors: New page: Matinee Initialization
+[2017.12.21-11.31.08:526][976]LogInit: Transaction tracking system initialized
+[2017.12.21-11.31.08:526][976]EditorErrors: New page: Matinee Initialization
+[2017.12.21-11.33.18:976][349]LogEditorTransaction: Undo Delete current selection
+[2017.12.21-11.34.10:064][211]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (Matinee_PURPLE_Doors)
+[2017.12.21-11.36.28:112][ 24]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE4)
+[2017.12.21-11.36.31:428][202]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening786)
+[2017.12.21-11.36.33:479][322]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall86)
+[2017.12.21-11.36.35:214][423]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (triggerpurple1)
+[2017.12.21-11.36.46:793][ 99]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.38.34:794][145]Cmd: TRANSACTION UNDO
+[2017.12.21-11.38.34:794][145]LogEditorTransaction: Undo Move Actors
+[2017.12.21-11.39.07:744][ 12]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.39.40:309][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay19)
+[2017.12.21-11.39.49:289][262]LogInit: Transaction tracking system initialized
+[2017.12.21-11.39.49:289][262]EditorErrors: New page: Matinee Initialization
+[2017.12.21-11.40.13:755][585]LogExit: Transaction tracking system shut down
+[2017.12.21-11.40.13:758][585]LogExit: Transaction tracking system shut down
+[2017.12.21-11.40.13:758][585]LogExit: Transaction tracking system shut down
+[2017.12.21-11.40.13:797][585]LogBlueprint: Error: [Compiler PersistentLevel.Luis_Nightmare] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2017.12.21-11.40.13:797][585]LogBlueprint: Error: [Compiler PersistentLevel.Luis_Nightmare] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2017.12.21-11.40.13:798][585]LogBlueprint: Error: [Compiler PersistentLevel.Luis_Nightmare] Variable node  Get HoldingBlue  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.12.21-11.40.13:798][585]LogBlueprint: Error: [Compiler PersistentLevel.Luis_Nightmare] Variable node  Get HoldingRed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.12.21-11.40.13:800][585]LogBlueprint: Warning: [Compiler PersistentLevel.Luis_Nightmare] [1705.46] Compile of PersistentLevel.Luis_Nightmare failed. 4 Fatal Issue(s) 0 Warning(s) [in 18 ms] (/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare)
+[2017.12.21-11.40.16:192][585]LogSavePackage: Save=2422.04ms
+[2017.12.21-11.40.16:192][585]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare_Auto112077FDF4332D25145C430AAAF5D4654.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap'
+[2017.12.21-11.40.16:195][585]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap
+[2017.12.21-11.40.16:200][585]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 2.467
+[2017.12.21-11.40.16:200][585]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.467
+[2017.12.21-11.40.16:204][585]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/CubeInvisiblePAB3] ([1] browsable assets)...
+[2017.12.21-11.40.16:205][585]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/CubeInvisiblePAB3]
+[2017.12.21-11.40.16:234][585]LogSavePackage: Save=24.21ms
+[2017.12.21-11.40.16:234][585]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/CubeInvisiblePAB3_Auto17DD592C544C2DE12563969853AB7BCE2.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/CubeInvisiblePAB3_Auto1.uasset'
+[2017.12.21-11.40.16:236][585]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/CubeInvisiblePAB3_Auto1.uasset
+[2017.12.21-11.40.16:236][585]LogFileHelpers: Auto-saving content packages took 0.033
+[2017.12.21-11.40.17:852][682]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening807)
+[2017.12.21-11.40.20:234][821]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening807)
+[2017.12.21-11.40.22:603][960]Cmd: TRANSACTION UNDO
+[2017.12.21-11.40.22:603][960]LogEditorTransaction: Undo Move Actors
+[2017.12.21-11.40.23:983][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Corner26)
+[2017.12.21-11.40.25:057][102]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Corner26)
+[2017.12.21-11.40.26:049][160]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (triggerpurple6)
+[2017.12.21-11.40.36:008][747]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.41.09:884][608]BlueprintLog: New page: Compile Luis_Nightmare
+[2017.12.21-11.41.09:913][608]LogBlueprint: Error: [Compiler PersistentLevel.Luis_Nightmare] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2017.12.21-11.41.09:913][608]LogBlueprint: Error: [Compiler PersistentLevel.Luis_Nightmare] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2017.12.21-11.41.09:914][608]LogBlueprint: Error: [Compiler PersistentLevel.Luis_Nightmare] Variable node  Get HoldingBlue  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.12.21-11.41.09:914][608]LogBlueprint: Error: [Compiler PersistentLevel.Luis_Nightmare] Variable node  Get HoldingRed  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.12.21-11.41.10:053][608]LogBlueprint: Warning: [Compiler PersistentLevel.Luis_Nightmare] [1761.71] Compile of PersistentLevel.Luis_Nightmare failed. 4 Fatal Issue(s) 0 Warning(s) [in 168 ms] (/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare)
+[2017.12.21-11.41.31:263][799]BlueprintLog: New page: Compile Luis_Nightmare
+[2017.12.21-11.41.31:293][799]LogBlueprint: Error: [Compiler PersistentLevel.Luis_Nightmare] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2017.12.21-11.41.31:294][799]LogBlueprint: Error: [Compiler PersistentLevel.Luis_Nightmare] Variable node  Get HoldingBlue  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.12.21-11.41.31:433][799]LogBlueprint: Warning: [Compiler PersistentLevel.Luis_Nightmare] [1783.09] Compile of PersistentLevel.Luis_Nightmare failed. 2 Fatal Issue(s) 0 Warning(s) [in 169 ms] (/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare)
+[2017.12.21-11.41.39:167][242]BlueprintLog: New page: Compile Luis_Nightmare
+[2017.12.21-11.41.53:715][712]LogSavePackage: Save=2374.39ms
+[2017.12.21-11.41.53:715][712]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareF77200104BD8F6153C9B069BC2971BCB.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2017.12.21-11.41.53:721][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2017.12.21-11.41.53:741][712]LogFileHelpers: Saving map 'Luis_Nightmare' took 2.511
+[2017.12.21-11.41.53:782][712]LogSavePackage: Save=24.70ms
+[2017.12.21-11.41.53:783][712]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/CubeInvisiblePAB3F86EE0B747832AEE0F97AFB8870FBDAF.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/CubeInvisiblePAB3.uasset'
+[2017.12.21-11.41.53:786][712]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/CubeInvisiblePAB3.uasset
+[2017.12.21-11.42.33:751][907]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening801)
+[2017.12.21-11.42.35:700][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening802)
+[2017.12.21-11.42.37:974][154]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (triggerpurple5)
+[2017.12.21-11.42.45:568][600]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.44.10:575][531]LogEditorViewport: Clicking on Actor (LMB): MatineeActor (Matinee_BLUE_Doors)
+[2017.12.21-11.45.26:900][771]BlueprintLog: New page: Compile Luis_Nightmare
+[2017.12.21-11.45.29:449][910]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.21-11.45.29:464][910]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.45.29:464][910]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-11.45.29:464][910]PIE: New page: PIE session: Luis_Nightmare (Dec 21, 2017, 11:45:29 AM)
+[2017.12.21-11.45.29:464][910]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.21-11.45.29:556][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.090951s)
+[2017.12.21-11.45.29:556][910]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.21-11.45.29:557][910]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2017.12.21-11.45.29:558][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.093118s)
+[2017.12.21-11.45.29:589][910]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.21-11.45.29:638][910]LogInit: FAudioDevice initialized.
+[2017.12.21-11.45.29:673][910]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.21-11.45.29:709][910]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.21-11.45.29
+[2017.12.21-11.45.29:711][910]LogWorld: Bringing up level for play took: 0.037431
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:715][910]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:716][910]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:716][910]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:716][910]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.29:716][910]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.414
+[2017.12.21-11.45.29:717][910]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:170][893]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:171][893]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:171][893]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:171][893]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:171][893]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.46:171][893]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.52:887][296]LogBlueprintUserMessages: [FirstPersonCharacter_452] soltando
+[2017.12.21-11.45.58:370][625]LogBlueprintUserMessages: [GameHUD_C_10] Hello
+[2017.12.21-11.45.59:054][666]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:054][666]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:054][666]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:055][666]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.45.59:056][666]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.04:721][  6]LogBlueprintUserMessages: [GameHUD_C_10] Hello
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:337][281]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:338][281]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.09:338][281]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.46.11:203][393]LogBlueprintUserMessages: [FirstPersonCharacter_452] soltando
+[2017.12.21-11.46.11:336][401]LogBlueprintUserMessages: [GameHUD_C_10] Hello
+[2017.12.21-11.46.14:155][570]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.46.14:215][570]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.46.22:035][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE35)
+[2017.12.21-11.46.25:535][240]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (triggerblue1)
+[2017.12.21-11.46.54:171][896]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2017.12.21-11.47.32:513][434]BlueprintLog: New page: Compile FirstPersonCharacter
+[2017.12.21-11.47.32:776][434]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2017.12.21-11.47.32:779][434]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2017.12.21-11.47.33:286][434]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [2144.94] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 772 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2017.12.21-11.47.34:823][511]LogTemp: Repeating last play command: Selected Viewport
+[2017.12.21-11.47.34:894][511]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.47.34:894][511]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.12.21-11.47.34:895][511]PIE: New page: PIE session: Luis_Nightmare (Dec 21, 2017, 11:47:34 AM)
+[2017.12.21-11.47.34:895][511]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2017.12.21-11.47.34:978][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.082714s)
+[2017.12.21-11.47.34:978][511]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2017.12.21-11.47.34:978][511]LogPlayLevel: PIE: World Init took: (0.000782s)
+[2017.12.21-11.47.34:980][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.084788s)
+[2017.12.21-11.47.35:042][511]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2017.12.21-11.47.35:089][511]LogInit: FAudioDevice initialized.
+[2017.12.21-11.47.35:124][511]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2017.12.21-11.47.35:160][511]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2017.12.21-11.47.35
+[2017.12.21-11.47.35:164][511]LogWorld: Bringing up level for play took: 0.038097
+[2017.12.21-11.47.35:167][511]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:167][511]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:167][511]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:167][511]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:167][511]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:167][511]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:167][511]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:167][511]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:167][511]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.35:168][511]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 1.038
+[2017.12.21-11.47.35:169][511]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.47.41:258][874]LogBlueprintUserMessages: [FirstPersonCharacter_452] tego blue
+[2017.12.21-11.47.47:592][254]LogBlueprintUserMessages: [FirstPersonCharacter_452] soltando
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyRed_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyBlue2_386.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyBlue_56.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:826][328]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.47.48:827][328]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube 1M_Cube) is set to simulate physics but Collision Enabled is incompatible
+[2017.12.21-11.48.16:644][996]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.48.16:701][996]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2017.12.21-11.48.18:236][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.21-11.48.28:863][695]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.48.31:513][849]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE22)
+[2017.12.21-11.48.32:428][901]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.48.53:168][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gnome_Gate_BASE27)
+[2017.12.21-11.49.14:347][395]LogEditorViewport: Clicking on Actor (LMB): TriggerBox (triggerblue1)
+[2017.12.21-11.49.31:586][414]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.49.51:303][512]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.49.52:055][512]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.751 s
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: === Handled ensure: ===
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: 
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1029]
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: Stack: 
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000C5FC2786 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000C5D6123A UE4Editor-Core.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000C5D7B906 UE4Editor-Core.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000B3D033F6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000B31E03AB UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000B1CB3EBA UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000B1B474AC UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000B1B4ABF9 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000B1C78225 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000C5687397 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000C568CE61 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000C58C9913 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000C56E3484 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000C56BB68C UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000C56AD6B7 UE4Editor-Slate.dll!UnknownFunction []
+[2017.12.21-11.49.52:062][512]LogOutputDevice: Error: [Callstack] 0x00000000D313E39E UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000D3131A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000D31403EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000D312D5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000128CBC50 USER32.dll!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000128CB5CF USER32.dll!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000D3141516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000DACC50C8 UE4Editor.exe!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000DACD5430 UE4Editor.exe!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000DACD54AA UE4Editor.exe!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000DACE2379 UE4Editor.exe!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x00000000DACE3D57 UE4Editor.exe!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x0000000012D92774 KERNEL32.DLL!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: [Callstack] 0x0000000013A60D51 ntdll.dll!UnknownFunction []
+[2017.12.21-11.49.52:063][512]LogOutputDevice: Error: 
+[2017.12.21-11.49.52:069][512]LogStats:                SubmitErrorReport -  0.000 s
+[2017.12.21-11.49.55:495][512]LogStats:                    SendNewReport -  3.426 s
+[2017.12.21-11.49.55:495][512]LogStats:             FDebug::EnsureFailed -  4.192 s
+[2017.12.21-11.49.55:495][512]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.50.06:798][114]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.50.06:799][114]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.50.06:802][114]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.50.06:808][114]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.50.16:554][690]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.50.49:527][567]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2017.12.21-11.51.10:233][730]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.51.10:233][730]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.51.14:513][972]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.51.14:514][972]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.51.14:518][972]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.51.14:525][972]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.51.14:539][973]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.51.14:543][973]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.51.14:555][974]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.51.14:560][974]LogUObjectBase: Warning: Object is not registered
+[2017.12.21-11.51.15:307][ 17]BlueprintLog: New page: Compile Luis_Nightmare
+[2017.12.21-11.51.20:725][241]LogSavePackage: Save=484.73ms
+[2017.12.21-11.51.20:725][241]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/FirstPersonCharacter880C9F0E474D485BB92952B848BB5490.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2017.12.21-11.51.20:774][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2017.12.21-11.51.23:327][241]LogSavePackage: Save=2453.68ms
+[2017.12.21-11.51.23:327][241]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareE0CAE9224D5DFB725CE33B9EE78253CD.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2017.12.21-11.51.23:332][241]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2017.12.21-11.51.23:352][241]LogFileHelpers: Saving map 'Luis_Nightmare' took 2.572
