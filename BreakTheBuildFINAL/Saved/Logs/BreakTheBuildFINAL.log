@@ -927,3 +927,627 @@ LogInit: Object subsystem initialized
 [2018.01.10-11.22.22:576][643]LogSavePackage: Save=3695.63ms
 [2018.01.10-11.22.22:576][643]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareDE32EB5644988FEB70104FB5B8B9346D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2018.01.10-11.22.22:581][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.10-11.23.17:528][235]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (piedestale)
+[2018.01.10-11.23.19:727][287]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.23.55:007][844]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Leszek/Pictures/Maya Projects 2017/EXPORT/UV_Statue_G.obj)
+[2018.01.10-11.23.55:027][844]LogFbx: Loading FBX Scene from ../../../../../../Users/Leszek/Pictures/Maya Projects 2017/EXPORT/UV_Statue_G.obj
+[2018.01.10-11.23.55:262][844]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.10-11.23.57:634][844]LogMaterial: Missing cached shader map for material 3_BaseMaterial, compiling. 
+[2018.01.10-11.23.57:706][844]LogFbx: Loading FBX Scene from ../../../../../../Users/Leszek/Pictures/Maya Projects 2017/EXPORT/UV_Statue_G.obj
+[2018.01.10-11.23.57:967][844]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.10-11.23.57:972][844]LogFbx: Warning: Triangulating static mesh polySurface37_polySurface34
+[2018.01.10-11.23.58:800][844]LogStaticMesh: Building static mesh UV_Statue_G...
+[2018.01.10-11.23.59:251][844]LogStaticMesh: Built static mesh [0.45s] /Game/GabiAsset/Objects/UV_Statue_G.UV_Statue_G
+[2018.01.10-11.24.04:423][910]LogRenderer: Reallocating scene render targets to support 1144x748 Format 10 NumSamples 1 (Frame:1).
+[2018.01.10-11.24.15:808][616]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.24.15:862][616]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.24.15:904][616]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.24.15:975][616]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Pedestal_3, compiling. 
+[2018.01.10-11.24.16:953][616]TextureStreamingBuild: Display: Compiling optional shaders took 0.986 seconds.
+[2018.01.10-11.24.25:970][801]LogSavePackage: Save=13.22ms
+[2018.01.10-11.24.25:970][801]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gar3EA6D6964E3B5879EA63B1A4BCCA87B8.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Gar.uasset'
+[2018.01.10-11.24.25:974][801]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Gar.uasset
+[2018.01.10-11.24.44:523][571]LogSavePackage: Save=36.59ms
+[2018.01.10-11.24.44:523][571]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gargoyle11020A9C40CE5BF55718E9A298FCB59A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Gargoyle.uasset'
+[2018.01.10-11.24.44:535][571]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Gargoyle.uasset
+[2018.01.10-11.24.57:763][883]LogActorFactory: Actor Factory created Gargoyle
+[2018.01.10-11.25.00:169][955]LogActorFactory: Actor Factory created Gargoyle
+[2018.01.10-11.25.03:448][ 33]Cmd: TRANSACTION UNDO
+[2018.01.10-11.25.03:448][ 33]LogEditorTransaction: Undo Rotate Actors
+[2018.01.10-11.26.05:187][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle)
+[2018.01.10-11.26.05:834][991]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.10-11.26.06:672][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle)
+[2018.01.10-11.26.21:161][438]Cmd: TRANSACTION UNDO
+[2018.01.10-11.26.21:162][438]LogEditorTransaction: Undo Move Actors
+[2018.01.10-11.26.21:908][463]Cmd: EDIT COPY
+[2018.01.10-11.26.22:115][468]Cmd: EDIT PASTE
+[2018.01.10-11.26.29:021][739]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.26.35:703][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle)
+[2018.01.10-11.26.42:784][576]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.27.27:646][ 38]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.27.34:112][262]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.27.38:989][449]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.27.39:067][449]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.27.39:087][449]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.27.40:384][485]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.27.40:384][485]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.27.40:384][485]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.27.40:384][485]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.27.46:611][613]LogSavePackage: Save=3802.77ms
+[2018.01.10-11.27.46:611][613]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareB8D3A3F24868DC0BE3D618A223D45AE6.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.10-11.27.46:617][613]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.10-11.28.08:341][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Statue/1UV_Statue_G_ initialShadingGroup_BaseColor.png)
+[2018.01.10-11.28.08:631][863]LogTexture: Display: Building textures: 1UV_Statue_G__initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.10-11.28.09:875][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Statue/1UV_Statue_G_1initialShadingGroup_Normal.png)
+[2018.01.10-11.28.10:189][863]LogTexture: Display: Building textures: 1UV_Statue_G_1initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.10-11.28.10:650][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Statue/1UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic.png)
+[2018.01.10-11.28.10:881][863]LogTexture: Display: Building textures: 1UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.10-11.28.11:841][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Statue/2UV_Statue_G_initialShadingGroup_BaseColor.png)
+[2018.01.10-11.28.12:084][863]LogTexture: Display: Building textures: 2UV_Statue_G_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.10-11.28.12:879][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Statue/2UV_Statue_G_initialShadingGroup_Normal.png)
+[2018.01.10-11.28.13:183][863]LogTexture: Display: Building textures: 2UV_Statue_G_initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.10-11.28.13:586][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Statue/2UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic.png)
+[2018.01.10-11.28.13:799][863]LogTexture: Display: Building textures: 2UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.10-11.28.14:644][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Statue/3UV_Statue_G_initialShadingGroup_BaseColor.png)
+[2018.01.10-11.28.14:894][863]LogTexture: Display: Building textures: 3UV_Statue_G_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.10-11.28.15:909][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Statue/3UV_Statue_G_initialShadingGroup_Normal.png)
+[2018.01.10-11.28.16:218][863]LogTexture: Display: Building textures: 3UV_Statue_G_initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.10-11.28.16:639][863]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Statue/3UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic.png)
+[2018.01.10-11.28.16:859][863]LogTexture: Display: Building textures: 3UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.10-11.28.43:773][144]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.28.43:810][144]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.10-11.28.45:508][313]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.28.45:508][313]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.28.45:508][313]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.28.45:508][313]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.28.46:068][376]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.28.46:110][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.10-11.28.46:116][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.10-11.28.47:576][531]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.28.47:576][531]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.28.47:576][531]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.28.47:576][531]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.28.48:564][645]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.28.48:609][645]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.10-11.28.48:614][645]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.10-11.28.50:032][792]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.28.50:032][792]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.28.50:032][792]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.28.50:032][792]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.28.56:213][314]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.28.56:238][314]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.10-11.28.56:270][314]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.10-11.28.57:588][434]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.28.57:588][434]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.28.57:588][434]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.28.57:588][434]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.29.03:044][896]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.29.03:069][896]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.10-11.29.05:051][ 89]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.29.05:072][ 89]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_9, compiling. 
+[2018.01.10-11.29.06:547][242]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.01.10-11.29.06:547][242]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.01.10-11.29.06:547][242]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.29.06:547][242]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.10-11.29.06:547][242]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.29.09:304][485]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.29.09:326][485]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_11, compiling. 
+[2018.01.10-11.29.11:591][698]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.01.10-11.29.11:591][698]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.01.10-11.29.11:591][698]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.29.11:591][698]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.10-11.29.11:591][698]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.29.13:108][805]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.29.13:130][805]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.10-11.29.14:779][976]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.29.14:801][976]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.10-11.29.17:121][198]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.29.17:144][198]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_10, compiling. 
+[2018.01.10-11.29.18:608][337]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.29.18:608][337]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.29.18:608][337]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.29.18:608][337]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.10-11.29.18:608][337]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.29.20:513][498]LogMaterialEditor: Saving and Compiling material Gargoyle
+[2018.01.10-11.29.21:122][498]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.29.21:174][498]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.29.21:218][498]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.10-11.29.21:292][498]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Gargoyle, compiling. 
+[2018.01.10-11.29.22:220][498]TextureStreamingBuild: Display: Compiling optional shaders took 0.935 seconds.
+[2018.01.10-11.29.24:227][498]LogSavePackage: Save=31.61ms
+[2018.01.10-11.29.24:227][498]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/GargoyleA14D488F4FB2419B05D041BC30320F3F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Gargoyle.uasset'
+[2018.01.10-11.29.24:235][498]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Gargoyle.uasset
+[2018.01.10-11.29.24:262][498]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.29.24:262][498]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.29.24:262][498]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.29.24:262][498]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.10-11.29.24:262][498]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.29.33:652][286]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.29.33:732][286]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.29.33:751][286]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.29.35:079][410]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.29.35:079][410]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.29.35:079][410]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.29.35:079][410]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.29.40:412][841]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.29.40:450][841]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.10-11.29.41:768][975]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.29.41:768][975]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.29.41:768][975]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.29.41:768][975]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.29.42:592][ 66]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.29.42:650][ 66]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.10-11.29.42:658][ 66]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.10-11.29.44:200][228]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.29.44:200][228]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.29.44:201][228]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.29.44:201][228]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.29.44:559][267]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.29.44:620][267]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.10-11.29.44:628][267]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.10-11.29.46:490][453]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.29.46:490][453]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.29.46:490][453]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.29.46:490][453]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.29.53:992][  1]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.29.54:013][  1]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.10-11.29.54:045][  1]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.10-11.29.55:395][124]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.29.55:396][124]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.29.55:396][124]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.29.55:396][124]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.29.57:583][319]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.29.57:609][319]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.10-11.29.59:766][539]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.29.59:793][539]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_12, compiling. 
+[2018.01.10-11.30.04:557][980]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.30.04:587][980]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.10-11.30.06:625][182]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.30.06:660][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.10-11.30.09:063][406]MaterialEditorStats: Base pass shader: 109 instructions
+[2018.01.10-11.30.09:063][406]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 183 instructions
+[2018.01.10-11.30.09:063][406]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.30.09:063][406]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.10-11.30.09:063][406]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.30.10:458][559]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.30.10:478][559]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_13, compiling. 
+[2018.01.10-11.30.12:716][775]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.30.12:736][775]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_14, compiling. 
+[2018.01.10-11.30.13:985][892]LogMaterialEditor: Saving and Compiling material Gargoyle_2
+[2018.01.10-11.30.14:646][892]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.30.14:710][892]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.30.14:765][892]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.10-11.30.14:845][892]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Gargoyle_2, compiling. 
+[2018.01.10-11.30.16:030][892]TextureStreamingBuild: Display: Compiling optional shaders took 1.193 seconds.
+[2018.01.10-11.30.18:076][892]LogSavePackage: Save=14.88ms
+[2018.01.10-11.30.18:076][892]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gargoyle_229CB72F04DC2A124BBF5E49584262C3A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Gargoyle_2.uasset'
+[2018.01.10-11.30.18:082][892]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Gargoyle_2.uasset
+[2018.01.10-11.30.18:095][892]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.30.18:095][892]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.30.18:095][892]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.30.18:095][892]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.10-11.30.18:095][892]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.30.23:811][253]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.30.23:923][253]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.30.23:943][253]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.30.28:936][801]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.30.28:958][801]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.10-11.30.31:495][ 63]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.30.31:551][ 63]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.10-11.30.31:559][ 63]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.10-11.30.33:270][220]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.30.33:325][220]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.10-11.30.33:332][220]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.10-11.30.35:518][423]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.30.35:518][423]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.30.35:518][423]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.30.35:518][423]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.30.42:326][ 66]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.30.42:351][ 66]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.10-11.30.42:384][ 66]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.10-11.30.49:420][710]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.30.49:446][710]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.10-11.30.53:631][102]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.30.53:656][102]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.10-11.30.55:680][287]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.30.55:680][287]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.30.55:680][287]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.30.55:680][287]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.30.59:292][625]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.30.59:314][625]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_17, compiling. 
+[2018.01.10-11.31.01:829][858]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.31.01:852][858]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.10-11.31.03:373][ 19]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.31.03:393][ 19]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.10-11.31.05:192][196]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.31.05:214][196]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_16, compiling. 
+[2018.01.10-11.31.06:350][310]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.31.06:381][310]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_15, compiling. 
+[2018.01.10-11.31.07:383][405]LogMaterialEditor: Applying material Gargoyle_3
+[2018.01.10-11.31.08:122][405]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.31.08:178][405]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.31.08:227][405]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.10-11.31.08:305][405]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Gargoyle_3, compiling. 
+[2018.01.10-11.31.09:231][405]TextureStreamingBuild: Display: Compiling optional shaders took 0.935 seconds.
+[2018.01.10-11.31.10:071][485]LogMaterialEditor: Saving and Compiling material Gargoyle_3
+[2018.01.10-11.31.11:459][485]LogSavePackage: Save=25.67ms
+[2018.01.10-11.31.11:459][485]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Gargoyle_3813D508841FEECBC33A1E8869B3FF436.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Gargoyle_3.uasset'
+[2018.01.10-11.31.11:468][485]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Gargoyle_3.uasset
+[2018.01.10-11.31.11:491][485]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.31.11:491][485]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.31.11:491][485]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.31.11:491][485]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.10-11.31.11:491][485]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.31.49:672][803]LogSavePackage: Save=3256.99ms
+[2018.01.10-11.31.49:672][803]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareCF8326D545D197FE5B8DC983F6179573.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.10-11.31.49:678][803]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.10-11.31.58:901][ 57]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.10-11.31.59:993][ 87]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.10-11.32.15:187][446]LogSavePackage: Save=3264.87ms
+[2018.01.10-11.32.15:187][446]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare54BBB3A743903BD9084FD19DDC048E3F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.10-11.32.15:194][446]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.10-11.32.19:316][504]LogSavePackage: Save=15.81ms
+[2018.01.10-11.32.19:316][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Pedestal_3990D38754F354EE31A56D8AB8A182D83.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Pedestal_3.uasset'
+[2018.01.10-11.32.19:321][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Pedestal_3.uasset
+[2018.01.10-11.32.19:877][504]LogSavePackage: Save=533.81ms
+[2018.01.10-11.32.19:877][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/0PUV_pedestal_initialShadingGrou5E1DE7714E55417523AE51ABB66BC60B.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_BaseColor.uasset'
+[2018.01.10-11.32.19:882][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_BaseColor.uasset
+[2018.01.10-11.32.20:988][504]LogSavePackage: Save=1089.69ms
+[2018.01.10-11.32.20:988][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/0PUV_pedestal_initialShadingGrou7597F40F4C68E6E978C6988FEDB38C00.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_Normal.uasset'
+[2018.01.10-11.32.20:993][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_Normal.uasset
+[2018.01.10-11.32.21:421][504]LogSavePackage: Save=412.35ms
+[2018.01.10-11.32.21:421][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/0PUV_pedestal_initialShadingGrouF69743E249A2326FFF4CE0962C571CD5.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.10-11.32.21:425][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.10-11.32.22:128][504]LogSavePackage: Save=671.75ms
+[2018.01.10-11.32.22:129][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1PUV_pedestal_initialShadingGrouF26AA97647EE6AE81A71259BDCFAABB4.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_BaseColor.uasset'
+[2018.01.10-11.32.22:140][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_BaseColor.uasset
+[2018.01.10-11.32.24:150][504]LogSavePackage: Save=1971.59ms
+[2018.01.10-11.32.24:150][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1PUV_pedestal_initialShadingGrou1FB3152D43125D40335399B15C41B395.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_Normal.uasset'
+[2018.01.10-11.32.24:154][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_Normal.uasset
+[2018.01.10-11.32.24:780][504]LogSavePackage: Save=611.19ms
+[2018.01.10-11.32.24:780][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1PUV_pedestal_initialShadingGrouD26AB350437C168842BFDDB792A5F590.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.10-11.32.24:785][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.10-11.32.25:788][504]LogSavePackage: Save=972.24ms
+[2018.01.10-11.32.25:788][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1UV_Statue_G_1initialShadingGrou3E613AC24E9385F9CFA263B931965CA2.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1UV_Statue_G_1initialShadingGroup_Normal.uasset'
+[2018.01.10-11.32.25:796][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1UV_Statue_G_1initialShadingGroup_Normal.uasset
+[2018.01.10-11.32.26:407][504]LogSavePackage: Save=586.94ms
+[2018.01.10-11.32.26:407][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1UV_Statue_G__initialShadingGrouCA870E0940041866E75C3B8C693D61AD.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1UV_Statue_G__initialShadingGroup_BaseColor.uasset'
+[2018.01.10-11.32.26:414][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1UV_Statue_G__initialShadingGroup_BaseColor.uasset
+[2018.01.10-11.32.26:935][504]LogSavePackage: Save=500.44ms
+[2018.01.10-11.32.26:935][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1UV_Statue_G_initialShadingGroup53ED07BE4939359D931B548F9F86483B.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.10-11.32.26:947][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.10-11.32.27:716][504]LogSavePackage: Save=728.62ms
+[2018.01.10-11.32.27:716][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2PUV_pedestal_initialShadingGrouB58D2DF74E7FD49A62172494D8F1987A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_BaseColor.uasset'
+[2018.01.10-11.32.27:729][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_BaseColor.uasset
+[2018.01.10-11.32.28:617][504]LogSavePackage: Save=850.64ms
+[2018.01.10-11.32.28:617][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2PUV_pedestal_initialShadingGrou116AB34E4A9AACCC6AFFBD806815D821.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_Normal.uasset'
+[2018.01.10-11.32.28:623][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_Normal.uasset
+[2018.01.10-11.32.28:999][504]LogSavePackage: Save=362.31ms
+[2018.01.10-11.32.28:999][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2PUV_pedestal_initialShadingGrou45B8CF864CD4882F53FBAA96D8146DFF.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.10-11.32.29:003][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.10-11.32.29:477][504]LogSavePackage: Save=458.56ms
+[2018.01.10-11.32.29:477][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2UV_Statue_G_initialShadingGroupAC0BABE84121B3193218F4B8F864BD04.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2UV_Statue_G_initialShadingGroup_BaseColor.uasset'
+[2018.01.10-11.32.29:482][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2UV_Statue_G_initialShadingGroup_BaseColor.uasset
+[2018.01.10-11.32.30:387][504]LogSavePackage: Save=890.77ms
+[2018.01.10-11.32.30:387][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2UV_Statue_G_initialShadingGroup7A263382463FEB79AB65369EC423C570.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2UV_Statue_G_initialShadingGroup_Normal.uasset'
+[2018.01.10-11.32.30:392][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2UV_Statue_G_initialShadingGroup_Normal.uasset
+[2018.01.10-11.32.30:863][504]LogSavePackage: Save=446.75ms
+[2018.01.10-11.32.30:863][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2UV_Statue_G_initialShadingGroup6B2617EA481FD990214B3AA7EB82AED0.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.10-11.32.30:869][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.10-11.32.31:369][504]LogSavePackage: Save=481.79ms
+[2018.01.10-11.32.31:369][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3PUV_pedestal_initialShadingGrouDBE2BC334A5C76FD4259ED937CA8F04D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_BaseColor.uasset'
+[2018.01.10-11.32.31:375][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_BaseColor.uasset
+[2018.01.10-11.32.32:322][504]LogSavePackage: Save=931.55ms
+[2018.01.10-11.32.32:322][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3PUV_pedestal_initialShadingGrouBDA186EA48B7F8B3A73C2DB0024E104D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_Normal.uasset'
+[2018.01.10-11.32.32:333][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_Normal.uasset
+[2018.01.10-11.32.32:792][504]LogSavePackage: Save=427.83ms
+[2018.01.10-11.32.32:792][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3PUV_pedestal_initialShadingGrou87A59F0E4071C6079E54C7B4104EE28F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.10-11.32.32:796][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.10-11.32.33:450][504]LogSavePackage: Save=623.63ms
+[2018.01.10-11.32.33:450][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3UV_Statue_G_initialShadingGroupB4FD69A64D45602EBF1A22A7BDF952D3.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3UV_Statue_G_initialShadingGroup_BaseColor.uasset'
+[2018.01.10-11.32.33:455][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3UV_Statue_G_initialShadingGroup_BaseColor.uasset
+[2018.01.10-11.32.34:413][504]LogSavePackage: Save=940.24ms
+[2018.01.10-11.32.34:413][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3UV_Statue_G_initialShadingGroup9F1A7B81446CBE217A7199ABDEDC5F85.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3UV_Statue_G_initialShadingGroup_Normal.uasset'
+[2018.01.10-11.32.34:418][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3UV_Statue_G_initialShadingGroup_Normal.uasset
+[2018.01.10-11.32.34:901][504]LogSavePackage: Save=467.14ms
+[2018.01.10-11.32.34:901][504]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3UV_Statue_G_initialShadingGroup0C632D4D4FFC037DE29BD7AAE42D0674.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.10-11.32.34:907][504]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3UV_Statue_G_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.10-11.32.35:027][504]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.10-11.32.35:027][504]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.10-11.32.35:421][505]Cmd: QUIT_EDITOR
+[2018.01.10-11.32.35:498][505]LogExit: Preparing to exit.
+[2018.01.10-11.32.36:371][505]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.10-11.32.36:560][505]LogExit: Editor shut down
+[2018.01.10-11.32.36:569][505]LogExit: Transaction tracking system shut down
+[2018.01.10-11.32.36:897][505]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.10-11.32.36:897][505]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.10-11.32.36:897][505]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.10-11.32.36:897][505]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.10-11.32.36:898][505]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.10-11.32.36:898][505]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.10-11.32.36:898][505]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.10-11.32.37:135][505]LogExit: Object subsystem successfully closed.
+[2018.01.10-11.32.37:204][505]LogD3D11RHI: Shutdown
+[2018.01.10-11.32.37:204][505]LogD3D11RHI: CleanupD3DDevice
+[2018.01.10-11.32.37:211][505]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.10-11.32.37:266][505]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (554)
+[2018.01.10-11.32.37:266][505]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (552)
+[2018.01.10-11.32.37:266][505]LogModuleManager: Shutting down and abandoning module MaterialEditor (550)
+[2018.01.10-11.32.37:266][505]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.10-11.32.37:266][505]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.10-11.32.37:266][505]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.10-11.32.37:266][505]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.10-11.32.37:268][505]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.10-11.32.37:268][505]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.10-11.32.37:268][505]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.10-11.32.37:268][505]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' was aborted.
+[2018.01.10-11.32.37:268][505]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/Leszek/Collections/' was aborted.
+[2018.01.10-11.32.37:268][505]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' was aborted.
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.10-11.32.37:269][505]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.10-11.32.37:270][505]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.10-11.32.37:270][505]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.10-11.32.37:270][505]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.10-11.32.37:270][505]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.10-11.32.37:271][505]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.10-11.32.37:272][505]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.10-11.32.37:272][505]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.10-11.32.37:273][505]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.10-11.32.37:273][505]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.10-11.32.37:273][505]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.10-11.32.37:273][505]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.10-11.32.37:273][505]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.10-11.32.37:811][505]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.10-11.32.37:811][505]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.10-11.32.37:811][505]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.10-11.32.37:811][505]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.10-11.32.37:811][505]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.10-11.32.37:812][505]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.10-11.32.37:812][505]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.10-11.32.37:812][505]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.10-11.32.37:812][505]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.10-11.32.37:812][505]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.10-11.32.37:813][505]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.10-11.32.37:813][505]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.10-11.32.37:813][505]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.10-11.32.37:813][505]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.10-11.32.37:813][505]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.10-11.32.37:813][505]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.10-11.32.37:813][505]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.10-11.32.37:813][505]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.10-11.32.37:813][505]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.10-11.32.37:814][505]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.10-11.32.37:814][505]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.10-11.32.37:814][505]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.10-11.32.37:815][505]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.10-11.32.37:815][505]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.10-11.32.37:868][505]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.10-11.32.37:869][505]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.10-11.32.37:870][505]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.10-11.32.37:871][505]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.10-11.32.37:871][505]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.10-11.32.37:871][505]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.10-11.32.37:872][505]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.10-11.32.37:873][505]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.10-11.32.37:873][505]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.10-11.32.37:873][505]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.10-11.32.37:880][505]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.10-11.32.37:880][505]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.10-11.32.37:880][505]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.10-11.32.37:880][505]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.10-11.32.37:882][505]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.10-11.32.37:882][505]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.10-11.32.37:882][505]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.10-11.32.37:882][505]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.10-11.32.37:883][505]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.10-11.32.37:963][505]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.10-11.32.37:964][505]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.10-11.32.37:964][505]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.10-11.32.37:964][505]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.10-11.32.37:965][505]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.10-11.32.37:965][505]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.10-11.32.37:965][505]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.10-11.32.37:965][505]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.10-11.32.37:966][505]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.10-11.32.37:966][505]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.10-11.32.37:966][505]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.10-11.32.37:966][505]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.10-11.32.37:967][505]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.10-11.32.37:967][505]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.10-11.32.37:967][505]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.10-11.32.37:967][505]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.10-11.32.37:967][505]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.10-11.32.37:968][505]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.10-11.32.37:968][505]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.10-11.32.37:968][505]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.10-11.32.37:968][505]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.10-11.32.37:968][505]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.10-11.32.37:968][505]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.10-11.32.37:969][505]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.10-11.32.37:971][505]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.10-11.32.37:971][505]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.10-11.32.37:972][505]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.10-11.32.37:973][505]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.10-11.32.37:973][505]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.10-11.32.37:973][505]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.10-11.32.37:973][505]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.10-11.32.37:973][505]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.10-11.32.37:973][505]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.10-11.32.37:973][505]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.10-11.32.37:973][505]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.10-11.32.38:074][505]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.10-11.32.38:175][505]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.10-11.32.38:175][505]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.10-11.32.38:175][505]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.10-11.32.38:175][505]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.10-11.32.38:175][505]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.10-11.32.38:175][505]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.10-11.32.38:178][505]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.10-11.32.38:178][505]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.10-11.32.38:178][505]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.10-11.32.38:178][505]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.10-11.32.38:192][505]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.10-11.32.38:193][505]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.10-11.32.38:193][505]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.10-11.32.38:193][505]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.10-11.32.38:193][505]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.10-11.32.38:193][505]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.10-11.32.38:200][505]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.10-11.32.38:200][505]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.10-11.32.38:200][505]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.10-11.32.38:201][505]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.10-11.32.38:201][505]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.10-11.32.38:201][505]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.10-11.32.38:202][505]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.10-11.32.38:202][505]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.10-11.32.38:202][505]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.10-11.32.38:202][505]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.10-11.32.38:202][505]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.10-11.32.38:203][505]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.10-11.32.38:204][505]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.10-11.32.38:204][505]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.10-11.32.38:205][505]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.10-11.32.38:206][505]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.10-11.32.38:214][505]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.10-11.32.38:214][505]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.10-11.32.38:214][505]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.10-11.32.38:214][505]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.10-11.32.38:214][505]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.10-11.32.38:214][505]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.10-11.32.38:214][505]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.10-11.32.38:214][505]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.10-11.32.38:217][505]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.10-11.32.38:217][505]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.10-11.32.38:217][505]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.10-11.32.38:217][505]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.10-11.32.38:217][505]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.10-11.32.38:217][505]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.10-11.32.38:217][505]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.10-11.32.38:218][505]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.10-11.32.38:218][505]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.10-11.32.38:284][505]LogDerivedDataCache: Shutdown
+[2018.01.10-11.32.38:284][505]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.10-11.32.38:284][505]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.10-11.32.38:284][505]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.10-11.32.38:285][505]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.10-11.32.38:285][505]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.10-11.32.38:285][505]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.10-11.32.38:286][505]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.10-11.32.38:286][505]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.10-11.32.38:286][505]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.10-11.32.38:286][505]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.10-11.32.38:286][505]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.10-11.32.38:286][505]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.10-11.32.38:286][505]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.10-11.32.38:287][505]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.10-11.32.38:288][505]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.10-11.32.38:289][505]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.10-11.32.38:289][505]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.10-11.32.38:289][505]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.10-11.32.38:289][505]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.10-11.32.38:289][505]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.10-11.32.38:289][505]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.10-11.32.38:289][505]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.10-11.32.38:289][505]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.10-11.32.38:289][505]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.10-11.32.38:289][505]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.10-11.32.38:290][505]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.10-11.32.38:290][505]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.10-11.32.38:291][505]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.10-11.32.38:292][505]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.10-11.32.38:292][505]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B639A36DA-4832-93F5-B662-6D8BF9014196%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=a202bbab4bfb72a6c72ab59bf5105770%7Ca6b7376151474e159cf10430cd50646e%7C20bc636a-a4d7-41a8-a2dc-7238c7cddcf0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.10-11.32.38:307][505]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.10-11.32.38:310][505]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.10-11.32.38:310][505]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.10-11.32.38:310][505]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.10-11.32.38:311][505]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.10-11.32.38:311][505]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.10-11.32.38:311][505]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.10-11.32.38:311][505]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.10-11.32.38:314][505]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.10-11.32.38:315][505]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.10-11.32.38:315][505]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.10-11.32.38:315][505]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.10-11.32.38:315][505]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.10-11.32.38:315][505]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.10-11.32.38:315][505]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.10-11.32.38:315][505]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.10-11.32.38:315][505]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.10-11.32.38:315][505]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.10-11.32.38:315][505]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.10-11.32.38:326][505]LogExit: Exiting.
+[2018.01.10-11.32.38:359][505]Log file closed, 01/10/18 11:32:38
