@@ -1,0 +1,929 @@
+﻿Log file open, 01/10/18 11:07:25
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BreakTheBuildFINAL
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1409429348) SRandInit(1409429349).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.059677
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.10-11.07.28:272][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.10-11.07.28:272][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.10-11.07.28:311][  0]LogInit: Computer: DESKTOP-UTLPHC3
+[2018.01.10-11.07.28:311][  0]LogInit: User: Leszek
+[2018.01.10-11.07.28:311][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.10-11.07.28:312][  0]LogInit: High frequency timer resolution =2.742189 MHz
+[2018.01.10-11.07.28:312][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.01.10-11.07.28:312][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.10-11.07.28:312][  0]LogMemory: Process Physical Memory: 274.33 MB used, 274.33 MB peak
+[2018.01.10-11.07.28:313][  0]LogMemory: Process Virtual Memory: 269.89 MB used, 269.89 MB peak
+[2018.01.10-11.07.28:313][  0]LogMemory: Physical Memory: 6470.77 MB used,  9765.18 MB free, 16235.95 MB total
+[2018.01.10-11.07.28:313][  0]LogMemory: Virtual Memory: 677.91 MB used,  9765.18 MB free, 134217728.00 MB total
+[2018.01.10-11.07.30:493][  0]LogInit: Using OS detected language (en-US).
+[2018.01.10-11.07.30:493][  0]LogInit: Using OS detected locale (en-GB).
+[2018.01.10-11.07.30:505][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.10-11.07.31:465][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.10-11.07.32:084][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.10-11.07.32:146][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.01.10-11.07.32:146][  0]LogD3D11RHI:       4021/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2018.01.10-11.07.32:164][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.10-11.07.32:164][  0]LogD3D11RHI:       128/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.10-11.07.32:170][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.10-11.07.32:170][  0]LogD3D11RHI:       0/0/8117 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.10-11.07.32:170][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.10-11.07.32:197][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.10-11.07.32:198][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.01.10-11.07.32:198][  0]LogWindows: EnumDisplayDevices:
+[2018.01.10-11.07.32:198][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.10-11.07.32:199][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:1)
+[2018.01.10-11.07.32:199][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.10-11.07.32:199][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.10-11.07.32:199][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.01.10-11.07.32:199][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.10-11.07.32:199][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.10-11.07.32:199][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.01.10-11.07.32:261][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.10-11.07.32:315][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.10-11.07.32:325][  0]LogShaderCompilers: Guid format shader working directory is -48 characters bigger than the processId version (../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Intermediate/Shaders/WorkingDirectory/41844/).
+[2018.01.10-11.07.32:325][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Leszek/AppData/Local/Temp/UnrealShaderWorkingDir/73ECB6AF4CB0B134E36C2087C758466F/'.
+[2018.01.10-11.07.32:326][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.10-11.07.34:526][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.10-11.07.34:601][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.10-11.07.34:826][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.10-11.07.34:967][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.10-11.07.35:106][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.10-11.07.35:182][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.10-11.07.35:265][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.10-11.07.35:338][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.10-11.07.35:406][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.10-11.07.35:479][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.10-11.07.35:581][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.10-11.07.35:661][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.10-11.07.35:733][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.10-11.07.35:806][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.10-11.07.35:951][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.10-11.07.35:951][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.10-11.07.36:023][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.10-11.07.36:085][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.10-11.07.36:212][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.10-11.07.36:280][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.10-11.07.36:407][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.10-11.07.36:601][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.10-11.07.36:704][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.10-11.07.36:843][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.10-11.07.36:843][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.10-11.07.38:525][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.10-11.07.39:024][  0]LogDerivedDataCache: Loaded boot cache 0.50s 78MB C:/Users/Leszek/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.10-11.07.39:024][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Leszek/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.10-11.07.39:024][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.10-11.07.39:024][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.10-11.07.39:024][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.10-11.07.39:024][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.10-11.07.39:091][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.10-11.07.39:108][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Leszek/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.10-11.07.39:146][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.10-11.07.39:153][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.10-11.07.39:160][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.10-11.07.39:160][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.10-11.07.40:602][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.10-11.07.41:880][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.10-11.07.41:952][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.10-11.07.41:953][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.10-11.07.41:953][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.10-11.07.41:953][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.10-11.07.41:953][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.10-11.07.42:105][  0]LogNetVersion: BreakTheBuildFINAL , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4088768677)
+[2018.01.10-11.07.42:845][  0]LogAssetRegistry: FAssetRegistry took 0.0437 seconds to start up
+[2018.01.10-11.07.44:154][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.070659 seconds
+[2018.01.10-11.07.44:161][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.10-11.07.44:161][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.10-11.07.44:161][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.10-11.07.44:308][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.10-11.07.50:532][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.10-11.07.50:610][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.10-11.07.52:319][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.10-11.07.53:831][  0]SourceControl: Source control is disabled
+[2018.01.10-11.07.53:831][  0]SourceControl: Source control is disabled
+[2018.01.10-11.07.53:951][  0]SourceControl: Source control is disabled
+[2018.01.10-11.07.54:057][  0]SourceControl: Source control is disabled
+[2018.01.10-11.07.57:647][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.10-11.07.58:679][  0]LogOcInput: OculusInput pre-init called
+[2018.01.10-11.07.59:676][  0]LogEngine: Initializing Engine...
+[2018.01.10-11.07.59:679][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.10-11.07.59:994][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.10-11.07.59:994][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.10-11.08.00:612][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.10-11.08.00:677][  0]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.10-11.08.00:740][  0]LogInit: FAudioDevice initialized.
+[2018.01.10-11.08.00:883][  0]LogDerivedDataCache: Saved boot cache 0.14s 78MB C:/Users/Leszek/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.10-11.08.00:909][  0]LogInit: Texture streaming: Enabled
+[2018.01.10-11.08.01:210][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.10-11.08.01:977][  0]LogInit: Transaction tracking system initialized
+[2018.01.10-11.08.03:470][  0]BlueprintLog: New page: Editor Load
+[2018.01.10-11.08.08:299][  0]LocalizationService: Localization service is disabled
+[2018.01.10-11.08.11:986][  0]LogConsoleResponse: Display: 
+[2018.01.10-11.08.12:240][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.10-11.08.12:240][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.10-11.08.12:240][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.10-11.08.13:193][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.02s
+[2018.01.10-11.08.16:993][  0]SourceControl: Source control is disabled
+[2018.01.10-11.08.16:996][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.10-11.08.16:998][  0]LightingResults: New page: Lighting Build
+[2018.01.10-11.08.17:179][  0]MapCheck: New page: Map Check
+[2018.01.10-11.08.17:179][  0]LightingResults: New page: Lighting Build
+[2018.01.10-11.08.17:934][  0]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: Kategorie String: "NewEnumerator3"  Struct: /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataStruct.ItemDataStruct 
+[2018.01.10-11.08.17:956][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator0'
+[2018.01.10-11.08.17:956][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator1'
+[2018.01.10-11.08.17:956][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator0'
+[2018.01.10-11.08.17:956][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator1'
+[2018.01.10-11.08.17:956][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Kategorie' with an invalid value of 'Kategorie::NewEnumerator1'
+[2018.01.10-11.08.17:956][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator0'
+[2018.01.10-11.08.17:956][  0]LogEnum: Warning: In asset '/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataTable.ItemDataTable', there is an enum property of type 'Nutzbarkeit' with an invalid value of 'Nutzbarkeit::NewEnumerator1'
+[2018.01.10-11.08.18:588][  0]LogBlueprint: Error: [Compiler ActionsWidget] This blueprint (self) is not a FirstPersonCharacter_C, therefore ' Target ' must have a connection.
+[2018.01.10-11.08.18:650][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.10-11.08.18:662][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.10-11.08.18:899][  0]LogBlueprint: Warning: [Compiler ActionsWidget] [0056.82] Compile of ActionsWidget failed. 1 Fatal Issue(s) 0 Warning(s) [in 417 ms] (/Game/ThirdPersonBP/THIRDPERSONFOLDERBP/ActionsWidget.ActionsWidget)
+[2018.01.10-11.08.18:899][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0056.82] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 417 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.01.10-11.08.20:298][  0]LogBlueprint: Warning: [Compiler door2] Get : 'StaticMeshComponent' variable not found. Base class was probably changed. /Game/PabloPuzzle/modular/wall/doorButton/door2.door2
+[2018.01.10-11.08.20:337][  0]LogBlueprint: Warning: [Compiler door2] [0058.26] Compile of door2 successful, but with 1 Warning(s) [in 44 ms] (/Game/PabloPuzzle/modular/wall/doorButton/door2.door2)
+[2018.01.10-11.08.21:200][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.10-11.08.21:201][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/Untitled_4.uasset.
+[2018.01.10-11.08.21:201][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/Untitled_4 : Can't find file for asset. /Game/textures/neon
+[2018.01.10-11.08.21:201][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.10-11.08.21:202][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/Untitled_4.uasset.
+[2018.01.10-11.08.21:202][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/Untitled_4 : Can't find file for asset. /Game/textures/neon
+[2018.01.10-11.08.21:240][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.10-11.08.21:240][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/birdy.uasset.
+[2018.01.10-11.08.21:241][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/birdy : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.10-11.08.21:241][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.10-11.08.21:241][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/birdy.uasset.
+[2018.01.10-11.08.21:242][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/birdy : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.10-11.08.21:275][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.10-11.08.21:275][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/moustacheDemon.uasset.
+[2018.01.10-11.08.21:275][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/moustacheDemon : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.10-11.08.21:276][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.10-11.08.21:276][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/moustacheDemon.uasset.
+[2018.01.10-11.08.21:276][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/moustacheDemon : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.10-11.08.21:292][  0]LogLinker: Warning: Can't find file '/Game/Maps/Luis_Nightmare_BuiltData'
+[2018.01.10-11.08.21:292][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Luis_Nightmare_BuiltData' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap.
+[2018.01.10-11.08.21:292][  0]LoadErrors: Error: /Game/Maps/Luis_Nightmare : Can't find file for asset. /Game/Maps/Luis_Nightmare_BuiltData
+[2018.01.10-11.08.22:260][  0]LogLinker: Warning: Can't find file '/Game/Maps/Luis_Nightmare_BuiltData'
+[2018.01.10-11.08.22:261][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Luis_Nightmare_BuiltData' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap.
+[2018.01.10-11.08.22:261][  0]LoadErrors: Error: /Game/Maps/Luis_Nightmare : Can't find file for asset. /Game/Maps/Luis_Nightmare_BuiltData
+[2018.01.10-11.08.22:290][  0]LogLinker: Warning: Can't find file '/Game/gnomes/pCube1Mat'
+[2018.01.10-11.08.22:291][  0]LogLinker: Warning: Can't find file for asset '/Game/gnomes/pCube1Mat' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/gnomes/GomePablo01_pCube1.uasset.
+[2018.01.10-11.08.22:291][  0]LoadErrors: Error: /Game/PabloPuzzle/gnomes/GomePablo01_pCube1 : Can't find file for asset. /Game/gnomes/pCube1Mat
+[2018.01.10-11.08.22:291][  0]LogLinker: Warning: Can't find file '/Game/gnomes/pCube1Mat'
+[2018.01.10-11.08.22:292][  0]LogLinker: Warning: Can't find file for asset '/Game/gnomes/pCube1Mat' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/gnomes/GomePablo01_pCube1.uasset.
+[2018.01.10-11.08.22:292][  0]LoadErrors: Error: /Game/PabloPuzzle/gnomes/GomePablo01_pCube1 : Can't find file for asset. /Game/gnomes/pCube1Mat
+[2018.01.10-11.08.22:545][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.10-11.08.22:545][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/growingtray.uasset.
+[2018.01.10-11.08.22:545][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/growingtray : Can't find file for asset. /Game/modular/mobilier/GrowingTrayTexture1
+[2018.01.10-11.08.22:546][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.10-11.08.22:546][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/growingtray.uasset.
+[2018.01.10-11.08.22:546][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/growingtray : Can't find file for asset. /Game/modular/mobilier/GrowingTrayTexture1
+[2018.01.10-11.08.22:549][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.10-11.08.22:549][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/piedestale.uasset.
+[2018.01.10-11.08.22:549][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/piedestale : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_2
+[2018.01.10-11.08.22:550][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.10-11.08.22:550][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/piedestale.uasset.
+[2018.01.10-11.08.22:550][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/piedestale : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_2
+[2018.01.10-11.08.22:556][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.10-11.08.22:556][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/sculptureCherub.uasset.
+[2018.01.10-11.08.22:557][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/sculptureCherub : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_3
+[2018.01.10-11.08.22:557][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.10-11.08.22:557][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/sculptureCherub.uasset.
+[2018.01.10-11.08.22:557][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/sculptureCherub : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_3
+[2018.01.10-11.08.22:601][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.10-11.08.22:601][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/plants/plantFlower.uasset.
+[2018.01.10-11.08.22:601][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/plants/plantFlower : Can't find file for asset. /Game/modular/plants/plantFlowerTexture
+[2018.01.10-11.08.22:601][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.10-11.08.22:601][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/plants/plantFlower.uasset.
+[2018.01.10-11.08.22:602][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/plants/plantFlower : Can't find file for asset. /Game/modular/plants/plantFlowerTexture
+[2018.01.10-11.08.22:827][  0]LogLinker: Warning: Can't find file '/Game/Maps/Luis_Nightmare_BuiltData'
+[2018.01.10-11.08.22:827][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Luis_Nightmare_BuiltData' while loading NULL.
+[2018.01.10-11.08.22:827][  0]LogLinker: Warning: Can't find file '/Game/Maps/Luis_Nightmare_BuiltData'
+[2018.01.10-11.08.22:827][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Luis_Nightmare_BuiltData' while loading NULL.
+[2018.01.10-11.08.23:988][  0]LogLinker: Warning: Can't find file '/Game/Maps/Luis_Nightmare_BuiltData'
+[2018.01.10-11.08.23:989][  0]LoadErrors: Failed to load /Game/Maps/Luis_Nightmare_BuiltData.Luis_Nightmare_BuiltData Referenced by PersistentLevel
+[2018.01.10-11.08.23:989][  0]LogLinker: Warning: Can't find file for asset '/Game/Maps/Luis_Nightmare_BuiltData' while loading NULL.
+[2018.01.10-11.08.23:989][  0]LoadErrors: Failed to load /Game/Maps/Luis_Nightmare_BuiltData.Luis_Nightmare_BuiltData Referenced by PersistentLevel
+[2018.01.10-11.08.24:266][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.10-11.08.24:267][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.10-11.08.24:267][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading NULL.
+[2018.01.10-11.08.24:267][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.10-11.08.24:267][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.10-11.08.24:268][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.10-11.08.24:268][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading NULL.
+[2018.01.10-11.08.24:268][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.10-11.08.24:378][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.10-11.08.24:379][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.10-11.08.24:379][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.10-11.08.24:379][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.10-11.08.24:379][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.10-11.08.24:379][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.10-11.08.24:379][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.10-11.08.24:380][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.10-11.08.24:383][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.10-11.08.24:383][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.10-11.08.24:383][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.10-11.08.24:384][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.10-11.08.24:384][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.10-11.08.24:384][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.10-11.08.24:384][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.10-11.08.24:384][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.10-11.08.24:410][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.10-11.08.24:410][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.10-11.08.24:410][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading NULL.
+[2018.01.10-11.08.24:411][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.10-11.08.24:411][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.10-11.08.24:411][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.10-11.08.24:411][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading NULL.
+[2018.01.10-11.08.24:411][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.10-11.08.24:422][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.10-11.08.24:422][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.10-11.08.24:422][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading NULL.
+[2018.01.10-11.08.24:422][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.10-11.08.24:422][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.10-11.08.24:423][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.10-11.08.24:423][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading NULL.
+[2018.01.10-11.08.24:423][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.10-11.08.24:424][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.10-11.08.24:424][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.10-11.08.24:424][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading NULL.
+[2018.01.10-11.08.24:424][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.10-11.08.24:424][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.10-11.08.24:424][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.10-11.08.24:425][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading NULL.
+[2018.01.10-11.08.24:425][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.10-11.08.24:425][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.10-11.08.24:425][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.10-11.08.24:426][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading NULL.
+[2018.01.10-11.08.24:426][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.10-11.08.24:426][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.10-11.08.24:426][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.10-11.08.24:426][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading NULL.
+[2018.01.10-11.08.24:426][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.10-11.08.24:448][  0]LogLinker: Warning: Can't find file '/Game/gnomes/pCube1Mat'
+[2018.01.10-11.08.24:448][  0]LoadErrors: Failed to load /Game/gnomes/pCube1Mat.pCube1Mat Referenced by GomePablo01_pCube1
+[2018.01.10-11.08.24:449][  0]LogLinker: Warning: Can't find file for asset '/Game/gnomes/pCube1Mat' while loading NULL.
+[2018.01.10-11.08.24:449][  0]LoadErrors: Failed to load /Game/gnomes/pCube1Mat.pCube1Mat Referenced by GomePablo01_pCube1
+[2018.01.10-11.08.24:449][  0]LogLinker: Warning: Can't find file '/Game/gnomes/pCube1Mat'
+[2018.01.10-11.08.24:449][  0]LoadErrors: Failed to load /Game/gnomes/pCube1Mat.pCube1Mat Referenced by GomePablo01_pCube1
+[2018.01.10-11.08.24:449][  0]LogLinker: Warning: Can't find file for asset '/Game/gnomes/pCube1Mat' while loading NULL.
+[2018.01.10-11.08.24:449][  0]LoadErrors: Failed to load /Game/gnomes/pCube1Mat.pCube1Mat Referenced by GomePablo01_pCube1
+[2018.01.10-11.08.24:478][  0]LogProperty: Warning: Serialized Class /Script/Engine.SoundCue for a property of Class /Script/Engine.SoundWave. Reference will be nullptred.
+    Property = SoftObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWaveAssetPtr
+    Item = SoundCue /Game/Sound/criquets.criquets
+[2018.01.10-11.08.24:756][  0]LogTexture: Display: Building textures: potedPalmTree (AutoDXT, 2000X2000)
+[2018.01.10-11.08.24:757][  0]LogTexture: Display: Building textures: tall-grass-png-44164 (BGRA8, 1000X707)
+[2018.01.10-11.08.24:757][  0]LogTexture: Display: Building textures: LittlePine (AutoDXT, 2000X2000)
+[2018.01.10-11.08.24:757][  0]LogMaterial: Missing cached shader map for material PlantMaterialTest, compiling. 
+[2018.01.10-11.08.24:896][  0]LogStaticMesh: Building static mesh GrassPablo...
+[2018.01.10-11.08.24:904][  0]LogStaticMesh: Built static mesh [0.01s] /Game/PabloPuzzle/modular/plants/GrassPablo.GrassPablo
+[2018.01.10-11.08.25:502][  0]LogStaticMesh: Building static mesh plantTest...
+[2018.01.10-11.08.26:295][  0]LogStaticMesh: Built static mesh [0.79s] /Game/PabloPuzzle/fromVR/props/plantTest.plantTest
+[2018.01.10-11.08.26:314][  0]LogStaticMesh: Building static mesh Portculis...
+[2018.01.10-11.08.26:552][  0]LogStaticMesh: Built static mesh [0.24s] /Game/Portcullis/Portculis.Portculis
+[2018.01.10-11.08.26:578][  0]LogStaticMesh: Building static mesh PortcullisStump...
+[2018.01.10-11.08.26:584][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Portcullis/PortcullisStump.PortcullisStump
+[2018.01.10-11.08.26:629][  0]LogStaticMesh: Building static mesh Untitled_2...
+[2018.01.10-11.08.27:269][  0]LogStaticMesh: Built static mesh [0.64s] /Game/PabloPuzzle/fromVR/props/Untitled_2.Untitled_2
+[2018.01.10-11.08.27:732][  0]LogMaterial: Missing cached shader map for material MAT_house_1, compiling. 
+[2018.01.10-11.08.28:096][  0]LogAudioDerivedData: Display: Building compressed audio format OGG wave portoculis...
+[2018.01.10-11.08.28:194][  0]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Portcullis/Lever_Anim.Lever_Anim
+[2018.01.10-11.08.28:195][  0]LogAnimationCompression: Recompressing (AnimSequence /Game/Portcullis/Lever_Anim.Lever_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.01.10-11.08.31:038][  0]LogMaterial: Missing cached shader map for material potedPalmTreeTexture, compiling. 
+[2018.01.10-11.08.31:567][  0]LogMaterial: Missing cached shader map for material LittlePineTexture, compiling. 
+[2018.01.10-11.08.31:735][  0]LogMaterial: Missing cached shader map for material Instance_Grass, compiling. 
+[2018.01.10-11.08.32:100][  0]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.10-11.08.32:413][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.01.10-11.08.32:502][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.10-11.08.32:736][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 234.627ms to complete.
+[2018.01.10-11.08.32:737][  0]LogFileHelpers: Loading map 'Luis_Nightmare' took 15.742
+[2018.01.10-11.08.32:834][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.10-11.08.32:834][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.10-11.08.33:164][  0]LogCollectionManager: Loaded 0 collections in 0.003126 seconds
+[2018.01.10-11.08.33:350][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' took 0.01s
+[2018.01.10-11.08.33:350][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/Leszek/Collections/' took 0.01s
+[2018.01.10-11.08.33:350][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' took 0.01s
+[2018.01.10-11.08.33:350][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.01.10-11.08.33:369][  0]LogContentBrowser: Native class hierarchy populated in 0.0164 seconds. Added 2363 classes and 519 folders.
+[2018.01.10-11.08.33:576][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.10-11.08.33:715][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.01.10-11.08.33:844][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.10-11.08.33:912][  0]LogSlate: Took 0.001128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.10-11.08.33:916][  0]LogSlate: Took 0.001118 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.10-11.08.33:926][  0]LogSlate: Took 0.001593 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.10-11.08.34:098][  0]LogRenderer: Reallocating scene render targets to support 964x536 Format 10 NumSamples 1 (Frame:1).
+[2018.01.10-11.08.35:041][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.01.10-11.08.35:041][  0]LogLoad: (Engine Initialization) Total time: 72.96 seconds
+[2018.01.10-11.08.35:041][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.10-11.08.35:041][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.10-11.08.35:063][  0]LoadErrors: Error: /Game/Sound/criquetCue : Failed import for SoundWave /Game/Sound/criquets.criquets Referenced by export SoundNodeWavePlayer /Game/Sound/criquetCue.criquetCue:SoundNodeWavePlayer_1
+[2018.01.10-11.08.35:102][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.10-11.08.35:245][  0]LogSlate: Took 0.001168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.10-11.08.35:336][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.26s
+[2018.01.10-11.08.35:675][  3]LogAssetRegistry: Asset discovery search completed in 52.8538 seconds
+[2018.01.10-11.08.35:682][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.10-11.08.35:683][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000123 seconds (updated 0 objects)
+[2018.01.10-11.08.36:136][ 18]LogSlate: Took 0.000334 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.10-11.09.52:525][ 55]LogRenderer: Reallocating scene render targets to support 964x540 Format 10 NumSamples 1 (Frame:1915).
+[2018.01.10-11.10.28:982][753]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.11.13:373][492]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.10-11.11.13:399][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/0PUV_pedestal_initialShadingGroup_BaseColor.png)
+[2018.01.10-11.11.13:663][492]LogTexture: Display: Building textures: 0PUV_pedestal_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.10-11.11.14:575][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/0PUV_pedestal_initialShadingGroup_Normal.png)
+[2018.01.10-11.11.14:889][492]LogTexture: Display: Building textures: 0PUV_pedestal_initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.10-11.11.15:412][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/0PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.png)
+[2018.01.10-11.11.15:897][492]LogTexture: Display: Building textures: 0PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.10-11.11.16:995][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/1PUV_pedestal_initialShadingGroup_BaseColor.png)
+[2018.01.10-11.11.17:329][492]LogTexture: Display: Building textures: 1PUV_pedestal_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.10-11.11.18:536][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/1PUV_pedestal_initialShadingGroup_Normal.png)
+[2018.01.10-11.11.18:853][492]LogTexture: Display: Building textures: 1PUV_pedestal_initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.10-11.11.19:506][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/1PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.png)
+[2018.01.10-11.11.19:777][492]LogTexture: Display: Building textures: 1PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.10-11.11.20:768][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/2PUV_pedestal_initialShadingGroup_BaseColor.png)
+[2018.01.10-11.11.21:066][492]LogTexture: Display: Building textures: 2PUV_pedestal_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.10-11.11.22:367][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/2PUV_pedestal_initialShadingGroup_Normal.png)
+[2018.01.10-11.11.22:923][492]LogTexture: Display: Building textures: 2PUV_pedestal_initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.10-11.11.23:390][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/2PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.png)
+[2018.01.10-11.11.23:641][492]LogTexture: Display: Building textures: 2PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.10-11.11.24:679][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/3PUV_pedestal_initialShadingGroup_BaseColor.png)
+[2018.01.10-11.11.24:962][492]LogTexture: Display: Building textures: 3PUV_pedestal_initialShadingGroup_BaseColor (AutoDXT, 2048X2048)
+[2018.01.10-11.11.26:100][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/3PUV_pedestal_initialShadingGroup_Normal.png)
+[2018.01.10-11.11.26:500][492]LogTexture: Display: Building textures: 3PUV_pedestal_initialShadingGroup_Normal (BC5, 2048X2048)
+[2018.01.10-11.11.26:973][492]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 ../../../../../../Users/Leszek/Documents/Allegorithmic/Substance Painter/export/Pedistal/3PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.png)
+[2018.01.10-11.11.27:284][492]LogTexture: Display: Building textures: 3PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic (AutoDXT, 2048X2048)
+[2018.01.10-11.12.02:347][862]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.01.10-11.12.02:354][862]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.12.02:817][862]LogSlate: Took 0.000258 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.10-11.12.03:008][862]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.12.03:055][862]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.12.03:159][862]LogSlate: Took 0.002411 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.10-11.12.06:160][  0]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.12.06:160][  0]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.12.06:160][  0]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.12.06:160][  0]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.12.12:755][376]LogMaterial: Missing cached shader map for material Rusty_KEY, compiling. 
+[2018.01.10-11.12.12:858][376]LogMaterial: Missing cached shader map for material Rusty_KEY, compiling. 
+[2018.01.10-11.12.12:877][376]LogMaterial: Missing cached shader map for material Rusty_KEY, compiling. 
+[2018.01.10-11.12.12:922][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.10-11.12.12:929][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.10-11.12.12:936][376]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.10-11.12.14:381][456]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.12.14:381][456]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.12.14:382][456]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.12.14:382][456]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.10-11.12.14:382][456]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.12.24:434][ 31]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.12.24:472][ 31]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.10-11.12.25:769][107]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.12.25:770][107]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.12.25:770][107]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.12.25:770][107]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.12.26:163][129]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.12.26:234][129]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.10-11.12.26:245][129]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.10-11.12.28:570][267]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.12.28:570][267]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.12.28:570][267]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.12.28:570][267]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.12.30:347][373]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.12.30:395][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.10-11.12.30:408][373]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.10-11.12.31:866][459]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.12.31:866][459]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.12.31:866][459]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.12.31:866][459]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.12.37:386][752]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.12.37:408][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.10-11.12.37:440][752]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.10-11.12.38:705][824]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.12.38:705][824]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.12.38:705][824]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.12.38:705][824]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.12.41:778][986]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.12.41:805][986]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.10-11.12.43:111][ 62]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.12.43:111][ 62]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.12.43:111][ 62]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.12.43:111][ 62]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.12.44:631][139]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.12.44:653][139]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.10-11.12.46:168][228]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.12.46:168][228]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.12.46:168][228]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.12.46:168][228]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.13.07:168][439]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.13.07:191][439]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.01.10-11.13.08:829][536]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.01.10-11.13.08:829][536]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.01.10-11.13.08:829][536]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.13.08:829][536]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.10-11.13.08:829][536]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.13.11:983][717]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.13.12:004][717]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.10-11.13.13:334][795]MaterialEditorStats: Base pass shader: 105 instructions
+[2018.01.10-11.13.13:334][795]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.01.10-11.13.13:334][795]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.13.13:334][795]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.10-11.13.13:334][795]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.13.17:996][ 68]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.13.18:021][ 68]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.10-11.13.20:062][186]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.13.20:088][186]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.01.10-11.13.21:777][284]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.13.21:798][284]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.10-11.13.23:156][364]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.13.23:156][364]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.13.23:156][364]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.13.23:156][364]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.10-11.13.23:156][364]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.13.25:913][525]LogMaterialEditor: Applying material Pedestal
+[2018.01.10-11.13.26:469][525]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.13.26:529][525]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.13.26:572][525]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.10-11.13.26:661][525]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Pedestal, compiling. 
+[2018.01.10-11.13.27:631][525]TextureStreamingBuild: Display: Compiling optional shaders took 0.979 seconds.
+[2018.01.10-11.13.29:273][622]LogMaterialEditor: Saving and Compiling material Pedestal
+[2018.01.10-11.13.29:932][622]LogSavePackage: Save=23.03ms
+[2018.01.10-11.13.29:932][622]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Pedestal2E9CA9AC4CE77BA4D7F7ED8D20ED7843.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Pedestal.uasset'
+[2018.01.10-11.13.29:939][622]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Pedestal.uasset
+[2018.01.10-11.13.29:960][622]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.13.29:960][622]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.13.29:960][622]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.13.29:960][622]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.10-11.13.29:960][622]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.14.20:320][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WaterWell)
+[2018.01.10-11.14.59:160][175]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.14.59:248][175]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.14.59:265][175]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.01:213][353]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.15.01:213][353]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.15.01:213][353]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.15.01:213][353]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.15.07:944][ 40]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.07:983][ 40]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.10-11.15.10:048][260]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.15.10:048][260]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.15.10:048][260]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.15.10:048][260]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.15.10:842][339]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.10:901][339]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.10-11.15.10:904][339]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.10-11.15.12:320][493]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.15.12:320][493]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.15.12:320][493]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.15.12:320][493]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.15.13:325][610]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.13:372][610]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.10-11.15.13:374][610]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.10-11.15.14:995][785]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.15.14:995][785]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.15.14:995][785]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.15.14:995][785]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.15.16:809][967]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.16:810][967]LogMaterial: Warning: /Engine/Transient.Pedestal_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.15.16:810][967]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.15.16:817][967]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.10-11.15.16:846][967]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.10-11.15.16:872][967]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.15.19:542][222]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.19:543][222]LogMaterial: Warning: /Engine/Transient.Pedestal_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.15.19:543][222]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.15.19:549][222]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.10-11.15.26:428][881]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.26:429][881]LogMaterial: Warning: /Engine/Transient.Pedestal_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.15.26:429][881]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.15.30:398][243]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.30:399][243]LogMaterial: Warning: /Engine/Transient.Pedestal_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.15.30:399][243]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.15.30:407][243]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.10-11.15.33:966][597]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.33:966][597]LogMaterial: Warning: /Engine/Transient.Pedestal_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.15.33:966][597]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.15.33:973][597]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.10-11.15.35:757][776]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.35:757][776]LogMaterial: Warning: /Engine/Transient.Pedestal_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.15.35:758][776]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.15.35:767][776]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.10-11.15.37:713][934]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.37:713][934]LogMaterial: Warning: /Engine/Transient.Pedestal_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.15.37:713][934]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.15.37:722][934]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.10-11.15.45:304][546]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.45:305][546]LogMaterial: Warning: /Engine/Transient.Pedestal_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.15.45:305][546]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.15.45:310][546]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.10-11.15.53:286][213]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.53:287][213]LogMaterial: Warning: /Engine/Transient.Pedestal_2 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.15.53:287][213]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.15.53:295][213]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.10-11.15.57:478][588]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.15.57:502][588]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.10-11.15.59:230][756]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.15.59:230][756]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.15.59:230][756]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.15.59:230][756]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.10-11.15.59:230][756]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.16.03:028][154]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.16.04:584][318]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.16.04:584][318]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.16.04:584][318]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.16.04:584][318]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.10-11.16.04:584][318]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.16.09:633][823]LogMaterialEditor: Applying material Pedestal_2
+[2018.01.10-11.16.10:145][823]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.16.10:232][823]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.16.10:293][823]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.10-11.16.10:366][823]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Pedestal_2, compiling. 
+[2018.01.10-11.16.11:372][823]TextureStreamingBuild: Display: Compiling optional shaders took 1.014 seconds.
+[2018.01.10-11.16.12:265][922]LogMaterialEditor: Saving and Compiling material Pedestal_2
+[2018.01.10-11.16.13:647][922]LogSavePackage: Save=15.30ms
+[2018.01.10-11.16.13:647][922]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Pedestal_28DE1CB6841C05F8EE728839B585C91D0.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Pedestal_2.uasset'
+[2018.01.10-11.16.13:652][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Pedestal_2.uasset
+[2018.01.10-11.16.13:663][922]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.16.13:664][922]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.16.13:664][922]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.16.13:664][922]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.10-11.16.13:664][922]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.16.31:561][310]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.31:662][310]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.31:684][310]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.33:374][463]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.16.33:374][463]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.16.33:374][463]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.16.33:374][463]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.16.42:240][305]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.42:258][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.10-11.16.43:739][468]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.16.43:739][468]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.16.43:739][468]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.16.43:740][468]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.16.44:657][575]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.44:703][575]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.10-11.16.44:704][575]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.10-11.16.46:341][752]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.16.46:341][752]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.16.46:341][752]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.16.46:341][752]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.16.47:562][895]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.47:606][895]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.10-11.16.47:608][895]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.10-11.16.49:311][ 70]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.10-11.16.49:311][ 70]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.10-11.16.49:311][ 70]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.10-11.16.49:311][ 70]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.10-11.16.52:065][361]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.52:065][361]LogMaterial: Warning: /Engine/Transient.Pedestal_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.16.52:065][361]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.16.52:069][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.10-11.16.52:097][361]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.10-11.16.52:128][361]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.16.54:270][575]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.54:271][575]LogMaterial: Warning: /Engine/Transient.Pedestal_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.16.54:271][575]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.16.54:279][575]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.10-11.16.55:767][700]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.55:767][700]LogMaterial: Warning: /Engine/Transient.Pedestal_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.16.55:767][700]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.16.55:773][700]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.10-11.16.57:662][883]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.57:662][883]LogMaterial: Warning: /Engine/Transient.Pedestal_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.16.57:662][883]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.16.57:666][883]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.10-11.16.59:794][ 72]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.16.59:794][ 72]LogMaterial: Warning: /Engine/Transient.Pedestal_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.16.59:795][ 72]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.16.59:800][ 72]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.10-11.17.05:910][646]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.17.05:911][646]LogMaterial: Warning: /Engine/Transient.Pedestal_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.17.05:911][646]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.17.05:921][646]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_6, compiling. 
+[2018.01.10-11.17.09:272][908]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.17.09:272][908]LogMaterial: Warning: /Engine/Transient.Pedestal_3 (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.10-11.17.09:272][908]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.10-11.17.09:276][908]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_7, compiling. 
+[2018.01.10-11.17.12:591][182]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.17.12:615][182]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_8, compiling. 
+[2018.01.10-11.17.14:267][343]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.17.14:267][343]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.17.14:267][343]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.17.14:267][343]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.10-11.17.14:267][343]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.17.15:254][454]LogMaterialEditor: Applying material Pedestal_3
+[2018.01.10-11.17.15:842][454]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.17.15:927][454]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.17.15:991][454]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.17.16:069][454]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Pedestal_3, compiling. 
+[2018.01.10-11.17.17:017][454]TextureStreamingBuild: Display: Compiling optional shaders took 0.957 seconds.
+[2018.01.10-11.17.17:853][548]LogMaterialEditor: Saving and Compiling material Pedestal_3
+[2018.01.10-11.17.19:327][548]LogSavePackage: Save=14.74ms
+[2018.01.10-11.17.19:327][548]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Pedestal_359C1230640E050607920D381EA91E58F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Pedestal_3.uasset'
+[2018.01.10-11.17.19:331][548]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/Pedestal_3.uasset
+[2018.01.10-11.17.19:342][548]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.17.19:342][548]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.17.19:342][548]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.17.19:342][548]MaterialEditorStats: Texture samplers: 6/16
+[2018.01.10-11.17.19:342][548]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.17.37:218][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal3)
+[2018.01.10-11.17.38:081][840]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.18.21:949][954]LogRenderer: Reallocating scene render targets to support 964x560 Format 10 NumSamples 1 (Frame:15444).
+[2018.01.10-11.18.22:029][955]LogRenderer: Reallocating scene render targets to support 964x572 Format 10 NumSamples 1 (Frame:15446).
+[2018.01.10-11.18.22:116][956]LogRenderer: Reallocating scene render targets to support 964x576 Format 10 NumSamples 1 (Frame:15448).
+[2018.01.10-11.18.53:525][999]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal5)
+[2018.01.10-11.19.26:643][210]LogSavePackage: Save=5484.12ms
+[2018.01.10-11.19.26:643][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare_Auto18D8706E949CAD9D70437199586B03C35.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap'
+[2018.01.10-11.19.26:647][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap
+[2018.01.10-11.19.26:650][210]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 5.549
+[2018.01.10-11.19.26:650][210]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 5.549
+[2018.01.10-11.19.26:656][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_BaseColor] ([1] browsable assets)...
+[2018.01.10-11.19.26:665][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_BaseColor.0PUV_pedestal_initialShadingGroup_BaseColor]
+[2018.01.10-11.19.26:665][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_BaseColor]
+[2018.01.10-11.19.26:683][210]LogSavePackage: Save=15.67ms
+[2018.01.10-11.19.26:683][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/0PUV_pedestal_initialShadingGrou292BE2754CF680FCD818EF8EB807F824.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_BaseColor_Auto1.uasset'
+[2018.01.10-11.19.26:685][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_BaseColor_Auto1.uasset
+[2018.01.10-11.19.26:687][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_Normal] ([1] browsable assets)...
+[2018.01.10-11.19.26:695][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_Normal.0PUV_pedestal_initialShadingGroup_Normal]
+[2018.01.10-11.19.26:695][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_Normal]
+[2018.01.10-11.19.26:724][210]LogSavePackage: Save=26.06ms
+[2018.01.10-11.19.26:724][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/0PUV_pedestal_initialShadingGrouE2A144274553CBC9E09BEBAD3B753A67.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_Normal_Auto1.uasset'
+[2018.01.10-11.19.26:728][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_Normal_Auto1.uasset
+[2018.01.10-11.19.26:732][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.01.10-11.19.26:747][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.0PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic]
+[2018.01.10-11.19.26:747][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic]
+[2018.01.10-11.19.26:784][210]LogSavePackage: Save=31.59ms
+[2018.01.10-11.19.26:784][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/0PUV_pedestal_initialShadingGrou86E00CD9499BBBA4F305F797849DB636.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic_Auto1.uasset'
+[2018.01.10-11.19.26:788][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/0PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic_Auto1.uasset
+[2018.01.10-11.19.26:791][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_BaseColor] ([1] browsable assets)...
+[2018.01.10-11.19.26:809][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_BaseColor.1PUV_pedestal_initialShadingGroup_BaseColor]
+[2018.01.10-11.19.26:809][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_BaseColor]
+[2018.01.10-11.19.26:846][210]LogSavePackage: Save=33.05ms
+[2018.01.10-11.19.26:846][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1PUV_pedestal_initialShadingGrou4A90D6FD4C5AA45716A6E59A7C656B29.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_BaseColor_Auto1.uasset'
+[2018.01.10-11.19.26:852][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_BaseColor_Auto1.uasset
+[2018.01.10-11.19.26:855][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_Normal] ([1] browsable assets)...
+[2018.01.10-11.19.26:873][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_Normal.1PUV_pedestal_initialShadingGroup_Normal]
+[2018.01.10-11.19.26:873][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_Normal]
+[2018.01.10-11.19.26:935][210]LogSavePackage: Save=58.02ms
+[2018.01.10-11.19.26:936][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1PUV_pedestal_initialShadingGrouFF002EC649E41347CDB7049799196CDD.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_Normal_Auto1.uasset'
+[2018.01.10-11.19.26:942][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_Normal_Auto1.uasset
+[2018.01.10-11.19.26:946][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.01.10-11.19.26:970][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.1PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic]
+[2018.01.10-11.19.26:970][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic]
+[2018.01.10-11.19.27:022][210]LogSavePackage: Save=45.80ms
+[2018.01.10-11.19.27:022][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1PUV_pedestal_initialShadingGrouBA92069B410A8C44D00D2F847FD76DFB.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic_Auto1.uasset'
+[2018.01.10-11.19.27:028][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/1PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic_Auto1.uasset
+[2018.01.10-11.19.27:032][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_BaseColor] ([1] browsable assets)...
+[2018.01.10-11.19.27:056][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_BaseColor.2PUV_pedestal_initialShadingGroup_BaseColor]
+[2018.01.10-11.19.27:056][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_BaseColor]
+[2018.01.10-11.19.27:112][210]LogSavePackage: Save=47.88ms
+[2018.01.10-11.19.27:112][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2PUV_pedestal_initialShadingGrou7AC8C44742D8F5BB63D735B1C7E996CF.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_BaseColor_Auto1.uasset'
+[2018.01.10-11.19.27:119][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_BaseColor_Auto1.uasset
+[2018.01.10-11.19.27:123][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_Normal] ([1] browsable assets)...
+[2018.01.10-11.19.27:151][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_Normal.2PUV_pedestal_initialShadingGroup_Normal]
+[2018.01.10-11.19.27:151][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_Normal]
+[2018.01.10-11.19.27:214][210]LogSavePackage: Save=57.77ms
+[2018.01.10-11.19.27:214][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2PUV_pedestal_initialShadingGrouB5CAF2E049B9121A863E5BBD4371BC64.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_Normal_Auto1.uasset'
+[2018.01.10-11.19.27:222][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_Normal_Auto1.uasset
+[2018.01.10-11.19.27:228][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.01.10-11.19.27:252][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.2PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic]
+[2018.01.10-11.19.27:252][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic]
+[2018.01.10-11.19.27:287][210]LogSavePackage: Save=29.28ms
+[2018.01.10-11.19.27:287][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2PUV_pedestal_initialShadingGrouE9438CE44659F149B294DBB45492170E.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic_Auto1.uasset'
+[2018.01.10-11.19.27:291][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/2PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic_Auto1.uasset
+[2018.01.10-11.19.27:294][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_BaseColor] ([1] browsable assets)...
+[2018.01.10-11.19.27:313][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_BaseColor.3PUV_pedestal_initialShadingGroup_BaseColor]
+[2018.01.10-11.19.27:313][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_BaseColor]
+[2018.01.10-11.19.27:362][210]LogSavePackage: Save=42.33ms
+[2018.01.10-11.19.27:362][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3PUV_pedestal_initialShadingGrouB33C6529418871A2D27630A43726BD1B.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_BaseColor_Auto1.uasset'
+[2018.01.10-11.19.27:368][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_BaseColor_Auto1.uasset
+[2018.01.10-11.19.27:372][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_Normal] ([1] browsable assets)...
+[2018.01.10-11.19.27:397][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_Normal.3PUV_pedestal_initialShadingGroup_Normal]
+[2018.01.10-11.19.27:397][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_Normal]
+[2018.01.10-11.19.27:470][210]LogSavePackage: Save=67.13ms
+[2018.01.10-11.19.27:470][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3PUV_pedestal_initialShadingGrou245DE71D4C416A193718B6903FD3C277.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_Normal_Auto1.uasset'
+[2018.01.10-11.19.27:477][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_Normal_Auto1.uasset
+[2018.01.10-11.19.27:482][210]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.01.10-11.19.27:506][210]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic.3PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic]
+[2018.01.10-11.19.27:506][210]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic]
+[2018.01.10-11.19.27:557][210]LogSavePackage: Save=43.87ms
+[2018.01.10-11.19.27:557][210]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3PUV_pedestal_initialShadingGrouEC9943B94E18BD95031515A70991084D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic_Auto1.uasset'
+[2018.01.10-11.19.27:563][210]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/3PUV_pedestal_initialShadingGroup_OcclusionRoughnessMetallic_Auto1.uasset
+[2018.01.10-11.19.27:564][210]LogFileHelpers: Auto-saving content packages took 0.910
+[2018.01.10-11.20.11:179][415]LogSavePackage: Save=3533.78ms
+[2018.01.10-11.20.11:179][415]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare77731C2E468F4B907A6E22BC1564F44A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.10-11.20.11:186][415]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.10-11.20.42:783][868]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.20.44:226][992]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.20.45:503][ 94]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.20.46:993][256]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.20.55:036][ 37]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.20.56:937][245]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.21.32:502][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal8)
+[2018.01.10-11.21.37:958][791]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.10-11.21.41:544][856]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal6)
+[2018.01.10-11.21.45:285][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.10-11.22.00:380][224]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pedestal8)
+[2018.01.10-11.22.02:856][264]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.10-11.22.10:155][438]LogSlate: Took 0.002362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.10-11.22.15:239][555]Cmd: TRANSACTION UNDO
+[2018.01.10-11.22.15:240][555]LogEditorTransaction: Undo Rotate Actors
+[2018.01.10-11.22.15:362][555]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.10-11.22.17:350][612]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.10-11.22.17:350][612]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.10-11.22.17:350][612]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.10-11.22.17:350][612]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.10-11.22.17:350][612]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.10-11.22.22:576][643]LogSavePackage: Save=3695.63ms
+[2018.01.10-11.22.22:576][643]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareDE32EB5644988FEB70104FB5B8B9346D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.10-11.22.22:581][643]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
