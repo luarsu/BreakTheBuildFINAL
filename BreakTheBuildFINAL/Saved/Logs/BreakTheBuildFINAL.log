@@ -2423,3 +2423,1195 @@ LogInit: Object subsystem initialized
 [2018.01.11-04.51.34:995][166]LogSavePackage: Save=45.74ms
 [2018.01.11-04.51.34:995][166]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/BP_PuzzleFlippingPieceE3F5C3E844D4AAF5FD2B188359BC1486.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleFlippingPiece.uasset'
 [2018.01.11-04.51.34:996][166]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleFlippingPiece.uasset
+[2018.01.11-04.56.46:417][427]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.11-04.56.56:633][648]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-04.57.01:953][719]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-04.57.29:076][ 72]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-04.57.30:193][ 89]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-04.57.37:224][179]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-04.57.41:188][230]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-04.57.55:136][447]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-04.57.56:995][480]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-04.57.58:469][516]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.01.11-04.57.59:486][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-04.58.00:343][555]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.01.11-04.58.05:465][652]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.11-04.58.05:484][652]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-04.58.05:484][652]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.11-04.58.05:485][652]PIE: New page: PIE session: Luis_Nightmare (Jan 11, 2018, 4:58:05 AM)
+[2018.01.11-04.58.05:485][652]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.11-04.58.05:610][652]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125017s)
+[2018.01.11-04.58.05:612][652]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.11-04.58.05:612][652]LogPlayLevel: PIE: World Init took: (0.002005s)
+[2018.01.11-04.58.05:613][652]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.128147s)
+[2018.01.11-04.58.05:672][652]LogInit: XAudio2 using '扬声器 (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.11-04.58.05:693][652]LogInit: FAudioDevice initialized.
+[2018.01.11-04.58.05:731][652]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.11-04.58.05:780][652]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.11-04.58.05
+[2018.01.11-04.58.05:785][652]LogWorld: Bringing up level for play took: 0.052074
+[2018.01.11-04.58.05:792][652]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:792][652]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:792][652]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:792][652]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:792][652]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:792][652]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:792][652]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:792][652]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:793][652]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:793][652]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:793][652]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:793][652]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:793][652]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:793][652]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:793][652]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:793][652]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:794][652]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:795][652]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:795][652]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:798][652]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:799][652]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:799][652]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:799][652]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:799][652]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:799][652]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.05:799][652]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.612
+[2018.01.11-04.58.05:800][652]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-04.58.07:194][692]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-04.58.07:271][692]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-04.58.09:476][768]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.01.11-04.58.12:340][823]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.11-04.58.12:358][823]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-04.58.12:358][823]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.11-04.58.12:358][823]PIE: New page: PIE session: Luis_Nightmare (Jan 11, 2018, 4:58:12 AM)
+[2018.01.11-04.58.12:359][823]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.11-04.58.12:483][823]LogPlayLevel: PIE: StaticDuplicateObject took: (0.124797s)
+[2018.01.11-04.58.12:484][823]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.11-04.58.12:484][823]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2018.01.11-04.58.12:485][823]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.126594s)
+[2018.01.11-04.58.12:536][823]LogInit: XAudio2 using '扬声器 (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.11-04.58.12:556][823]LogInit: FAudioDevice initialized.
+[2018.01.11-04.58.12:592][823]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.11-04.58.12:642][823]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.11-04.58.12
+[2018.01.11-04.58.12:646][823]LogWorld: Bringing up level for play took: 0.053429
+[2018.01.11-04.58.12:651][823]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:651][823]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:651][823]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:651][823]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:651][823]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:651][823]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:651][823]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:651][823]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:651][823]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:651][823]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:652][823]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:653][823]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:653][823]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:653][823]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:653][823]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:653][823]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:653][823]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:653][823]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:653][823]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:658][823]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:658][823]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:658][823]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:658][823]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:658][823]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:658][823]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-04.58.12:659][823]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.529
+[2018.01.11-04.58.12:660][823]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-04.58.17:792][993]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-04.58.17:879][993]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-04.58.23:587][ 35]LogSavePackage: Save=3873.74ms
+[2018.01.11-04.58.23:587][ 35]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare71B3C7FE41AB8800F1A978B860AAF5B4.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-04.58.23:591][ 35]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-04.58.53:133][436]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/houses/assets/chandelier.obj)
+[2018.01.11-04.58.53:251][436]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/houses/assets/chandelier.obj
+[2018.01.11-04.58.55:991][436]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-04.58.59:365][436]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/houses/assets/chandelier.obj
+[2018.01.11-04.59.02:141][436]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-04.59.02:151][436]LogFbx: Warning: Triangulating static mesh default
+[2018.01.11-04.59.06:565][436]LogStaticMesh: Building static mesh chandelier...
+[2018.01.11-04.59.10:089][436]LogStaticMesh: Built static mesh [3.52s] /Game/AngHouseAssets/chandelier.chandelier
+[2018.01.11-05.09.36:023][904]LogSlate: Took 0.013031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.01.11-05.10.01:974][256]LogEditorTransaction: Undo Change Parameter Type
+[2018.01.11-05.10.04:787][289]LogSavePackage: Save=184.15ms
+[2018.01.11-05.10.04:788][289]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/BP_PuzzleFlippingPieceB2C96AD64DC9DE3B400BABB6D52DC62E.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleFlippingPiece.uasset'
+[2018.01.11-05.10.04:798][289]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleFlippingPiece.uasset
+[2018.01.11-05.11.08:465][638]LogEditorTransaction: Undo Rename Variable
+[2018.01.11-05.11.09:472][653]LogEditorTransaction: Undo Add Variable
+[2018.01.11-05.11.44:123][488]BlueprintLog: New page: Compile BP_PuzzleFlippingPiece
+[2018.01.11-05.11.45:559][488]LogSavePackage: Save=101.30ms
+[2018.01.11-05.11.45:559][488]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/BP_PuzzleFlippingPiece54F1FECB4B3B42BD86B778BA1965509A.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleFlippingPiece.uasset'
+[2018.01.11-05.11.45:562][488]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleFlippingPiece.uasset
+[2018.01.11-05.11.50:442][608]LogSavePackage: Save=107.93ms
+[2018.01.11-05.11.50:442][608]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/BP_PuzzleFlippingPiece9EFA5376491005CAE1D9FDAAFAFB065D.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleFlippingPiece.uasset'
+[2018.01.11-05.11.50:444][608]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleFlippingPiece.uasset
+[2018.01.11-05.11.58:773][804]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.12.02:105][898]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece)
+[2018.01.11-05.12.02:653][911]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.12.08:934][ 22]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc10)
+[2018.01.11-05.12.09:686][ 33]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.12.21:397][370]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.12.22:292][392]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.12.23:047][412]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.12.23:526][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.12.24:573][452]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc9)
+[2018.01.11-05.12.27:839][518]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.12.29:204][552]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc11)
+[2018.01.11-05.12.40:786][757]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece)
+[2018.01.11-05.12.50:479][919]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.12.51:626][950]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece)
+[2018.01.11-05.12.55:901][ 71]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.12.58:799][155]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece)
+[2018.01.11-05.13.05:069][332]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc11)
+[2018.01.11-05.13.06:129][360]Cmd: DELETE
+[2018.01.11-05.13.06:129][360]Cmd: ACTOR DELETE
+[2018.01.11-05.13.06:236][360]LogEditorActor: Deleted Actor: BP_PuzzlePc1_C
+[2018.01.11-05.13.06:285][360]LogEditorActor: Deleted 1 Actors (0.156 secs)
+[2018.01.11-05.13.07:094][377]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece)
+[2018.01.11-05.13.10:050][460]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.13.11:326][494]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc10)
+[2018.01.11-05.13.19:491][697]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh1)
+[2018.01.11-05.13.23:630][794]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.13.26:418][868]Cmd: TRANSACTION UNDO
+[2018.01.11-05.13.26:418][868]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.13.28:215][888]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.13.31:494][962]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc10)
+[2018.01.11-05.13.40:822][136]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh3)
+[2018.01.11-05.13.51:541][342]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.13.53:378][388]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc10)
+[2018.01.11-05.13.54:396][416]Cmd: DELETE
+[2018.01.11-05.13.54:396][416]Cmd: ACTOR DELETE
+[2018.01.11-05.13.54:478][416]LogEditorActor: Deleted Actor: BP_PuzzlePc1_C
+[2018.01.11-05.13.54:502][416]LogEditorActor: Deleted 1 Actors (0.106 secs)
+[2018.01.11-05.13.54:968][431]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh3)
+[2018.01.11-05.13.58:765][539]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.14.01:311][606]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece)
+[2018.01.11-05.14.06:540][747]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.14.11:601][877]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc3)
+[2018.01.11-05.14.20:167][ 50]Cmd: DELETE
+[2018.01.11-05.14.20:168][ 50]Cmd: ACTOR DELETE
+[2018.01.11-05.14.20:266][ 50]LogEditorActor: Deleted Actor: BP_PuzzlePc1_C
+[2018.01.11-05.14.20:307][ 50]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2018.01.11-05.14.21:314][ 74]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.14.22:030][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh3)
+[2018.01.11-05.14.29:174][226]Cmd: TRANSACTION UNDO
+[2018.01.11-05.14.29:174][226]LogEditorTransaction: Undo Edit Colour
+[2018.01.11-05.14.44:893][477]Cmd: TRANSACTION UNDO
+[2018.01.11-05.14.44:893][477]LogEditorTransaction: Undo Edit Colour
+[2018.01.11-05.14.47:144][509]Cmd: TRANSACTION UNDO
+[2018.01.11-05.14.47:145][509]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.14.47:858][519]Cmd: TRANSACTION UNDO
+[2018.01.11-05.14.47:858][519]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-05.14.48:607][525]Cmd: TRANSACTION UNDO
+[2018.01.11-05.14.48:607][525]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-05.14.49:338][535]Cmd: TRANSACTION UNDO
+[2018.01.11-05.14.49:338][535]LogEditorTransaction: Undo Delete Actors
+[2018.01.11-05.14.57:093][667]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh3)
+[2018.01.11-05.15.20:081][967]Cmd: TRANSACTION UNDO
+[2018.01.11-05.15.20:081][967]LogEditorTransaction: Undo Edit Colour
+[2018.01.11-05.15.21:533][988]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc3)
+[2018.01.11-05.15.28:343][ 85]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh10)
+[2018.01.11-05.15.35:474][225]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc3)
+[2018.01.11-05.15.36:477][251]Cmd: DELETE
+[2018.01.11-05.15.36:477][251]Cmd: ACTOR DELETE
+[2018.01.11-05.15.36:558][251]LogEditorActor: Deleted Actor: BP_PuzzlePc1_C
+[2018.01.11-05.15.36:597][251]LogEditorActor: Deleted 1 Actors (0.119 secs)
+[2018.01.11-05.15.37:234][271]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh3)
+[2018.01.11-05.15.37:738][284]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.15.48:261][536]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh10)
+[2018.01.11-05.15.52:719][657]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.16.03:775][960]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc9)
+[2018.01.11-05.16.14:269][172]Cmd: DELETE
+[2018.01.11-05.16.14:269][172]Cmd: ACTOR DELETE
+[2018.01.11-05.16.14:332][172]LogEditorActor: Deleted Actor: BP_PuzzlePc1_C
+[2018.01.11-05.16.14:355][172]LogEditorActor: Deleted 1 Actors (0.086 secs)
+[2018.01.11-05.16.15:176][197]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece)
+[2018.01.11-05.16.22:596][328]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc12)
+[2018.01.11-05.16.22:815][329]Cmd: TRANSACTION UNDO
+[2018.01.11-05.16.22:815][329]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-05.16.23:611][341]Cmd: TRANSACTION UNDO
+[2018.01.11-05.16.23:611][341]LogEditorTransaction: Undo Edit Colour 1
+[2018.01.11-05.16.32:442][464]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc12)
+[2018.01.11-05.16.32:669][465]Cmd: TRANSACTION UNDO
+[2018.01.11-05.16.32:669][465]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-05.16.32:847][466]Cmd: TRANSACTION UNDO
+[2018.01.11-05.16.32:847][466]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.16.33:233][467]Cmd: TRANSACTION UNDO
+[2018.01.11-05.16.33:233][467]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-05.16.33:237][467]Cmd: TRANSACTION UNDO
+[2018.01.11-05.16.33:237][467]LogEditorTransaction: Undo Delete Actors
+[2018.01.11-05.16.33:551][468]Cmd: TRANSACTION UNDO
+[2018.01.11-05.16.33:551][468]LogEditorTransaction: Undo Edit Colour
+[2018.01.11-05.16.33:873][469]Cmd: TRANSACTION UNDO
+[2018.01.11-05.16.33:874][469]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-05.16.33:901][469]Cmd: TRANSACTION UNDO
+[2018.01.11-05.16.33:901][469]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.16.35:522][482]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece)
+[2018.01.11-05.16.40:565][601]Cmd: TRANSACTION UNDO
+[2018.01.11-05.16.40:565][601]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.16.45:322][691]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc9)
+[2018.01.11-05.16.51:292][785]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece2)
+[2018.01.11-05.16.57:640][901]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc9)
+[2018.01.11-05.16.58:629][928]Cmd: DELETE
+[2018.01.11-05.16.58:629][928]Cmd: ACTOR DELETE
+[2018.01.11-05.16.58:692][928]LogEditorActor: Deleted Actor: BP_PuzzlePc1_C
+[2018.01.11-05.16.58:715][928]LogEditorActor: Deleted 1 Actors (0.087 secs)
+[2018.01.11-05.16.59:214][943]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece2)
+[2018.01.11-05.17.03:678][ 62]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc7)
+[2018.01.11-05.17.09:706][168]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece3)
+[2018.01.11-05.17.16:390][287]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc7)
+[2018.01.11-05.17.17:464][317]Cmd: DELETE
+[2018.01.11-05.17.17:465][317]Cmd: ACTOR DELETE
+[2018.01.11-05.17.17:542][317]LogEditorActor: Deleted Actor: BP_PuzzlePc1_C
+[2018.01.11-05.17.17:564][317]LogEditorActor: Deleted 1 Actors (0.099 secs)
+[2018.01.11-05.17.18:256][338]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece3)
+[2018.01.11-05.17.23:494][491]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc5)
+[2018.01.11-05.17.25:244][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.17.25:967][557]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece3)
+[2018.01.11-05.17.28:934][637]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc6)
+[2018.01.11-05.17.34:594][748]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh10)
+[2018.01.11-05.17.43:331][915]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc6)
+[2018.01.11-05.17.49:735][ 40]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh11)
+[2018.01.11-05.17.58:182][217]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc6)
+[2018.01.11-05.17.59:051][240]Cmd: DELETE
+[2018.01.11-05.17.59:051][240]Cmd: ACTOR DELETE
+[2018.01.11-05.17.59:116][240]LogEditorActor: Deleted Actor: BP_PuzzlePc1_C
+[2018.01.11-05.17.59:141][240]LogEditorActor: Deleted 1 Actors (0.090 secs)
+[2018.01.11-05.17.59:817][260]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh11)
+[2018.01.11-05.18.02:399][331]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece4)
+[2018.01.11-05.18.04:621][392]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece)
+[2018.01.11-05.18.09:281][513]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.18.10:796][557]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc12)
+[2018.01.11-05.18.15:583][696]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece3)
+[2018.01.11-05.18.17:967][761]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece4)
+[2018.01.11-05.18.20:906][846]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc5)
+[2018.01.11-05.18.31:356][ 21]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece4)
+[2018.01.11-05.18.39:645][196]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.18.42:047][258]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc5)
+[2018.01.11-05.18.42:983][283]Cmd: DELETE
+[2018.01.11-05.18.42:983][283]Cmd: ACTOR DELETE
+[2018.01.11-05.18.43:035][283]LogEditorActor: Deleted Actor: BP_PuzzlePc1_C
+[2018.01.11-05.18.43:059][283]LogEditorActor: Deleted 1 Actors (0.076 secs)
+[2018.01.11-05.18.43:704][303]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece4)
+[2018.01.11-05.19.05:396][751]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc12)
+[2018.01.11-05.19.06:827][791]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh3)
+[2018.01.11-05.19.10:018][877]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc12)
+[2018.01.11-05.19.19:464][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh12)
+[2018.01.11-05.19.25:670][128]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.19.27:000][164]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzlePc1_C (BP_PuzzlePc12)
+[2018.01.11-05.19.27:887][189]Cmd: DELETE
+[2018.01.11-05.19.27:887][189]Cmd: ACTOR DELETE
+[2018.01.11-05.19.27:966][189]LogEditorActor: Deleted Actor: BP_PuzzlePc1_C
+[2018.01.11-05.19.27:989][189]LogEditorActor: Deleted 1 Actors (0.101 secs)
+[2018.01.11-05.19.28:376][202]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh12)
+[2018.01.11-05.19.32:356][314]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleFlippingPiece_C (BP_PuzzleFlippingPiece)
+[2018.01.11-05.19.35:530][402]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.19.36:038][413]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.19.46:405][474]LogSavePackage: Save=7625.88ms
+[2018.01.11-05.19.46:406][474]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare9E959778482F00CBFE1989A5D801CC3E.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-05.19.46:410][474]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-05.19.57:360][695]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.19.57:849][701]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.20.04:645][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-05.20.39:352][369]LogSavePackage: Save=8123.62ms
+[2018.01.11-05.20.39:352][369]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareC5B306704BB0E63B59DA87BD97859852.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-05.20.39:356][369]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-05.20.47:068][520]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.20.50:041][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening595)
+[2018.01.11-05.20.52:974][667]LogEditorViewport: Clicking on Actor (LMB): boomBox_C (boomBox2)
+[2018.01.11-05.20.53:595][681]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.20.57:868][800]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.21.05:349][ 19]LogEditorViewport: Clicking on Actor (LMB): boomBox_C (boomBox2)
+[2018.01.11-05.21.07:105][ 67]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-05.21.08:934][115]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_5)
+[2018.01.11-05.21.09:317][123]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.21.10:206][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall67)
+[2018.01.11-05.21.21:207][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (leavesAppleTree_pPlane51)
+[2018.01.11-05.21.21:829][459]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.21.24:426][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-05.21.26:536][590]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (leavesAppleTree_pPlane69)
+[2018.01.11-05.21.31:101][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-05.21.31:454][714]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.21.34:002][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-05.21.34:914][764]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-05.21.35:832][775]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.21.37:033][789]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-05.21.38:707][810]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.22.05:263][177]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0004 seconds. Added 1 classes and 0 folders.
+[2018.01.11-05.22.05:266][177]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.22.06:336][177]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.22.06:403][177]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.22.08:541][197]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.11-05.22.08:541][197]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.11-05.22.08:542][197]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.22.08:542][197]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.23.07:509][646]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.23.07:553][646]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.11-05.23.07:563][646]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.23.07:626][646]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.11-05.23.09:474][702]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.01.11-05.23.09:474][702]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.01.11-05.23.09:474][702]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.23.09:474][702]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.23.16:734][812]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.23.16:794][812]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.11-05.23.18:107][827]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.01.11-05.23.18:107][827]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.01.11-05.23.18:107][827]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.23.18:107][827]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.23.20:217][847]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.23.20:297][847]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.11-05.23.21:642][862]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.01.11-05.23.21:642][862]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.01.11-05.23.21:642][862]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.23.21:642][862]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.23.22:652][871]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.23.22:728][871]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.11-05.23.24:024][887]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.01.11-05.23.24:024][887]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.01.11-05.23.24:024][887]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.23.24:024][887]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.23.50:900][147]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.23.50:954][147]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.11-05.23.50:961][147]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.23.52:960][195]MaterialEditorStats: Base pass shader: 101 instructions
+[2018.01.11-05.23.52:960][195]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 174 instructions
+[2018.01.11-05.23.52:960][195]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.23.52:960][195]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.23.53:529][210]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.23.54:829][242]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.23.54:830][242]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.23.54:830][242]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.23.54:830][242]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.24.22:988][571]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.24.24:655][606]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.01.11-05.24.24:655][606]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.01.11-05.24.24:655][606]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.24.24:655][606]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.24.24:919][609]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.24.24:963][609]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2018.01.11-05.24.26:251][648]MaterialEditorStats: Base pass shader: 107 instructions
+[2018.01.11-05.24.26:251][648]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.01.11-05.24.26:251][648]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.24.26:251][648]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.24.37:530][905]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.24.38:867][937]MaterialEditorStats: Base pass shader: 104 instructions
+[2018.01.11-05.24.38:868][937]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 178 instructions
+[2018.01.11-05.24.38:868][937]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.24.38:868][937]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.24.44:389][ 24]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.24.45:785][ 57]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.24.45:785][ 57]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.24.45:785][ 57]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.24.45:785][ 57]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.24.49:910][119]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.24.49:942][119]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.24.51:248][158]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.24.51:248][158]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.24.51:248][158]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.24.51:248][158]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.24.56:379][307]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.24.57:678][346]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.24.57:678][346]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.24.57:678][346]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.24.57:678][346]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.25.13:222][687]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.25.13:262][687]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.25.14:480][722]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.25.14:480][722]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 106 instructions
+[2018.01.11-05.25.14:480][722]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.25.14:480][722]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.25.17:016][790]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.25.18:281][828]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.25.18:281][828]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 182 instructions
+[2018.01.11-05.25.18:281][828]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.25.18:281][828]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.25.22:053][927]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.25.23:383][966]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.25.23:383][966]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.25.23:383][966]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.25.23:383][966]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.25.26:916][ 36]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.25.28:147][ 73]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.25.28:147][ 73]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.25.28:147][ 73]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.25.28:147][ 73]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.25.34:283][227]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.25.35:582][264]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.25.35:583][264]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.25.35:583][264]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.25.35:583][264]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.25.41:956][423]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.25.43:333][457]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.25.43:333][457]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.25.43:333][457]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.25.43:333][457]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.25.46:069][502]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.25.47:498][543]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.25.47:498][543]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.25.47:498][543]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.25.47:498][543]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.26.00:396][818]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.26.01:993][854]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.26.01:993][854]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.26.01:993][854]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.26.01:994][854]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.26.02:862][867]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.26.04:454][895]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.26.04:454][895]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.26.04:454][895]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.26.04:454][895]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.26.04:859][900]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.26.06:226][926]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.26.06:226][926]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.26.06:226][926]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.26.06:226][926]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.26.18:651][129]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.26.18:703][129]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.26.20:249][173]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.26.20:249][173]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.26.20:249][173]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.26.20:249][173]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.26.24:488][297]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.26.25:877][334]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.26.25:877][334]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.26.25:877][334]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.26.25:878][334]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.26.33:944][527]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.26.35:291][567]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.26.35:291][567]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.26.35:291][567]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.26.35:291][567]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.26.38:158][614]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.26.39:457][644]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.26.39:457][644]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.26.39:457][644]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.26.39:457][644]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.26.50:597][822]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.26.51:960][851]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.26.51:960][851]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.26.51:960][851]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.26.51:960][851]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.27.05:122][126]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AngHouseAssets/MAT_CopperGold" FILE="F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngHouseAssets/MAT_CopperGold.uasset" SILENT=true
+[2018.01.11-05.27.05:153][126]LogSavePackage: Save=28.67ms
+[2018.01.11-05.27.05:153][126]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/MAT_CopperGoldEC3A260147E6F73F2A5A2EB9999A86CF.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngHouseAssets/MAT_CopperGold.uasset'
+[2018.01.11-05.27.05:162][126]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngHouseAssets/MAT_CopperGold.uasset
+[2018.01.11-05.27.09:715][144]LogMaterial: Missing cached shader map for material MAT_Gold, compiling. 
+[2018.01.11-05.27.09:833][144]LogMaterial: Missing cached shader map for material MAT_CopperGold, compiling. 
+[2018.01.11-05.27.09:900][144]LogMaterial: Missing cached shader map for material MAT_CopperGold, compiling. 
+[2018.01.11-05.27.09:997][144]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MAT_CopperGold, compiling. 
+[2018.01.11-05.27.10:931][144]TextureStreamingBuild: Display: Compiling optional shaders took 0.942 seconds.
+[2018.01.11-05.27.14:182][255]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.11-05.27.21:061][364]LogMaterial: Missing cached shader map for material MAT_CopperGold, compiling. 
+[2018.01.11-05.27.21:326][364]LogMaterial: Missing cached shader map for material MAT_CopperGold, compiling. 
+[2018.01.11-05.27.21:346][364]LogMaterial: Missing cached shader map for material MAT_CopperGold, compiling. 
+[2018.01.11-05.27.22:804][392]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.27.22:804][392]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.27.22:804][392]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.27.22:804][392]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.27.29:252][509]LogActorFactory: Actor Factory created chandelier
+[2018.01.11-05.27.29:952][519]LogActorFactory: Actor Factory created chandelier
+[2018.01.11-05.27.31:070][542]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.27.39:267][696]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.27.50:710][954]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.27.51:040][954]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.27.51:116][954]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.27.52:998][996]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.27.52:998][996]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.27.52:998][996]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.27.52:998][996]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.27.55:089][ 33]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.27.56:413][ 63]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.27.56:413][ 63]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.27.56:413][ 63]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.27.56:413][ 63]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.27.56:661][ 67]LogMaterialEditor: Applying material MAT_CopperGold
+[2018.01.11-05.27.57:468][ 67]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.27.57:615][ 67]LogMaterial: Missing cached shader map for material MAT_CopperGold, compiling. 
+[2018.01.11-05.27.57:674][ 67]LogMaterial: Missing cached shader map for material MAT_CopperGold, compiling. 
+[2018.01.11-05.27.57:777][ 67]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MAT_CopperGold, compiling. 
+[2018.01.11-05.27.58:738][ 67]TextureStreamingBuild: Display: Compiling optional shaders took 0.969 seconds.
+[2018.01.11-05.28.01:166][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-05.28.01:295][121]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.28.01:296][121]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.28.01:296][121]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.28.01:296][121]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.11-05.28.02:221][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chandelier)
+[2018.01.11-05.28.08:551][329]Cmd: TRANSACTION UNDO
+[2018.01.11-05.28.08:551][329]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.28.08:593][329]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.28.09:044][336]Cmd: TRANSACTION UNDO
+[2018.01.11-05.28.09:045][336]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.28.09:078][336]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.28.10:628][355]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.28.10:629][355]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.28.10:629][355]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.28.10:629][355]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.28.17:981][523]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.28.26:064][709]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.28.31:381][861]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight7)
+[2018.01.11-05.28.55:694][454]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.11-05.28.56:750][479]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.11-05.29.02:369][624]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.11-05.29.10:486][786]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.11-05.29.11:622][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plant_5)
+[2018.01.11-05.29.21:113][971]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint2)
+[2018.01.11-05.29.30:560][989]LogSavePackage: Save=8268.99ms
+[2018.01.11-05.29.30:560][989]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare5083B4D74896338BF0AB97B9872A44CC.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-05.29.30:573][989]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-05.29.32:864][ 25]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.11-05.29.32:882][ 25]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.29.32:883][ 25]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.01.11-05.29.32:895][ 25]LogPlayLevel: [PlayLevel] Compiling BP_PuzzlePc1 before play...
+[2018.01.11-05.29.33:808][ 25]LogPlayLevel: PlayLevel: Blueprint regeneration took 925 ms (1 blueprints)
+[2018.01.11-05.29.33:808][ 25]PIE: New page: PIE session: Luis_Nightmare (Jan 11, 2018, 5:29:33 AM)
+[2018.01.11-05.29.33:809][ 25]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.11-05.29.33:979][ 25]LogPlayLevel: PIE: StaticDuplicateObject took: (0.170737s)
+[2018.01.11-05.29.33:980][ 25]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.11-05.29.33:980][ 25]LogPlayLevel: PIE: World Init took: (0.000800s)
+[2018.01.11-05.29.33:981][ 25]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.172522s)
+[2018.01.11-05.29.34:006][ 25]LogInit: XAudio2 using '扬声器 (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.11-05.29.34:033][ 25]LogInit: FAudioDevice initialized.
+[2018.01.11-05.29.34:074][ 25]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.11-05.29.34:161][ 25]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 0) at 2018.01.11-05.29.34
+[2018.01.11-05.29.34:172][ 25]LogWorld: Bringing up level for play took: 0.096736
+[2018.01.11-05.29.34:180][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:180][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:181][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:181][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:181][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:181][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:181][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:181][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:181][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:182][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:182][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:182][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:182][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:182][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:183][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:183][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:183][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:183][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:184][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:184][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:184][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:184][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:184][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:184][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:185][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:185][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:185][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:185][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:185][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:185][ 25]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:198][ 25]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:198][ 25]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:198][ 25]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:198][ 25]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:198][ 25]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:198][ 25]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.34:200][ 25]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 1.012
+[2018.01.11-05.29.34:201][ 25]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.29.40:113][169]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.29.40:223][169]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.29.43:021][198]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.11-05.29.43:994][208]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.11-05.29.44:603][215]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.29.48:210][254]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.11-05.29.57:659][394]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.11-05.29.57:683][394]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.29.57:683][394]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.11-05.29.57:683][394]PIE: New page: PIE session: Luis_Nightmare (Jan 11, 2018, 5:29:57 AM)
+[2018.01.11-05.29.57:684][394]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.11-05.29.57:809][394]LogPlayLevel: PIE: StaticDuplicateObject took: (0.125258s)
+[2018.01.11-05.29.57:810][394]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.11-05.29.57:810][394]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2018.01.11-05.29.57:812][394]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.128283s)
+[2018.01.11-05.29.57:861][394]LogInit: XAudio2 using '扬声器 (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.11-05.29.57:909][394]LogInit: FAudioDevice initialized.
+[2018.01.11-05.29.57:952][394]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.11-05.29.58:046][394]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 0) at 2018.01.11-05.29.58
+[2018.01.11-05.29.58:056][394]LogWorld: Bringing up level for play took: 0.102432
+[2018.01.11-05.29.58:063][394]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:064][394]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:064][394]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:064][394]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:064][394]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:064][394]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:064][394]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:065][394]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:065][394]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:065][394]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:065][394]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:065][394]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:065][394]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:065][394]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:066][394]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:066][394]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:066][394]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:066][394]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:066][394]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:066][394]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:067][394]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:067][394]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:067][394]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:067][394]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:067][394]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:067][394]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:067][394]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:068][394]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:068][394]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:068][394]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:078][394]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:078][394]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:079][394]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:079][394]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:079][394]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:080][394]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.29.58:081][394]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.894
+[2018.01.11-05.29.58:083][394]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.30.06:442][613]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.30.06:530][613]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.30.08:267][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (chandelier)
+[2018.01.11-05.30.08:927][632]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.11-05.30.13:941][700]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.11-05.30.13:958][700]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.30.13:959][700]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.11-05.30.13:959][700]PIE: New page: PIE session: Luis_Nightmare (Jan 11, 2018, 5:30:13 AM)
+[2018.01.11-05.30.13:959][700]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.11-05.30.14:109][700]LogPlayLevel: PIE: StaticDuplicateObject took: (0.149346s)
+[2018.01.11-05.30.14:110][700]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.11-05.30.14:111][700]LogPlayLevel: PIE: World Init took: (0.001705s)
+[2018.01.11-05.30.14:113][700]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.153886s)
+[2018.01.11-05.30.14:160][700]LogInit: XAudio2 using '扬声器 (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.11-05.30.14:193][700]LogInit: FAudioDevice initialized.
+[2018.01.11-05.30.14:234][700]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.11-05.30.14:390][700]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 0) at 2018.01.11-05.30.14
+[2018.01.11-05.30.14:399][700]LogWorld: Bringing up level for play took: 0.163376
+[2018.01.11-05.30.14:406][700]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:406][700]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:406][700]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:407][700]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:407][700]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:407][700]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:407][700]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:407][700]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:407][700]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:407][700]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:408][700]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:408][700]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:408][700]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:408][700]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:408][700]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:408][700]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:408][700]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:408][700]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:409][700]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:409][700]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:409][700]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:409][700]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:409][700]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:409][700]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:410][700]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:410][700]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:410][700]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:410][700]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:410][700]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:410][700]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:418][700]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:418][700]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:418][700]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:418][700]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:418][700]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:418][700]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.30.14:419][700]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 1.232
+[2018.01.11-05.30.14:421][700]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.30.25:898][985]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.30.26:014][985]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.30.27:621][997]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.11-05.30.48:543][472]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.11-05.30.53:452][603]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.11-05.30.54:030][615]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.11-05.30.57:193][698]Cmd: TRANSACTION UNDO
+[2018.01.11-05.30.57:194][698]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-05.30.57:236][698]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.30.57:775][706]Cmd: TRANSACTION UNDO
+[2018.01.11-05.30.57:776][706]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-05.30.57:808][706]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.30.58:375][715]Cmd: TRANSACTION UNDO
+[2018.01.11-05.30.58:375][715]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-05.30.58:444][715]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.30.59:242][728]Cmd: TRANSACTION UNDO
+[2018.01.11-05.30.59:242][728]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.30.59:312][728]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.30.59:817][736]Cmd: TRANSACTION UNDO
+[2018.01.11-05.30.59:817][736]LogEditorTransaction: Undo Scale Actors
+[2018.01.11-05.30.59:888][736]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.01:443][760]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.31.01:443][760]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.31.01:443][760]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.31.01:443][760]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.31.08:002][903]LogEditorViewport: Clicking on Actor (LMB): giantBirdInvisible_C (giantBirdInvisible)
+[2018.01.11-05.31.11:097][984]Cmd: TRANSACTION UNDO
+[2018.01.11-05.31.11:097][984]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-05.31.11:138][984]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.11:622][991]Cmd: TRANSACTION UNDO
+[2018.01.11-05.31.11:622][991]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.31.11:675][991]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.12:052][997]Cmd: TRANSACTION UNDO
+[2018.01.11-05.31.12:052][997]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.31.12:123][997]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.13:675][ 20]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.31.13:675][ 20]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.31.13:675][ 20]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.31.13:675][ 20]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.31.22:421][238]Cmd: TRANSACTION UNDO
+[2018.01.11-05.31.22:422][238]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.31.22:510][238]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.22:881][239]Cmd: TRANSACTION UNDO
+[2018.01.11-05.31.22:881][239]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.31.22:887][239]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.22:909][239]Cmd: TRANSACTION UNDO
+[2018.01.11-05.31.22:909][239]LogEditorTransaction: Undo Edit Attenuation Radius
+[2018.01.11-05.31.22:912][239]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.24:402][262]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.31.24:402][262]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.31.24:402][262]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.31.24:403][262]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.31.26:493][285]Cmd: TRANSACTION UNDO
+[2018.01.11-05.31.26:493][285]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.31.26:546][285]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.27:460][295]Cmd: TRANSACTION UNDO
+[2018.01.11-05.31.27:461][295]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.31.27:565][295]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.29:137][311]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.31.29:138][311]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.31.29:138][311]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.31.29:138][311]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.31.30:573][322]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint2)
+[2018.01.11-05.31.33:320][386]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2018.01.11-05.31.37:409][471]Cmd: TRANSACTION UNDO
+[2018.01.11-05.31.37:409][471]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.31.37:487][471]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.37:989][477]Cmd: TRANSACTION UNDO
+[2018.01.11-05.31.37:989][477]LogEditorTransaction: Undo Move Actors
+[2018.01.11-05.31.38:025][477]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.31.38:645][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (leavesAppleTree_pPlane32)
+[2018.01.11-05.31.39:740][500]MaterialEditorStats: Base pass shader: 106 instructions
+[2018.01.11-05.31.39:740][500]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 180 instructions
+[2018.01.11-05.31.39:740][500]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-05.31.39:740][500]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-05.31.44:706][593]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint2)
+[2018.01.11-05.31.55:149][786]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.11-05.31.55:170][786]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.31.55:171][786]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.11-05.31.55:171][786]PIE: New page: PIE session: Luis_Nightmare (Jan 11, 2018, 5:31:55 AM)
+[2018.01.11-05.31.55:171][786]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.11-05.31.55:326][786]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155278s)
+[2018.01.11-05.31.55:328][786]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.11-05.31.55:328][786]LogPlayLevel: PIE: World Init took: (0.001574s)
+[2018.01.11-05.31.55:330][786]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.158664s)
+[2018.01.11-05.31.55:376][786]LogInit: XAudio2 using '扬声器 (Conexant SmartAudio HD)' : 2 channels at 44.1 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.11-05.31.55:397][786]LogInit: FAudioDevice initialized.
+[2018.01.11-05.31.55:438][786]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.11-05.31.55:505][786]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 0) at 2018.01.11-05.31.55
+[2018.01.11-05.31.55:513][786]LogWorld: Bringing up level for play took: 0.073728
+[2018.01.11-05.31.55:520][786]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:520][786]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:520][786]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:521][786]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:521][786]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:521][786]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:521][786]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:521][786]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:521][786]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:522][786]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:522][786]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:522][786]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:522][786]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:522][786]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:522][786]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:522][786]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:522][786]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:522][786]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:522][786]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:523][786]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:529][786]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:529][786]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible2_43.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:529][786]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:529][786]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible3_80.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:530][786]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:530][786]PIE: Warning: Invalid Simulate Options: Body (CubeInvisible_97.Cube 1M_Cube_Chamfer) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.11-05.31.55:530][786]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.343
+[2018.01.11-05.31.55:531][786]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.32.11:211][213]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.32.11:307][213]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.11-05.32.15:149][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flowerPot54)
+[2018.01.11-05.32.15:675][266]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.32.20:946][337]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.32.23:171][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flowerPot54)
+[2018.01.11-05.32.27:967][533]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plantFlower35)
+[2018.01.11-05.32.28:574][545]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.32.31:864][634]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plantFlower37)
+[2018.01.11-05.32.32:156][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.32.33:070][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-05.32.47:647][986]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-05.32.57:286][994]LogSavePackage: Save=8954.72ms
+[2018.01.11-05.32.57:286][994]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareA55CC99B4538281356C45783ABE3CE12.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-05.32.57:290][994]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-05.33.01:143][ 69]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-05.33.02:175][ 88]LogEditorViewport: Clicking on Actor (LMB): FirstPersonCharacter_C (FirstPersonCharacter)
+[2018.01.11-05.33.02:882][ 96]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-05.33.04:547][124]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint2)
+[2018.01.11-05.33.18:501][175]LogSavePackage: Save=11743.11ms
+[2018.01.11-05.33.18:501][175]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare0ACA23C8482CA9761613989FB04AACE8.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-05.33.18:509][175]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-05.33.25:890][298]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.01.11-05.33.26:071][298]LogMaterial: Missing cached shader map for material MAT_CopperGold, compiling. 
+[2018.01.11-05.33.26:127][298]LogMaterial: Missing cached shader map for material MAT_CopperGold, compiling. 
+[2018.01.11-05.33.26:197][298]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MAT_CopperGold, compiling. 
+[2018.01.11-05.33.27:490][298]TextureStreamingBuild: Display: Compiling optional shaders took 1.299 seconds.
+[2018.01.11-05.33.31:085][336]LogSavePackage: Save=118.58ms
+[2018.01.11-05.33.31:086][336]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/BP_PuzzlePc1C636088D457EB3702BF0CCAD2A18F743.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/PuzzleV2/BP_PuzzlePc1.uasset'
+[2018.01.11-05.33.31:090][336]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/PuzzleV2/BP_PuzzlePc1.uasset
+[2018.01.11-05.33.31:199][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AngHouseAssets/chandelier" FILE="F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngHouseAssets/chandelier.uasset" SILENT=true
+[2018.01.11-05.33.31:381][336]LogSavePackage: Save=142.85ms
+[2018.01.11-05.33.31:382][336]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/chandelier838A13CC485C48AC03D587A9B2872892.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngHouseAssets/chandelier.uasset'
+[2018.01.11-05.33.31:395][336]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngHouseAssets/chandelier.uasset
+[2018.01.11-05.33.31:505][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AngHouseAssets/MAT_CopperGold" FILE="F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngHouseAssets/MAT_CopperGold.uasset" SILENT=true
+[2018.01.11-05.33.31:562][336]LogSavePackage: Save=48.47ms
+[2018.01.11-05.33.31:563][336]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/MAT_CopperGold6AB42B3543533FBB309F67A14B217D43.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngHouseAssets/MAT_CopperGold.uasset'
+[2018.01.11-05.33.31:571][336]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngHouseAssets/MAT_CopperGold.uasset
+[2018.01.11-05.33.32:265][337]Cmd: QUIT_EDITOR
+[2018.01.11-05.33.32:599][337]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.11-05.33.32:693][337]LogExit: Preparing to exit.
+[2018.01.11-05.33.34:664][337]LogExit: Editor shut down
+[2018.01.11-05.33.34:707][337]LogExit: Transaction tracking system shut down
+[2018.01.11-05.33.35:805][337]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.11-05.33.35:805][337]LogDirectoryWatcher: A directory notification for 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.11-05.33.35:806][337]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.11-05.33.35:806][337]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.11-05.33.35:806][337]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.11-05.33.35:806][337]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.11-05.33.35:806][337]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.11-05.33.37:020][337]LogExit: Object subsystem successfully closed.
+[2018.01.11-05.33.37:237][337]LogD3D11RHI: Shutdown
+[2018.01.11-05.33.37:237][337]LogD3D11RHI: CleanupD3DDevice
+[2018.01.11-05.33.37:255][337]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.11-05.33.37:271][337]LogModuleManager: Shutting down and abandoning module MaterialEditor (556)
+[2018.01.11-05.33.37:271][337]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2018.01.11-05.33.37:272][337]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.01.11-05.33.37:272][337]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.01.11-05.33.37:272][337]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.11-05.33.37:272][337]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.11-05.33.37:272][337]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.11-05.33.37:272][337]LogDirectoryWatcher: A directory notification for 'D:/Program Files (x86)/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.11-05.33.37:281][337]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.11-05.33.37:281][337]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.11-05.33.37:281][337]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.11-05.33.37:281][337]LogDirectoryWatcher: A directory notification for 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' was aborted.
+[2018.01.11-05.33.37:281][337]LogDirectoryWatcher: A directory notification for 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/Angela/Collections/' was aborted.
+[2018.01.11-05.33.37:281][337]LogDirectoryWatcher: A directory notification for 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' was aborted.
+[2018.01.11-05.33.37:281][337]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.11-05.33.37:281][337]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.11-05.33.37:281][337]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.11-05.33.37:282][337]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.11-05.33.37:283][337]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.11-05.33.38:185][337]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.11-05.33.38:185][337]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.11-05.33.38:185][337]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.11-05.33.38:185][337]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.11-05.33.38:186][337]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.11-05.33.38:186][337]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.11-05.33.38:186][337]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.11-05.33.38:186][337]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.11-05.33.38:186][337]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.11-05.33.38:186][337]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.11-05.33.38:186][337]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.11-05.33.38:186][337]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.11-05.33.38:186][337]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.11-05.33.38:187][337]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.11-05.33.38:187][337]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.11-05.33.38:187][337]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.11-05.33.38:187][337]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.11-05.33.38:188][337]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.11-05.33.38:188][337]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.11-05.33.38:188][337]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.11-05.33.38:188][337]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.11-05.33.38:188][337]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.11-05.33.38:189][337]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.11-05.33.38:189][337]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.11-05.33.38:242][337]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.11-05.33.38:242][337]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.11-05.33.38:242][337]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.11-05.33.38:243][337]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.11-05.33.38:243][337]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.11-05.33.38:243][337]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.11-05.33.38:244][337]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.11-05.33.38:244][337]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.11-05.33.38:244][337]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.11-05.33.38:244][337]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.11-05.33.38:276][337]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.11-05.33.38:280][337]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.11-05.33.38:280][337]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.11-05.33.38:280][337]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.11-05.33.38:280][337]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.11-05.33.38:280][337]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.11-05.33.38:280][337]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.11-05.33.38:281][337]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.11-05.33.38:333][337]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.11-05.33.38:334][337]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.11-05.33.38:334][337]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.11-05.33.38:334][337]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.11-05.33.38:334][337]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.11-05.33.38:334][337]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.11-05.33.38:334][337]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.11-05.33.38:334][337]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.11-05.33.38:334][337]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.11-05.33.38:335][337]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.11-05.33.38:336][337]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.11-05.33.38:338][337]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.11-05.33.38:339][337]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.11-05.33.38:339][337]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.11-05.33.38:340][337]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.11-05.33.38:340][337]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.11-05.33.38:340][337]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.11-05.33.38:340][337]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.11-05.33.38:340][337]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.11-05.33.38:340][337]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.11-05.33.38:340][337]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.11-05.33.38:340][337]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.11-05.33.38:442][337]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.11-05.33.38:543][337]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.11-05.33.38:543][337]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.11-05.33.38:544][337]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.11-05.33.38:544][337]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.11-05.33.38:545][337]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.11-05.33.38:545][337]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.11-05.33.38:549][337]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.11-05.33.38:549][337]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.11-05.33.38:549][337]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.11-05.33.38:549][337]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.11-05.33.38:550][337]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.11-05.33.38:550][337]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.11-05.33.38:550][337]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.11-05.33.38:550][337]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.11-05.33.38:550][337]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.11-05.33.38:550][337]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.11-05.33.38:557][337]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.11-05.33.38:557][337]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.11-05.33.38:557][337]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.11-05.33.38:558][337]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.11-05.33.38:558][337]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.11-05.33.38:558][337]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.11-05.33.38:558][337]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.11-05.33.38:558][337]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.11-05.33.38:558][337]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.11-05.33.38:559][337]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.11-05.33.38:559][337]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.11-05.33.38:559][337]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.11-05.33.38:559][337]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.11-05.33.38:559][337]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.11-05.33.38:559][337]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.11-05.33.38:560][337]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.11-05.33.38:567][337]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.11-05.33.38:567][337]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.11-05.33.38:567][337]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.11-05.33.38:567][337]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.11-05.33.38:567][337]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.11-05.33.38:567][337]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.11-05.33.38:567][337]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.11-05.33.38:567][337]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.11-05.33.38:589][337]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.11-05.33.38:589][337]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.11-05.33.38:589][337]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.11-05.33.38:589][337]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.11-05.33.38:590][337]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.11-05.33.38:590][337]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.11-05.33.38:590][337]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.11-05.33.38:590][337]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.11-05.33.38:590][337]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.11-05.33.38:605][337]LogDerivedDataCache: Shutdown
+[2018.01.11-05.33.38:605][337]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.11-05.33.38:606][337]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.11-05.33.38:606][337]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.11-05.33.38:606][337]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.11-05.33.38:606][337]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.11-05.33.38:606][337]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.11-05.33.38:607][337]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.11-05.33.38:607][337]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.11-05.33.38:607][337]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.11-05.33.38:607][337]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.11-05.33.38:607][337]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.11-05.33.38:607][337]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.11-05.33.38:607][337]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.11-05.33.38:607][337]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.11-05.33.38:607][337]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.11-05.33.38:607][337]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.11-05.33.38:608][337]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.11-05.33.38:608][337]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.11-05.33.38:608][337]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.11-05.33.38:608][337]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.11-05.33.38:608][337]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.11-05.33.38:608][337]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.11-05.33.38:609][337]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.11-05.33.38:609][337]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.11-05.33.38:609][337]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.11-05.33.38:609][337]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.11-05.33.38:609][337]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.11-05.33.38:610][337]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.11-05.33.38:610][337]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.11-05.33.38:610][337]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.11-05.33.38:610][337]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.11-05.33.38:610][337]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.11-05.33.38:610][337]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.11-05.33.38:610][337]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.11-05.33.38:610][337]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.11-05.33.38:610][337]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.11-05.33.38:611][337]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.11-05.33.38:612][337]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.11-05.33.38:612][337]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.11-05.33.38:612][337]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.11-05.33.38:612][337]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.11-05.33.38:612][337]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.11-05.33.38:612][337]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.11-05.33.38:612][337]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC6FA71BB-443A-E1F4-099B-5E998FEB03B8%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.1-3754814%2B%2B%2BUE4%2BRelease-4.18&UserID=fb130943462c96fe250d4b969210b8bc%7C3774eec3cc7f477d9d967c96550b5d71%7C7f61bea5-9e9a-4a21-8c99-8d34ff29f10d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.11-05.33.38:639][337]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.11-05.33.38:645][337]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.11-05.33.38:645][337]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.11-05.33.38:645][337]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.11-05.33.38:646][337]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.11-05.33.38:646][337]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.11-05.33.38:647][337]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.11-05.33.38:647][337]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.11-05.33.38:670][337]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.11-05.33.38:670][337]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.11-05.33.38:670][337]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.11-05.33.38:670][337]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.11-05.33.38:670][337]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.11-05.33.38:671][337]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.11-05.33.38:671][337]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.11-05.33.38:671][337]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.11-05.33.38:671][337]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.11-05.33.38:671][337]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.11-05.33.38:671][337]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.11-05.33.38:681][337]LogExit: Exiting.
+[2018.01.11-05.33.38:741][337]Log file closed, 01/11/18 05:33:38
