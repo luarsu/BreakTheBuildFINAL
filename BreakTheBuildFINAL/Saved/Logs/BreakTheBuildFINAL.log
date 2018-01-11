@@ -1546,3 +1546,456 @@ LogInit: Object subsystem initialized
 [2018.01.11-18.42.15:813][394]LogSavePackage: Save=3157.28ms
 [2018.01.11-18.42.15:813][394]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareAC84B64A4FE9617C3642B48F899BFE04.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2018.01.11-18.42.15:820][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-18.46.59:365][678]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT_small16)
+[2018.01.11-18.47.02:942][786]Cmd: EDIT COPY
+[2018.01.11-18.47.03:141][792]Cmd: EDIT PASTE
+[2018.01.11-18.47.10:624][ 33]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.47.14:359][155]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.47.25:871][448]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flowerPot49)
+[2018.01.11-18.47.37:347][727]Cmd: EDIT COPY
+[2018.01.11-18.47.37:651][735]Cmd: EDIT PASTE
+[2018.01.11-18.47.44:119][892]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.47.53:035][139]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flowerPot57)
+[2018.01.11-18.47.58:687][286]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flowerPot58)
+[2018.01.11-18.48.06:429][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plantFlower42)
+[2018.01.11-18.48.10:610][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.48.35:053][ 38]LogSavePackage: Save=3159.86ms
+[2018.01.11-18.48.35:053][ 38]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare92B8BEBB45614BF25B4097A5FCC89987.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-18.48.35:059][ 38]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-18.48.57:835][611]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-18.49.01:169][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle4)
+[2018.01.11-18.49.02:558][706]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.49.05:111][778]Cmd: DELETE
+[2018.01.11-18.49.05:111][778]Cmd: ACTOR DELETE
+[2018.01.11-18.49.05:179][778]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-18.49.05:206][778]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2018.01.11-18.49.24:016][220]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.11-18.49.24:831][236]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.11-18.49.47:638][745]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.11-18.49.48:409][762]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.11-18.50.14:998][490]Cmd: EDIT COPY
+[2018.01.11-18.50.15:186][494]Cmd: EDIT PASTE
+[2018.01.11-18.50.39:875][962]Cmd: EDIT COPY
+[2018.01.11-18.50.40:090][966]Cmd: EDIT PASTE
+[2018.01.11-18.50.46:143][ 52]Cmd: TRANSACTION UNDO
+[2018.01.11-18.50.46:143][ 52]LogEditorTransaction: Undo Rotate Actors
+[2018.01.11-18.50.53:151][187]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_70)
+[2018.01.11-18.50.58:278][292]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_69)
+[2018.01.11-18.51.04:745][410]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-18.51.05:828][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening575)
+[2018.01.11-18.51.06:905][435]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-18.51.09:975][498]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.51.11:240][501]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (CorridorCoudePablo13)
+[2018.01.11-18.51.13:360][505]LogEditorViewport: Clicking on Actor (LMB): giantBirdInvisible_C (giantBirdInvisible2)
+[2018.01.11-18.51.14:875][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.51.19:683][576]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_69)
+[2018.01.11-18.51.20:766][584]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.51.25:640][731]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-18.51.26:620][755]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-18.51.27:316][777]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-18.51.28:032][800]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-18.51.29:239][840]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening574)
+[2018.01.11-18.51.30:597][870]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.11-18.51.31:765][904]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening575)
+[2018.01.11-18.51.33:111][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_70)
+[2018.01.11-18.51.37:572][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening575)
+[2018.01.11-18.51.55:483][226]LogSavePackage: Save=14207.74ms
+[2018.01.11-18.51.55:484][226]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareA5471E904BAED4F6780CE5A5F8F6237A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-18.51.55:504][226]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-18.52.12:567][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (piedestale)
+[2018.01.11-18.52.13:654][679]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.52.19:563][848]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.11-18.52.20:316][870]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.11-18.52.31:561][281]Cmd: EDIT CUT
+[2018.01.11-18.52.31:737][281]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-18.52.31:783][281]LogEditorActor: Deleted 1 Actors (0.210 secs)
+[2018.01.11-18.52.34:488][405]Cmd: TRANSACTION UNDO
+[2018.01.11-18.52.34:488][405]LogEditorTransaction: Undo Cut
+[2018.01.11-18.52.37:511][503]Cmd: EDIT PASTE
+[2018.01.11-18.52.48:046][863]Cmd: EDIT COPY
+[2018.01.11-18.52.48:273][867]Cmd: EDIT PASTE
+[2018.01.11-18.53.08:344][338]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.11-18.53.08:896][351]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.11-18.53.12:458][442]Cmd: TRANSACTION UNDO
+[2018.01.11-18.53.12:458][442]LogEditorTransaction: Undo Scale Actors
+[2018.01.11-18.53.23:463][766]Cmd: EDIT COPY
+[2018.01.11-18.53.23:676][771]Cmd: EDIT PASTE
+[2018.01.11-18.54.01:635][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_71)
+[2018.01.11-18.54.02:334][ 86]Cmd: EDIT COPY
+[2018.01.11-18.54.02:547][ 95]Cmd: EDIT PASTE
+[2018.01.11-18.54.23:773][412]Cmd: EDIT COPY
+[2018.01.11-18.54.24:002][429]Cmd: EDIT PASTE
+[2018.01.11-18.54.40:543][342]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.54.42:359][385]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.54.53:010][637]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2018.01.11-18.54.56:995][830]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_20)
+[2018.01.11-18.54.59:827][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2018.01.11-18.55.10:923][463]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening855)
+[2018.01.11-18.55.11:755][493]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.55.26:379][127]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening480)
+[2018.01.11-18.55.26:678][133]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.55.30:506][248]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.11-18.55.31:431][276]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.55.58:719][829]LogSavePackage: Save=11901.43ms
+[2018.01.11-18.55.58:719][829]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareB59DB1C842FBF00D7C71F49F5A1C3D54.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-18.55.58:740][829]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-18.56.51:542][ 40]LogSavePackage: Save=1764.71ms
+[2018.01.11-18.56.51:542][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1UV_Mushroom_1_initialShadingGro85D2B2154A257890C7309D841CC6050A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/1UV_Mushroom_1_initialShadingGroup_BaseColor.uasset'
+[2018.01.11-18.56.51:558][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/1UV_Mushroom_1_initialShadingGroup_BaseColor.uasset
+[2018.01.11-18.56.54:930][ 40]LogSavePackage: Save=3305.43ms
+[2018.01.11-18.56.54:930][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1UV_Mushroom_1_initialShadingGro825C478F41945AB993CC178C389272D3.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/1UV_Mushroom_1_initialShadingGroup_Normal.uasset'
+[2018.01.11-18.56.54:947][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/1UV_Mushroom_1_initialShadingGroup_Normal.uasset
+[2018.01.11-18.56.56:332][ 40]LogSavePackage: Save=1330.82ms
+[2018.01.11-18.56.56:332][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/1UV_Mushroom_1_initialShadingGro2EED5931473CC4A3A5A8A2A1C1149F49.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/1UV_Mushroom_1_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.11-18.56.56:345][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/1UV_Mushroom_1_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.11-18.56.57:814][ 40]LogSavePackage: Save=1410.32ms
+[2018.01.11-18.56.57:814][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2UV_Mushroom_2_initialShadingGro25E1E03640702C370C18C1B61F56FE36.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/2UV_Mushroom_2_initialShadingGroup_BaseColor.uasset'
+[2018.01.11-18.56.57:828][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/2UV_Mushroom_2_initialShadingGroup_BaseColor.uasset
+[2018.01.11-18.57.00:230][ 40]LogSavePackage: Save=2345.64ms
+[2018.01.11-18.57.00:230][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2UV_Mushroom_2_initialShadingGroC56D81C446D4A52B15241B97E989A809.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/2UV_Mushroom_2_initialShadingGroup_Normal.uasset'
+[2018.01.11-18.57.00:244][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/2UV_Mushroom_2_initialShadingGroup_Normal.uasset
+[2018.01.11-18.57.01:391][ 40]LogSavePackage: Save=1092.41ms
+[2018.01.11-18.57.01:391][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/2UV_Mushroom_2_initialShadingGroCE9CF64442FBDAA23CE9CEB3A6929269.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/2UV_Mushroom_2_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.11-18.57.01:404][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/2UV_Mushroom_2_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.11-18.57.03:068][ 40]LogSavePackage: Save=1604.78ms
+[2018.01.11-18.57.03:068][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3UV_Mushroom_2_initialShadingGro1CB721DE47D3189CEF42AAB87D1F9E70.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/3UV_Mushroom_2_initialShadingGroup_BaseColor.uasset'
+[2018.01.11-18.57.03:082][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/3UV_Mushroom_2_initialShadingGroup_BaseColor.uasset
+[2018.01.11-18.57.05:665][ 40]LogSavePackage: Save=2526.36ms
+[2018.01.11-18.57.05:665][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3UV_Mushroom_2_initialShadingGro60A644A244E0462E7E971EB315A63C6B.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/3UV_Mushroom_2_initialShadingGroup_Normal.uasset'
+[2018.01.11-18.57.05:679][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/3UV_Mushroom_2_initialShadingGroup_Normal.uasset
+[2018.01.11-18.57.06:955][ 40]LogSavePackage: Save=1221.68ms
+[2018.01.11-18.57.06:955][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/3UV_Mushroom_2_initialShadingGro8551E0254120DF29085198B199491162.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/3UV_Mushroom_2_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.11-18.57.06:969][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/3UV_Mushroom_2_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.11-18.57.08:685][ 40]LogSavePackage: Save=1656.18ms
+[2018.01.11-18.57.08:685][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/4UV_Mushroom_2_initialShadingGroBAF523744507A96B3EBD5EBF48735D56.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/4UV_Mushroom_2_initialShadingGroup_BaseColor.uasset'
+[2018.01.11-18.57.08:700][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/4UV_Mushroom_2_initialShadingGroup_BaseColor.uasset
+[2018.01.11-18.57.11:348][ 40]LogSavePackage: Save=2591.40ms
+[2018.01.11-18.57.11:348][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/4UV_Mushroom_2_initialShadingGro810F14074DC924569EE925B60CAFE840.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/4UV_Mushroom_2_initialShadingGroup_Normal.uasset'
+[2018.01.11-18.57.11:363][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/4UV_Mushroom_2_initialShadingGroup_Normal.uasset
+[2018.01.11-18.57.12:673][ 40]LogSavePackage: Save=1256.15ms
+[2018.01.11-18.57.12:673][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/4UV_Mushroom_2_initialShadingGro26752210434158508B5685B0F87D23BC.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/4UV_Mushroom_2_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.11-18.57.12:690][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/4UV_Mushroom_2_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.11-18.57.14:417][ 40]LogSavePackage: Save=1660.71ms
+[2018.01.11-18.57.14:417][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/5UV_Mushroom_2_initialShadingGro0050AE9541839D48D01887A84E620F38.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/5UV_Mushroom_2_initialShadingGroup_BaseColor.uasset'
+[2018.01.11-18.57.14:431][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/5UV_Mushroom_2_initialShadingGroup_BaseColor.uasset
+[2018.01.11-18.57.17:151][ 40]LogSavePackage: Save=2661.80ms
+[2018.01.11-18.57.17:151][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/5UV_Mushroom_2_initialShadingGroE248DA0F492C5D487886938E5C5C4AC1.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/5UV_Mushroom_2_initialShadingGroup_Normal.uasset'
+[2018.01.11-18.57.17:166][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/5UV_Mushroom_2_initialShadingGroup_Normal.uasset
+[2018.01.11-18.57.18:572][ 40]LogSavePackage: Save=1343.19ms
+[2018.01.11-18.57.18:572][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/5UV_Mushroom_2_initialShadingGro94839E664FFD6DDD44C32AB2664E99E2.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/5UV_Mushroom_2_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.11-18.57.18:588][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/5UV_Mushroom_2_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.11-18.57.20:301][ 40]LogSavePackage: Save=1648.99ms
+[2018.01.11-18.57.20:301][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/6UV_Mushroom_2_initialShadingGroAB83416044B094F3C8AD6780D246A4A6.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/6UV_Mushroom_2_initialShadingGroup_BaseColor.uasset'
+[2018.01.11-18.57.20:317][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/6UV_Mushroom_2_initialShadingGroup_BaseColor.uasset
+[2018.01.11-18.57.23:115][ 40]LogSavePackage: Save=2740.94ms
+[2018.01.11-18.57.23:116][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/6UV_Mushroom_2_initialShadingGro60CDB2024AC279876570C895E5540D85.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/6UV_Mushroom_2_initialShadingGroup_Normal.uasset'
+[2018.01.11-18.57.23:130][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/6UV_Mushroom_2_initialShadingGroup_Normal.uasset
+[2018.01.11-18.57.24:491][ 40]LogSavePackage: Save=1302.86ms
+[2018.01.11-18.57.24:492][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/6UV_Mushroom_2_initialShadingGro99CAF4EC4AEAD29B2ED83CAE9E2EF5E2.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/6UV_Mushroom_2_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.11-18.57.24:507][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/6UV_Mushroom_2_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.11-18.57.26:277][ 40]LogSavePackage: Save=1714.31ms
+[2018.01.11-18.57.26:278][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_Mushroom_1_initialShadingGrouA9AD9B7C488247259C1A77B9E9DAD25F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/UV_Mushroom_1_initialShadingGroup_BaseColor.uasset'
+[2018.01.11-18.57.26:294][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/UV_Mushroom_1_initialShadingGroup_BaseColor.uasset
+[2018.01.11-18.57.30:027][ 40]LogSavePackage: Save=3668.18ms
+[2018.01.11-18.57.30:027][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_Mushroom_1_initialShadingGrouD0CFECF44F155608A7D0CBBE3154CB99.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/UV_Mushroom_1_initialShadingGroup_Normal.uasset'
+[2018.01.11-18.57.30:040][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/UV_Mushroom_1_initialShadingGroup_Normal.uasset
+[2018.01.11-18.57.31:585][ 40]LogSavePackage: Save=1486.96ms
+[2018.01.11-18.57.31:585][ 40]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_Mushroom_1_initialShadingGrou990EAD68445010F33B4B5FBB2D4E184B.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/UV_Mushroom_1_initialShadingGroup_OcclusionRoughnessMetallic.uasset'
+[2018.01.11-18.57.31:601][ 40]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/Mushroom/UV_Mushroom_1_initialShadingGroup_OcclusionRoughnessMetallic.uasset
+[2018.01.11-18.57.32:502][ 41]Cmd: QUIT_EDITOR
+[2018.01.11-18.57.32:579][ 41]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.11-18.57.32:579][ 41]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.11-18.57.32:641][ 41]LogExit: Preparing to exit.
+[2018.01.11-18.57.33:901][ 41]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.11-18.57.34:716][ 41]LogExit: Editor shut down
+[2018.01.11-18.57.34:870][ 41]LogExit: Transaction tracking system shut down
+[2018.01.11-18.57.37:020][ 41]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.11-18.57.37:021][ 41]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.11-18.57.37:021][ 41]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.11-18.57.37:021][ 41]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.11-18.57.37:021][ 41]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.11-18.57.37:021][ 41]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.11-18.57.37:022][ 41]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.11-18.57.39:278][ 41]LogExit: Object subsystem successfully closed.
+[2018.01.11-18.57.39:757][ 41]LogD3D11RHI: Shutdown
+[2018.01.11-18.57.39:758][ 41]LogD3D11RHI: CleanupD3DDevice
+[2018.01.11-18.57.39:790][ 41]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.11-18.57.39:904][ 41]LogModuleManager: Shutting down and abandoning module MaterialEditor (550)
+[2018.01.11-18.57.39:904][ 41]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.11-18.57.39:904][ 41]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.11-18.57.39:904][ 41]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.11-18.57.39:905][ 41]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.11-18.57.39:931][ 41]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.11-18.57.39:931][ 41]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.11-18.57.39:932][ 41]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.11-18.57.39:932][ 41]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' was aborted.
+[2018.01.11-18.57.39:933][ 41]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/Leszek/Collections/' was aborted.
+[2018.01.11-18.57.39:933][ 41]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' was aborted.
+[2018.01.11-18.57.39:933][ 41]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.11-18.57.39:934][ 41]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.11-18.57.39:935][ 41]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.11-18.57.39:936][ 41]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.11-18.57.39:937][ 41]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.11-18.57.39:937][ 41]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.11-18.57.39:937][ 41]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.11-18.57.39:937][ 41]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.11-18.57.39:937][ 41]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.11-18.57.39:937][ 41]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.11-18.57.39:937][ 41]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.11-18.57.39:937][ 41]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.11-18.57.39:937][ 41]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.11-18.57.39:938][ 41]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.11-18.57.39:938][ 41]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.11-18.57.39:941][ 41]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.11-18.57.39:941][ 41]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.11-18.57.39:941][ 41]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.11-18.57.39:942][ 41]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.11-18.57.39:943][ 41]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.11-18.57.39:943][ 41]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.11-18.57.39:943][ 41]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.11-18.57.39:943][ 41]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.11-18.57.39:944][ 41]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.11-18.57.39:946][ 41]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.11-18.57.39:947][ 41]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.11-18.57.39:949][ 41]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.11-18.57.39:950][ 41]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.11-18.57.39:950][ 41]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.11-18.57.39:950][ 41]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.11-18.57.39:950][ 41]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.11-18.57.40:923][ 41]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.11-18.57.40:923][ 41]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.11-18.57.40:923][ 41]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.11-18.57.40:923][ 41]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.11-18.57.40:925][ 41]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.11-18.57.40:929][ 41]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.11-18.57.40:930][ 41]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.11-18.57.40:930][ 41]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.11-18.57.40:930][ 41]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.11-18.57.40:933][ 41]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.11-18.57.40:934][ 41]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.11-18.57.40:934][ 41]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.11-18.57.40:934][ 41]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.11-18.57.40:934][ 41]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.11-18.57.40:934][ 41]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.11-18.57.40:934][ 41]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.11-18.57.40:934][ 41]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.11-18.57.40:936][ 41]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.11-18.57.40:936][ 41]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.11-18.57.40:937][ 41]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.11-18.57.40:937][ 41]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.11-18.57.40:938][ 41]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.11-18.57.40:938][ 41]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.11-18.57.40:939][ 41]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.11-18.57.40:993][ 41]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.11-18.57.40:994][ 41]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.11-18.57.40:996][ 41]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.11-18.57.40:998][ 41]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.11-18.57.40:998][ 41]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.11-18.57.40:998][ 41]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.11-18.57.40:999][ 41]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.11-18.57.41:001][ 41]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.11-18.57.41:001][ 41]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.11-18.57.41:001][ 41]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.11-18.57.41:013][ 41]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.11-18.57.41:013][ 41]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.11-18.57.41:013][ 41]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.11-18.57.41:013][ 41]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.11-18.57.41:014][ 41]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.11-18.57.41:015][ 41]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.11-18.57.41:015][ 41]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.11-18.57.41:016][ 41]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.11-18.57.41:016][ 41]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.11-18.57.41:016][ 41]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.11-18.57.41:016][ 41]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.11-18.57.41:016][ 41]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.11-18.57.41:016][ 41]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.11-18.57.41:016][ 41]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.11-18.57.41:016][ 41]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.11-18.57.41:016][ 41]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.11-18.57.41:017][ 41]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.11-18.57.41:017][ 41]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.11-18.57.41:017][ 41]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.11-18.57.41:017][ 41]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.11-18.57.41:215][ 41]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.11-18.57.41:217][ 41]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.11-18.57.41:217][ 41]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.11-18.57.41:217][ 41]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.11-18.57.41:217][ 41]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.11-18.57.41:217][ 41]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.11-18.57.41:217][ 41]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.11-18.57.41:217][ 41]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.11-18.57.41:218][ 41]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.11-18.57.41:218][ 41]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.11-18.57.41:218][ 41]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.11-18.57.41:218][ 41]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.11-18.57.41:220][ 41]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.11-18.57.41:220][ 41]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.11-18.57.41:220][ 41]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.11-18.57.41:220][ 41]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.11-18.57.41:221][ 41]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.11-18.57.41:221][ 41]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.11-18.57.41:221][ 41]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.11-18.57.41:221][ 41]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.11-18.57.41:221][ 41]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.11-18.57.41:223][ 41]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.11-18.57.41:224][ 41]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.11-18.57.41:224][ 41]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.11-18.57.41:224][ 41]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.11-18.57.41:224][ 41]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.11-18.57.41:225][ 41]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.11-18.57.41:226][ 41]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.11-18.57.41:227][ 41]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.11-18.57.41:227][ 41]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.11-18.57.41:227][ 41]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.11-18.57.41:227][ 41]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.11-18.57.41:227][ 41]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.11-18.57.41:228][ 41]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.11-18.57.41:229][ 41]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.11-18.57.41:234][ 41]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.11-18.57.41:234][ 41]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.11-18.57.41:234][ 41]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.11-18.57.41:236][ 41]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.11-18.57.41:236][ 41]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.11-18.57.41:236][ 41]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.11-18.57.41:236][ 41]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.11-18.57.41:237][ 41]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.11-18.57.41:237][ 41]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.11-18.57.41:237][ 41]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.11-18.57.41:237][ 41]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.11-18.57.41:338][ 41]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.11-18.57.41:439][ 41]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.11-18.57.41:441][ 41]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.11-18.57.41:441][ 41]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.11-18.57.41:441][ 41]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.11-18.57.41:442][ 41]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.11-18.57.41:442][ 41]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.11-18.57.41:449][ 41]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.11-18.57.41:449][ 41]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.11-18.57.41:449][ 41]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.11-18.57.41:449][ 41]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.11-18.57.41:455][ 41]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.11-18.57.41:455][ 41]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.11-18.57.41:456][ 41]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.11-18.57.41:456][ 41]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.11-18.57.41:456][ 41]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.11-18.57.41:456][ 41]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.11-18.57.41:463][ 41]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.11-18.57.41:464][ 41]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.11-18.57.41:464][ 41]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.11-18.57.41:465][ 41]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.11-18.57.41:466][ 41]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.11-18.57.41:466][ 41]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.11-18.57.41:468][ 41]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.11-18.57.41:469][ 41]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.11-18.57.41:470][ 41]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.11-18.57.41:470][ 41]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.11-18.57.41:471][ 41]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.11-18.57.41:471][ 41]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.11-18.57.41:473][ 41]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.11-18.57.41:473][ 41]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.11-18.57.41:476][ 41]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.11-18.57.41:476][ 41]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.11-18.57.41:489][ 41]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.11-18.57.41:489][ 41]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.11-18.57.41:489][ 41]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.11-18.57.41:489][ 41]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.11-18.57.41:489][ 41]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.11-18.57.41:489][ 41]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.11-18.57.41:489][ 41]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.11-18.57.41:489][ 41]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.11-18.57.41:516][ 41]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.11-18.57.41:516][ 41]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.11-18.57.41:517][ 41]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.11-18.57.41:518][ 41]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.11-18.57.41:518][ 41]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.11-18.57.41:519][ 41]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.11-18.57.41:519][ 41]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.11-18.57.41:519][ 41]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.11-18.57.41:519][ 41]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.11-18.57.41:531][ 41]LogDerivedDataCache: Shutdown
+[2018.01.11-18.57.41:532][ 41]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.11-18.57.41:532][ 41]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.11-18.57.41:533][ 41]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.11-18.57.41:533][ 41]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.11-18.57.41:534][ 41]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.11-18.57.41:534][ 41]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.11-18.57.41:535][ 41]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.11-18.57.41:535][ 41]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.11-18.57.41:535][ 41]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.11-18.57.41:536][ 41]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.11-18.57.41:536][ 41]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.11-18.57.41:536][ 41]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.11-18.57.41:536][ 41]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.11-18.57.41:536][ 41]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.11-18.57.41:536][ 41]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.11-18.57.41:537][ 41]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.11-18.57.41:537][ 41]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.11-18.57.41:537][ 41]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.11-18.57.41:537][ 41]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.11-18.57.41:537][ 41]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.11-18.57.41:537][ 41]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.11-18.57.41:538][ 41]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.11-18.57.41:538][ 41]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.11-18.57.41:538][ 41]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.11-18.57.41:538][ 41]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.11-18.57.41:539][ 41]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.11-18.57.41:540][ 41]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.11-18.57.41:540][ 41]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.11-18.57.41:540][ 41]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.11-18.57.41:540][ 41]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.11-18.57.41:540][ 41]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.11-18.57.41:540][ 41]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.11-18.57.41:540][ 41]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.11-18.57.41:541][ 41]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.11-18.57.41:541][ 41]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.11-18.57.41:541][ 41]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.11-18.57.41:541][ 41]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.11-18.57.41:541][ 41]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.11-18.57.41:541][ 41]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.11-18.57.41:541][ 41]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.11-18.57.41:542][ 41]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.11-18.57.41:542][ 41]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.11-18.57.41:542][ 41]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.11-18.57.41:542][ 41]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1A16D9F7-4055-48FE-D8A5-10BE8E2C8058%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=a202bbab4bfb72a6c72ab59bf5105770%7Ca6b7376151474e159cf10430cd50646e%7C20bc636a-a4d7-41a8-a2dc-7238c7cddcf0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.11-18.57.41:553][ 41]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.11-18.57.41:560][ 41]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.11-18.57.41:560][ 41]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.11-18.57.41:560][ 41]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.11-18.57.41:560][ 41]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.11-18.57.41:561][ 41]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.11-18.57.41:561][ 41]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.11-18.57.41:561][ 41]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.11-18.57.41:574][ 41]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.11-18.57.41:592][ 41]LogExit: Exiting.
+[2018.01.11-18.57.41:666][ 41]Log file closed, 01/11/18 18:57:41
