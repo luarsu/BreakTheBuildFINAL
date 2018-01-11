@@ -9,7 +9,6 @@ LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
 LogWindows: File 'VtuneApi32e.dll' does not exist
 LogInit: Display: Running engine for game: BreakTheBuildFINAL
 LogPlatformFile: Not using cached read wrapper
-LogInit: Display: RandInit(-606194501) SRandInit(-606194501).
 LogInit: Display: RandInit(744366019) SRandInit(744366019).
 LogInit: Read version file with build ID '3709383'
 LogInit: Overriding engine version to CL 3754814, compatible CL 3709383
@@ -650,3 +649,271 @@ LogInit: Object subsystem initialized
 [2018.01.11-03.03.28:848][ 11]LogSavePackage: Save=162.81ms
 [2018.01.11-03.03.28:848][ 11]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/wood_textureCA5DAEC94E3FE460496276905FDA13CA.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/Textures/wood_texture.uasset'
 [2018.01.11-03.03.28:850][ 11]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/Textures/wood_texture.uasset
+[2018.01.11-03.11.23:105][839]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj)
+[2018.01.11-03.11.23:307][839]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj
+[2018.01.11-03.11.23:403][839]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.11.25:472][839]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj
+[2018.01.11-03.11.25:488][839]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.11.25:513][839]LogFbx: Warning: Triangulating static mesh default
+[2018.01.11-03.11.25:588][839]LogStaticMesh: Building static mesh gate...
+[2018.01.11-03.11.25:609][839]LogStaticMesh: Built static mesh [0.02s] /Game/AngelaPuzzleAssets/gate.gate
+[2018.01.11-03.11.25:616][839]LogStaticMesh: Warning: gate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.11-03.11.25:616][839]LogStaticMesh: Warning: gate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.11-03.11.25:663][839]FBXImport: Warning: gate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.01.11-03.11.25:663][839]FBXImport: Warning: gate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.01.11-03.11.25:707][839]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj)
+[2018.01.11-03.11.25:726][839]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj
+[2018.01.11-03.11.25:940][839]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.11.25:941][839]LogFbx: Warning: Triangulating static mesh default
+[2018.01.11-03.11.26:175][839]LogStaticMesh: Building static mesh gate_wall...
+[2018.01.11-03.11.26:465][839]LogStaticMesh: Built static mesh [0.29s] /Game/AngelaPuzzleAssets/gate_wall.gate_wall
+[2018.01.11-03.11.26:508][839]LogStaticMesh: Warning: gate_wall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.11-03.11.26:508][839]LogStaticMesh: Warning: gate_wall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.11-03.11.26:569][839]FBXImport: Warning: gate_wall has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.01.11-03.11.26:569][839]FBXImport: Warning: gate_wall has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.01.11-03.11.35:824][333]LogActorFactory: Actor Factory created gate_wall
+[2018.01.11-03.11.36:738][382]LogActorFactory: Actor Factory created gate_wall
+[2018.01.11-03.11.37:809][382]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-03.11.44:594][731]Cmd: DELETE
+[2018.01.11-03.11.44:594][731]Cmd: ACTOR DELETE
+[2018.01.11-03.11.44:636][731]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-03.11.44:648][731]LogEditorActor: Deleted 1 Actors (0.054 secs)
+[2018.01.11-03.12.31:677][915]LogSavePackage: Save=4126.46ms
+[2018.01.11-03.12.31:677][915]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare_Auto17E7BFD584E9CDBAB23214598E2679E64.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap'
+[2018.01.11-03.12.31:680][915]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap
+[2018.01.11-03.12.31:684][915]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 4.625
+[2018.01.11-03.12.31:684][915]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.625
+[2018.01.11-03.12.31:722][915]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/AngelaPuzzleAssets/gate_wall] ([1] browsable assets)...
+[2018.01.11-03.12.31:761][915]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/AngelaPuzzleAssets/gate_wall.gate_wall]
+[2018.01.11-03.12.31:761][915]OBJ SavePackage: Finished generating thumbnails for package [/Game/AngelaPuzzleAssets/gate_wall]
+[2018.01.11-03.12.31:779][915]LogSavePackage: Save=16.03ms
+[2018.01.11-03.12.31:779][915]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/gate_wall_Auto13EA6D131443D535758EA0EB33DE7C011.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/AngelaPuzzleAssets/gate_wall_Auto1.uasset'
+[2018.01.11-03.12.31:780][915]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/AngelaPuzzleAssets/gate_wall_Auto1.uasset
+[2018.01.11-03.12.31:780][915]LogFileHelpers: Auto-saving content packages took 0.092
+[2018.01.11-03.13.33:609][278]LogEditorFactories: Performing atomic reimport of [F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj]
+[2018.01.11-03.13.33:701][278]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj
+[2018.01.11-03.13.33:914][278]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.13.34:008][278]LogFbx: Warning: Triangulating static mesh default
+[2018.01.11-03.13.34:370][278]LogStaticMesh: Building static mesh gate_wall...
+[2018.01.11-03.13.34:667][278]LogStaticMesh: Built static mesh [0.30s] /Game/AngelaPuzzleAssets/gate_wall.gate_wall
+[2018.01.11-03.13.34:762][278]LogEditorFactories: -- imported successfully
+[2018.01.11-03.13.36:290][337]LogActorFactory: Actor Factory created gate_wall
+[2018.01.11-03.13.37:115][382]LogActorFactory: Actor Factory created gate_wall
+[2018.01.11-03.13.38:540][463]Cmd: DELETE
+[2018.01.11-03.13.38:540][463]Cmd: ACTOR DELETE
+[2018.01.11-03.13.38:583][463]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-03.13.38:598][463]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2018.01.11-03.13.47:798][830]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj)
+[2018.01.11-03.13.47:809][830]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj
+[2018.01.11-03.13.47:830][830]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.13.48:949][830]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj
+[2018.01.11-03.13.48:967][830]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.13.48:968][830]LogFbx: Warning: Triangulating static mesh default
+[2018.01.11-03.13.48:990][830]LogStaticMesh: Building static mesh gate...
+[2018.01.11-03.13.49:012][830]LogStaticMesh: Built static mesh [0.02s] /Game/AngelaPuzzleAssets/gate.gate
+[2018.01.11-03.13.49:015][830]LogStaticMesh: Warning: gate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.11-03.13.49:015][830]LogStaticMesh: Warning: gate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.11-03.13.49:019][830]FBXImport: Warning: gate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.01.11-03.13.49:019][830]FBXImport: Warning: gate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.01.11-03.13.56:028][183]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall78)
+[2018.01.11-03.13.56:385][199]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-03.13.59:318][318]LogActorFactory: Actor Factory created gate
+[2018.01.11-03.14.00:757][373]LogActorFactory: Actor Factory created gate
+[2018.01.11-03.14.01:283][392]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-03.14.10:856][761]Cmd: TRANSACTION UNDO
+[2018.01.11-03.14.10:856][761]LogEditorTransaction: Undo Move Actors
+[2018.01.11-03.14.19:706][ 67]Cmd: TRANSACTION UNDO
+[2018.01.11-03.14.19:706][ 67]LogEditorTransaction: Undo Move Actors
+[2018.01.11-03.14.20:305][ 89]Cmd: TRANSACTION UNDO
+[2018.01.11-03.14.20:305][ 89]LogEditorTransaction: Undo Move Actors
+[2018.01.11-03.14.21:144][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall153)
+[2018.01.11-03.14.23:369][206]Cmd: DELETE
+[2018.01.11-03.14.23:369][206]Cmd: ACTOR DELETE
+[2018.01.11-03.14.23:413][206]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-03.14.23:875][206]LogEditorActor: Deleted 1 Actors (0.506 secs)
+[2018.01.11-03.14.25:428][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall152)
+[2018.01.11-03.14.27:362][338]Cmd: DELETE
+[2018.01.11-03.14.27:362][338]Cmd: ACTOR DELETE
+[2018.01.11-03.14.27:407][338]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-03.14.27:419][338]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2018.01.11-03.14.27:810][355]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall78)
+[2018.01.11-03.14.28:290][372]Cmd: DELETE
+[2018.01.11-03.14.28:290][372]Cmd: ACTOR DELETE
+[2018.01.11-03.14.28:334][372]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-03.14.28:347][372]LogEditorActor: Deleted 1 Actors (0.056 secs)
+[2018.01.11-03.14.29:767][414]LogActorFactory: Actor Factory created gate_wall
+[2018.01.11-03.14.30:569][444]LogActorFactory: Actor Factory created gate_wall
+[2018.01.11-03.14.41:633][943]Cmd: DELETE
+[2018.01.11-03.14.41:633][943]Cmd: ACTOR DELETE
+[2018.01.11-03.14.41:672][943]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-03.14.41:684][943]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.01.11-03.15.38:102][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gate)
+[2018.01.11-03.15.41:820][383]LogEditorFactories: Performing atomic reimport of [F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj]
+[2018.01.11-03.15.41:856][383]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj
+[2018.01.11-03.15.41:942][383]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.15.41:949][383]LogFbx: Warning: Triangulating static mesh default
+[2018.01.11-03.15.42:054][383]LogStaticMesh: Building static mesh gate_wall...
+[2018.01.11-03.15.42:155][383]LogStaticMesh: Built static mesh [0.10s] /Game/AngelaPuzzleAssets/gate_wall.gate_wall
+[2018.01.11-03.15.42:183][383]LogEditorFactories: -- imported successfully
+[2018.01.11-03.15.42:187][383]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.11-03.15.42:860][395]LogActorFactory: Actor Factory created gate_wall
+[2018.01.11-03.15.43:468][422]LogActorFactory: Actor Factory created gate_wall
+[2018.01.11-03.15.56:061][ 23]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gate)
+[2018.01.11-03.15.58:785][152]Cmd: DELETE
+[2018.01.11-03.15.58:785][152]Cmd: ACTOR DELETE
+[2018.01.11-03.15.58:828][152]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-03.15.58:840][152]LogEditorActor: Deleted 1 Actors (0.055 secs)
+[2018.01.11-03.15.59:288][174]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gate_wall)
+[2018.01.11-03.15.59:806][196]Cmd: DELETE
+[2018.01.11-03.15.59:806][196]Cmd: ACTOR DELETE
+[2018.01.11-03.15.59:853][196]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-03.15.59:864][196]LogEditorActor: Deleted 1 Actors (0.058 secs)
+[2018.01.11-03.16.14:640][857]LogActorFactory: Actor Factory created gate
+[2018.01.11-03.16.14:996][873]LogActorFactory: Actor Factory created gate
+[2018.01.11-03.16.22:368][297]Cmd: DELETE
+[2018.01.11-03.16.22:368][297]Cmd: ACTOR DELETE
+[2018.01.11-03.16.22:406][297]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-03.16.22:418][297]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2018.01.11-03.16.54:644][601]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0008 seconds. Added 1 classes and 0 folders.
+[2018.01.11-03.16.54:691][601]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.16.55:478][601]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.16.55:509][601]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.16.56:018][601]LogSlate: Took 0.359197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.11-03.16.59:131][699]MaterialEditorStats: Base pass shader: 99 instructions
+[2018.01.11-03.16.59:131][699]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 172 instructions
+[2018.01.11-03.16.59:131][699]MaterialEditorStats: Vertex shader: 29 instructions
+[2018.01.11-03.16.59:131][699]MaterialEditorStats: Texture samplers: 2/16
+[2018.01.11-03.17.06:844][ 48]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.17.06:879][ 48]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.11-03.17.06:885][ 48]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.17.06:886][ 48]LogMaterial: Warning: /Engine/Transient.Mat_PuzzleRoomGate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.11-03.17.06:886][ 48]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.11-03.17.06:917][ 48]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.11-03.17.06:921][ 48]MaterialEditorStats: Error: [SM5] (Node TextureSample) Texture Sample> Missing input texture
+[2018.01.11-03.17.19:725][507]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.17.19:770][507]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.01.11-03.17.21:521][577]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.01.11-03.17.21:521][577]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.01.11-03.17.21:521][577]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.11-03.17.21:521][577]MaterialEditorStats: Texture samplers: 3/16
+[2018.01.11-03.17.21:521][577]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.11-03.17.26:362][730]LogMaterialEditor: Applying material Mat_PuzzleRoomGate
+[2018.01.11-03.17.27:653][730]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.17.27:716][730]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.17.27:775][730]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.17.27:910][730]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.17.28:984][730]TextureStreamingBuild: Display: Compiling optional shaders took 1.132 seconds.
+[2018.01.11-03.17.32:021][871]MaterialEditorStats: Base pass shader: 102 instructions
+[2018.01.11-03.17.32:021][871]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 175 instructions
+[2018.01.11-03.17.32:021][871]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.11-03.17.32:021][871]MaterialEditorStats: Texture samplers: 4/16
+[2018.01.11-03.17.32:021][871]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.11-03.17.52:698][658]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0015 seconds. Added 116 classes and 0 folders.
+[2018.01.11-03.17.59:033][791]LogSlate: Took 0.005429 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.11-03.18.49:316][931]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AngelaPuzzleAssets/BP_PuzzleGate" FILE="F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleGate.uasset" SILENT=true
+[2018.01.11-03.18.49:338][931]LogSavePackage: Save=20.49ms
+[2018.01.11-03.18.49:338][931]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/BP_PuzzleGate6AF61987420969B98A480C9ADD4BA80A.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleGate.uasset'
+[2018.01.11-03.18.49:340][931]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/BP_PuzzleGate.uasset
+[2018.01.11-03.20.55:711][373]LogEditorFactories: Performing atomic reimport of [F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj]
+[2018.01.11-03.20.55:741][373]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj
+[2018.01.11-03.20.55:760][373]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.20.55:761][373]LogFbx: Warning: Triangulating static mesh default
+[2018.01.11-03.20.55:797][373]LogStaticMesh: Building static mesh gate...
+[2018.01.11-03.20.55:819][373]LogStaticMesh: Built static mesh [0.02s] /Game/AngelaPuzzleAssets/gate.gate
+[2018.01.11-03.20.55:825][373]LogStaticMesh: Warning: gate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.11-03.20.55:825][373]LogStaticMesh: Warning: gate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.11-03.20.55:830][373]LogEditorFactories: -- imported successfully
+[2018.01.11-03.20.55:833][373]FBXImport: Warning: gate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.01.11-03.20.55:833][373]FBXImport: Warning: gate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.01.11-03.21.17:892][ 95]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj)
+[2018.01.11-03.21.17:894][ 95]LogEditorFactories: Performing atomic reimport of [F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj]
+[2018.01.11-03.21.17:904][ 95]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj
+[2018.01.11-03.21.17:984][ 95]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.21.17:987][ 95]LogFbx: Warning: Triangulating static mesh default
+[2018.01.11-03.21.18:084][ 95]LogStaticMesh: Building static mesh gate_wall...
+[2018.01.11-03.21.18:192][ 95]LogStaticMesh: Built static mesh [0.11s] /Game/AngelaPuzzleAssets/gate_wall.gate_wall
+[2018.01.11-03.21.18:210][ 95]LogEditorFactories: -- imported successfully
+[2018.01.11-03.21.18:215][ 95]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.11-03.21.28:761][399]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj)
+[2018.01.11-03.21.28:773][399]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj
+[2018.01.11-03.21.28:800][399]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.22.06:161][399]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate.obj
+[2018.01.11-03.22.06:181][399]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.22.06:852][399]LogLinker: Can't find file '/Game/AngelaPuzzleAssets/mia_default_SG_02'
+[2018.01.11-03.22.06:853][399]LogLinker: Can't find file '/Game/AngelaPuzzleAssets/mia_default_SG_02'
+[2018.01.11-03.22.06:882][399]LogLinker: Can't find file '/Game/AngelaPuzzleAssets/wood_texture'
+[2018.01.11-03.22.06:882][399]LogLinker: Can't find file '/Game/AngelaPuzzleAssets/wood_texture'
+[2018.01.11-03.22.06:968][399]LogTexture: Display: Building textures: wood_texture (AutoDXT, 1024X1024)
+[2018.01.11-03.22.07:148][399]LogMaterial: Missing cached shader map for material mia_default_SG_02, compiling. 
+[2018.01.11-03.22.07:183][399]LogLinker: Can't find file '/Game/AngelaPuzzleAssets/mia_default_SG_01'
+[2018.01.11-03.22.07:184][399]LogLinker: Can't find file '/Game/AngelaPuzzleAssets/mia_default_SG_01'
+[2018.01.11-03.22.07:186][399]LogLinker: Can't find file '/Game/AngelaPuzzleAssets/puzzleRoom_swatches'
+[2018.01.11-03.22.07:186][399]LogLinker: Can't find file '/Game/AngelaPuzzleAssets/puzzleRoom_swatches'
+[2018.01.11-03.22.07:242][399]LogTexture: Display: Building textures: puzzleRoom_swatches (AutoDXT, 1024X1024)
+[2018.01.11-03.22.07:403][399]LogMaterial: Missing cached shader map for material mia_default_SG_01, compiling. 
+[2018.01.11-03.22.07:434][399]LogFbx: Warning: Triangulating static mesh default
+[2018.01.11-03.22.07:465][399]LogStaticMesh: Building static mesh gate...
+[2018.01.11-03.22.07:489][399]LogStaticMesh: Built static mesh [0.02s] /Game/AngelaPuzzleAssets/gate.gate
+[2018.01.11-03.22.07:495][399]LogStaticMesh: Warning: gate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option.
+[2018.01.11-03.22.07:495][399]LogStaticMesh: Warning: gate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2018.01.11-03.22.07:500][399]FBXImport: Warning: gate has degenerate tangent bases which will result in incorrect shading.  MikkTSpace relies on tangent bases and may result in mesh corruption, consider disabling this option. 
+[2018.01.11-03.22.07:500][399]FBXImport: Warning: gate has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4) 
+[2018.01.11-03.22.24:961][142]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.22.24:961][142]LogMaterial: Warning: /Game/AngelaPuzzleAssets/Mat_PuzzleRoomGate.Mat_PuzzleRoomGate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.11-03.22.24:961][142]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.11-03.22.24:977][142]LogMaterial: Warning: FMaterialUniformExpressionTexture had invalid TextureIndex! (0 / 0)
+[2018.01.11-03.22.24:982][142]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.11-03.22.24:982][142]LogMaterial: Warning: /Game/AngelaPuzzleAssets/Mat_PuzzleRoomGate.Mat_PuzzleRoomGate (no disk path found): Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.11-03.22.24:982][142]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.11-03.22.29:387][353]LogSavePackage: Save=71.86ms
+[2018.01.11-03.22.29:387][353]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/wood_texture1B92D1664D28A40E55FF3A87201AFDE4.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/Textures/wood_texture.uasset'
+[2018.01.11-03.22.29:390][353]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/Textures/wood_texture.uasset
+[2018.01.11-03.22.51:829][161]LogSavePackage: Save=43.37ms
+[2018.01.11-03.22.51:829][161]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/puzzleRoom_swatchesD2C078BB420456D1BCD4148ECFCFA864.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/History/puzzleRoom_swatches.uasset'
+[2018.01.11-03.22.51:831][161]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/History/puzzleRoom_swatches.uasset
+[2018.01.11-03.23.03:084][660]LogSavePackage: Save=13.19ms
+[2018.01.11-03.23.03:084][660]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/mia_default_SG_02083D391C4C85C7437DD7C991BBDE0176.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/Textures/mia_default_SG_02.uasset'
+[2018.01.11-03.23.03:086][660]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/Textures/mia_default_SG_02.uasset
+[2018.01.11-03.23.06:003][785]LogSavePackage: Save=12.51ms
+[2018.01.11-03.23.06:003][785]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/mia_default_SG_015E4AEDB646D3C4D07ED119AE4D5D9312.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/Textures/mia_default_SG_01.uasset'
+[2018.01.11-03.23.06:005][785]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/Textures/mia_default_SG_01.uasset
+[2018.01.11-03.23.07:808][837]LogActorFactory: Actor Factory created gate
+[2018.01.11-03.23.08:547][879]LogActorFactory: Actor Factory created gate
+[2018.01.11-03.23.14:813][ 56]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-03.23.14:816][ 56]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle7)
+[2018.01.11-03.23.15:758][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (gate)
+[2018.01.11-03.23.16:141][130]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-03.23.24:084][565]Cmd: DELETE
+[2018.01.11-03.23.24:084][565]Cmd: ACTOR DELETE
+[2018.01.11-03.23.24:126][565]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-03.23.24:144][565]LogEditorActor: Deleted 1 Actors (0.059 secs)
+[2018.01.11-03.23.29:491][722]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj)
+[2018.01.11-03.23.29:503][722]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj
+[2018.01.11-03.23.29:614][722]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.23.34:809][722]LogFbx: Loading FBX Scene from F:/000_Gold/Break-the-Bill/breakTheBill_tests/models/puzzleRoom/assets/gate_wall.obj
+[2018.01.11-03.23.34:889][722]LogFbx: FBX Scene Loaded Succesfully
+[2018.01.11-03.23.34:942][722]LogTexture: Display: Building textures: puzzleRoom_swatches (AutoDXT, 1024X1024)
+[2018.01.11-03.23.35:080][722]LogMaterial: Missing cached shader map for material mia_default_SG_01, compiling. 
+[2018.01.11-03.23.35:112][722]LogFbx: Warning: Triangulating static mesh default
+[2018.01.11-03.23.35:231][722]LogStaticMesh: Building static mesh gate_wall...
+[2018.01.11-03.23.35:350][722]LogStaticMesh: Built static mesh [0.12s] /Game/AngelaPuzzleAssets/gate_wall.gate_wall
+[2018.01.11-03.23.35:375][722]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2018.01.11-03.23.45:367][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AngelaPuzzleAssets/gate_wall" FILE="F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/gate_wall.uasset" SILENT=true
+[2018.01.11-03.23.45:380][156]LogSavePackage: Save=12.07ms
+[2018.01.11-03.23.45:381][156]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/gate_wall850C9EAD4E7A9AD31636DB853F8A9F44.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/gate_wall.uasset'
+[2018.01.11-03.23.45:383][156]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/gate_wall.uasset
+[2018.01.11-03.24.11:960][393]LogSavePackage: Save=3872.78ms
+[2018.01.11-03.24.11:960][393]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareFBA5E92B40552A6279708B8589F85C5F.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-03.24.11:965][393]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-03.24.11:985][393]LogFileHelpers: Saving map 'Luis_Nightmare' took 4.025
+[2018.01.11-03.24.15:029][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AngelaPuzzleAssets/gate_wall" FILE="F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/gate_wall.uasset" SILENT=true
+[2018.01.11-03.24.15:038][503]LogSavePackage: Save=4.37ms
+[2018.01.11-03.24.15:038][503]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/gate_wallC601BD1841585B63646B5289E981FB32.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/gate_wall.uasset'
+[2018.01.11-03.24.15:039][503]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/gate_wall.uasset
+[2018.01.11-03.24.22:348][607]LogSavePackage: Save=4014.83ms
+[2018.01.11-03.24.22:349][607]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare481293634A27F05D37A890B9818BCE81.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-03.24.22:353][607]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-03.24.42:894][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AngelaPuzzleAssets/gate" FILE="F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/gate.uasset" SILENT=true
+[2018.01.11-03.24.42:909][753]LogSavePackage: Save=13.64ms
+[2018.01.11-03.24.42:909][753]LogSavePackage: Moving 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/gate0FD3A8AD4BB7814DDA588FBC988D024A.tmp' to 'F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/gate.uasset'
+[2018.01.11-03.24.42:911][753]LogSavePackage: Display: Finished SavePackage F:/000_Gold/Break-the-Bill/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/AngelaPuzzleAssets/gate.uasset
