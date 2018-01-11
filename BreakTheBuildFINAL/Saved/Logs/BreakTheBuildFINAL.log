@@ -1349,3 +1349,200 @@ LogInit: Object subsystem initialized
 [2018.01.11-18.21.23:093][619]LogSavePackage: Save=13822.30ms
 [2018.01.11-18.21.23:093][619]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare9D5DD00641A51B7EE02FED802E31E51E.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2018.01.11-18.21.23:118][619]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-18.22.47:641][ 30]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT13)
+[2018.01.11-18.22.56:548][192]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Corner10)
+[2018.01.11-18.22.56:836][193]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.23.05:623][347]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.11-18.23.06:552][364]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.11-18.23.10:981][444]Cmd: TRANSACTION UNDO
+[2018.01.11-18.23.10:982][444]LogEditorTransaction: Undo Scale Actors
+[2018.01.11-18.23.25:469][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_31)
+[2018.01.11-18.23.27:290][799]Cmd: EDIT COPY
+[2018.01.11-18.23.27:491][803]Cmd: EDIT PASTE
+[2018.01.11-18.23.43:840][190]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_31)
+[2018.01.11-18.24.21:680][580]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.24.22:838][648]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.24.27:101][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_5)
+[2018.01.11-18.24.30:347][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_11)
+[2018.01.11-18.24.32:410][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane9)
+[2018.01.11-18.24.41:754][970]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_3)
+[2018.01.11-18.24.49:212][468]Cmd: TRANSACTION UNDO
+[2018.01.11-18.24.49:212][468]LogEditorTransaction: Undo Create Actors
+[2018.01.11-18.25.02:909][475]Cmd: TRANSACTION UNDO
+[2018.01.11-18.25.02:909][475]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-18.25.04:444][575]Cmd: EDIT COPY
+[2018.01.11-18.25.04:652][591]Cmd: EDIT PASTE
+[2018.01.11-18.25.16:518][508]Cmd: TRANSACTION UNDO
+[2018.01.11-18.25.16:518][508]LogEditorTransaction: Undo Rotate Actors
+[2018.01.11-18.25.34:637][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening787)
+[2018.01.11-18.25.36:836][156]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall150)
+[2018.01.11-18.25.39:192][343]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_36)
+[2018.01.11-18.25.40:479][443]Cmd: EDIT COPY
+[2018.01.11-18.25.40:673][460]Cmd: EDIT PASTE
+[2018.01.11-18.25.44:145][752]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening787)
+[2018.01.11-18.25.44:773][800]Cmd: TRANSACTION UNDO
+[2018.01.11-18.25.44:773][800]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.11-18.25.59:056][925]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening787)
+[2018.01.11-18.26.20:022][765]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_36)
+[2018.01.11-18.26.23:635][875]Cmd: EDIT COPY
+[2018.01.11-18.26.23:870][885]Cmd: EDIT PASTE
+[2018.01.11-18.26.27:038][995]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.26.29:264][ 83]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.26.31:317][159]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.26.33:813][251]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.26.36:595][360]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.26.53:047][ 19]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_40)
+[2018.01.11-18.26.59:035][214]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_42)
+[2018.01.11-18.27.03:404][362]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_41)
+[2018.01.11-18.27.10:192][602]Cmd: EDIT COPY
+[2018.01.11-18.27.10:356][607]Cmd: EDIT PASTE
+[2018.01.11-18.27.26:343][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT4)
+[2018.01.11-18.27.27:088][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT5)
+[2018.01.11-18.27.28:372][192]Cmd: DELETE
+[2018.01.11-18.27.28:372][192]Cmd: ACTOR DELETE
+[2018.01.11-18.27.28:558][192]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.11-18.27.28:611][192]LogEditorActor: Deleted 1 Actors (0.239 secs)
+[2018.01.11-18.27.29:515][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT4)
+[2018.01.11-18.27.36:697][481]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening772)
+[2018.01.11-18.27.38:108][529]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall145)
+[2018.01.11-18.27.41:935][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WaterWell)
+[2018.01.11-18.28.00:759][185]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane22)
+[2018.01.11-18.28.00:988][186]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.28.29:024][639]LogSavePackage: Save=12854.62ms
+[2018.01.11-18.28.29:024][639]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare415295D44B7A7E4AA5F4D8A46AB4ECE9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-18.28.29:043][639]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-18.28.39:421][831]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.11-18.28.40:412][849]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.11-18.28.52:659][123]Cmd: EDIT COPY
+[2018.01.11-18.28.52:879][128]Cmd: EDIT PASTE
+[2018.01.11-18.29.03:930][328]Cmd: TRANSACTION UNDO
+[2018.01.11-18.29.03:930][328]LogEditorTransaction: Undo Scale Actors
+[2018.01.11-18.29.12:595][498]Cmd: TRANSACTION UNDO
+[2018.01.11-18.29.12:595][498]LogEditorTransaction: Undo Scale Actors
+[2018.01.11-18.29.13:525][528]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening814)
+[2018.01.11-18.29.14:998][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_45)
+[2018.01.11-18.29.36:366][970]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.29.39:182][ 60]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.29.46:147][281]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Corner19)
+[2018.01.11-18.29.50:802][435]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_45)
+[2018.01.11-18.29.51:536][462]Cmd: EDIT COPY
+[2018.01.11-18.29.51:749][472]Cmd: EDIT PASTE
+[2018.01.11-18.30.06:775][ 20]LogActorFactory: Actor Factory created GRASS
+[2018.01.11-18.30.10:375][160]LogActorFactory: Actor Factory created GRASS
+[2018.01.11-18.30.13:415][262]Cmd: TRANSACTION UNDO
+[2018.01.11-18.30.13:415][262]LogEditorTransaction: Undo Create Actors
+[2018.01.11-18.30.14:572][282]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.11-18.30.16:033][325]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.11-18.30.17:502][370]Cmd: TRANSACTION UNDO
+[2018.01.11-18.30.17:502][370]LogEditorTransaction: Undo Create Actors
+[2018.01.11-18.30.18:399][380]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.11-18.30.19:740][412]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.11-18.30.28:024][587]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.11-18.30.28:971][609]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.11-18.30.54:767][358]Cmd: EDIT COPY
+[2018.01.11-18.30.54:952][363]Cmd: EDIT PASTE
+[2018.01.11-18.31.21:956][236]Cmd: EDIT COPY
+[2018.01.11-18.31.22:196][244]Cmd: EDIT PASTE
+[2018.01.11-18.31.49:557][167]Cmd: EDIT COPY
+[2018.01.11-18.31.49:773][176]Cmd: EDIT PASTE
+[2018.01.11-18.32.08:924][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall90)
+[2018.01.11-18.32.30:064][214]LogSavePackage: Save=13655.45ms
+[2018.01.11-18.32.30:064][214]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare73CB15A34C6226D9E1AF27AB4FC60D03.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-18.32.30:089][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.11-18.32.46:969][772]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_13)
+[2018.01.11-18.32.47:848][798]Cmd: EDIT COPY
+[2018.01.11-18.32.48:036][804]Cmd: EDIT PASTE
+[2018.01.11-18.33.04:968][415]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane24)
+[2018.01.11-18.33.08:307][512]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_52)
+[2018.01.11-18.33.17:327][835]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane23)
+[2018.01.11-18.33.21:283][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_52)
+[2018.01.11-18.33.22:250][966]Cmd: EDIT COPY
+[2018.01.11-18.33.22:426][973]Cmd: EDIT PASTE
+[2018.01.11-18.33.43:198][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.33.43:984][530]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.33.45:892][543]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.11-18.33.46:359][545]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.33.48:184][567]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle)
+[2018.01.11-18.33.48:515][569]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.34.00:072][841]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.11-18.34.01:056][865]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.11-18.34.12:597][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.35.07:199][488]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.11-18.35.08:012][506]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.11-18.35.27:406][ 15]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.35.30:994][103]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_55)
+[2018.01.11-18.35.31:941][124]Cmd: EDIT COPY
+[2018.01.11-18.35.32:139][130]Cmd: EDIT PASTE
+[2018.01.11-18.36.12:215][712]LogActorFactory: Actor Factory created GRASS
+[2018.01.11-18.36.13:009][747]LogActorFactory: Actor Factory created GRASS
+[2018.01.11-18.36.15:752][847]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.36.17:050][894]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.36.35:100][647]LogActorFactory: Actor Factory created Plane_set_up_Combine
+[2018.01.11-18.36.35:642][677]LogActorFactory: Actor Factory created Plane_set_up_Combine
+[2018.01.11-18.36.36:800][740]Cmd: TRANSACTION UNDO
+[2018.01.11-18.36.36:800][740]LogEditorTransaction: Undo Create Actors
+[2018.01.11-18.36.40:397][894]LogActorFactory: Actor Factory created GRASS
+[2018.01.11-18.36.42:172][995]LogActorFactory: Actor Factory created GRASS
+[2018.01.11-18.36.52:386][545]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.36.57:308][719]LogActorFactory: Actor Factory created WHEAT
+[2018.01.11-18.36.58:527][765]LogActorFactory: Actor Factory created WHEAT
+[2018.01.11-18.37.01:651][885]Cmd: TRANSACTION UNDO
+[2018.01.11-18.37.01:651][885]LogEditorTransaction: Undo Scale Actors
+[2018.01.11-18.37.18:758][698]Cmd: EDIT COPY
+[2018.01.11-18.37.18:927][704]Cmd: EDIT PASTE
+[2018.01.11-18.37.23:486][916]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.37.29:993][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT5)
+[2018.01.11-18.37.36:216][355]Cmd: TRANSACTION UNDO
+[2018.01.11-18.37.36:216][355]LogEditorTransaction: Undo Scale Actors
+[2018.01.11-18.37.46:159][703]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.37.47:839][762]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.38.20:039][893]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.38.21:357][951]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.38.25:420][121]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.38.31:171][294]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle)
+[2018.01.11-18.38.34:476][378]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.38.37:686][467]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_17)
+[2018.01.11-18.38.43:041][668]Cmd: EDIT COPY
+[2018.01.11-18.38.43:242][680]Cmd: EDIT PASTE
+[2018.01.11-18.38.53:203][244]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.39.00:088][476]LogActorFactory: Actor Factory created GRASS
+[2018.01.11-18.39.01:233][530]LogActorFactory: Actor Factory created GRASS
+[2018.01.11-18.39.04:164][658]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.39.19:871][976]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.11-18.39.22:343][ 18]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.11-18.39.32:528][212]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.39.37:532][333]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT_small16)
+[2018.01.11-18.39.38:340][352]Cmd: EDIT COPY
+[2018.01.11-18.39.38:567][358]Cmd: EDIT PASTE
+[2018.01.11-18.39.43:907][515]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT_small16)
+[2018.01.11-18.39.44:129][521]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.11-18.39.58:326][114]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS5)
+[2018.01.11-18.40.00:874][213]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_54)
+[2018.01.11-18.40.03:920][324]Cmd: EDIT COPY
+[2018.01.11-18.40.04:233][337]Cmd: EDIT PASTE
+[2018.01.11-18.40.18:334][858]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_59)
+[2018.01.11-18.40.25:397][ 76]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT_small16)
+[2018.01.11-18.40.26:465][111]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_58)
+[2018.01.11-18.40.27:134][131]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_57)
+[2018.01.11-18.40.32:202][263]LogActorFactory: Actor Factory created GRASS
+[2018.01.11-18.40.34:413][325]LogActorFactory: Actor Factory created GRASS
+[2018.01.11-18.40.39:675][459]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.40.41:236][498]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.11-18.40.49:583][706]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_59)
+[2018.01.11-18.41.10:343][227]Cmd: TRANSACTION UNDO
+[2018.01.11-18.41.10:343][227]LogEditorTransaction: Undo Move Actors
+[2018.01.11-18.41.11:262][300]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.41.25:018][638]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_57)
+[2018.01.11-18.41.27:093][673]Cmd: EDIT COPY
+[2018.01.11-18.41.27:269][674]Cmd: EDIT PASTE
+[2018.01.11-18.41.46:643][389]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_60)
+[2018.01.11-18.41.51:310][640]Cmd: TRANSACTION UNDO
+[2018.01.11-18.41.51:310][640]LogEditorTransaction: Undo Create Actors
+[2018.01.11-18.41.54:606][784]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_60)
+[2018.01.11-18.41.55:055][801]Cmd: EDIT COPY
+[2018.01.11-18.41.55:265][810]Cmd: EDIT PASTE
+[2018.01.11-18.42.05:274][225]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_61)
+[2018.01.11-18.42.09:200][331]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.11-18.42.15:813][394]LogSavePackage: Save=3157.28ms
+[2018.01.11-18.42.15:813][394]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareAC84B64A4FE9617C3642B48F899BFE04.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.11-18.42.15:820][394]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
