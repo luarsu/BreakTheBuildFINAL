@@ -604,3 +604,272 @@ LogInit: Object subsystem initialized
 [2018.01.13-18.54.25:480][370]LogSavePackage: Save=3441.12ms
 [2018.01.13-18.54.25:480][370]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareE1EE443145281674DAE144BAA770E9E3.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2018.01.13-18.54.25:486][370]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.13-18.55.12:791][407]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.13-18.55.13:930][474]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.13-18.55.30:792][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_2b11)
+[2018.01.13-18.55.31:819][503]LogActorFactory: Actor Factory created Rock_1
+[2018.01.13-18.55.32:722][552]LogActorFactory: Actor Factory created Rock_1
+[2018.01.13-18.55.47:328][396]Cmd: EDIT COPY
+[2018.01.13-18.55.47:577][410]Cmd: EDIT PASTE
+[2018.01.13-18.56.00:901][188]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening817)
+[2018.01.13-18.56.08:888][655]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_24)
+[2018.01.13-18.56.13:001][889]Cmd: EDIT COPY
+[2018.01.13-18.56.13:219][902]Cmd: EDIT PASTE
+[2018.01.13-18.56.15:763][ 45]Cmd: TRANSACTION UNDO
+[2018.01.13-18.56.15:763][ 45]LogEditorTransaction: Undo Move Actors
+[2018.01.13-18.56.15:776][ 45]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.13-18.56.17:857][145]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.13-18.56.17:857][145]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.13-18.56.17:857][145]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.13-18.56.17:857][145]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.13-18.56.17:857][145]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-18.56.47:362][859]LogStaticMesh: Building static mesh Rock_Group...
+[2018.01.13-18.56.47:390][859]LogStaticMesh: Built static mesh [0.03s] /Game/GabiAsset/Objects/Merged_Object+Mat/Rock_Group.Rock_Group
+[2018.01.13-18.57.18:310][223]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane31)
+[2018.01.13-18.57.21:216][349]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_2b13)
+[2018.01.13-18.57.26:788][672]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_26)
+[2018.01.13-18.57.28:052][742]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane31)
+[2018.01.13-18.57.28:858][785]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PumpkinNormal18)
+[2018.01.13-18.57.40:031][348]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall101)
+[2018.01.13-18.57.43:603][555]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_2b2)
+[2018.01.13-18.57.58:525][423]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-18.58.00:194][522]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-18.58.06:034][855]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane25)
+[2018.01.13-18.58.16:272][309]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.13-18.58.17:032][345]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.13-18.58.22:265][584]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-18.58.23:295][633]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-18.58.30:808][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane28)
+[2018.01.13-18.58.34:660][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_3a10)
+[2018.01.13-18.58.35:497][239]Cmd: EDIT COPY
+[2018.01.13-18.58.35:780][256]Cmd: EDIT PASTE
+[2018.01.13-18.58.38:542][414]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall97)
+[2018.01.13-18.58.40:726][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_3a11)
+[2018.01.13-18.58.46:720][705]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane23)
+[2018.01.13-18.58.48:501][765]Cmd: TRANSACTION UNDO
+[2018.01.13-18.58.48:501][765]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.13-18.58.48:532][765]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.13-18.58.49:023][777]Cmd: TRANSACTION UNDO
+[2018.01.13-18.58.49:023][777]LogEditorTransaction: Undo Scale Actors
+[2018.01.13-18.58.49:030][777]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.13-18.58.49:912][805]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane24)
+[2018.01.13-18.58.50:530][824]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.13-18.58.50:530][824]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.13-18.58.50:530][824]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.13-18.58.50:530][824]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.13-18.58.50:530][824]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-18.58.56:370][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PumpkinNormal15)
+[2018.01.13-18.58.56:567][ 43]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-18.59.14:996][721]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-18.59.16:930][786]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-18.59.25:144][ 36]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.13-18.59.26:450][ 75]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.13-18.59.37:768][479]Cmd: EDIT COPY
+[2018.01.13-18.59.37:982][484]Cmd: EDIT PASTE
+[2018.01.13-18.59.41:998][606]Cmd: EDIT COPY
+[2018.01.13-18.59.42:186][613]Cmd: EDIT PASTE
+[2018.01.13-18.59.47:834][788]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane20)
+[2018.01.13-19.00.14:665][992]LogSavePackage: Save=13833.15ms
+[2018.01.13-19.00.14:665][992]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareAA129DF445D7FB2DF69DCCBDD3852407.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.13-19.00.14:687][992]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.13-19.00.46:261][157]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane19)
+[2018.01.13-19.00.46:470][157]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-19.00.54:885][406]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-19.00.56:794][460]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-19.01.06:307][709]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening793)
+[2018.01.13-19.01.08:563][754]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group3)
+[2018.01.13-19.01.09:618][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group3)
+[2018.01.13-19.01.11:750][824]LogActorFactory: Actor Factory created Rock_1
+[2018.01.13-19.01.13:267][864]LogActorFactory: Actor Factory created Rock_1
+[2018.01.13-19.01.19:260][ 21]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Corner10)
+[2018.01.13-19.01.53:202][655]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-19.01.54:287][699]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-19.01.55:223][711]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-19.01.56:604][752]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-19.01.57:389][760]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-19.01.58:498][790]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-19.01.59:904][819]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-19.02.01:699][879]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-19.02.03:128][914]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-19.02.05:443][  5]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-19.02.19:013][412]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.13-19.02.20:013][443]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.13-19.02.32:110][879]Cmd: EDIT COPY
+[2018.01.13-19.02.32:318][885]Cmd: EDIT PASTE
+[2018.01.13-19.02.45:923][360]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.13-19.02.46:949][394]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.13-19.03.17:276][533]Cmd: TRANSACTION UNDO
+[2018.01.13-19.03.17:276][533]LogEditorTransaction: Undo Create Actors
+[2018.01.13-19.03.17:294][533]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.13-19.03.20:499][586]Cmd: TRANSACTION UNDO
+[2018.01.13-19.03.20:499][586]LogEditorTransaction: Undo Create Actors
+[2018.01.13-19.03.20:516][586]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.13-19.03.23:709][628]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_78)
+[2018.01.13-19.03.23:952][628]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-19.03.27:916][719]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.13-19.03.27:916][719]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.13-19.03.27:916][719]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.13-19.03.27:917][719]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.13-19.03.27:917][719]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-19.03.43:617][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_26)
+[2018.01.13-19.04.44:107][ 15]LogStaticMesh: Building static mesh Plants_+_Mushrooms...
+[2018.01.13-19.04.44:449][ 15]LogStaticMesh: Built static mesh [0.34s] /Game/GabiAsset/Objects/Merged_Object+Mat/Plants_+_Mushrooms.Plants_+_Mushrooms
+[2018.01.13-19.04.54:308][261]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane22)
+[2018.01.13-19.04.54:577][262]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-19.04.58:993][401]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-19.05.01:063][477]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-19.05.11:642][972]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group4)
+[2018.01.13-19.05.19:237][205]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-19.05.31:017][459]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-19.05.33:820][588]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-19.05.52:643][  5]LogSavePackage: Save=8068.84ms
+[2018.01.13-19.05.52:644][  5]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareC807E75B42B8D3E73B7CAE943035A6BD.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.13-19.05.52:664][  5]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.13-19.06.00:771][136]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-19.06.02:902][213]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-19.06.42:545][570]LogEditorViewport: Clicking on Actor (LMB): KeyRed_C (KeyRed4)
+[2018.01.13-19.06.43:065][572]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-19.07.03:334][220]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening835)
+[2018.01.13-19.07.04:439][251]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-19.07.06:827][332]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.13-19.07.08:262][388]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.13-19.07.10:010][447]Cmd: TRANSACTION UNDO
+[2018.01.13-19.07.10:010][447]LogEditorTransaction: Undo Create Actors
+[2018.01.13-19.07.10:065][447]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.13-19.07.10:941][469]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-19.07.12:343][521]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-19.07.12:396][521]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.13-19.07.12:396][521]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.13-19.07.12:396][521]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.13-19.07.12:396][521]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.13-19.07.12:396][521]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-19.07.18:178][713]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-19.07.20:057][787]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-19.07.36:638][663]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.13-19.07.43:155][ 52]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.13-19.08.06:157][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plants_+_Mushrooms)
+[2018.01.13-19.08.06:895][438]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening850)
+[2018.01.13-19.08.07:950][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening850)
+[2018.01.13-19.08.08:616][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plants_+_Mushrooms)
+[2018.01.13-19.08.12:623][766]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plants_+_Mushrooms)
+[2018.01.13-19.08.18:987][140]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening850)
+[2018.01.13-19.08.24:281][437]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.13-19.08.26:214][551]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.13-19.08.41:178][314]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.13-19.08.42:167][370]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.13-19.09.03:936][382]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.13-19.09.04:481][392]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.13-19.09.28:259][382]Cmd: EDIT COPY
+[2018.01.13-19.09.28:507][396]Cmd: EDIT PASTE
+[2018.01.13-19.09.38:047][944]Cmd: TRANSACTION UNDO
+[2018.01.13-19.09.38:047][944]LogEditorTransaction: Undo Scale Actors
+[2018.01.13-19.09.38:051][944]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.13-19.09.41:184][ 67]MaterialEditorStats: Base pass shader: 115 instructions
+[2018.01.13-19.09.41:184][ 67]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2018.01.13-19.09.41:184][ 67]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.13-19.09.41:184][ 67]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.13-19.09.41:184][ 67]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.13-19.10.40:921][242]LogStaticMesh: Building static mesh Rock_Group2...
+[2018.01.13-19.10.41:132][242]LogStaticMesh: Built static mesh [0.21s] /Game/GabiAsset/Objects/Merged_Object+Mat/Rock_Group2.Rock_Group2
+[2018.01.13-19.11.50:639][267]LogSavePackage: Save=24.88ms
+[2018.01.13-19.11.50:640][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_Group2C30C026648EB82F6F09DCABC03A2E2A1.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_Group2.uasset'
+[2018.01.13-19.11.50:648][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_Group2.uasset
+[2018.01.13-19.11.50:730][267]LogSavePackage: Save=24.90ms
+[2018.01.13-19.11.50:730][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Plants_+_Mushrooms0AA535A0475BABD5449069BDCD3D4874.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Plants_+_Mushrooms.uasset'
+[2018.01.13-19.11.50:739][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Plants_+_Mushrooms.uasset
+[2018.01.13-19.11.50:817][267]LogSavePackage: Save=24.96ms
+[2018.01.13-19.11.50:817][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_GroupB951E84D4A321857EFF678BD9BD356B6.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_Group.uasset'
+[2018.01.13-19.11.50:824][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_Group.uasset
+[2018.01.13-19.11.50:842][267]LogSavePackage: Save=3.42ms
+[2018.01.13-19.11.50:842][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_GroupF0662D92415208866150678D29436FF9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_Group.uasset'
+[2018.01.13-19.11.50:852][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_Group.uasset
+[2018.01.13-19.11.50:935][267]LogSavePackage: Save=25.30ms
+[2018.01.13-19.11.50:935][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_1E878B26E44F38E33A1AEE4B8DF9C7CBF.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_1.uasset'
+[2018.01.13-19.11.50:943][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_1.uasset
+[2018.01.13-19.11.50:985][267]LogSavePackage: Save=4.22ms
+[2018.01.13-19.11.50:985][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_13C32CFA34BF74D5094DCC19A849A9421.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_1.uasset'
+[2018.01.13-19.11.50:993][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_1.uasset
+[2018.01.13-19.11.51:074][267]LogSavePackage: Save=26.61ms
+[2018.01.13-19.11.51:074][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_2aCB1C3CD34E4227EA950BB9A7CD050D1F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_2a.uasset'
+[2018.01.13-19.11.51:083][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_2a.uasset
+[2018.01.13-19.11.51:116][267]LogSavePackage: Save=3.43ms
+[2018.01.13-19.11.51:116][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_2aD3C7ABD9486806B357543B92BC0BB4BA.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_2a.uasset'
+[2018.01.13-19.11.51:123][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_2a.uasset
+[2018.01.13-19.11.51:208][267]LogSavePackage: Save=27.97ms
+[2018.01.13-19.11.51:208][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_2b7CA0273A412F231B66A2229E95225CCB.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_2b.uasset'
+[2018.01.13-19.11.51:217][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_2b.uasset
+[2018.01.13-19.11.51:254][267]LogSavePackage: Save=3.86ms
+[2018.01.13-19.11.51:254][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_2bD13C8DD048371A6451B531930A4E59D2.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_2b.uasset'
+[2018.01.13-19.11.51:261][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_2b.uasset
+[2018.01.13-19.11.51:358][267]LogSavePackage: Save=28.13ms
+[2018.01.13-19.11.51:358][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_3aE3B47B2B4E3652D31EA90C91E6EE76BE.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_3a.uasset'
+[2018.01.13-19.11.51:368][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_3a.uasset
+[2018.01.13-19.11.51:404][267]LogSavePackage: Save=3.33ms
+[2018.01.13-19.11.51:404][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_3aC19D9B7243C7696C0D72338EBB7C9F2F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_3a.uasset'
+[2018.01.13-19.11.51:412][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_3a.uasset
+[2018.01.13-19.11.51:503][267]LogSavePackage: Save=30.48ms
+[2018.01.13-19.11.51:503][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_3b3354AA8047B5F33CB0DFC8BFCAEFF5A7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_3b.uasset'
+[2018.01.13-19.11.51:513][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_3b.uasset
+[2018.01.13-19.11.51:555][267]LogSavePackage: Save=4.16ms
+[2018.01.13-19.11.51:555][267]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_3b0E3A726F4F6884B4F20175B6D99599FF.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_3b.uasset'
+[2018.01.13-19.11.51:563][267]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Object+Mat/Rock_3b.uasset
+[2018.01.13-19.12.28:825][940]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.13-19.12.28:879][940]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.13-19.12.28:929][940]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.13-19.12.28:991][940]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Foundtain, compiling. 
+[2018.01.13-19.12.32:270][940]TextureStreamingBuild: Display: Compiling optional shaders took 3.285 seconds.
+[2018.01.13-19.12.59:633][302]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening720)
+[2018.01.13-19.12.59:997][309]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-19.13.05:697][470]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.13-19.13.06:979][511]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.13-19.15.54:608][217]LogSavePackage: Save=9352.11ms
+[2018.01.13-19.15.54:608][217]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare_Auto128FC1F7549F491CBE9BAC085328B5C9D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap'
+[2018.01.13-19.15.54:614][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap
+[2018.01.13-19.15.54:618][217]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 9.474
+[2018.01.13-19.15.54:618][217]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 9.474
+[2018.01.13-19.15.54:626][217]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/Foundtain] ([1] browsable assets)...
+[2018.01.13-19.15.54:667][217]OBJ SavePackage:     Rendered thumbnail for [Material /Game/GabiAsset/Objects/Material_TextureMap/Foundtain.Foundtain]
+[2018.01.13-19.15.54:667][217]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/Foundtain]
+[2018.01.13-19.15.54:707][217]LogSavePackage: Save=24.26ms
+[2018.01.13-19.15.54:707][217]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Foundtain_Auto1AC8462C246C9B6A0EAC0AA8CFF7BF04B.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/Foundtain_Auto1.uasset'
+[2018.01.13-19.15.54:710][217]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/Foundtain_Auto1.uasset
+[2018.01.13-19.15.54:710][217]LogFileHelpers: Auto-saving content packages took 0.086
+[2018.01.13-19.17.17:173][604]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-19.17.19:585][672]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-19.17.20:409][695]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-19.17.36:398][ 33]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.13-19.17.37:709][ 61]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.13-19.17.41:105][132]Cmd: TRANSACTION UNDO
+[2018.01.13-19.17.41:105][132]LogEditorTransaction: Undo Scale Actors
+[2018.01.13-19.17.43:202][193]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening763)
+[2018.01.13-19.17.44:168][207]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening763)
+[2018.01.13-19.17.44:839][220]Cmd: TRANSACTION UNDO
+[2018.01.13-19.17.44:839][220]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.13-19.17.45:428][233]Cmd: TRANSACTION UNDO
+[2018.01.13-19.17.45:428][233]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.13-19.18.38:136][401]LogStaticMesh: Building static mesh Mushroom_1...
+[2018.01.13-19.18.38:155][401]LogStaticMesh: Built static mesh [0.02s] /Game/GabiAsset/Objects/Merged_Objects/Mushroom_1.Mushroom_1
+[2018.01.13-19.18.45:171][808]Cmd: EDIT COPY
+[2018.01.13-19.18.45:371][820]Cmd: EDIT PASTE
+[2018.01.13-19.19.40:948][597]LogStaticMesh: Building static mesh Mushroom_2...
+[2018.01.13-19.19.40:967][597]LogStaticMesh: Built static mesh [0.02s] /Game/GabiAsset/Objects/Merged_Objects/Mushroom_2.Mushroom_2
+[2018.01.13-19.19.48:490][ 30]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.13-19.19.49:167][ 70]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.13-19.21.00:196][316]LogStaticMesh: Building static mesh Mushroom_3...
+[2018.01.13-19.21.00:213][316]LogStaticMesh: Built static mesh [0.02s] /Game/GabiAsset/Objects/Merged_Objects/Mushroom_3.Mushroom_3
+[2018.01.13-19.21.15:105][163]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening742)
+[2018.01.13-19.21.15:832][202]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-19.21.18:519][358]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.13-19.21.21:100][512]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.13-19.21.36:714][413]Cmd: TRANSACTION UNDO
+[2018.01.13-19.21.36:714][413]LogEditorTransaction: Undo Move Actors
+[2018.01.13-19.21.43:486][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening742)
+[2018.01.13-19.21.45:310][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group9)
+[2018.01.13-19.21.47:609][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening742)
+[2018.01.13-19.21.51:619][173]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-19.21.53:409][280]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-19.21.58:044][541]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.13-19.22.03:520][869]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.13-19.22.19:249][586]LogSavePackage: Save=3289.56ms
+[2018.01.13-19.22.19:249][586]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare0492FBDD454EAB28507A6CB8DF438701.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.13-19.22.19:255][586]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
