@@ -1351,3 +1351,644 @@ LogInit: Object subsystem initialized
 [2018.01.14-16.48.27:219][647]LogSavePackage: Save=4059.23ms
 [2018.01.14-16.48.27:219][647]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare8DD224664A4A77B76CF53D98A9F05E32.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2018.01.14-16.48.27:226][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.50.39:197][643]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.50.40:312][675]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.50.42:067][715]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.50.43:278][750]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.50.44:048][760]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.50.45:025][788]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.50.47:893][857]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.50.49:036][890]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.50.52:865][991]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.50.54:077][ 26]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.51.05:293][336]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.51.06:580][373]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.51.07:362][390]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.51.08:610][426]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.51.11:084][491]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.51.12:113][521]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.51.12:984][534]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.51.13:754][556]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.51.21:009][748]LogActorFactory: Actor Factory created Rock_3b
+[2018.01.14-16.51.21:645][766]LogActorFactory: Actor Factory created Rock_3b
+[2018.01.14-16.51.23:442][812]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.51.28:313][947]Cmd: TRANSACTION UNDO
+[2018.01.14-16.51.28:313][947]LogEditorTransaction: Undo Scale Actors
+[2018.01.14-16.51.53:900][587]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.51.56:582][664]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.52.01:834][802]Cmd: TRANSACTION UNDO
+[2018.01.14-16.52.01:834][802]LogEditorTransaction: Undo Marquee Select
+[2018.01.14-16.52.07:365][920]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.52.09:129][968]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.52.13:097][ 78]Cmd: TRANSACTION UNDO
+[2018.01.14-16.52.13:097][ 78]LogEditorTransaction: Undo Rotate Actors
+[2018.01.14-16.52.37:311][763]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.52.38:457][796]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.52.39:533][817]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.52.40:537][844]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.52.41:583][865]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.52.42:912][903]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.52.53:966][215]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.52.54:583][232]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.52.56:565][270]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.52.57:564][298]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.52.58:263][311]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.52.59:101][334]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.53.00:769][364]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.53.03:359][439]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.53.13:170][706]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.53.14:337][740]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.53.15:406][765]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.53.16:679][802]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.53.27:220][ 93]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.53.28:152][120]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.53.28:934][133]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.53.29:628][153]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.53.30:339][167]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.53.31:149][190]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.53.32:174][211]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.53.32:947][233]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.53.33:783][248]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.53.34:520][269]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.53.36:279][303]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.53.37:541][339]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.53.38:361][351]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.53.39:537][385]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.53.40:240][393]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.53.41:317][424]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.53.44:347][499]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.53.52:225][710]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.53.54:212][766]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.54.05:371][ 87]Cmd: EDIT COPY
+[2018.01.14-16.54.05:621][ 94]Cmd: EDIT PASTE
+[2018.01.14-16.54.18:769][441]Cmd: TRANSACTION UNDO
+[2018.01.14-16.54.18:769][441]LogEditorTransaction: Undo Create Actors
+[2018.01.14-16.54.26:485][605]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.54.28:594][664]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.54.46:603][130]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.54.47:622][159]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.54.49:424][188]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.54.50:514][217]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.54.54:039][320]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_235)
+[2018.01.14-16.54.54:374][328]Cmd: EDIT COPY
+[2018.01.14-16.54.54:576][334]Cmd: EDIT PASTE
+[2018.01.14-16.55.11:513][816]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.55.12:971][858]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.55.14:204][888]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.55.14:981][909]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.55.23:489][160]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_233)
+[2018.01.14-16.55.31:086][365]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.14-16.55.32:075][392]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.14-16.55.44:245][741]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.55.59:714][190]Cmd: TRANSACTION UNDO
+[2018.01.14-16.55.59:714][190]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.14-16.56.30:452][442]LogStaticMesh: Building static mesh Rock_Group_5...
+[2018.01.14-16.56.30:590][442]LogStaticMesh: Built static mesh [0.14s] /Game/GabiAsset/Objects/Merged_Objects/Rock_Group_5.Rock_Group_5
+[2018.01.14-16.56.50:327][991]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.56.51:059][ 12]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.57.18:275][729]LogActorFactory: Actor Factory created Rock_Group_5
+[2018.01.14-16.57.20:472][792]LogActorFactory: Actor Factory created Rock_Group_5
+[2018.01.14-16.57.30:489][ 60]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.57.32:820][128]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.57.54:227][730]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.57.55:275][760]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.57.56:093][774]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.57.56:866][796]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.57.57:681][810]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.57.58:478][832]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.58.03:320][953]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-16.58.04:983][  1]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-16.58.09:493][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp44)
+[2018.01.14-16.58.18:778][397]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.58.19:678][422]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.59.09:155][593]LogSavePackage: Save=4682.48ms
+[2018.01.14-16.59.09:155][593]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare36C7243649657ACF45F7928D2F2B2A6E.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.59.09:162][593]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.59.16:826][787]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.14-16.59.17:723][812]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.14-16.59.18:407][825]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.59.19:247][849]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.59.19:963][861]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.59.21:044][891]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.59.24:951][996]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.14-16.59.26:547][ 42]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.14-16.59.27:213][ 55]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.59.28:299][ 86]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.59.28:983][ 95]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.59.30:115][127]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.59.43:021][492]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.59.44:021][521]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.59.44:703][535]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.59.45:472][557]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.59.46:141][571]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.59.47:107][599]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.59.47:989][618]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.59.48:492][632]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.59.49:243][648]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.59.50:094][673]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.59.59:449][951]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (UV_Well)
+[2018.01.14-17.00.02:351][ 20]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.00.17:007][433]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-17.00.19:188][497]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-17.00.25:331][668]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall146)
+[2018.01.14-17.00.25:560][674]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.00.26:715][707]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall147)
+[2018.01.14-17.00.27:462][729]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.00.30:369][806]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-17.00.32:738][874]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-17.00.33:439][892]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint2)
+[2018.01.14-17.00.35:671][947]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.00.44:598][ 73]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp46)
+[2018.01.14-17.00.45:599][102]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.00.48:792][172]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.01.02:817][583]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp45)
+[2018.01.14-17.01.11:519][826]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.12:586][857]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.13:485][877]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.14:329][901]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.15:020][913]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.15:799][935]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.20:053][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_3)
+[2018.01.14-17.01.20:538][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.01.22:211][112]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.23:114][138]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.23:996][155]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.25:033][185]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.25:918][205]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.26:768][229]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.27:696][249]Cmd: TRANSACTION UNDO
+[2018.01.14-17.01.27:696][249]LogEditorTransaction: Undo Create Actors
+[2018.01.14-17.01.28:881][266]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.29:771][283]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.30:474][289]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.31:751][323]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.32:739][342]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.33:609][367]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.34:558][388]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.35:670][420]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.36:881][442]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.38:848][500]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.43:196][622]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_6)
+[2018.01.14-17.01.43:367][623]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.01.44:803][654]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-17.01.45:840][684]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-17.01.47:555][719]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.48:426][744]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.49:091][756]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.50:062][784]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.50:885][797]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.51:577][816]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.52:514][835]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.53:822][873]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.01.54:576][886]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.01.55:716][919]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.02.04:724][166]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-17.02.06:091][205]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-17.02.07:444][231]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.02.08:582][263]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.02.10:164][300]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.02.11:003][324]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.02.13:696][387]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.02.17:616][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening706)
+[2018.01.14-17.02.18:634][516]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT114)
+[2018.01.14-17.02.22:004][607]Cmd: TRANSACTION UNDO
+[2018.01.14-17.02.22:004][607]LogEditorTransaction: Undo Scale Actors
+[2018.01.14-17.02.23:165][629]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening706)
+[2018.01.14-17.02.23:981][644]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT114)
+[2018.01.14-17.02.39:906][ 75]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.02.41:077][108]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.02.42:209][128]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.02.43:553][165]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.02.52:542][276]LogSavePackage: Save=4501.80ms
+[2018.01.14-17.02.52:542][276]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare95ECD5ED4527E8F9257C38BA08E3354F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-17.02.52:556][276]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-17.03.03:178][573]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-17.03.03:447][573]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.03:447][573]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-17.03.03:448][573]PIE: New page: PIE session: Luis_Nightmare (14 Jan 2018 17:03:03)
+[2018.01.14-17.03.03:448][573]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.14-17.03.03:655][573]LogPlayLevel: PIE: StaticDuplicateObject took: (0.206028s)
+[2018.01.14-17.03.03:656][573]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.14-17.03.03:657][573]LogPlayLevel: PIE: World Init took: (0.001907s)
+[2018.01.14-17.03.03:660][573]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.211205s)
+[2018.01.14-17.03.03:703][573]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.14-17.03.03:726][573]LogInit: FAudioDevice initialized.
+[2018.01.14-17.03.03:784][573]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.14-17.03.03:883][573]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.14-17.03.03:884][573]LogPhysics: Warning: ForeachShape(Convex): [/Game/GabiAsset/Plants/GRASS_2.GRASS_2] ScaledElem[0] invalid
+[2018.01.14-17.03.03:905][573]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.14-17.03.03
+[2018.01.14-17.03.03:908][573]LogLinker: Warning: Can't find file '/Game/Portcullis/OpenCloseGateLevelSequence'
+[2018.01.14-17.03.03:909][573]LogLinker: Warning: Can't find file '/Game/Portcullis/OpenCloseGateLevelSequence'
+[2018.01.14-17.03.03:909][573]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Portcullis/OpenCloseGateLevelSequence.OpenCloseGateLevelSequence'
+[2018.01.14-17.03.03:914][573]LogWorld: Bringing up level for play took: 0.123337
+[2018.01.14-17.03.03:984][573]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 11 classes and 0 folders.
+[2018.01.14-17.03.03:988][573]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:989][573]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:990][573]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.03:994][573]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.371
+[2018.01.14-17.03.03:995][573]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.21:388][ 74]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.21:490][ 74]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.24:631][114]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.03.24:631][114]Can't find target actor or component.
+[2018.01.14-17.03.26:937][134]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-17.03.26:965][134]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.26:965][134]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-17.03.26:966][134]PIE: New page: PIE session: Luis_Nightmare (14 Jan 2018 17:03:26)
+[2018.01.14-17.03.26:966][134]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.14-17.03.27:193][134]LogPlayLevel: PIE: StaticDuplicateObject took: (0.226911s)
+[2018.01.14-17.03.27:193][134]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.14-17.03.27:193][134]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2018.01.14-17.03.27:195][134]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.229126s)
+[2018.01.14-17.03.27:234][134]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.14-17.03.27:251][134]LogInit: FAudioDevice initialized.
+[2018.01.14-17.03.27:296][134]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.14-17.03.27:399][134]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.14-17.03.27:399][134]LogPhysics: Warning: ForeachShape(Convex): [/Game/GabiAsset/Plants/GRASS_2.GRASS_2] ScaledElem[0] invalid
+[2018.01.14-17.03.27:440][134]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.14-17.03.27
+[2018.01.14-17.03.27:460][134]LogWorld: Bringing up level for play took: 0.161417
+[2018.01.14-17.03.27:471][134]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:471][134]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:472][134]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:472][134]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:472][134]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:472][134]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:472][134]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:472][134]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:472][134]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:473][134]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:473][134]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:473][134]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:473][134]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:473][134]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:473][134]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:473][134]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:473][134]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:473][134]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:474][134]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:474][134]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:474][134]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:474][134]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:474][134]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:474][134]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:474][134]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:474][134]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:475][134]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:475][134]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:475][134]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:475][134]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.27:483][134]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.14
+[2018.01.14-17.03.27:484][134]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.30:182][177]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.30:297][177]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.31:894][198]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_3a11)
+[2018.01.14-17.03.33:496][224]Cmd: DELETE
+[2018.01.14-17.03.33:496][224]Cmd: ACTOR DELETE
+[2018.01.14-17.03.33:594][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.14-17.03.33:595][224]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.14-17.03.33:608][224]LogEditorActor: Deleted 2 Actors (0.112 secs)
+[2018.01.14-17.03.35:890][254]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.03.35:890][254]Can't find target actor or component.
+[2018.01.14-17.03.37:501][267]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-17.03.37:525][267]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.37:525][267]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-17.03.37:525][267]PIE: New page: PIE session: Luis_Nightmare (14 Jan 2018 17:03:37)
+[2018.01.14-17.03.37:525][267]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.14-17.03.37:734][267]LogPlayLevel: PIE: StaticDuplicateObject took: (0.208796s)
+[2018.01.14-17.03.37:734][267]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.14-17.03.37:735][267]LogPlayLevel: PIE: World Init took: (0.000695s)
+[2018.01.14-17.03.37:736][267]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.210834s)
+[2018.01.14-17.03.37:754][267]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.14-17.03.37:766][267]LogInit: FAudioDevice initialized.
+[2018.01.14-17.03.37:814][267]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.14-17.03.37:913][267]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.14-17.03.37:913][267]LogPhysics: Warning: ForeachShape(Convex): [/Game/GabiAsset/Plants/GRASS_2.GRASS_2] ScaledElem[0] invalid
+[2018.01.14-17.03.37:934][267]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.14-17.03.37
+[2018.01.14-17.03.37:942][267]LogWorld: Bringing up level for play took: 0.125354
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:948][267]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:949][267]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:950][267]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:950][267]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.03.37:954][267]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.331
+[2018.01.14-17.03.37:955][267]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.45:399][457]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.45:512][457]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.03.47:483][483]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.03.48:645][505]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.03.49:297][513]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.03.50:531][536]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.03.55:285][601]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.04.00:158][716]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.04.05:752][868]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.04.06:518][889]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.04.08:074][922]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.04.08:892][945]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.04.10:227][976]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.04.11:104][  1]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.04.12:129][ 21]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.04.13:174][ 51]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-17.04.20:041][103]LogSavePackage: Save=4285.96ms
+[2018.01.14-17.04.20:041][103]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare849863F9447BEC2C747E989E028AC1D7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-17.04.20:047][103]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-17.04.39:207][665]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-17.04.39:228][665]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.04.39:228][665]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-17.04.39:228][665]PIE: New page: PIE session: Luis_Nightmare (14 Jan 2018 17:04:39)
+[2018.01.14-17.04.39:228][665]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.14-17.04.39:403][665]LogPlayLevel: PIE: StaticDuplicateObject took: (0.174348s)
+[2018.01.14-17.04.39:403][665]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.14-17.04.39:403][665]LogPlayLevel: PIE: World Init took: (0.000650s)
+[2018.01.14-17.04.39:404][665]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.176033s)
+[2018.01.14-17.04.39:420][665]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.14-17.04.39:430][665]LogInit: FAudioDevice initialized.
+[2018.01.14-17.04.39:471][665]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.14-17.04.39:554][665]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.14-17.04.39:554][665]LogPhysics: Warning: ForeachShape(Convex): [/Game/GabiAsset/Plants/GRASS_2.GRASS_2] ScaledElem[0] invalid
+[2018.01.14-17.04.39:571][665]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.14-17.04.39
+[2018.01.14-17.04.39:578][665]LogWorld: Bringing up level for play took: 0.103785
+[2018.01.14-17.04.39:582][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:582][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:582][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:582][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:583][665]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:584][665]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:584][665]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:584][665]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:584][665]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:584][665]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:584][665]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:584][665]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:584][665]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:584][665]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:584][665]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.04.39:588][665]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.035
+[2018.01.14-17.04.39:589][665]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.04.44:354][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.04.44:463][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.04.53:140][941]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT_small8)
+[2018.01.14-17.04.54:090][952]Cmd: DELETE
+[2018.01.14-17.04.54:091][952]Cmd: ACTOR DELETE
+[2018.01.14-17.04.54:167][952]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.14-17.04.54:184][952]LogEditorActor: Deleted 1 Actors (0.093 secs)
+[2018.01.14-17.05.00:230][975]LogSavePackage: Save=4530.90ms
+[2018.01.14-17.05.00:230][975]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare34B86D1E41FC8C6686A10FB29F322CE5.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-17.05.00:237][975]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-17.05.04:503][ 55]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-17.05.04:544][ 55]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.05.04:544][ 55]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-17.05.04:544][ 55]PIE: New page: PIE session: Luis_Nightmare (14 Jan 2018 17:05:04)
+[2018.01.14-17.05.04:545][ 55]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.14-17.05.04:854][ 55]LogPlayLevel: PIE: StaticDuplicateObject took: (0.309563s)
+[2018.01.14-17.05.04:855][ 55]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.14-17.05.04:855][ 55]LogPlayLevel: PIE: World Init took: (0.001075s)
+[2018.01.14-17.05.04:857][ 55]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.312659s)
+[2018.01.14-17.05.04:890][ 55]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.14-17.05.04:909][ 55]LogInit: FAudioDevice initialized.
+[2018.01.14-17.05.04:960][ 55]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.14-17.05.05:049][ 55]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.14-17.05.05:049][ 55]LogPhysics: Warning: ForeachShape(Convex): [/Game/GabiAsset/Plants/GRASS_2.GRASS_2] ScaledElem[0] invalid
+[2018.01.14-17.05.05:069][ 55]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.14-17.05.05
+[2018.01.14-17.05.05:075][ 55]LogWorld: Bringing up level for play took: 0.112753
+[2018.01.14-17.05.05:080][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:080][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:080][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:080][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:080][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:080][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:080][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:080][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:081][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:082][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:082][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:082][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:082][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:082][ 55]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.05:086][ 55]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 1.462
+[2018.01.14-17.05.05:087][ 55]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.05.24:348][614]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.05.24:446][614]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.05.40:160][712]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.14-17.05.40:179][712]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.05.40:180][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.14-17.05.40:180][712]PIE: New page: PIE session: Luis_Nightmare (14 Jan 2018 17:05:40)
+[2018.01.14-17.05.40:180][712]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.14-17.05.40:328][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.148170s)
+[2018.01.14-17.05.40:329][712]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.14-17.05.40:329][712]LogPlayLevel: PIE: World Init took: (0.000558s)
+[2018.01.14-17.05.40:330][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.149768s)
+[2018.01.14-17.05.40:344][712]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.14-17.05.40:354][712]LogInit: FAudioDevice initialized.
+[2018.01.14-17.05.40:392][712]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.14-17.05.40:477][712]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.14-17.05.40:477][712]LogPhysics: Warning: ForeachShape(Convex): [/Game/GabiAsset/Plants/GRASS_2.GRASS_2] ScaledElem[0] invalid
+[2018.01.14-17.05.40:496][712]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.14-17.05.40
+[2018.01.14-17.05.40:502][712]LogWorld: Bringing up level for play took: 0.107852
+[2018.01.14-17.05.40:507][712]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:507][712]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:507][712]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:507][712]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:507][712]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:507][712]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:507][712]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:507][712]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:507][712]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:507][712]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:508][712]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:509][712]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:509][712]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:509][712]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.05.40:513][712]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.889
+[2018.01.14-17.05.40:514][712]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.05.53:410][ 73]LogCharacterMovement: FirstPersonCharacter_452 is stuck and failed to move! Velocity: X=-26.77 Y=82.35 Z=0.00 Location: X=35836.11 Y=9354.08 Z=98.09 Normal: X=-0.91 Y=-0.27 Z=0.32 PenetrationDepth:8.676 Actor:GnomeToby_3 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.01.14-17.06.03:153][365]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:154][365]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:154][365]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:154][365]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:154][365]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:154][365]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:155][365]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:155][365]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:155][365]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:155][365]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:155][365]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:155][365]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:156][365]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:156][365]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:156][365]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:156][365]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:156][365]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:157][365]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:157][365]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:157][365]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:157][365]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:157][365]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:158][365]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:158][365]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:158][365]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:158][365]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:158][365]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:158][365]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:158][365]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.03:159][365]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.14-17.06.06:558][467]LogCharacterMovement: FirstPersonCharacter_452 is stuck and failed to move! Velocity: X=-52.31 Y=-313.15 Z=0.00 Location: X=33403.25 Y=9970.61 Z=98.15 Normal: X=0.52 Y=0.68 Z=-0.51 PenetrationDepth:23.478 Actor:GnomeToby_3 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.01.14-17.06.20:340][880]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.06.20:418][880]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.14-17.06.21:739][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group5)
+[2018.01.14-17.06.23:022][922]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT18)
+[2018.01.14-17.06.24:214][942]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group5)
+[2018.01.14-17.06.39:337][307]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_28)
+[2018.01.14-17.06.40:192][329]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.06.48:121][502]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.14-17.06.48:341][503]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.06.49:982][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle)
+[2018.01.14-17.06.50:464][526]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.07.02:301][699]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.07.29:055][326]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle6)
+[2018.01.14-17.07.32:951][402]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-17.07.37:228][506]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.07.38:218][532]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-17.08.07:151][197]LogSavePackage: Save=4488.71ms
+[2018.01.14-17.08.07:151][197]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareD5D48DA5405E85844B03ABA2F6CFDCC7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-17.08.07:168][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-17.08.08:611][228]LogRenderer: Reallocating scene render targets to support 1016x508 Format 10 NumSamples 1 (Frame:101087).
+[2018.01.14-17.08.08:720][229]LogRenderer: Reallocating scene render targets to support 1016x540 Format 10 NumSamples 1 (Frame:101089).
+[2018.01.14-17.08.08:783][230]LogRenderer: Reallocating scene render targets to support 1016x560 Format 10 NumSamples 1 (Frame:101091).
+[2018.01.14-17.08.08:857][231]LogRenderer: Reallocating scene render targets to support 1016x568 Format 10 NumSamples 1 (Frame:101093).
+[2018.01.14-17.08.08:980][232]LogRenderer: Reallocating scene render targets to support 1016x580 Format 10 NumSamples 1 (Frame:101095).
+[2018.01.14-17.08.09:108][233]LogRenderer: Reallocating scene render targets to support 1016x600 Format 10 NumSamples 1 (Frame:101097).
+[2018.01.14-17.08.09:198][234]LogRenderer: Reallocating scene render targets to support 1016x624 Format 10 NumSamples 1 (Frame:101099).
+[2018.01.14-17.08.09:282][235]LogRenderer: Reallocating scene render targets to support 1016x632 Format 10 NumSamples 1 (Frame:101101).
+[2018.01.14-17.08.09:385][236]LogRenderer: Reallocating scene render targets to support 1016x640 Format 10 NumSamples 1 (Frame:101103).
+[2018.01.14-17.08.09:481][237]LogRenderer: Reallocating scene render targets to support 1016x648 Format 10 NumSamples 1 (Frame:101105).
+[2018.01.14-17.08.09:579][238]LogRenderer: Reallocating scene render targets to support 1016x656 Format 10 NumSamples 1 (Frame:101107).
+[2018.01.14-17.08.09:663][239]LogRenderer: Reallocating scene render targets to support 1016x660 Format 10 NumSamples 1 (Frame:101109).
+[2018.01.14-17.08.09:798][241]LogRenderer: Reallocating scene render targets to support 1016x664 Format 10 NumSamples 1 (Frame:101113).
+[2018.01.14-17.08.09:897][242]LogRenderer: Reallocating scene render targets to support 1016x668 Format 10 NumSamples 1 (Frame:101115).
+[2018.01.14-17.08.10:010][243]LogRenderer: Reallocating scene render targets to support 1016x672 Format 10 NumSamples 1 (Frame:101117).
+[2018.01.14-17.08.10:287][247]LogRenderer: Reallocating scene render targets to support 1016x676 Format 10 NumSamples 1 (Frame:101124).
+[2018.01.14-17.08.10:363][248]LogRenderer: Reallocating scene render targets to support 1016x680 Format 10 NumSamples 1 (Frame:101126).
+[2018.01.14-17.08.10:457][249]LogRenderer: Reallocating scene render targets to support 1016x684 Format 10 NumSamples 1 (Frame:101128).
+[2018.01.14-17.08.10:536][250]LogRenderer: Reallocating scene render targets to support 1016x688 Format 10 NumSamples 1 (Frame:101130).
+[2018.01.14-17.08.10:654][251]LogRenderer: Reallocating scene render targets to support 1016x692 Format 10 NumSamples 1 (Frame:101132).
+[2018.01.14-17.08.10:769][252]LogRenderer: Reallocating scene render targets to support 1016x696 Format 10 NumSamples 1 (Frame:101134).
+[2018.01.14-17.08.10:865][253]LogRenderer: Reallocating scene render targets to support 1016x700 Format 10 NumSamples 1 (Frame:101136).
+[2018.01.14-17.08.10:984][254]LogRenderer: Reallocating scene render targets to support 1016x708 Format 10 NumSamples 1 (Frame:101138).
+[2018.01.14-17.08.23:059][389]LogSavePackage: Save=4537.41ms
+[2018.01.14-17.08.23:059][389]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare9C53BED943DCD92816F3DD8F22260050.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-17.08.23:065][389]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-17.08.26:000][426]LogSavePackage: Save=40.46ms
+[2018.01.14-17.08.26:000][426]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_Group_3868E214943D2F0C536953BB39367F5F4.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_Group_3.uasset'
+[2018.01.14-17.08.26:011][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_Group_3.uasset
+[2018.01.14-17.08.26:191][426]LogSavePackage: Save=35.24ms
+[2018.01.14-17.08.26:192][426]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_Group_45B1F4D86481DEDD1BD3B6DAB9BB84E0C.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_Group_4.uasset'
+[2018.01.14-17.08.26:198][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_Group_4.uasset
+[2018.01.14-17.08.26:386][426]LogSavePackage: Save=45.57ms
+[2018.01.14-17.08.26:386][426]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Rock_Group_57E4777E440D32BA629A5BEA4B941B35D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_Group_5.uasset'
+[2018.01.14-17.08.26:396][426]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/GabiAsset/Objects/Merged_Objects/Rock_Group_5.uasset
+[2018.01.14-17.08.26:899][427]Cmd: QUIT_EDITOR
+[2018.01.14-17.08.27:705][427]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.14-17.08.27:706][427]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.14-17.08.27:762][427]LogExit: Preparing to exit.
+[2018.01.14-17.08.28:854][427]LogDirectoryWatcher: A directory notification failed for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/', and we were unable to create a new request.
+[2018.01.14-17.08.29:091][427]LogExit: Editor shut down
+[2018.01.14-17.08.29:165][427]LogExit: Transaction tracking system shut down
