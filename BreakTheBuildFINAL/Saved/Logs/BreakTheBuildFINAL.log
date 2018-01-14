@@ -1086,3 +1086,439 @@ LogInit: Object subsystem initialized
 [2018.01.13-23.13.09:834][188]LogSavePackage: Save=3743.34ms
 [2018.01.13-23.13.09:834][188]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare0A7EC8E74BA7EE09FED44183A35AAB15.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2018.01.13-23.13.09:840][188]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.13-23.19.13:659][117]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-23.19.16:005][185]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-23.19.16:546][202]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-23.19.17:214][222]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-23.19.55:737][918]LogActorFactory: Actor Factory created Rock_1
+[2018.01.13-23.19.56:860][951]LogActorFactory: Actor Factory created Rock_1
+[2018.01.13-23.20.20:234][720]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.13-23.20.21:688][765]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.13-23.20.29:653][133]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.13-23.20.32:872][273]Cmd: TRANSACTION UNDO
+[2018.01.13-23.20.32:872][273]LogEditorTransaction: Undo Move Actors
+[2018.01.13-23.20.33:503][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group18)
+[2018.01.13-23.20.40:550][601]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-23.20.57:559][412]Cmd: TRANSACTION UNDO
+[2018.01.13-23.20.57:559][412]LogEditorTransaction: Undo Rotate Actors
+[2018.01.13-23.21.12:829][725]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.13-23.21.14:146][765]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.13-23.21.59:099][ 98]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.13-23.22.00:569][172]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.13-23.22.02:181][255]Cmd: TRANSACTION UNDO
+[2018.01.13-23.22.02:181][255]LogEditorTransaction: Undo Create Actors
+[2018.01.13-23.22.25:677][402]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-23.22.27:777][487]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.13-23.23.02:963][ 31]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.23.04:792][122]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.23.19:280][789]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.13-23.23.20:543][838]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.13-23.23.42:547][550]Cmd: TRANSACTION UNDO
+[2018.01.13-23.23.42:547][550]LogEditorTransaction: Undo Move Actors
+[2018.01.13-23.23.44:136][581]Cmd: EDIT COPY
+[2018.01.13-23.23.44:386][588]Cmd: EDIT PASTE
+[2018.01.13-23.24.02:342][987]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.24.03:914][ 17]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.24.04:234][ 18]Cmd: TRANSACTION UNDO
+[2018.01.13-23.24.04:234][ 18]LogEditorTransaction: Undo Create Actors
+[2018.01.13-23.24.07:143][ 59]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.24.08:458][ 87]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.24.36:850][957]Cmd: EDIT COPY
+[2018.01.13-23.24.37:094][964]Cmd: EDIT PASTE
+[2018.01.13-23.24.51:176][394]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.24.52:927][440]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.24.53:494][458]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.25.16:080][202]Cmd: EDIT COPY
+[2018.01.13-23.25.16:288][210]Cmd: EDIT PASTE
+[2018.01.13-23.25.21:161][374]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube6)
+[2018.01.13-23.25.27:182][562]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.25.29:246][632]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.25.30:133][642]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.25.31:828][688]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.25.32:918][706]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.25.34:020][736]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.25.35:414][765]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.25.36:938][800]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.25.37:367][801]Cmd: TRANSACTION UNDO
+[2018.01.13-23.25.37:367][801]LogEditorTransaction: Undo Create Actors
+[2018.01.13-23.25.38:205][808]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-23.25.39:492][836]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-23.25.40:004][842]Cmd: TRANSACTION UNDO
+[2018.01.13-23.25.40:004][842]LogEditorTransaction: Undo Create Actors
+[2018.01.13-23.26.01:420][990]LogSavePackage: Save=15290.51ms
+[2018.01.13-23.26.01:420][990]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare3CB1F0974767E83BE5047DB78FA0E60C.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.13-23.26.01:443][990]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.13-23.35.46:469][745]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 0.019
+[2018.01.13-23.35.46:473][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_BaseColor] ([1] browsable assets)...
+[2018.01.13-23.35.46:484][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_BaseColor.UV_LAMP_BODY_initialShadingGroup_BaseColor]
+[2018.01.13-23.35.46:484][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_BaseColor]
+[2018.01.13-23.35.46:522][745]LogSavePackage: Save=35.08ms
+[2018.01.13-23.35.46:522][745]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_LAMP_BODY_initialShadingGroup16EC31984C7C995A5D7E0BAE301BE32F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_BaseColor_Auto1.uasset'
+[2018.01.13-23.35.46:524][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_BaseColor_Auto1.uasset
+[2018.01.13-23.35.46:526][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_Normal] ([1] browsable assets)...
+[2018.01.13-23.35.46:534][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_Normal.UV_LAMP_BODY_initialShadingGroup_Normal]
+[2018.01.13-23.35.46:534][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_Normal]
+[2018.01.13-23.35.46:589][745]LogSavePackage: Save=51.16ms
+[2018.01.13-23.35.46:589][745]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_LAMP_BODY_initialShadingGroup2816B5764EB9C46E6E4E329A92819398.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_Normal_Auto1.uasset'
+[2018.01.13-23.35.46:591][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_Normal_Auto1.uasset
+[2018.01.13-23.35.46:593][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_OcclusionRoughnessMetallic] ([1] browsable assets)...
+[2018.01.13-23.35.46:602][745]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_OcclusionRoughnessMetallic.UV_LAMP_BODY_initialShadingGroup_OcclusionRoughnessMetallic]
+[2018.01.13-23.35.46:602][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_OcclusionRoughnessMetallic]
+[2018.01.13-23.35.46:649][745]LogSavePackage: Save=44.22ms
+[2018.01.13-23.35.46:649][745]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/UV_LAMP_BODY_initialShadingGroup61A9FA1B4F43380C8B85AD811DE81089.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_OcclusionRoughnessMetallic_Auto1.uasset'
+[2018.01.13-23.35.46:652][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Material_TextureMap/PNG_EXPORT/UV_LAMP_BODY_initialShadingGroup_OcclusionRoughnessMetallic_Auto1.uasset
+[2018.01.13-23.35.46:654][745]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/GabiAsset/Objects/Merged_Objects/Lamp] ([1] browsable assets)...
+[2018.01.13-23.35.46:689][745]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/GabiAsset/Objects/Merged_Objects/Lamp.Lamp]
+[2018.01.13-23.35.46:689][745]OBJ SavePackage: Finished generating thumbnails for package [/Game/GabiAsset/Objects/Merged_Objects/Lamp]
+[2018.01.13-23.35.46:707][745]LogSavePackage: Save=15.62ms
+[2018.01.13-23.35.46:707][745]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Lamp_Auto1E4370333463C531B71915896BEEE3711.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Merged_Objects/Lamp_Auto1.uasset'
+[2018.01.13-23.35.46:709][745]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/GabiAsset/Objects/Merged_Objects/Lamp_Auto1.uasset
+[2018.01.13-23.35.46:710][745]LogFileHelpers: Auto-saving content packages took 0.239
+[2018.01.13-23.40.53:635][309]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.40.56:880][469]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.40.57:335][490]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.41.21:162][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_118)
+[2018.01.13-23.41.24:310][741]Cmd: TRANSACTION UNDO
+[2018.01.13-23.41.24:310][741]LogEditorTransaction: Undo Move Actors
+[2018.01.13-23.41.26:887][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_46)
+[2018.01.13-23.41.38:033][415]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.41.39:326][477]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.41.58:426][180]Cmd: EDIT COPY
+[2018.01.13-23.41.58:611][183]Cmd: EDIT PASTE
+[2018.01.13-23.42.11:028][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_43)
+[2018.01.13-23.42.14:335][639]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS48)
+[2018.01.13-23.42.28:364][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_42)
+[2018.01.13-23.42.39:460][552]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_43)
+[2018.01.13-23.42.54:431][ 54]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.42.55:935][117]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.43.05:804][571]Cmd: EDIT COPY
+[2018.01.13-23.43.06:023][582]Cmd: EDIT PASTE
+[2018.01.13-23.43.15:334][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert153)
+[2018.01.13-23.43.25:475][485]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_47)
+[2018.01.13-23.43.26:444][527]Cmd: EDIT COPY
+[2018.01.13-23.43.26:666][538]Cmd: EDIT PASTE
+[2018.01.13-23.43.41:834][231]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert153)
+[2018.01.13-23.43.52:470][664]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.13-23.43.53:884][716]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.13-23.44.12:733][536]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert153)
+[2018.01.13-23.44.18:049][596]LogSavePackage: Save=3851.13ms
+[2018.01.13-23.44.18:049][596]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare34201ABC4D934A2B248820992303E7BF.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.13-23.44.18:056][596]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.13-23.48.06:791][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_48)
+[2018.01.13-23.48.07:460][485]Cmd: EDIT COPY
+[2018.01.13-23.48.07:691][496]Cmd: EDIT PASTE
+[2018.01.13-23.48.17:276][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert153)
+[2018.01.13-23.48.22:855][204]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group18)
+[2018.01.13-23.48.40:624][690]Cmd: TRANSACTION UNDO
+[2018.01.13-23.48.40:624][690]LogEditorTransaction: Undo Move Actors
+[2018.01.13-23.48.41:150][698]Cmd: TRANSACTION UNDO
+[2018.01.13-23.48.41:150][698]LogEditorTransaction: Undo Move Actors
+[2018.01.13-23.48.42:070][714]Cmd: TRANSACTION UNDO
+[2018.01.13-23.48.42:070][714]LogEditorTransaction: Undo Scale Actors
+[2018.01.13-23.48.48:842][991]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_45)
+[2018.01.13-23.49.11:221][ 10]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.13-23.49.13:538][108]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.13-23.49.23:402][564]Cmd: TRANSACTION UNDO
+[2018.01.13-23.49.23:402][564]LogEditorTransaction: Undo Scale Actors
+[2018.01.13-23.49.51:841][273]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall76)
+[2018.01.13-23.49.52:336][280]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall76)
+[2018.01.13-23.49.58:215][305]LogSavePackage: Save=3960.89ms
+[2018.01.13-23.49.58:215][305]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare8F1AAC70483D86512A395BB2D1DA6BCC.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.13-23.49.58:221][305]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.13-23.53.21:556][197]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.53.23:082][270]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.53.32:503][707]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-23.53.34:698][812]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-23.53.35:870][854]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.13-23.53.37:816][947]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.13-23.53.40:587][ 58]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.53.42:151][132]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.53.47:108][354]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.53.48:485][420]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.53.49:243][445]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.53.50:329][496]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.53.52:593][591]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.53.53:709][644]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.54.00:252][908]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-23.54.01:732][967]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-23.54.09:707][340]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_2a16)
+[2018.01.13-23.54.11:018][389]LogActorFactory: Actor Factory created Rock_1
+[2018.01.13-23.54.12:050][432]LogActorFactory: Actor Factory created Rock_1
+[2018.01.13-23.54.30:593][310]Cmd: EDIT COPY
+[2018.01.13-23.54.30:820][320]Cmd: EDIT PASTE
+[2018.01.13-23.54.39:575][732]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.13-23.54.40:701][784]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.13-23.54.53:000][376]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall76)
+[2018.01.13-23.55.44:316][207]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-23.55.45:482][254]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-23.55.46:513][288]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-23.55.47:915][351]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-23.55.49:062][392]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.55.50:290][447]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.55.56:051][641]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.55.57:140][687]LogActorFactory: Actor Factory created GRASS
+[2018.01.13-23.55.58:206][722]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.55.59:365][771]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.56.03:723][949]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.56.05:754][ 35]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.13-23.56.22:076][245]LogSavePackage: Save=3678.66ms
+[2018.01.13-23.56.22:077][245]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareE1DB5E034D422FBABF91FB8CC1EF01F3.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.13-23.56.22:083][245]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.13-23.56.28:484][524]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening426)
+[2018.01.13-23.56.29:491][562]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-23.56.37:024][872]LogActorFactory: Actor Factory created Lamp
+[2018.01.13-23.56.38:369][921]LogActorFactory: Actor Factory created Lamp
+[2018.01.13-23.56.41:349][ 69]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.13-23.56.55:679][802]Cmd: EDIT COPY
+[2018.01.13-23.56.55:938][811]Cmd: EDIT PASTE
+[2018.01.13-23.57.07:023][258]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group11)
+[2018.01.13-23.57.08:147][297]Cmd: EDIT COPY
+[2018.01.13-23.57.08:388][306]Cmd: EDIT PASTE
+[2018.01.13-23.57.39:252][368]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-23.57.40:764][419]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.13-23.57.41:980][456]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.13-23.57.44:153][533]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.13-23.59.13:978][891]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-23.59.15:137][937]LogActorFactory: Actor Factory created WHEAT
+[2018.01.13-23.59.21:258][146]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortThreeWay3)
+[2018.01.13-23.59.42:605][643]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.13-23.59.44:062][670]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.14-00.00.11:350][254]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-00.00.12:831][292]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-00.00.34:208][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (treePablo2)
+[2018.01.14-00.00.35:207][918]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-00.00.36:761][969]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-00.00.46:171][263]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.00.47:816][337]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.00.49:995][419]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.00.51:356][476]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.00.52:551][515]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.00.53:738][569]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.00.54:621][600]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.00.55:679][648]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.00.56:793][688]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.00.57:877][737]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.01.07:787][145]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.01.09:211][208]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.01.10:272][245]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-00.01.12:227][330]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-00.01.26:047][934]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-00.01.27:512][997]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-00.01.40:256][549]Cmd: TRANSACTION UNDO
+[2018.01.14-00.01.40:256][549]LogEditorTransaction: Undo Create Actors
+[2018.01.14-00.01.42:040][623]Cmd: TRANSACTION UNDO
+[2018.01.14-00.01.42:040][623]LogEditorTransaction: Undo Create Actors
+[2018.01.14-00.01.49:424][929]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.01.50:867][998]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.01.51:982][ 41]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.01.53:098][ 94]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.01.55:909][232]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.01.57:434][322]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.02.01:094][509]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.02.02:461][579]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.02.04:178][650]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.02.05:319][708]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.02.09:739][888]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.02.10:724][931]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.03.26:680][ 59]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-00.03.29:495][112]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-00.03.57:662][651]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.03.59:351][684]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.04.00:220][698]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.04.01:756][728]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.04.03:638][762]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.04.05:380][795]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.04.18:954][396]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.04.20:687][489]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.04.23:892][623]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-00.04.25:000][683]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-00.04.32:394][871]LogSavePackage: Save=3921.32ms
+[2018.01.14-00.04.32:394][871]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareC9A3EC0848D23709463B62A626EBB9BD.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-00.04.32:400][871]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-00.04.34:648][971]LogActorFactory: Actor Factory created Rock_3b
+[2018.01.14-00.04.35:827][ 41]LogActorFactory: Actor Factory created Rock_3b
+[2018.01.14-00.04.49:315][786]Cmd: EDIT COPY
+[2018.01.14-00.04.49:531][799]Cmd: EDIT PASTE
+[2018.01.14-00.04.54:722][ 99]Cmd: EDIT COPY
+[2018.01.14-00.04.54:948][112]Cmd: EDIT PASTE
+[2018.01.14-00.05.00:429][418]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-00.05.01:722][495]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-00.05.04:196][637]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-00.05.10:879][ 27]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_3b12)
+[2018.01.14-00.05.12:481][118]Cmd: TRANSACTION UNDO
+[2018.01.14-00.05.12:481][118]LogEditorTransaction: Undo Marquee Select
+[2018.01.14-00.05.18:090][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening476)
+[2018.01.14-00.05.19:123][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening476)
+[2018.01.14-00.05.20:896][611]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_3b13)
+[2018.01.14-00.05.24:388][814]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_3b13)
+[2018.01.14-00.05.34:284][396]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.05.35:222][452]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.05.36:257][510]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.05.37:213][567]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.05.42:258][862]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.05.43:297][924]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.06.11:124][985]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-00.06.12:487][ 55]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-00.06.13:223][ 80]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-00.06.15:432][197]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-00.06.21:423][503]Cmd: TRANSACTION UNDO
+[2018.01.14-00.06.21:423][503]LogEditorTransaction: Undo Move Actors
+[2018.01.14-00.06.29:314][783]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-00.06.31:721][834]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-00.06.36:589][928]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.06.38:017][958]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.06.45:227][115]Cmd: EDIT COPY
+[2018.01.14-00.06.45:458][120]Cmd: EDIT PASTE
+[2018.01.14-00.06.50:070][217]Cmd: EDIT COPY
+[2018.01.14-00.06.50:301][222]Cmd: EDIT PASTE
+[2018.01.14-00.06.59:730][412]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.07.00:976][438]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.07.02:220][460]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.07.03:833][494]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.07.05:243][520]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.07.09:853][619]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.07.20:876][ 12]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.07.21:824][ 60]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.07.23:276][127]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.07.24:386][184]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.07.26:763][283]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.07.27:630][333]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.07.28:458][368]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.07.29:628][436]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.07.31:948][534]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-00.07.47:286][289]Cmd: EDIT COPY
+[2018.01.14-00.07.47:495][295]Cmd: EDIT PASTE
+[2018.01.14-00.08.04:730][632]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.08.06:231][661]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.08.14:728][861]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening541)
+[2018.01.14-00.08.21:315][984]LogActorFactory: Actor Factory created Rock_3b
+[2018.01.14-00.08.22:867][ 13]LogActorFactory: Actor Factory created Rock_3b
+[2018.01.14-00.08.23:742][ 26]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-00.08.25:155][ 52]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-00.08.31:647][171]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-00.08.33:164][202]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-00.08.43:375][403]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.08.44:671][430]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.08.46:994][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert173)
+[2018.01.14-00.08.48:726][546]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT42)
+[2018.01.14-00.08.56:412][835]Cmd: DELETE
+[2018.01.14-00.08.56:412][835]Cmd: ACTOR DELETE
+[2018.01.14-00.08.56:481][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.14-00.08.56:501][835]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2018.01.14-00.09.06:232][159]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.14-00.09.09:391][269]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening572)
+[2018.01.14-00.09.18:314][391]LogSavePackage: Save=4040.55ms
+[2018.01.14-00.09.18:314][391]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareC9138286464FAB255DF4F3B851AF4135.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-00.09.18:320][391]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-00.09.45:592][622]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-00.09.47:179][657]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-00.09.48:795][687]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.14-00.09.49:807][710]LogActorFactory: Actor Factory created Rock_3a
+[2018.01.14-00.10.00:417][ 73]LogEditorViewport: Clicking on Actor (LMB): AIMonster_C (AIMonster)
+[2018.01.14-00.10.08:242][475]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-00.10.09:909][574]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-00.10.12:471][721]Cmd: TRANSACTION UNDO
+[2018.01.14-00.10.12:471][721]LogEditorTransaction: Undo Scale Actors
+[2018.01.14-00.10.31:095][763]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.10.32:112][823]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.10.35:030][989]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.10.36:376][ 69]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.10.39:212][225]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.10.40:257][287]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.10.44:262][487]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening556)
+[2018.01.14-00.10.49:865][555]LogSavePackage: Save=3903.46ms
+[2018.01.14-00.10.49:866][555]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareE1E49C0C4AE6ECB1FE667BB8CEF04287.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-00.10.49:872][555]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-00.11.16:702][273]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.11.18:018][316]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.11.18:710][333]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.11.19:904][371]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.11.23:041][452]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-00.11.24:406][495]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-00.11.26:461][566]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-00.11.29:823][762]Cmd: TRANSACTION UNDO
+[2018.01.14-00.11.29:823][762]LogEditorTransaction: Undo Rotate Actors
+[2018.01.14-00.11.34:587][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT45)
+[2018.01.14-00.11.36:263][138]LogEditorViewport: Clicking Background
+[2018.01.14-00.11.36:934][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT45)
+[2018.01.14-00.11.42:060][478]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.11.42:965][532]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.11.44:105][598]Cmd: EDIT COPY
+[2018.01.14-00.11.44:372][614]Cmd: EDIT PASTE
+[2018.01.14-00.11.46:955][764]Cmd: TRANSACTION UNDO
+[2018.01.14-00.11.46:955][764]LogEditorTransaction: Undo Move Actors
+[2018.01.14-00.11.56:271][310]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-00.11.57:943][410]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-00.11.59:685][510]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-00.12.01:343][609]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-00.12.02:359][665]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.12.03:767][749]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.12.07:930][995]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_130)
+[2018.01.14-00.12.12:362][257]Cmd: TRANSACTION UNDO
+[2018.01.14-00.12.12:362][257]LogEditorTransaction: Undo Scale Actors
+[2018.01.14-00.12.16:360][453]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-00.12.38:050][258]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-00.12.39:050][317]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-00.12.41:186][422]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-00.12.42:252][485]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-00.12.47:016][727]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.12.48:831][835]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.12.50:774][939]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.12.52:238][ 26]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.13.15:523][855]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.13.16:561][886]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.13.17:955][921]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.13.18:865][948]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-00.13.20:071][980]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.13.21:760][ 31]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.13.22:702][ 53]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.13.23:386][ 73]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.13.30:483][147]LogSavePackage: Save=4343.79ms
+[2018.01.14-00.13.30:484][147]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare5A79597A419D00A73033D9A9AC95E34E.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-00.13.30:493][147]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-00.15.47:760][779]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_130)
+[2018.01.14-00.15.48:871][802]Cmd: EDIT COPY
+[2018.01.14-00.15.49:138][806]Cmd: EDIT PASTE
+[2018.01.14-00.16.00:875][134]Cmd: EDIT COPY
+[2018.01.14-00.16.01:152][140]Cmd: EDIT PASTE
+[2018.01.14-00.16.26:128][716]LogRenderer: Reallocating scene render targets to support 1016x560 Format 10 NumSamples 1 (Frame:168516).
+[2018.01.14-00.16.34:293][988]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp12)
+[2018.01.14-00.16.36:439][ 89]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint2)
+[2018.01.14-00.17.37:546][640]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert202)
+[2018.01.14-00.17.38:471][659]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-00.17.42:757][782]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-00.17.43:821][817]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-00.17.45:195][868]Cmd: TRANSACTION UNDO
+[2018.01.14-00.17.45:195][868]LogEditorTransaction: Undo Create Actors
+[2018.01.14-00.17.46:203][883]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.17.47:007][908]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.18.02:213][335]LogEditorViewport: Clicking Background
+[2018.01.14-00.18.02:517][345]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-00.18.02:517][345]Can't find target actor or component.
+[2018.01.14-00.18.12:773][833]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_135)
+[2018.01.14-00.18.21:171][175]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.18.22:638][227]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-00.18.23:528][249]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-00.18.24:915][300]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-00.18.31:800][678]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-00.18.33:099][755]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-00.18.33:887][796]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-00.18.35:002][862]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-00.18.42:511][304]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_136)
+[2018.01.14-00.18.45:356][469]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_40)
+[2018.01.14-00.18.47:898][609]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.18.48:995][673]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-00.18.49:451][696]Cmd: TRANSACTION UNDO
+[2018.01.14-00.18.49:451][696]LogEditorTransaction: Undo Create Actors
+[2018.01.14-00.18.50:529][747]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.18.51:715][814]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.18.52:823][876]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_40)
+[2018.01.14-00.18.53:595][919]Cmd: EDIT COPY
+[2018.01.14-00.18.53:798][931]Cmd: EDIT PASTE
+[2018.01.14-00.19.25:137][575]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.19.26:219][637]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.19.30:034][853]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.19.31:055][913]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-00.20.12:277][156]LogSavePackage: Save=15857.90ms
+[2018.01.14-00.20.12:277][156]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareBBFABE2140158AA1806B0C898F404F36.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-00.20.12:299][156]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
