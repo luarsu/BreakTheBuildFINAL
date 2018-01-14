@@ -763,3 +763,591 @@ LogInit: Object subsystem initialized
 [2018.01.14-16.09.58:173][160]LogSavePackage: Save=4105.97ms
 [2018.01.14-16.09.58:173][160]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareE96776424637E108256F31B6FDABB2E7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2018.01.14-16.09.58:179][160]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.11.35:873][204]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.11.36:882][233]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.11.38:088][254]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.11.39:367][291]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.11.40:975][329]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.11.42:417][371]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.11.57:043][764]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.11.57:988][791]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.12.03:512][948]Cmd: TRANSACTION UNDO
+[2018.01.14-16.12.03:512][948]LogEditorTransaction: Undo Marquee Select
+[2018.01.14-16.12.29:065][666]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-16.12.30:926][720]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-16.15.03:127][606]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.15.04:574][648]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.15.07:646][723]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.15.08:753][756]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.15.09:985][785]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.15.11:567][831]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.15.12:671][856]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.15.13:651][884]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.15.14:556][897]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.15.16:261][947]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.15.17:393][973]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.15.18:214][997]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.15.19:058][ 16]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.15.19:931][ 42]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.15.21:101][ 70]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.15.22:301][105]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.15.27:524][241]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.15.28:875][280]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.15.29:757][294]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.15.30:972][329]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.15.46:606][640]LogSavePackage: Save=4590.12ms
+[2018.01.14-16.15.46:606][640]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareFBDC053E489BB2878A2509A1C26C1BD2.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.15.46:619][640]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.16.11:172][292]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.16.12:380][327]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.16.12:737][335]Cmd: TRANSACTION UNDO
+[2018.01.14-16.16.12:737][335]LogEditorTransaction: Undo Create Actors
+[2018.01.14-16.16.14:212][357]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.16.18:039][454]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.16.47:363][907]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.16.48:541][941]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.16.49:177][949]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.16.50:295][981]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.16.50:996][989]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.16.52:141][ 22]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.16.57:557][163]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.16.58:530][191]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.17.06:861][435]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.17.16:507][698]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.17.18:044][740]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.17.28:901][  7]Cmd: EDIT COPY
+[2018.01.14-16.17.29:118][ 11]Cmd: EDIT PASTE
+[2018.01.14-16.17.41:755][247]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.17.42:925][261]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.17.43:794][268]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.17.45:377][287]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.17.46:381][299]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.17.50:852][352]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.17.54:697][418]Cmd: TRANSACTION UNDO
+[2018.01.14-16.17.54:697][418]LogEditorTransaction: Undo Create Actors
+[2018.01.14-16.17.56:331][447]Cmd: DELETE
+[2018.01.14-16.17.56:331][447]Cmd: ACTOR DELETE
+[2018.01.14-16.17.56:459][447]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.14-16.17.56:476][447]LogEditorActor: Deleted 1 Actors (0.144 secs)
+[2018.01.14-16.18.05:732][667]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.18.07:158][708]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.18.12:290][838]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.18.13:553][873]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.18.14:790][886]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.18.15:761][914]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.18.19:857][ 32]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.18.39:667][603]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.18.40:568][628]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.18.41:316][647]Cmd: TRANSACTION UNDO
+[2018.01.14-16.18.41:316][647]LogEditorTransaction: Undo Create Actors
+[2018.01.14-16.18.42:890][669]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.18.43:702][684]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.18.45:109][709]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.18.46:154][739]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.18.47:905][771]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.18.49:157][807]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.18.49:924][822]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.18.51:674][873]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.18.52:501][890]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.18.53:638][923]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.18.54:730][942]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.18.56:744][  1]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.19.08:594][349]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.19.14:271][511]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_186)
+[2018.01.14-16.19.17:043][589]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_185)
+[2018.01.14-16.19.17:636][605]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS145)
+[2018.01.14-16.19.18:382][624]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening389)
+[2018.01.14-16.19.21:096][693]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_103)
+[2018.01.14-16.19.34:989][ 59]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening392)
+[2018.01.14-16.19.46:710][379]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.19.47:635][405]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.19.52:860][554]Cmd: TRANSACTION UNDO
+[2018.01.14-16.19.52:860][554]LogEditorTransaction: Undo Marquee Select
+[2018.01.14-16.20.04:126][833]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.20.05:289][867]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.20.06:132][885]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.20.07:605][928]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.20.08:768][956]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.09:609][980]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.10:475][992]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.11:421][ 17]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.13:324][ 64]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.14:317][ 92]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.15:119][106]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.20.15:933][129]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.20.16:691][139]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.20.17:743][169]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.20.21:929][268]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.20.23:178][304]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.20.24:109][321]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.20.25:659][366]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.20.27:627][409]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.20.29:490][459]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.20.38:535][711]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.20.39:751][746]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.20.52:263][ 88]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.53:543][125]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.54:185][136]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.55:426][172]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.56:237][187]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.58:100][241]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.20.59:154][261]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.21.00:165][290]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.21.00:957][300]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.21.01:801][324]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.21.10:683][562]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.21.12:800][623]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.21.29:140][ 86]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.21.30:532][126]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.21.35:360][253]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.21.36:440][284]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.21.37:329][298]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.21.38:533][333]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.21.39:769][357]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.21.40:780][386]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.21.45:558][401]LogSavePackage: Save=3860.02ms
+[2018.01.14-16.21.45:558][401]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareBDE5381F4EF07023BE69A7BF933EDEF0.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.21.45:565][401]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.21.56:299][589]LogSavePackage: Save=4027.95ms
+[2018.01.14-16.21.56:299][589]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareF6DB83D84659C4E65736EA96AE8D8596.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.21.56:305][589]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.23.10:162][317]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-16.23.12:408][383]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-16.23.14:968][442]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.23.16:307][481]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.23.20:073][572]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.23.21:140][603]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.23.25:023][714]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.23.33:637][919]Cmd: TRANSACTION UNDO
+[2018.01.14-16.23.33:637][919]LogEditorTransaction: Undo Scale Actors
+[2018.01.14-16.23.54:228][317]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.23.56:584][380]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.24.00:718][447]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.24.04:588][523]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.24.11:813][650]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.24.12:705][667]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.24.13:966][682]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.24.15:664][715]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.24.22:567][848]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT87)
+[2018.01.14-16.24.32:450][ 45]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.24.33:702][ 69]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.24.37:122][133]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.24.38:184][163]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.24.45:874][237]LogSavePackage: Save=4054.36ms
+[2018.01.14-16.24.45:875][237]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare8B611F0C48D6CD9803A1848F56A8BAF1.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.24.45:881][237]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.25.32:909][171]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.25.33:759][195]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.25.34:995][218]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.25.36:060][248]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.25.36:791][261]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.25.37:402][278]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.25.46:461][512]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.25.49:663][607]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.25.57:382][832]Cmd: TRANSACTION UNDO
+[2018.01.14-16.25.57:382][832]LogEditorTransaction: Undo Rotate Actors
+[2018.01.14-16.26.05:061][ 10]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.26.07:958][ 95]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.26.19:917][424]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.26.22:022][485]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.26.27:075][620]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.26.28:039][647]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.26.41:371][ 16]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.26.42:679][ 54]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.26.44:583][ 98]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.26.45:559][125]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.26.46:878][151]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.26.48:942][211]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.26.49:674][225]Cmd: TRANSACTION UNDO
+[2018.01.14-16.26.49:674][225]LogEditorTransaction: Undo Create Actors
+[2018.01.14-16.26.55:833][259]LogSavePackage: Save=3880.83ms
+[2018.01.14-16.26.55:833][259]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare0C30F70143EDC25312564E82F2A72FC9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.26.55:838][259]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.27.17:412][892]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.27.18:679][928]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.27.20:398][969]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.27.21:409][998]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.27.22:168][ 11]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.27.23:024][ 35]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.27.24:115][ 58]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.27.24:885][ 80]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.27.29:555][207]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.27.30:425][232]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.27.31:160][247]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.27.32:004][271]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.27.32:787][285]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.27.33:489][305]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.27.48:664][734]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.27.50:513][788]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.27.56:389][928]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.27.57:524][960]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.27.58:223][973]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.27.59:504][ 10]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.28.00:390][ 27]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.28.01:905][ 71]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.28.04:246][128]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.28.04:907][146]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.28.07:133][197]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.28.08:209][228]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.28.09:085][245]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.28.10:120][275]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.28.11:034][293]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.28.12:119][324]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.28.13:040][338]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.28.15:204][401]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.28.18:370][495]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_193)
+[2018.01.14-16.28.23:718][643]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.28.25:196][686]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.28.40:834][129]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.28.42:338][173]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.28.48:577][346]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.28.50:175][393]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.28.50:979][407]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.28.52:145][440]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.28.57:014][556]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.29.05:280][699]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.29.06:380][720]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.29.07:449][733]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.29.08:716][757]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.29.12:938][821]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.29.15:240][866]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.29.16:292][874]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.29.17:743][902]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.29.21:924][981]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.29.27:773][ 89]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_194)
+[2018.01.14-16.29.36:097][251]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.29.37:213][282]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.29.54:598][532]LogSavePackage: Save=4367.10ms
+[2018.01.14-16.29.54:598][532]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare5CCB07BF4A8A7BC890E21D90097EBA86.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.29.54:605][532]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.30.23:189][167]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.30.24:523][206]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.30.27:558][274]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.30.28:351][297]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.30.30:444][352]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.30.31:715][389]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.30.33:481][430]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.30.34:326][455]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.30.35:503][474]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.30.36:302][497]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.30.37:302][517]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.30.38:138][541]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.30.43:276][685]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.30.44:279][714]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.30.45:130][728]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.30.46:114][756]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.30.46:715][768]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.30.47:983][805]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.30.49:015][827]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.30.50:035][857]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.30.51:183][884]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.30.51:904][905]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.30.58:545][ 94]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.30.59:379][118]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.31.00:113][133]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.31.00:969][158]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.31.06:487][308]LogActorFactory: Actor Factory created Rock_3b
+[2018.01.14-16.31.07:854][348]LogActorFactory: Actor Factory created Rock_3b
+[2018.01.14-16.31.11:440][446]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.31.12:691][482]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.31.13:312][493]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.31.14:289][521]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.31.15:414][541]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.31.16:398][569]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.31.19:519][640]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.31.20:796][677]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.31.21:735][690]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.31.22:850][722]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.31.23:807][744]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.31.25:016][779]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.31.25:642][790]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.31.26:620][818]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.31.35:058][922]LogSavePackage: Save=4503.85ms
+[2018.01.14-16.31.35:058][922]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare5CD2A58E4E889A489BE341B1FF98FC9A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.31.35:075][922]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.32.08:731][918]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.32.09:731][947]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.32.10:884][975]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.32.11:861][  3]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.32.12:752][ 15]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.32.13:595][ 39]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.32.15:952][ 92]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.32.16:965][121]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.32.18:934][171]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.32.30:316][500]Cmd: EDIT COPY
+[2018.01.14-16.32.30:532][506]Cmd: EDIT PASTE
+[2018.01.14-16.32.40:062][750]LogActorFactory: Actor Factory created Rock_3b
+[2018.01.14-16.32.41:345][786]LogActorFactory: Actor Factory created Rock_3b
+[2018.01.14-16.32.49:539][  5]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.32.50:266][ 25]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.32.51:157][ 43]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.32.52:122][ 71]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.32.58:233][220]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.32.59:681][261]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.33.00:739][281]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.33.02:066][319]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.33.04:426][371]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.33.05:927][413]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.33.07:012][436]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.33.08:146][468]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.33.31:615][919]LogSavePackage: Save=4230.84ms
+[2018.01.14-16.33.31:615][919]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare846C087C439421C2B4E58AAC9540F7A7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.33.31:621][919]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.33.36:828][ 42]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_203)
+[2018.01.14-16.33.48:115][342]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.33.49:292][376]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.33.49:493][379]Cmd: TRANSACTION UNDO
+[2018.01.14-16.33.49:493][379]LogEditorTransaction: Undo Create Actors
+[2018.01.14-16.33.52:698][429]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.33.53:777][460]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.33.55:003][488]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.33.55:676][507]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.33.56:491][522]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.33.57:468][550]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.34.01:179][638]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.34.02:489][676]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.34.11:524][920]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.14-16.34.12:567][950]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.14-16.34.17:214][ 71]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.34.18:622][111]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.34.32:856][427]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.34.42:908][619]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.34.44:181][643]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.34.45:032][653]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.34.47:485][701]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.34.49:440][734]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.34.50:571][756]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.34.51:364][767]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.34.52:398][786]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.34.57:686][922]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.34.58:643][950]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.35.02:180][ 47]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.35.03:344][ 80]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.35.04:277][ 93]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.35.05:200][119]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.35.08:403][208]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.35.09:283][232]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.35.15:169][401]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert203)
+[2018.01.14-16.35.25:036][661]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.35.26:484][703]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.35.29:594][777]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.35.31:288][826]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.35.33:845][886]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.35.35:188][925]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.35.36:001][936]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.35.36:901][962]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.36.59:118][336]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp16)
+[2018.01.14-16.37.05:330][505]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.37.06:709][545]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.37.07:699][561]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.37.09:102][602]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.37.09:935][618]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.37.11:414][661]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.37.12:208][673]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.37.12:973][695]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.37.17:975][710]LogSavePackage: Save=4101.10ms
+[2018.01.14-16.37.17:975][710]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareF79630724C283029404632AE312DA65A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.37.17:982][710]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.14-16.37.46:206][930]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.37.47:296][961]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.37.50:527][ 47]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.37.51:894][ 87]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.37.53:527][121]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.37.54:573][151]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.37.54:974][155]Cmd: TRANSACTION UNDO
+[2018.01.14-16.37.54:974][155]LogEditorTransaction: Undo Create Actors
+[2018.01.14-16.37.59:514][243]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.14-16.38.05:407][388]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.38.06:461][418]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.38.13:917][624]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.38.15:155][658]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.38.16:235][676]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.38.17:485][711]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.38.18:455][730]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.38.19:561][761]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.38.23:978][872]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.38.26:232][930]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.38.26:836][947]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.38.56:350][719]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.38.57:350][747]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.38.57:592][751]Cmd: TRANSACTION UNDO
+[2018.01.14-16.38.57:593][751]LogEditorTransaction: Undo Create Actors
+[2018.01.14-16.38.58:329][760]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.38.59:345][779]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.38.59:513][780]Cmd: TRANSACTION UNDO
+[2018.01.14-16.38.59:513][780]LogEditorTransaction: Undo Create Actors
+[2018.01.14-16.39.00:715][797]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.14-16.39.01:652][814]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.14-16.40.23:875][ 18]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.40.24:679][ 41]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.40.25:354][ 53]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.40.26:240][ 78]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.40.27:683][113]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.40.28:658][141]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.40.30:415][170]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.40.31:786][210]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.40.33:038][230]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.40.34:183][263]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.40.35:121][278]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.40.36:034][304]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.40.39:687][409]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_210)
+[2018.01.14-16.40.52:674][778]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-16.40.54:750][839]LogActorFactory: Actor Factory created Lamp
+[2018.01.14-16.40.58:266][926]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.41.00:223][983]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.41.11:714][298]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.41.12:722][327]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.41.13:980][346]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.41.15:057][377]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.41.17:053][419]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.41.18:265][454]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.41.25:046][642]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.41.25:882][665]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.41.30:381][783]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.41.31:593][818]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.41.51:472][392]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.41.52:450][419]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.41.53:127][432]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.41.53:872][453]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.41.54:589][465]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.41.55:308][485]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.41.55:993][497]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.41.56:827][520]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.42.04:169][701]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.42.05:118][728]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.42.16:753][ 53]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.42.18:130][ 93]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.42.18:972][103]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.42.19:872][129]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.42.25:813][271]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.42.26:805][299]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.42.29:681][362]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.42.30:993][400]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.42.35:207][509]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.42.36:239][538]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.42.36:925][545]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.42.37:809][570]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.42.40:107][625]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.42.41:454][664]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.44.49:521][217]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.44.50:339][240]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.44.51:337][260]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.44.52:007][279]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.00:891][514]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.45.02:416][555]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.45.12:147][825]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.45.13:586][867]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.14-16.45.16:402][928]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.45.17:714][966]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.45.18:684][987]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.19:321][  5]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.20:289][ 23]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.45.21:235][ 50]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.45.23:075][ 95]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.23:775][115]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.24:908][137]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.45.25:820][163]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.45.28:881][244]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.29:759][269]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.30:467][279]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.45.31:662][313]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.45.32:486][330]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.45.33:321][354]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.45.34:438][378]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.35:378][405]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.37:071][445]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.38:115][475]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.45.40:074][523]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.45.41:328][559]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.45.42:393][573]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.45.43:433][603]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.45.45:797][656]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.45.47:018][692]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.45.47:999][712]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.45.49:428][753]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.45.50:202][767]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.45.51:636][808]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.45.52:705][824]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.45.54:405][873]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.45.57:506][963]Cmd: DELETE
+[2018.01.14-16.45.57:506][963]Cmd: ACTOR DELETE
+[2018.01.14-16.45.57:635][963]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.14-16.45.57:655][963]LogEditorActor: Deleted 1 Actors (0.148 secs)
+[2018.01.14-16.46.03:300][120]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.46.04:082][142]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.46.04:716][149]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.46.06:022][186]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.46.08:242][244]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.46.09:026][266]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.46.10:010][283]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.46.10:763][305]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.46.12:260][337]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.46.13:860][383]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.46.15:113][405]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.46.16:913][457]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.46.17:966][478]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.46.19:400][519]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.46.20:230][532]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.46.21:430][566]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.46.23:372][607]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.46.25:669][674]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.46.26:526][687]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.46.27:513][715]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.46.33:888][888]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.46.35:102][923]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.46.35:938][939]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.46.36:818][962]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.46.41:112][ 84]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_223)
+[2018.01.14-16.46.44:499][175]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.46.45:679][209]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.46.51:375][356]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.46.55:060][464]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.47.05:170][740]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.47.07:203][798]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.14-16.47.08:957][828]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.47.09:396][839]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.14-16.47.09:611][841]Cmd: TRANSACTION UNDO
+[2018.01.14-16.47.09:611][841]LogEditorTransaction: Undo Create Actors
+[2018.01.14-16.47.13:511][910]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.47.14:882][950]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.14-16.47.18:750][ 45]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.47.19:621][ 69]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.47.20:250][ 75]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.47.21:784][119]LogActorFactory: Actor Factory created WHEAT
+[2018.01.14-16.47.23:535][152]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.47.24:770][187]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.47.25:488][201]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.47.26:856][240]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.14-16.47.27:675][250]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.47.29:083][290]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.14-16.47.31:194][337]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.47.32:080][361]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.47.32:962][373]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.47.33:713][394]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.47.37:925][505]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.47.39:154][540]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.47.39:854][554]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.47.40:561][574]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.47.46:648][739]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.47.47:731][770]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.14-16.47.51:040][842]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.47.52:719][890]LogActorFactory: Actor Factory created Rock_1
+[2018.01.14-16.47.54:009][911]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.47.56:102][971]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.14-16.48.00:439][ 76]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.48.02:501][135]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.48.06:420][244]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.48.07:102][263]LogActorFactory: Actor Factory created GRASS
+[2018.01.14-16.48.08:017][279]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.48.08:920][305]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.48.09:590][317]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.48.10:971][357]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.48.11:759][373]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.48.12:575][396]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.48.14:498][435]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.48.16:195][484]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.14-16.48.20:969][596]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.48.22:215][632]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.14-16.48.27:219][647]LogSavePackage: Save=4059.23ms
+[2018.01.14-16.48.27:219][647]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare8DD224664A4A77B76CF53D98A9F05E32.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.14-16.48.27:226][647]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
