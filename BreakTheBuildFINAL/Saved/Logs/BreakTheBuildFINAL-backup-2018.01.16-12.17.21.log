@@ -1,0 +1,1161 @@
+﻿Log file open, 01/16/18 11:51:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BreakTheBuildFINAL
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-901663357) SRandInit(-901663357).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 8 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.348719
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.16-11.51.49:712][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.16-11.51.49:712][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.16-11.51.49:754][  0]LogInit: Computer: LAPTOP-5OI7FPNI
+[2018.01.16-11.51.49:754][  0]LogInit: User: Thomas
+[2018.01.16-11.51.49:754][  0]LogInit: CPU Page size=4096, Cores=2
+[2018.01.16-11.51.49:754][  0]LogInit: High frequency timer resolution =2.531250 MHz
+[2018.01.16-11.51.49:755][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.16-11.51.49:755][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.16-11.51.49:755][  0]LogMemory: Process Physical Memory: 271.78 MB used, 271.78 MB peak
+[2018.01.16-11.51.49:755][  0]LogMemory: Process Virtual Memory: 269.46 MB used, 269.46 MB peak
+[2018.01.16-11.51.49:755][  0]LogMemory: Physical Memory: 4495.36 MB used,  3610.55 MB free, 8105.91 MB total
+[2018.01.16-11.51.49:755][  0]LogMemory: Virtual Memory: 673.31 MB used,  3610.55 MB free, 134217728.00 MB total
+[2018.01.16-11.51.50:791][  0]LogInit: Using OS detected language (en-US).
+[2018.01.16-11.51.50:791][  0]LogInit: Using OS detected locale (en-US).
+[2018.01.16-11.51.50:869][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.01.16-11.51.51:623][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.16-11.51.52:396][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.16-11.51.52:490][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 950M' (Feature Level 11_0)
+[2018.01.16-11.51.52:490][  0]LogD3D11RHI:       4065/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.16-11.51.52:497][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 520' (Feature Level 11_0)
+[2018.01.16-11.51.52:497][  0]LogD3D11RHI:       128/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.16-11.51.52:500][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.16-11.51.52:501][  0]LogD3D11RHI:       0/0/4052 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.16-11.51.52:501][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.16-11.51.52:507][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.16-11.51.52:507][  0]LogD3D11RHI:     GPU DeviceId: 0x139a (for the marketing name, search the web for "GPU Device Id")
+[2018.01.16-11.51.52:507][  0]LogWindows: EnumDisplayDevices:
+[2018.01.16-11.51.52:507][  0]LogWindows:    0. 'Intel(R) HD Graphics 520' (P:1 D:1)
+[2018.01.16-11.51.52:508][  0]LogWindows:    1. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.01.16-11.51.52:508][  0]LogWindows:    2. 'Intel(R) HD Graphics 520' (P:0 D:0)
+[2018.01.16-11.51.52:508][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.16-11.51.52:508][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 950M
+[2018.01.16-11.51.52:508][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.16-11.51.52:508][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.16-11.51.52:508][  0]LogRHI: Texture pool is 2846 MB (70% of 4065 MB)
+[2018.01.16-11.51.52:543][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.16-11.51.52:565][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.01.16-11.51.52:565][  0]LogShaderCompilers: Guid format shader working directory is -38 characters bigger than the processId version (../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Intermediate/Shaders/WorkingDirectory/1888/).
+[2018.01.16-11.51.52:566][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Thomas/AppData/Local/Temp/UnrealShaderWorkingDir/3BB3839649C0EAFB65A2A7A93032AA34/'.
+[2018.01.16-11.51.52:566][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.16-11.51.55:696][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.16-11.51.55:790][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.16-11.51.55:886][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.16-11.51.55:980][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.16-11.51.56:089][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.16-11.51.56:212][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.16-11.51.56:312][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.16-11.51.56:411][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.16-11.51.56:533][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.16-11.51.56:658][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.16-11.51.56:760][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.16-11.51.56:894][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.16-11.51.56:992][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.16-11.51.57:088][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.16-11.51.57:277][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.16-11.51.57:277][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.16-11.51.57:390][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.16-11.51.57:499][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.16-11.51.57:707][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.16-11.51.57:755][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.16-11.51.57:892][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.16-11.51.57:997][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.16-11.51.58:114][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.16-11.51.58:245][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.16-11.51.58:245][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.16-11.52.15:474][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.16-11.52.16:257][  0]LogDerivedDataCache: Loaded boot cache 0.78s 78MB C:/Users/Thomas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.16-11.52.16:257][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Thomas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.16-11.52.16:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.16-11.52.16:257][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.16-11.52.16:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.16-11.52.16:257][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.16-11.52.16:277][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.16-11.52.16:292][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Thomas/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.16-11.52.16:304][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.16-11.52.16:305][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.16-11.52.16:323][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.16-11.52.16:323][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.16-11.52.20:867][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.16-11.52.21:751][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.16-11.52.21:866][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.16-11.52.21:866][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.16-11.52.21:866][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.16-11.52.21:866][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.16-11.52.21:866][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.16-11.52.21:911][  0]LogNetVersion: BreakTheBuildFINAL , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4088768677)
+[2018.01.16-11.52.22:175][  0]LogAssetRegistry: FAssetRegistry took 0.0274 seconds to start up
+[2018.01.16-11.52.22:954][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.095023 seconds
+[2018.01.16-11.52.22:960][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.16-11.52.22:960][  0]LogUObjectAllocator: 7372016 out of 0 bytes used by permanent object pool.
+[2018.01.16-11.52.22:960][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.16-11.52.23:093][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.16-11.52.55:977][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.16-11.52.56:088][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.16-11.52.58:774][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.16-11.52.59:622][  0]SourceControl: Source control is disabled
+[2018.01.16-11.52.59:622][  0]SourceControl: Source control is disabled
+[2018.01.16-11.52.59:745][  0]SourceControl: Source control is disabled
+[2018.01.16-11.52.59:891][  0]SourceControl: Source control is disabled
+[2018.01.16-11.53.01:929][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.16-11.53.02:528][  0]LogOcInput: OculusInput pre-init called
+[2018.01.16-11.53.03:163][  0]LogEngine: Initializing Engine...
+[2018.01.16-11.53.03:165][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.16-11.53.03:406][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.16-11.53.03:406][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.16-11.53.03:650][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.16-11.53.03:684][  0]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-11.53.04:323][  0]LogInit: FAudioDevice initialized.
+[2018.01.16-11.53.04:519][  0]LogDerivedDataCache: Saved boot cache 0.19s 78MB C:/Users/Thomas/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.16-11.53.04:531][  0]LogInit: Texture streaming: Enabled
+[2018.01.16-11.53.04:785][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.16-11.53.05:070][  0]LogInit: Transaction tracking system initialized
+[2018.01.16-11.53.05:949][  0]BlueprintLog: New page: Editor Load
+[2018.01.16-11.53.08:181][  0]LocalizationService: Localization service is disabled
+[2018.01.16-11.53.10:036][  0]LogConsoleResponse: Display: 
+[2018.01.16-11.53.11:058][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.16-11.53.11:059][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.16-11.53.11:059][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.16-11.53.11:943][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.03s
+[2018.01.16-11.53.14:265][  0]SourceControl: Source control is disabled
+[2018.01.16-11.53.14:395][  0]LogSlate: Took 0.000328 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.16-11.53.29:580][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-11.53.29:665][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-11.53.32:844][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-11.53.32:874][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-11.53.35:407][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-11.53.35:415][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-11.53.35:416][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.16-11.53.35:417][  0]LightingResults: New page: Lighting Build
+[2018.01.16-11.53.35:512][  0]MapCheck: New page: Map Check
+[2018.01.16-11.53.35:512][  0]LightingResults: New page: Lighting Build
+[2018.01.16-11.53.35:704][  0]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: Kategorie String: "NewEnumerator3"  Struct: /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/ItemDataStruct.ItemDataStruct 
+[2018.01.16-11.53.35:953][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.16-11.53.35:957][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.16-11.53.36:037][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0119.49] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 147 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.01.16-11.53.36:740][  0]LogBlueprint: Warning: [Compiler door2] Get : 'StaticMeshComponent' variable not found. Base class was probably changed. /Game/PabloPuzzle/modular/wall/doorButton/door2.door2
+[2018.01.16-11.53.36:777][  0]LogBlueprint: Warning: [Compiler door2] [0120.23] Compile of door2 successful, but with 1 Warning(s) [in 37 ms] (/Game/PabloPuzzle/modular/wall/doorButton/door2.door2)
+[2018.01.16-11.53.37:254][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.16-11.53.37:254][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/Untitled_4.uasset.
+[2018.01.16-11.53.37:254][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/Untitled_4 : Can't find file for asset. /Game/textures/neon
+[2018.01.16-11.53.37:254][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.16-11.53.37:254][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/Untitled_4.uasset.
+[2018.01.16-11.53.37:254][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/Untitled_4 : Can't find file for asset. /Game/textures/neon
+[2018.01.16-11.53.37:271][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.16-11.53.37:271][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/birdy.uasset.
+[2018.01.16-11.53.37:271][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/birdy : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.16-11.53.37:272][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.16-11.53.37:272][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/birdy.uasset.
+[2018.01.16-11.53.37:272][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/birdy : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.16-11.53.37:326][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.16-11.53.37:327][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/moustacheDemon.uasset.
+[2018.01.16-11.53.37:327][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/moustacheDemon : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.16-11.53.37:327][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.16-11.53.37:327][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/moustacheDemon.uasset.
+[2018.01.16-11.53.37:327][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/moustacheDemon : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.16-11.53.38:476][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.16-11.53.38:477][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/growingtray.uasset.
+[2018.01.16-11.53.38:477][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/growingtray : Can't find file for asset. /Game/modular/mobilier/GrowingTrayTexture1
+[2018.01.16-11.53.38:477][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.16-11.53.38:477][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/growingtray.uasset.
+[2018.01.16-11.53.38:477][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/growingtray : Can't find file for asset. /Game/modular/mobilier/GrowingTrayTexture1
+[2018.01.16-11.53.38:483][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.16-11.53.38:483][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/piedestale.uasset.
+[2018.01.16-11.53.38:483][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/piedestale : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_2
+[2018.01.16-11.53.38:483][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.16-11.53.38:484][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/piedestale.uasset.
+[2018.01.16-11.53.38:484][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/piedestale : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_2
+[2018.01.16-11.53.38:490][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.16-11.53.38:490][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/sculptureCherub.uasset.
+[2018.01.16-11.53.38:490][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/sculptureCherub : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_3
+[2018.01.16-11.53.38:490][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.16-11.53.38:491][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/sculptureCherub.uasset.
+[2018.01.16-11.53.38:491][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/sculptureCherub : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_3
+[2018.01.16-11.53.38:532][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.16-11.53.38:533][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/plants/plantFlower.uasset.
+[2018.01.16-11.53.38:533][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/plants/plantFlower : Can't find file for asset. /Game/modular/plants/plantFlowerTexture
+[2018.01.16-11.53.38:533][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.16-11.53.38:533][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/plants/plantFlower.uasset.
+[2018.01.16-11.53.38:533][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/plants/plantFlower : Can't find file for asset. /Game/modular/plants/plantFlowerTexture
+[2018.01.16-11.53.40:022][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.16-11.53.40:022][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.16-11.53.40:023][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.16-11.53.40:023][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.16-11.53.40:023][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.16-11.53.40:023][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.16-11.53.40:023][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.16-11.53.40:023][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.16-11.53.40:025][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.16-11.53.40:025][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.16-11.53.40:026][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading NULL.
+[2018.01.16-11.53.40:026][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.16-11.53.40:026][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.16-11.53.40:026][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.16-11.53.40:026][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading NULL.
+[2018.01.16-11.53.40:026][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.16-11.53.40:082][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.16-11.53.40:082][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.16-11.53.40:083][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.16-11.53.40:083][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.16-11.53.40:083][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.16-11.53.40:083][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.16-11.53.40:083][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.16-11.53.40:083][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.16-11.53.40:167][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.16-11.53.40:167][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.16-11.53.40:167][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading NULL.
+[2018.01.16-11.53.40:167][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.16-11.53.40:167][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.16-11.53.40:167][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.16-11.53.40:167][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading NULL.
+[2018.01.16-11.53.40:167][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.16-11.53.40:168][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.16-11.53.40:168][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.16-11.53.40:168][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading NULL.
+[2018.01.16-11.53.40:168][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.16-11.53.40:168][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.16-11.53.40:168][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.16-11.53.40:168][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading NULL.
+[2018.01.16-11.53.40:168][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.16-11.53.40:169][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.16-11.53.40:169][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.16-11.53.40:169][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading NULL.
+[2018.01.16-11.53.40:169][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.16-11.53.40:169][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.16-11.53.40:169][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.16-11.53.40:169][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading NULL.
+[2018.01.16-11.53.40:169][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.16-11.53.40:182][  0]LogProperty: Warning: Serialized Class /Script/Engine.SoundCue for a property of Class /Script/Engine.SoundWave. Reference will be nullptred.
+    Property = SoftObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWaveAssetPtr
+    Item = SoundCue /Game/Sound/criquets.criquets
+[2018.01.16-11.53.40:203][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.16-11.53.40:203][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.16-11.53.40:203][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading NULL.
+[2018.01.16-11.53.40:204][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.16-11.53.40:204][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.16-11.53.40:204][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.16-11.53.40:204][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading NULL.
+[2018.01.16-11.53.40:204][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.16-11.53.40:583][  0]LogMaterial: Missing cached shader map for material Well, compiling. 
+[2018.01.16-11.53.41:390][  0]LogMaterial: Missing cached shader map for material Rock_3b, compiling. 
+[2018.01.16-11.53.51:665][  0]LogTexture: Display: Building textures: plant-2 (BGRA8, 1920X2299)
+[2018.01.16-11.53.56:415][  0]LogMaterial: Missing cached shader map for material Mat_PuzzleRoomGate, compiling. 
+[2018.01.16-11.53.56:416][  0]LogMaterial: Warning: C:\Users\Thomas\Documents\GitHub\BreakTheBuildFINAL\BreakTheBuildFINAL\Content\AngelaPuzzleAssets\Mat_PuzzleRoomGate.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.01.16-11.53.56:416][  0]LogMaterial: 	(Node TextureSample) Texture Sample> Missing input texture
+[2018.01.16-11.53.59:268][  0]LogMaterial: Missing cached shader map for material 2Mushroom, compiling. 
+[2018.01.16-11.53.59:317][  0]LogMaterial: Missing cached shader map for material MAT_CopperGold, compiling. 
+[2018.01.16-11.54.00:099][  0]LogMaterial: Missing cached shader map for material FloorMAt, compiling. 
+[2018.01.16-11.54.00:376][  0]LogMaterial: Missing cached shader map for material Rock_3a, compiling. 
+[2018.01.16-11.54.00:417][  0]LogMaterial: Missing cached shader map for material Rock_2b, compiling. 
+[2018.01.16-11.54.00:477][  0]LogMaterial: Missing cached shader map for material Rock_2a, compiling. 
+[2018.01.16-11.54.00:733][  0]LogMaterial: Missing cached shader map for material Rock_1, compiling. 
+[2018.01.16-11.54.00:832][  0]LogMaterial: Missing cached shader map for material Pedestal_3, compiling. 
+[2018.01.16-11.54.00:882][  0]LogMaterial: Missing cached shader map for material Pedestal_2, compiling. 
+[2018.01.16-11.54.00:925][  0]LogMaterial: Missing cached shader map for material Pedestal, compiling. 
+[2018.01.16-11.54.01:015][  0]LogMaterial: Missing cached shader map for material Mushroom_6, compiling. 
+[2018.01.16-11.54.01:058][  0]LogMaterial: Missing cached shader map for material Mushroom_2, compiling. 
+[2018.01.16-11.54.01:113][  0]LogMaterial: Missing cached shader map for material Lamp_Base, compiling. 
+[2018.01.16-11.54.01:161][  0]LogMaterial: Missing cached shader map for material Gargoyle_3, compiling. 
+[2018.01.16-11.54.01:227][  0]LogMaterial: Missing cached shader map for material Gargoyle_2, compiling. 
+[2018.01.16-11.54.01:274][  0]LogMaterial: Missing cached shader map for material Gargoyle, compiling. 
+[2018.01.16-11.54.01:333][  0]LogMaterial: Missing cached shader map for material Foundtain, compiling. 
+[2018.01.16-11.54.01:385][  0]LogMaterial: Missing cached shader map for material 2Mushroom_4, compiling. 
+[2018.01.16-11.54.01:436][  0]LogMaterial: Missing cached shader map for material 2Mushroom_3, compiling. 
+[2018.01.16-11.54.01:490][  0]LogMaterial: Missing cached shader map for material 2Mushroom_2, compiling. 
+[2018.01.16-11.54.01:548][  0]LogMaterial: Missing cached shader map for material 2Mushroom_1, compiling. 
+[2018.01.16-11.54.01:757][  0]LogMaterial: Missing cached shader map for material GnomeDoorNormal, compiling. 
+[2018.01.16-11.54.02:285][  0]LogMaterial: Missing cached shader map for material littlePalmTree2, compiling. 
+[2018.01.16-11.54.02:920][  0]LogMaterial: Missing cached shader map for material Pumpkin, compiling. 
+[2018.01.16-11.54.03:381][  0]LogMaterial: Missing cached shader map for material LAMP_Light, compiling. 
+[2018.01.16-11.54.05:594][  0]LogMaterial: Missing cached shader map for material Instance_Grass, compiling. 
+[2018.01.16-11.54.05:840][  0]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.16-11.54.06:002][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.16-11.54.06:002][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/GabiAsset/Plants/GRASS_2.GRASS_2] ScaledElem[0] invalid
+[2018.01.16-11.54.06:236][  0]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.01.16-11.54.06:398][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.16-11.54.06:707][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 308.246ms to complete.
+[2018.01.16-11.54.06:709][  0]LogFileHelpers: Loading map 'Luis_Nightmare' took 31.293
+[2018.01.16-11.54.07:194][  0]LogStats: Warning: MetaData mismatch. Did you assign a stat to two groups? New //STATGROUP_Threads//SplashScreenThread///Thread_1bbc_0///####STATCAT_Advanced#### old //STATGROUP_Threads//SplashScreenThread///Thread_2bc4_0///####STATCAT_Advanced####
+[2018.01.16-11.54.07:194][  0]LogCollectionManager: Loaded 0 collections in 0.003827 seconds
+[2018.01.16-11.54.07:484][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' took 0.01s
+[2018.01.16-11.54.07:484][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/Thomas/Collections/' took 0.01s
+[2018.01.16-11.54.07:484][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' took 0.01s
+[2018.01.16-11.54.07:484][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.16-11.54.07:499][  0]LogContentBrowser: Native class hierarchy populated in 0.0151 seconds. Added 2363 classes and 519 folders.
+[2018.01.16-11.54.07:709][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.16-11.54.08:517][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.01.16-11.54.08:756][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.16-11.54.10:610][  0]LogSlate: Took 0.013323 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.16-11.54.10:751][  0]LogSlate: Took 0.035842 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.16-11.54.12:316][  0]LogRenderer: Reallocating scene render targets to support 856x372 Format 10 NumSamples 1 (Frame:1).
+[2018.01.16-11.54.15:109][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.01.16-11.54.15:109][  0]LogLoad: (Engine Initialization) Total time: 158.57 seconds
+[2018.01.16-11.54.15:110][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.16-11.54.15:137][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.16-11.54.15:312][  0]LoadErrors: Error: /Game/Sound/criquetCue : Failed import for SoundWave /Game/Sound/criquets.criquets Referenced by export SoundNodeWavePlayer /Game/Sound/criquetCue.criquetCue:SoundNodeWavePlayer_1
+[2018.01.16-11.54.15:807][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.16-11.54.16:741][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 1.37s
+[2018.01.16-11.54.16:931][  1]LogSlate: Took 0.037160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-11.54.17:559][  2]LogSlate: Took 0.000590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-11.54.18:779][  5]LogAssetRegistry: Asset discovery search completed in 116.6257 seconds
+[2018.01.16-11.54.18:847][  5]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.01.16-11.54.18:848][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.011426 seconds (updated 0 objects)
+[2018.01.16-11.54.28:130][129]AssetReimport: New page: Outstanding source content changes 11:54:26 AM
+[2018.01.16-11.54.30:947][131]LogEditorFactories: Performing atomic reimport of [C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/startMenu/Deviltitle.jpg]
+[2018.01.16-11.54.30:958][131]LogFactory: FactoryCreateFile: Texture2D with ReimportTextureFactory (0 0 C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/startMenu/Deviltitle.jpg)
+[2018.01.16-11.54.31:834][131]LogEditorFactories: -- imported successfully
+[2018.01.16-11.54.32:338][132]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.16-11.54.32:446][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/startMenu/Deviltitle" FILE="../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/startMenu/Deviltitle.uasset" SILENT=true
+[2018.01.16-11.54.33:157][132]LogSavePackage: Save=524.03ms
+[2018.01.16-11.54.33:157][132]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/DeviltitleBEFCE3F24F659B6B8B9ACAA78CD5EABA.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/startMenu/Deviltitle.uasset'
+[2018.01.16-11.54.33:219][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/startMenu/Deviltitle.uasset
+[2018.01.16-11.54.36:265][142]AssetReimport: Reimported asset Deviltitle from C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/startMenu/Deviltitle.jpg.
+[2018.01.16-11.55.40:048][553]LogLinker: Warning: Can't resolve asset name
+[2018.01.16-11.56.30:001][886]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.16-11.56.31:601][886]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.16-11.56.31:640][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.16-11.56.31:804][886]PIE: New page: PIE session: Luis_Nightmare (Jan 16, 2018, 11:56:31 AM)
+[2018.01.16-11.56.31:821][886]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.16-11.56.32:110][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.288183s)
+[2018.01.16-11.56.32:111][886]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.16-11.56.32:119][886]LogPlayLevel: PIE: World Init took: (0.009638s)
+[2018.01.16-11.56.32:125][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.304169s)
+[2018.01.16-11.56.32:191][886]LogInit: XAudio2 using 'Haut-parleurs (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.16-11.56.32:204][886]LogInit: FAudioDevice initialized.
+[2018.01.16-11.56.32:341][886]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.16-11.56.32:608][886]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.16-11.56.32
+[2018.01.16-11.56.32:743][886]LogLinker: Warning: Can't find file '/Game/Portcullis/OpenCloseGateLevelSequence'
+[2018.01.16-11.56.32:744][886]LogLinker: Warning: Can't find file '/Game/Portcullis/OpenCloseGateLevelSequence'
+[2018.01.16-11.56.32:756][886]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Portcullis/OpenCloseGateLevelSequence.OpenCloseGateLevelSequence'
+[2018.01.16-11.56.33:086][886]LogWorld: Bringing up level for play took: 0.588064
+[2018.01.16-11.56.33:373][886]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0051 seconds. Added 11 classes and 0 folders.
+[2018.01.16-11.56.33:607][886]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:607][886]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:618][886]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:618][886]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:618][886]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:618][886]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:619][886]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:620][886]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:620][886]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:620][886]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:620][886]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:620][886]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:620][886]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:620][886]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:620][886]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:621][886]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:621][886]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:621][886]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:621][886]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.16-11.56.33:627][886]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 1.656
+[2018.01.16-11.56.33:628][886]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.16-11.56.43:808][ 39]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.16-11.56.44:034][ 39]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.16-11.56.45:108][ 41]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-11.56.45:108][ 41]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-11.56.48:903][105]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-11.56.48:903][105]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-11.57.50:787][769]LogEditorViewport: Clicking on Actor (LMB): GabyGnome_C (GabyGnome)
+[2018.01.16-11.58.09:485][999]LogSlate: Took 0.000357 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.16-11.58.10:296][999]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.01.16-11.58.13:002][999]LogSlate: Took 0.013329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.16-11.58.14:029][  0]LogSlate: Took 0.017721 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.16-11.58.18:099][170]LogRenderer: Reallocating scene render targets to support 856x588 Format 10 NumSamples 1 (Frame:1).
+[2018.01.16-11.58.51:852][723]LogEditorViewport: Clicking on Actor (LMB): GabyGnome_C (GabyGnome)
+[2018.01.16-11.58.51:985][723]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2018.01.16-12.00.09:406][548]LogSavePackage: Save=165.55ms
+[2018.01.16-12.00.09:406][548]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Item63B146334806BF91A8E8A7B73E19C5BD.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.uasset'
+[2018.01.16-12.00.09:412][548]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.uasset
+[2018.01.16-12.00.11:060][645]BlueprintLog: New page: Compile Item
+[2018.01.16-12.00.36:998][132]BlueprintLog: New page: Compile Item
+[2018.01.16-12.00.38:404][175]LogSavePackage: Save=134.90ms
+[2018.01.16-12.00.38:404][175]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Item919C5A86470D48A0A9CBCD85278AB9BB.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.uasset'
+[2018.01.16-12.00.38:409][175]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.uasset
+[2018.01.16-12.00.38:683][183]LogSavePackage: Save=125.07ms
+[2018.01.16-12.00.38:683][183]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Item9A3CCB95473FACBB862BCE90890A1CF7.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.uasset'
+[2018.01.16-12.00.38:686][183]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.uasset
+[2018.01.16-12.03.21:729][850]LogSavePackage: Save=3.07ms
+[2018.01.16-12.03.21:729][850]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableFCF38884489EE7AC3375A09391AC0129.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.21:734][850]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.21:846][856]LogSavePackage: Save=2.16ms
+[2018.01.16-12.03.21:846][856]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable2279B1D74CBDAE268DA2429820C6C9D6.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.21:850][856]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.22:028][866]LogSavePackage: Save=2.25ms
+[2018.01.16-12.03.22:028][866]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableCD367DA6494A908CD67D7BB1F87B6589.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.22:032][866]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.22:177][874]LogSavePackage: Save=2.27ms
+[2018.01.16-12.03.22:177][874]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableCC1333BE4C0F0CA00D0BFAA2D9B740F9.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.22:181][874]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.22:328][882]LogSavePackage: Save=2.36ms
+[2018.01.16-12.03.22:328][882]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable33453FD84EEF39D52311699461B814A4.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.22:331][882]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.22:476][890]LogSavePackage: Save=2.42ms
+[2018.01.16-12.03.22:476][890]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableC470BD8B469DD9A17BB5D6B5A8DF3205.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.22:479][890]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.22:627][898]LogSavePackage: Save=2.30ms
+[2018.01.16-12.03.22:627][898]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable7456D945489A71A0695D3381C3CB638C.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.22:630][898]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.22:797][907]LogSavePackage: Save=3.06ms
+[2018.01.16-12.03.22:797][907]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableB4E71CA5454EB9B658054297FB4E8183.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.22:800][907]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.22:947][915]LogSavePackage: Save=2.23ms
+[2018.01.16-12.03.22:947][915]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableE9B0E5F4434EC433D823AA914305444F.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.22:950][915]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.23:097][923]LogSavePackage: Save=2.25ms
+[2018.01.16-12.03.23:097][923]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable85CE727D4ACA4FFE00877B9E751245FF.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.23:100][923]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.23:283][933]LogSavePackage: Save=2.78ms
+[2018.01.16-12.03.23:283][933]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable5482CADB4694EB9BC9AA0AB4E9863796.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.23:286][933]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.23:435][941]LogSavePackage: Save=2.45ms
+[2018.01.16-12.03.23:435][941]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableBE340EEE42F2002D972A5884FB7B043A.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.23:439][941]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.23:602][950]LogSavePackage: Save=2.10ms
+[2018.01.16-12.03.23:602][950]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable5BB4592642D456D9485DD3A20389A235.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.23:606][950]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.23:767][959]LogSavePackage: Save=2.18ms
+[2018.01.16-12.03.23:767][959]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable2AA33DBD4ACC8D368F8FA0A0B03D611A.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.23:771][959]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.23:934][968]LogSavePackage: Save=2.29ms
+[2018.01.16-12.03.23:934][968]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable281B09E241C839DB2FAF2AAF437C512D.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.23:938][968]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.24:117][978]LogSavePackage: Save=2.25ms
+[2018.01.16-12.03.24:117][978]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable11A976EE4B276352EAED5E877D84E4D3.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.24:121][978]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.24:267][986]LogSavePackage: Save=2.36ms
+[2018.01.16-12.03.24:267][986]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable814C5FB949624F575D172B85988BAF46.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.24:271][986]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.24:417][994]LogSavePackage: Save=2.37ms
+[2018.01.16-12.03.24:417][994]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableEF30D2FB4569F4DAF1E7B386A5904A40.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.24:420][994]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.24:583][  3]LogSavePackage: Save=2.27ms
+[2018.01.16-12.03.24:583][  3]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableAE829DF84E839DE11F793AAC4E08CEEE.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.24:587][  3]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.03.24:731][ 11]LogSavePackage: Save=2.21ms
+[2018.01.16-12.03.24:732][ 11]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableBEDE873B41B93CB90EDF03AFC7691601.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.03.24:735][ 11]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.04.21:525][135]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2018.01.16-12.04.21:694][135]LogEditorViewport: Clicking on Actor (double click): GabyGnome_C (GabyGnome)
+[2018.01.16-12.04.26:804][346]LogEditorViewport: Clicking on Actor (context menu): GabyGnome_C (GabyGnome)
+[2018.01.16-12.05.04:533][312]LogEditorViewport: Clicking on Actor (context menu): GabyGnome_C (GabyGnome)
+[2018.01.16-12.05.14:163][586]LogEditorViewport: Clicking on Actor (context menu): GabyGnome_C (GabyGnome)
+[2018.01.16-12.05.56:553][102]LogSavePackage: Save=2.35ms
+[2018.01.16-12.05.56:553][102]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable3C4FCA8B40407E834CC1329639861BCC.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.05.56:558][102]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.07.27:344][153]LogEditorViewport: Clicking on Actor (LMB): GabyGnome_C (GabyGnome)
+[2018.01.16-12.07.27:473][153]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (StaticMesh)
+[2018.01.16-12.07.43:079][349]LogRenderer: Reallocating scene render targets to support 1016x612 Format 10 NumSamples 1 (Frame:1).
+[2018.01.16-12.07.48:978][686]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.16-12.08.26:046][ 46]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0005 seconds. Added 1 classes and 0 folders.
+[2018.01.16-12.08.26:062][ 46]LogMaterial: Missing cached shader map for material Gnome, compiling. 
+[2018.01.16-12.08.26:447][ 46]LogMaterial: Missing cached shader map for material Gnome, compiling. 
+[2018.01.16-12.08.26:595][ 46]LogMaterial: Missing cached shader map for material Gnome, compiling. 
+[2018.01.16-12.08.26:695][ 46]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_3, compiling. 
+[2018.01.16-12.08.26:704][ 46]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_4, compiling. 
+[2018.01.16-12.08.26:803][ 46]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_5, compiling. 
+[2018.01.16-12.08.30:552][223]MaterialEditorStats: Base pass shader: 110 instructions
+[2018.01.16-12.08.30:552][223]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 186 instructions
+[2018.01.16-12.08.30:552][223]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.01.16-12.08.30:552][223]MaterialEditorStats: Texture samplers: 5/16
+[2018.01.16-12.08.30:552][223]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.01.16-12.09.05:093][963]LogSavePackage: Save=2.54ms
+[2018.01.16-12.09.05:093][963]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable63AF909B40210927B0EB71A312368F30.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.09.05:099][963]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.09.05:245][971]LogSavePackage: Save=2.42ms
+[2018.01.16-12.09.05:245][971]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable87362A6C4895387E3BD92BA155328108.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.09.05:248][971]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.09.05:395][979]LogSavePackage: Save=2.39ms
+[2018.01.16-12.09.05:395][979]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable693916FA40478E00B95B7DA83E5E5249.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.09.05:399][979]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.09.05:545][987]LogSavePackage: Save=2.37ms
+[2018.01.16-12.09.05:545][987]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable5686D2114F8FC2DEC40C379C42F3FCE9.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.09.05:547][987]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.09.51:580][747]LogSavePackage: Save=2.60ms
+[2018.01.16-12.09.51:580][747]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable051DECCC40BE37E96DA37A9D9A1D0893.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.09.51:583][747]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.09.51:748][756]LogSavePackage: Save=2.35ms
+[2018.01.16-12.09.51:748][756]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableB6652A1A4B463F14BA4049A63B6A1501.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.09.51:752][756]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.09.51:915][765]LogSavePackage: Save=2.16ms
+[2018.01.16-12.09.51:915][765]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable7439E35947ABBE1C45F5388694760DB0.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.09.51:917][765]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.21:514][371]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMesh)
+[2018.01.16-12.10.25:082][424]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMesh)
+[2018.01.16-12.10.37:462][719]LogSavePackage: Save=2.47ms
+[2018.01.16-12.10.37:462][719]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable0DF13CE04891D04F98C7BF9754716F17.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.37:466][719]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.37:614][727]LogSavePackage: Save=2.60ms
+[2018.01.16-12.10.37:614][727]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable60146255497A0F359E4AFD8834DEA241.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.37:618][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.37:764][735]LogSavePackage: Save=2.39ms
+[2018.01.16-12.10.37:764][735]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableCCECA2AB46F0ED38893F978970FC126D.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.37:769][735]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.37:899][742]LogSavePackage: Save=2.56ms
+[2018.01.16-12.10.37:899][742]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable581BA85F4165EAA6543F03AAD0D989FA.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.37:904][742]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.38:051][750]LogSavePackage: Save=3.40ms
+[2018.01.16-12.10.38:051][750]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable6A6F7E524C63481E06CDDB8282265547.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.38:055][750]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.38:187][757]LogSavePackage: Save=3.20ms
+[2018.01.16-12.10.38:187][757]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableDA10B8B843793D5160347A8F2F87D459.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.38:189][757]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.38:338][765]LogSavePackage: Save=2.63ms
+[2018.01.16-12.10.38:338][765]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableE1B9A35542C2306F3968A38DB1D7B7AC.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.38:341][765]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.42:401][  6]LogSavePackage: Save=3.59ms
+[2018.01.16-12.10.42:401][  6]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableEF7D795749CF5590298F0599475D1201.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.42:407][  6]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.42:554][ 14]LogSavePackage: Save=2.61ms
+[2018.01.16-12.10.42:554][ 14]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableE3F3E65C47B43FDD46289C8EB71B2519.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.42:557][ 14]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.42:705][ 22]LogSavePackage: Save=2.60ms
+[2018.01.16-12.10.42:705][ 22]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable2CF7B5AF4622608D900697A9FA5FD8AB.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.42:708][ 22]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.42:856][ 30]LogSavePackage: Save=2.26ms
+[2018.01.16-12.10.42:856][ 30]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable09B574974ECB5F30C86EA2B5C191E709.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.42:859][ 30]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.42:989][ 37]LogSavePackage: Save=2.26ms
+[2018.01.16-12.10.42:989][ 37]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable3D0C9767476CA827841A328EF340A8BC.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.42:992][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.43:105][ 43]LogSavePackage: Save=2.28ms
+[2018.01.16-12.10.43:105][ 43]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableAB175FCB4FEC9F759C2EE7BA9C99AB57.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.43:107][ 43]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.43:239][ 50]LogSavePackage: Save=2.22ms
+[2018.01.16-12.10.43:239][ 50]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable3972661B45461AF4D2334DA04D37E724.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.43:242][ 50]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.43:388][ 58]LogSavePackage: Save=2.20ms
+[2018.01.16-12.10.43:388][ 58]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable6A51AC4448F06710383F56935F893377.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.43:391][ 58]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.43:521][ 65]LogSavePackage: Save=2.59ms
+[2018.01.16-12.10.43:521][ 65]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable1B6B122441F85A24D9E291BE45DF502A.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.43:525][ 65]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.43:673][ 73]LogSavePackage: Save=2.31ms
+[2018.01.16-12.10.43:673][ 73]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable305BCFAC492489BCAC0AD2A774735F54.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.43:676][ 73]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.43:822][ 81]LogSavePackage: Save=2.24ms
+[2018.01.16-12.10.43:822][ 81]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTable49697B7B45DF4ECF11ADDC865A1B11BE.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.43:825][ 81]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.43:976][ 89]LogSavePackage: Save=3.40ms
+[2018.01.16-12.10.43:976][ 89]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/ItemDataTableA1690AD8467A2F21859797A2AAA4AA94.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset'
+[2018.01.16-12.10.43:980][ 89]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/ItemDataTable.uasset
+[2018.01.16-12.10.52:397][251]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (StaticMesh)
+[2018.01.16-12.10.55:472][303]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.16-12.11.18:142][580]LogSavePackage: Save=6445.96ms
+[2018.01.16-12.11.18:142][580]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare05471BCE402938A56541129206C51F27.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.16-12.11.18:152][580]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.16-12.13.06:518][899]LogSavePackage: Save=5486.42ms
+[2018.01.16-12.13.06:518][899]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareA80E174B4816E1DF96E922894F2727CA.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.16-12.13.06:526][899]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.16-12.14.41:028][197]LogSavePackage: Save=130.57ms
+[2018.01.16-12.14.41:029][197]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Item1GnomaPablo605CCD1A490A940F877B89991BD99FCF.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item1GnomaPablo.uasset'
+[2018.01.16-12.14.41:034][197]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item1GnomaPablo.uasset
+[2018.01.16-12.14.42:466][280]BlueprintLog: New page: Compile Item1GnomaPablo
+[2018.01.16-12.15.01:980][906]LogMaterial: Missing cached shader map for material 02_-_Default, compiling. 
+[2018.01.16-12.15.02:012][906]LogMaterial: Missing cached shader map for material 07_-_Default, compiling. 
+[2018.01.16-12.15.02:065][906]LogMaterial: Missing cached shader map for material 08_-_Default, compiling. 
+[2018.01.16-12.15.18:433][110]Cmd: DELETE
+[2018.01.16-12.15.18:433][110]Cmd: ACTOR DELETE
+[2018.01.16-12.15.18:880][110]LogEditorActor: Deleted Actor: GabyGnome_C
+[2018.01.16-12.15.18:916][110]LogEditorActor: Deleted 1 Actors (0.239 secs)
+[2018.01.16-12.15.32:948][443]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.16-12.15.40:092][764]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.40:094][764]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_11
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.40:125][764]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.47:917][168]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.47:918][168]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_11
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.47:919][168]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.47:920][168]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_11
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.47:926][168]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.49:088][219]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_11
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.49:089][219]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.49:090][219]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.49:091][219]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_11
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.49:097][219]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.51:548][326]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.51:549][326]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_11
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.51:550][326]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.51:551][326]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_11
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.51:561][326]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.52:339][360]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.52:340][360]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_11
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.52:341][360]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.52:342][360]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_6:PersistentLevel.Item_C_11
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.15.52:350][360]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.16.08:234][257]LogEditorTransaction: Undo Set Scale
+[2018.01.16-12.16.08:264][257]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.16.08:346][257]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.16.08:501][267]LogEditorTransaction: Undo Set Scale
+[2018.01.16-12.16.08:503][267]LogScript: Warning: Accessed None trying to read property ItemMesh
+	Item_C /Engine/Transient.World_18:PersistentLevel.Item_C_18
+	Function /Game/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.Item_C:UserConstructionScript:023D
+[2018.01.16-12.16.08:843][286]LogEditorTransaction: Undo Set Scale
+[2018.01.16-12.16.09:236][309]LogEditorTransaction: Undo Set Scale
+[2018.01.16-12.16.09:614][331]LogEditorTransaction: Undo Remove Components
+[2018.01.16-12.16.50:841][132]LogSavePackage: Save=5220.79ms
+[2018.01.16-12.16.50:841][132]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareDA17E814480812C1D7041BB84BB00B6C.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.16-12.16.50:849][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.16-12.16.50:887][132]LogFileHelpers: Saving map 'Luis_Nightmare' took 5.604
+[2018.01.16-12.16.51:077][132]LogSavePackage: Save=136.84ms
+[2018.01.16-12.16.51:077][132]LogSavePackage: Moving '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Item6430F0F04F002606B7DC409976D67F03.tmp' to '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.uasset'
+[2018.01.16-12.16.51:082][132]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/ThirdPersonBP/THIRDPERSONFOLDERBP/Items/Item.uasset
+[2018.01.16-12.16.51:777][133]Cmd: QUIT_EDITOR
+[2018.01.16-12.16.52:802][133]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.16-12.16.52:854][133]LogExit: Preparing to exit.
+[2018.01.16-12.16.54:063][133]LogDirectoryWatcher: A directory notification for 'C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.16-12.16.54:247][133]LogExit: Editor shut down
+[2018.01.16-12.16.54:250][133]LogExit: Transaction tracking system shut down
+[2018.01.16-12.16.54:724][133]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.16-12.16.54:724][133]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.16-12.16.54:724][133]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.16-12.16.54:724][133]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.16-12.16.54:724][133]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.16-12.16.54:724][133]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.16-12.16.54:724][133]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.16-12.16.56:241][133]LogExit: Object subsystem successfully closed.
+[2018.01.16-12.16.56:512][133]LogD3D11RHI: Shutdown
+[2018.01.16-12.16.56:524][133]LogD3D11RHI: CleanupD3DDevice
+[2018.01.16-12.16.56:551][133]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.16-12.16.57:476][133]LogModuleManager: Shutting down and abandoning module MaterialEditor (560)
+[2018.01.16-12.16.57:476][133]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (558)
+[2018.01.16-12.16.57:476][133]LogModuleManager: Shutting down and abandoning module DataTableEditor (556)
+[2018.01.16-12.16.57:476][133]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (554)
+[2018.01.16-12.16.57:476][133]LogModuleManager: Shutting down and abandoning module BlueprintGraph (552)
+[2018.01.16-12.16.57:476][133]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (550)
+[2018.01.16-12.16.57:476][133]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.16-12.16.57:476][133]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.16-12.16.57:476][133]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.16-12.16.57:487][133]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.16-12.16.57:501][133]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.16-12.16.57:501][133]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.16-12.16.57:501][133]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.16-12.16.57:532][133]LogDirectoryWatcher: A directory notification for 'C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' was aborted.
+[2018.01.16-12.16.57:532][133]LogDirectoryWatcher: A directory notification for 'C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/Thomas/Collections/' was aborted.
+[2018.01.16-12.16.57:532][133]LogDirectoryWatcher: A directory notification for 'C:/Users/Thomas/Documents/GitHub/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' was aborted.
+[2018.01.16-12.16.57:532][133]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.16-12.16.57:591][133]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.16-12.16.57:596][133]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.16-12.16.57:626][133]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.16-12.16.57:636][133]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.16-12.16.57:636][133]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.16-12.16.57:636][133]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.16-12.16.57:636][133]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.16-12.16.57:636][133]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.16-12.16.57:636][133]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.16-12.16.57:636][133]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.16-12.16.57:636][133]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.16-12.16.57:647][133]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.16-12.16.57:688][133]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.16-12.16.57:688][133]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.16-12.16.57:816][133]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.16-12.16.57:830][133]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.16-12.16.57:852][133]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.16-12.16.57:852][133]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.16-12.16.57:852][133]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.16-12.16.57:852][133]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.16-12.16.57:852][133]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.16-12.16.57:908][133]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.16-12.16.57:987][133]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.16-12.16.58:026][133]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.16-12.16.58:077][133]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.16-12.16.58:113][133]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.16-12.16.58:113][133]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.16-12.16.58:113][133]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.16-12.16.58:113][133]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.16-12.16.58:655][133]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.16-12.16.58:655][133]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.16-12.16.58:655][133]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.16-12.16.58:655][133]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.16-12.16.58:670][133]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.16-12.16.58:682][133]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.16-12.16.58:682][133]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.16-12.16.58:698][133]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.16-12.16.58:698][133]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.16-12.16.58:709][133]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.16-12.16.58:719][133]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.16-12.16.58:719][133]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.16-12.16.58:719][133]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.16-12.16.58:719][133]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.16-12.16.58:727][133]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.16-12.16.58:727][133]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.16-12.16.58:727][133]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.16-12.16.58:728][133]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.16-12.16.58:728][133]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.16-12.16.58:753][133]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.16-12.16.58:768][133]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.16-12.16.58:784][133]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.16-12.16.58:789][133]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.16-12.16.58:800][133]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.16-12.16.58:855][133]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.16-12.16.58:867][133]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.16-12.16.58:906][133]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.16-12.16.58:944][133]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.16-12.16.58:944][133]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.16-12.16.58:978][133]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.16-12.16.58:978][133]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.16-12.16.59:020][133]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.16-12.16.59:020][133]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.16-12.16.59:020][133]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.16-12.16.59:065][133]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.16-12.16.59:065][133]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.16-12.16.59:065][133]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.16-12.16.59:079][133]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.16-12.16.59:137][133]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.16-12.16.59:159][133]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.16-12.16.59:167][133]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.16-12.16.59:167][133]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.16-12.16.59:167][133]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.16-12.16.59:167][133]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.16-12.16.59:167][133]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.16-12.16.59:167][133]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.16-12.16.59:167][133]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.16-12.16.59:167][133]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.16-12.16.59:167][133]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.16-12.16.59:167][133]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.16-12.16.59:175][133]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.16-12.16.59:175][133]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.16-12.16.59:185][133]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.16-12.16.59:185][133]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.16-12.16.59:373][133]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.16-12.16.59:398][133]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.16-12.16.59:398][133]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.16-12.16.59:398][133]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.16-12.16.59:414][133]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.16-12.16.59:424][133]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.16-12.16.59:424][133]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.16-12.16.59:424][133]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.16-12.16.59:428][133]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.16-12.16.59:429][133]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.16-12.16.59:429][133]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.16-12.16.59:429][133]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.16-12.16.59:506][133]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.16-12.16.59:506][133]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.16-12.16.59:506][133]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.16-12.16.59:507][133]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.16-12.16.59:513][133]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.16-12.16.59:513][133]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.16-12.16.59:523][133]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.16-12.16.59:523][133]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.16-12.16.59:523][133]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.16-12.16.59:603][133]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.16-12.16.59:623][133]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.16-12.16.59:623][133]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.16-12.16.59:623][133]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.16-12.16.59:623][133]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.16-12.16.59:631][133]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.16-12.16.59:660][133]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.16-12.16.59:675][133]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.16-12.16.59:716][133]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.16-12.16.59:716][133]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.16-12.16.59:716][133]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.16-12.16.59:716][133]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.16-12.16.59:740][133]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.16-12.16.59:757][133]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.16-12.16.59:763][133]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.16-12.16.59:769][133]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.16-12.16.59:770][133]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.16-12.16.59:804][133]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.16-12.16.59:805][133]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.16-12.16.59:805][133]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.16-12.16.59:805][133]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.16-12.16.59:805][133]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.16-12.16.59:805][133]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.16-12.16.59:805][133]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.16-12.16.59:819][133]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.16-12.16.59:929][133]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.16-12.17.00:044][133]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.16-12.17.00:093][133]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.16-12.17.00:093][133]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.16-12.17.00:093][133]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.16-12.17.00:110][133]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.16-12.17.00:110][133]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.16-12.17.00:111][133]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.16-12.17.00:111][133]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.16-12.17.00:111][133]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.16-12.17.00:120][133]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.16-12.17.00:137][133]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.16-12.17.00:137][133]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.16-12.17.00:137][133]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.16-12.17.00:137][133]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.16-12.17.00:167][133]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.16-12.17.00:167][133]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.16-12.17.00:173][133]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.16-12.17.00:173][133]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.16-12.17.00:173][133]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.16-12.17.00:220][133]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.16-12.17.00:225][133]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.16-12.17.00:225][133]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.16-12.17.00:312][133]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.16-12.17.00:319][133]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.16-12.17.00:355][133]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.16-12.17.00:355][133]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.16-12.17.00:364][133]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.16-12.17.00:423][133]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.16-12.17.00:478][133]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.16-12.17.00:478][133]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.16-12.17.00:592][133]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.16-12.17.00:592][133]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.16-12.17.00:602][133]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.16-12.17.00:602][133]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.16-12.17.00:602][133]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.16-12.17.00:602][133]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.16-12.17.00:602][133]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.16-12.17.00:602][133]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.16-12.17.00:603][133]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.16-12.17.00:609][133]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.16-12.17.00:611][133]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.16-12.17.00:612][133]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.16-12.17.00:639][133]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.16-12.17.00:650][133]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.16-12.17.00:650][133]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.16-12.17.00:658][133]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.16-12.17.00:658][133]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.16-12.17.00:665][133]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.16-12.17.00:673][133]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.16-12.17.00:744][133]LogDerivedDataCache: Shutdown
+[2018.01.16-12.17.00:744][133]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.16-12.17.00:744][133]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.16-12.17.00:751][133]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.16-12.17.00:764][133]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.16-12.17.00:773][133]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.16-12.17.00:776][133]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.16-12.17.00:802][133]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.16-12.17.00:802][133]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.16-12.17.00:802][133]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.16-12.17.00:802][133]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.16-12.17.00:804][133]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.16-12.17.00:805][133]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.16-12.17.00:805][133]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.16-12.17.00:805][133]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.16-12.17.00:805][133]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.16-12.17.00:805][133]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.16-12.17.00:805][133]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.16-12.17.00:805][133]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.16-12.17.00:805][133]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.16-12.17.00:805][133]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.16-12.17.00:806][133]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.16-12.17.00:807][133]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.16-12.17.00:807][133]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.16-12.17.00:807][133]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.16-12.17.00:807][133]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.16-12.17.00:807][133]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.16-12.17.00:807][133]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.16-12.17.00:807][133]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.16-12.17.00:807][133]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.16-12.17.00:807][133]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.16-12.17.00:809][133]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.16-12.17.00:809][133]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.16-12.17.00:809][133]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.16-12.17.00:809][133]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.16-12.17.00:821][133]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.16-12.17.00:821][133]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.16-12.17.00:821][133]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.16-12.17.00:821][133]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.16-12.17.00:822][133]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.16-12.17.00:849][133]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.16-12.17.00:904][133]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.16-12.17.00:904][133]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.16-12.17.00:908][133]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B49453456-44CE-F728-6881-4BA331CB83B9%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=aacfa00b4324e1988bb1adbe2fa72795%7C7d9b6e6661474238ab04e1bf48b772bf%7Cd2089de5-2636-419a-8ef1-ddf11f96f602&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.16-12.17.00:916][133]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.16-12.17.00:925][133]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.16-12.17.00:945][133]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.16-12.17.00:945][133]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.16-12.17.00:958][133]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.16-12.17.00:958][133]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.16-12.17.00:958][133]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.16-12.17.00:958][133]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.16-12.17.00:975][133]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.16-12.17.00:995][133]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.16-12.17.00:997][133]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.16-12.17.01:017][133]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.16-12.17.01:017][133]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.16-12.17.01:017][133]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.16-12.17.01:017][133]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.16-12.17.01:026][133]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.16-12.17.01:026][133]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.16-12.17.01:029][133]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.16-12.17.01:029][133]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.16-12.17.01:065][133]LogExit: Exiting.
+[2018.01.16-12.17.01:097][133]Log file closed, 01/16/18 12:17:01
