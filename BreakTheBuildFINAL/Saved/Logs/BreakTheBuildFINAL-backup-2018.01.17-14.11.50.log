@@ -1,0 +1,1494 @@
+﻿Log file open, 01/17/18 13:11:13
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: BreakTheBuildFINAL
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1814118438) SRandInit(-1814118438).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3794801, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 2.734398
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.18-CL-3794801
+LogInit: Engine Version: 4.18.2-3794801+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Dec  8 2017 02:04:53
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line:  
+LogInit: Base directory: D:/Program files (x86)/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.01.17-13.11.16:821][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.17-13.11.16:821][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.01.17-13.11.16:936][  0]LogInit: Computer: MSI
+[2018.01.17-13.11.16:936][  0]LogInit: User: PaopuKid
+[2018.01.17-13.11.16:936][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.01.17-13.11.16:936][  0]LogInit: High frequency timer resolution =2.742188 MHz
+[2018.01.17-13.11.16:936][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.01.17-13.11.16:936][  0]LogMemory: Platform Memory Stats for Windows
+[2018.01.17-13.11.16:936][  0]LogMemory: Process Physical Memory: 274.79 MB used, 274.79 MB peak
+[2018.01.17-13.11.16:936][  0]LogMemory: Process Virtual Memory: 269.70 MB used, 269.70 MB peak
+[2018.01.17-13.11.16:936][  0]LogMemory: Physical Memory: 4529.30 MB used,  3547.86 MB free, 8077.16 MB total
+[2018.01.17-13.11.16:936][  0]LogMemory: Virtual Memory: 682.84 MB used,  3547.86 MB free, 134217728.00 MB total
+[2018.01.17-13.11.17:840][  0]LogInit: Overriding language with editor language configuration option (en).
+[2018.01.17-13.11.17:840][  0]LogInit: Overriding locale with editor locale configuration option (en).
+[2018.01.17-13.11.18:652][  0]LogInit: Setting process to per monitor DPI aware
+[2018.01.17-13.11.19:810][  0]LogD3D11RHI: D3D11 adapters:
+[2018.01.17-13.11.19:852][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.01.17-13.11.19:853][  0]LogD3D11RHI:       3019/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.01.17-13.11.19:860][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.01.17-13.11.19:860][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.01.17-13.11.19:862][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.01.17-13.11.19:862][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.01.17-13.11.19:862][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.01.17-13.11.19:867][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.01.17-13.11.19:868][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.01.17-13.11.19:868][  0]LogWindows: EnumDisplayDevices:
+[2018.01.17-13.11.19:868][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.01.17-13.11.19:868][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.17-13.11.19:868][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.01.17-13.11.19:868][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.01.17-13.11.19:868][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.01.17-13.11.19:868][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.01.17-13.11.19:868][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.01.17-13.11.19:868][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.01.17-13.11.19:868][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.01.17-13.11.19:868][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.01.17-13.11.19:868][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.01.17-13.11.19:868][  0]LogRHI: Texture pool is 2113 MB (70% of 3019 MB)
+[2018.01.17-13.11.19:898][  0]LogD3D11RHI: Async texture creation enabled
+[2018.01.17-13.11.20:136][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2018.01.17-13.11.20:195][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Intermediate/Shaders/WorkingDirectory/14956/).
+[2018.01.17-13.11.20:195][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/PaopuKid/AppData/Local/Temp/UnrealShaderWorkingDir/6FE445404209F59EE0B1CBB14CC09A1B/'.
+[2018.01.17-13.11.20:203][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.01.17-13.11.23:180][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.01.17-13.11.23:224][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.01.17-13.11.23:263][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.01.17-13.11.23:303][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.01.17-13.11.23:358][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.01.17-13.11.23:399][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.01.17-13.11.23:439][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.01.17-13.11.23:481][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.01.17-13.11.23:515][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.01.17-13.11.23:554][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.01.17-13.11.23:595][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.01.17-13.11.23:635][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.01.17-13.11.23:675][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.01.17-13.11.23:715][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.01.17-13.11.23:795][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.01.17-13.11.23:795][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.01.17-13.11.23:858][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.01.17-13.11.23:888][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.01.17-13.11.24:053][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.01.17-13.11.24:079][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.01.17-13.11.24:120][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.01.17-13.11.24:160][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.01.17-13.11.24:202][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.01.17-13.11.24:247][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.01.17-13.11.24:247][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.01.17-13.11.25:278][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.01.17-13.11.25:613][  0]LogDerivedDataCache: Loaded boot cache 0.33s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.17-13.11.25:613][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.01.17-13.11.25:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.01.17-13.11.25:613][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.01.17-13.11.25:613][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.01.17-13.11.25:613][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.01.17-13.11.25:690][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.01.17-13.11.25:706][  0]LogDerivedDataCache: Using Local data cache path C:/Users/PaopuKid/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.01.17-13.11.25:775][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.01.17-13.11.25:807][  0]LogSlate: Using Freetype 2.6.0
+[2018.01.17-13.11.25:867][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.17-13.11.25:879][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.01.17-13.11.30:862][  0]LogInit: Selected Device Profile: [Windows]
+[2018.01.17-13.11.31:846][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.01.17-13.11.31:895][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.01.17-13.11.31:895][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.01.17-13.11.31:895][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.01.17-13.11.31:895][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.01.17-13.11.31:895][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.01.17-13.11.32:431][  0]LogNetVersion: BreakTheBuildFINAL , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 4088768677)
+[2018.01.17-13.11.33:375][  0]LogAssetRegistry: Error: Bad name index reading cache 0/0
+[2018.01.17-13.11.33:375][  0]LogAssetRegistry: Error: There was an error loading the asset registry cache. Generating a new one.
+[2018.01.17-13.11.33:375][  0]LogAssetRegistry: FAssetRegistry took 0.0369 seconds to start up
+[2018.01.17-13.11.38:195][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 1 prioritized culture(s) in 0.084446 seconds
+[2018.01.17-13.11.38:221][  0]LogUObjectArray: 35900 objects as part of root set at end of initial load.
+[2018.01.17-13.11.38:221][  0]LogUObjectAllocator: 7372024 out of 0 bytes used by permanent object pool.
+[2018.01.17-13.11.38:221][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.01.17-13.11.38:285][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.01.17-13.12.06:374][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.01.17-13.12.06:418][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.01.17-13.12.07:552][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.01.17-13.12.08:038][  0]SourceControl: Source control is disabled
+[2018.01.17-13.12.08:039][  0]SourceControl: Source control is disabled
+[2018.01.17-13.12.08:104][  0]SourceControl: Source control is disabled
+[2018.01.17-13.12.08:162][  0]SourceControl: Source control is disabled
+[2018.01.17-13.12.09:248][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.01.17-13.12.09:497][  0]LogOcInput: OculusInput pre-init called
+[2018.01.17-13.12.10:060][  0]LogEngine: Initializing Engine...
+[2018.01.17-13.12.10:125][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.01.17-13.12.10:420][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.01.17-13.12.10:421][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.01.17-13.12.10:752][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.01.17-13.12.10:876][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.17-13.12.10:984][  0]LogInit: FAudioDevice initialized.
+[2018.01.17-13.12.11:069][  0]LogDerivedDataCache: Saved boot cache 0.08s 78MB C:/Users/PaopuKid/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.01.17-13.12.11:079][  0]LogInit: Texture streaming: Enabled
+[2018.01.17-13.12.11:252][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.01.17-13.12.11:252][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=AbnormalShutdown, SessionId={2E776CBF-4F1F-46C6-DAEB-879AA0FF0707}
+[2018.01.17-13.12.11:456][  0]LogInit: Transaction tracking system initialized
+[2018.01.17-13.12.11:966][  0]BlueprintLog: New page: Editor Load
+[2018.01.17-13.12.13:875][  0]LocalizationService: Localization service is disabled
+[2018.01.17-13.12.14:879][  0]LogConsoleResponse: Display: 
+[2018.01.17-13.12.15:794][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.04s
+[2018.01.17-13.12.15:794][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.01.17-13.12.15:794][  0]LogCook: Display: Mobile HDR setting 1
+[2018.01.17-13.12.15:819][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.01.17-13.12.17:758][  0]SourceControl: Source control is disabled
+[2018.01.17-13.12.17:800][  0]Cmd: MAP LOAD FILE="../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.01.17-13.12.17:814][  0]LightingResults: New page: Lighting Build
+[2018.01.17-13.12.17:946][  0]MapCheck: New page: Map Check
+[2018.01.17-13.12.17:946][  0]LightingResults: New page: Lighting Build
+[2018.01.17-13.12.19:370][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.12.19:373][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.12.19:438][  0]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0075.21] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 145 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.01.17-13.12.20:288][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master'
+[2018.01.17-13.12.20:288][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset.
+[2018.01.17-13.12.20:288][  0]LoadErrors: Error: /Game/PabloPuzzle/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black : Can't find file for asset. /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master
+[2018.01.17-13.12.20:288][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master'
+[2018.01.17-13.12.20:288][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset.
+[2018.01.17-13.12.20:288][  0]LoadErrors: Error: /Game/PabloPuzzle/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black : Can't find file for asset. /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master
+[2018.01.17-13.12.20:845][  0]LogBlueprint: Warning: [Compiler door2] Get : 'StaticMeshComponent' variable not found. Base class was probably changed. /Game/PabloPuzzle/modular/wall/doorButton/door2.door2
+[2018.01.17-13.12.20:855][  0]LogBlueprint: Warning: [Compiler door2] [0076.63] Compile of door2 successful, but with 1 Warning(s) [in 11 ms] (/Game/PabloPuzzle/modular/wall/doorButton/door2.door2)
+[2018.01.17-13.12.21:403][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.17-13.12.21:403][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/Untitled_4.uasset.
+[2018.01.17-13.12.21:403][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/Untitled_4 : Can't find file for asset. /Game/textures/neon
+[2018.01.17-13.12.21:403][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.17-13.12.21:404][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/Untitled_4.uasset.
+[2018.01.17-13.12.21:404][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/Untitled_4 : Can't find file for asset. /Game/textures/neon
+[2018.01.17-13.12.21:439][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.17-13.12.21:440][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/birdy.uasset.
+[2018.01.17-13.12.21:440][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/birdy : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.17-13.12.21:440][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.17-13.12.21:440][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/birdy.uasset.
+[2018.01.17-13.12.21:440][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/birdy : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.17-13.12.21:557][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.17-13.12.21:557][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/moustacheDemon.uasset.
+[2018.01.17-13.12.21:557][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/moustacheDemon : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.17-13.12.21:557][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.17-13.12.21:558][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/fromVR/props/props/moustacheDemon.uasset.
+[2018.01.17-13.12.21:558][  0]LoadErrors: Error: /Game/PabloPuzzle/fromVR/props/props/moustacheDemon : Can't find file for asset. /Game/props/429ed64a4e97446684d3145a861ef684_Marker
+[2018.01.17-13.12.26:262][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.17-13.12.26:262][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/growingtray.uasset.
+[2018.01.17-13.12.26:262][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/growingtray : Can't find file for asset. /Game/modular/mobilier/GrowingTrayTexture1
+[2018.01.17-13.12.26:262][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.17-13.12.26:262][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/growingtray.uasset.
+[2018.01.17-13.12.26:262][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/growingtray : Can't find file for asset. /Game/modular/mobilier/GrowingTrayTexture1
+[2018.01.17-13.12.26:264][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.17-13.12.26:264][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/piedestale.uasset.
+[2018.01.17-13.12.26:264][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/piedestale : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_2
+[2018.01.17-13.12.26:264][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.17-13.12.26:264][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/piedestale.uasset.
+[2018.01.17-13.12.26:264][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/piedestale : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_2
+[2018.01.17-13.12.26:281][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.17-13.12.26:281][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/sculptureCherub.uasset.
+[2018.01.17-13.12.26:282][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/sculptureCherub : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_3
+[2018.01.17-13.12.26:282][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.17-13.12.26:282][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/mobilier/sculptureCherub.uasset.
+[2018.01.17-13.12.26:282][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/mobilier/sculptureCherub : Can't find file for asset. /Game/modular/mobilier/initialShadingGroup_3
+[2018.01.17-13.12.26:414][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.17-13.12.26:414][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/plants/plantFlower.uasset.
+[2018.01.17-13.12.26:414][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/plants/plantFlower : Can't find file for asset. /Game/modular/plants/plantFlowerTexture
+[2018.01.17-13.12.26:414][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.17-13.12.26:415][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/PabloPuzzle/modular/plants/plantFlower.uasset.
+[2018.01.17-13.12.26:415][  0]LoadErrors: Error: /Game/PabloPuzzle/modular/plants/plantFlower : Can't find file for asset. /Game/modular/plants/plantFlowerTexture
+[2018.01.17-13.12.27:480][  0]LogProperty: Warning: Serialized Class /Script/Engine.SoundCue for a property of Class /Script/Engine.SoundWave. Reference will be nullptred.
+    Property = SoftObjectProperty /Script/Engine.SoundNodeWavePlayer:SoundWaveAssetPtr
+    Item = SoundCue /Game/Sound/criquets.criquets
+[2018.01.17-13.12.28:669][  0]LogLinker: Warning: Can't find file '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master'
+[2018.01.17-13.12.28:669][  0]LoadErrors: Failed to load /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master Referenced by M_LightStage_Skybox_Black
+[2018.01.17-13.12.28:669][  0]LogLinker: Warning: Can't find file for asset '/Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master' while loading NULL.
+[2018.01.17-13.12.28:669][  0]LoadErrors: Failed to load /Game/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.M_LightStage_Skybox_Master Referenced by M_LightStage_Skybox_Black
+[2018.01.17-13.12.28:806][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.17-13.12.28:807][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.17-13.12.28:807][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.17-13.12.28:807][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.17-13.12.28:807][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.17-13.12.28:807][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.17-13.12.28:807][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.17-13.12.28:807][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by birdy
+[2018.01.17-13.12.28:820][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.17-13.12.28:821][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.17-13.12.28:821][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading NULL.
+[2018.01.17-13.12.28:821][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.17-13.12.28:821][  0]LogLinker: Warning: Can't find file '/Game/textures/neon'
+[2018.01.17-13.12.28:821][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.17-13.12.28:821][  0]LogLinker: Warning: Can't find file for asset '/Game/textures/neon' while loading NULL.
+[2018.01.17-13.12.28:821][  0]LoadErrors: Failed to load /Game/textures/neon.neon Referenced by Untitled_4
+[2018.01.17-13.12.29:421][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.17-13.12.29:422][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.17-13.12.29:422][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.17-13.12.29:422][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.17-13.12.29:422][  0]LogLinker: Warning: Can't find file '/Game/props/429ed64a4e97446684d3145a861ef684_Marker'
+[2018.01.17-13.12.29:422][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.17-13.12.29:422][  0]LogLinker: Warning: Can't find file for asset '/Game/props/429ed64a4e97446684d3145a861ef684_Marker' while loading NULL.
+[2018.01.17-13.12.29:422][  0]LoadErrors: Failed to load /Game/props/429ed64a4e97446684d3145a861ef684_Marker.429ed64a4e97446684d3145a861ef684_Marker Referenced by moustacheDemon
+[2018.01.17-13.12.30:261][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.17-13.12.30:261][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.17-13.12.30:262][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading NULL.
+[2018.01.17-13.12.30:262][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.17-13.12.30:262][  0]LogLinker: Warning: Can't find file '/Game/modular/plants/plantFlowerTexture'
+[2018.01.17-13.12.30:262][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.17-13.12.30:262][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/plants/plantFlowerTexture' while loading NULL.
+[2018.01.17-13.12.30:262][  0]LoadErrors: Failed to load /Game/modular/plants/plantFlowerTexture.plantFlowerTexture Referenced by plantFlower
+[2018.01.17-13.12.30:333][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.17-13.12.30:333][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.17-13.12.30:333][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading NULL.
+[2018.01.17-13.12.30:333][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.17-13.12.30:333][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_3'
+[2018.01.17-13.12.30:333][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.17-13.12.30:333][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_3' while loading NULL.
+[2018.01.17-13.12.30:333][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_3.initialShadingGroup_3 Referenced by sculptureCherub
+[2018.01.17-13.12.30:334][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.17-13.12.30:334][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.17-13.12.30:334][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading NULL.
+[2018.01.17-13.12.30:334][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.17-13.12.30:334][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/initialShadingGroup_2'
+[2018.01.17-13.12.30:334][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.17-13.12.30:334][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/initialShadingGroup_2' while loading NULL.
+[2018.01.17-13.12.30:334][  0]LoadErrors: Failed to load /Game/modular/mobilier/initialShadingGroup_2.initialShadingGroup_2 Referenced by piedestale
+[2018.01.17-13.12.30:334][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.17-13.12.30:334][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.17-13.12.30:334][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading NULL.
+[2018.01.17-13.12.30:334][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.17-13.12.30:335][  0]LogLinker: Warning: Can't find file '/Game/modular/mobilier/GrowingTrayTexture1'
+[2018.01.17-13.12.30:335][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.17-13.12.30:335][  0]LogLinker: Warning: Can't find file for asset '/Game/modular/mobilier/GrowingTrayTexture1' while loading NULL.
+[2018.01.17-13.12.30:335][  0]LoadErrors: Failed to load /Game/modular/mobilier/GrowingTrayTexture1.GrowingTrayTexture1 Referenced by growingtray
+[2018.01.17-13.12.34:284][  0]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.17-13.12.35:111][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem has invalid transform
+[2018.01.17-13.12.35:119][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/GabiAsset/Plants/GRASS_2.GRASS_2] ScaledElem[0] invalid
+[2018.01.17-13.12.35:735][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.01.17-13.12.36:122][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.01.17-13.12.36:246][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 114.085ms to complete.
+[2018.01.17-13.12.36:246][  0]LogFileHelpers: Loading map 'Luis_Nightmare' took 18.467
+[2018.01.17-13.12.38:182][  0]LogCollectionManager: Loaded 0 collections in 0.000870 seconds
+[2018.01.17-13.12.38:312][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' took 0.01s
+[2018.01.17-13.12.38:312][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/PaopuKid/Collections/' took 0.01s
+[2018.01.17-13.12.38:312][  0]LogFileCache: Scanning file cache for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' took 0.01s
+[2018.01.17-13.12.38:312][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.01.17-13.12.38:323][  0]LogContentBrowser: Native class hierarchy populated in 0.0096 seconds. Added 2363 classes and 519 folders.
+[2018.01.17-13.12.38:470][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.17-13.12.38:992][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.01.17-13.12.39:083][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.01.17-13.12.40:150][  0]LogSlate: Took 0.011227 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.17-13.12.40:174][  0]LogSlate: Took 0.010652 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.01.17-13.12.40:272][  0]LogSlate: Took 0.016329 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.01.17-13.12.40:821][  0]LogRenderer: Reallocating scene render targets to support 1208x584 Format 10 NumSamples 1 (Frame:1).
+[2018.01.17-13.12.41:737][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.01.17-13.12.41:737][  0]LogLoad: (Engine Initialization) Total time: 97.51 seconds
+[2018.01.17-13.12.41:737][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.01.17-13.12.41:748][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.01.17-13.12.42:209][  0]LoadErrors: Error: /Game/Sound/criquetCue : Failed import for SoundWave /Game/Sound/criquets.criquets Referenced by export SoundNodeWavePlayer /Game/Sound/criquetCue.criquetCue:SoundNodeWavePlayer_1
+[2018.01.17-13.12.42:547][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.01.17-13.12.42:871][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' took 0.61s
+[2018.01.17-13.12.43:037][  1]LogSlate: Took 0.015163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.17-13.12.43:146][  2]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.17-13.12.43:464][  2]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.01.17-13.12.46:111][  2]LogLinker: Warning: Can't resolve asset name
+[2018.01.17-13.12.46:353][  2]LogSlate: Took 0.016772 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.01.17-13.12.48:187][  3]LogSlate: Took 0.014242 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.01.17-13.12.54:818][ 23]LogAssetRegistry: Asset discovery search completed in 81.4654 seconds
+[2018.01.17-13.12.54:856][ 23]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.01.17-13.12.54:857][ 23]LogCollectionManager: Fixed up redirectors for 0 collections in 0.004671 seconds (updated 0 objects)
+[2018.01.17-13.14.13:350][290]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.17-13.14.13:675][290]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.14.13:678][290]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.14.14:400][290]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0190.18] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 1,050 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.01.17-13.14.44:753][ 44]LogSlate: Took 0.013890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.01.17-13.15.13:976][751]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.17-13.15.14:240][751]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.15.14:242][751]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.15.14:745][751]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0250.52] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 769 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.01.17-13.15.18:376][965]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.17-13.15.18:822][965]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.15.18:830][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-13.15.18:888][965]PIE: New page: PIE session: Luis_Nightmare (Jan 17, 2018, 1:15:18 PM)
+[2018.01.17-13.15.18:894][965]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.17-13.15.19:089][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.193991s)
+[2018.01.17-13.15.19:090][965]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.17-13.15.19:094][965]LogPlayLevel: PIE: World Init took: (0.005221s)
+[2018.01.17-13.15.19:099][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.205065s)
+[2018.01.17-13.15.19:177][965]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.17-13.15.19:230][965]LogInit: FAudioDevice initialized.
+[2018.01.17-13.15.19:364][965]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.17-13.15.19:424][965]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.17-13.15.19
+[2018.01.17-13.15.19:476][965]LogLinker: Warning: Can't find file '/Game/Portcullis/OpenCloseGateLevelSequence'
+[2018.01.17-13.15.19:476][965]LogLinker: Warning: Can't find file '/Game/Portcullis/OpenCloseGateLevelSequence'
+[2018.01.17-13.15.19:485][965]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Portcullis/OpenCloseGateLevelSequence.OpenCloseGateLevelSequence'
+[2018.01.17-13.15.19:602][965]LogWorld: Bringing up level for play took: 0.233975
+[2018.01.17-13.15.19:728][965]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.01.17-13.15.19:779][965]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:779][965]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:780][965]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:781][965]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:781][965]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:781][965]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:781][965]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:781][965]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:781][965]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:781][965]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:781][965]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:781][965]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:781][965]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.15.19:794][965]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 1.698
+[2018.01.17-13.15.19:795][965]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.15.22:193][ 63]LogBlueprintUserMessages: [FirstPersonCharacter_452] Click to select
+[2018.01.17-13.15.45:184][423]LogBlueprintUserMessages: [GameHUD_C_0] Hello
+[2018.01.17-13.16.12:170][ 23]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.16.12:362][ 23]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.16.26:155][791]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.17-13.16.26:378][791]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.16.26:381][791]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.16.26:827][791]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0322.60] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 672 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.01.17-13.16.33:596][187]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.17-13.16.33:679][187]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.16.33:680][187]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-13.16.33:680][187]PIE: New page: PIE session: Luis_Nightmare (Jan 17, 2018, 1:16:33 PM)
+[2018.01.17-13.16.33:680][187]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.17-13.16.33:838][187]LogPlayLevel: PIE: StaticDuplicateObject took: (0.158080s)
+[2018.01.17-13.16.33:839][187]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.17-13.16.33:839][187]LogPlayLevel: PIE: World Init took: (0.000904s)
+[2018.01.17-13.16.33:841][187]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.160771s)
+[2018.01.17-13.16.33:872][187]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.17-13.16.33:923][187]LogInit: FAudioDevice initialized.
+[2018.01.17-13.16.33:994][187]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.17-13.16.34:040][187]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.17-13.16.34
+[2018.01.17-13.16.34:046][187]LogWorld: Bringing up level for play took: 0.051656
+[2018.01.17-13.16.34:050][187]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:050][187]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:050][187]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:050][187]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:050][187]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:050][187]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:051][187]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:052][187]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:052][187]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:052][187]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:052][187]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.16.34:056][187]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.041
+[2018.01.17-13.16.34:057][187]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.16.35:859][289]LogBlueprintUserMessages: [FirstPersonCharacter_452] Click to select
+[2018.01.17-13.16.55:000][433]LogBlueprintUserMessages: [GameHUD_C_1] Hello
+[2018.01.17-13.17.05:885][ 86]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.17.05:944][ 86]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.17.44:039][264]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.17-13.17.44:267][264]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.17.44:270][264]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.17.44:714][264]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0400.49] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 674 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.01.17-13.17.46:588][368]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.17-13.17.46:669][368]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.17.46:669][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-13.17.46:670][368]PIE: New page: PIE session: Luis_Nightmare (Jan 17, 2018, 1:17:46 PM)
+[2018.01.17-13.17.46:670][368]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.17-13.17.46:826][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.155781s)
+[2018.01.17-13.17.46:827][368]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.17-13.17.46:827][368]LogPlayLevel: PIE: World Init took: (0.001240s)
+[2018.01.17-13.17.46:829][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.158886s)
+[2018.01.17-13.17.46:860][368]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.17-13.17.46:911][368]LogInit: FAudioDevice initialized.
+[2018.01.17-13.17.46:946][368]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.17-13.17.46:992][368]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.17-13.17.46
+[2018.01.17-13.17.46:998][368]LogWorld: Bringing up level for play took: 0.050974
+[2018.01.17-13.17.47:002][368]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:002][368]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:002][368]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:002][368]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:002][368]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:002][368]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:002][368]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:003][368]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:004][368]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:004][368]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:004][368]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:004][368]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.17.47:007][368]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.911
+[2018.01.17-13.17.47:008][368]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.17.48:791][469]LogBlueprintUserMessages: [FirstPersonCharacter_452] Click to select
+[2018.01.17-13.18.06:257][517]LogBlueprintUserMessages: [GameHUD_C_2] Hello
+[2018.01.17-13.18.13:542][954]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.18.13:605][954]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.18.36:154][268]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.17-13.18.36:389][268]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.18.36:391][268]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.18.36:837][268]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0452.61] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 683 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.01.17-13.18.40:235][467]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.17-13.18.40:318][467]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.18.40:318][467]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-13.18.40:318][467]PIE: New page: PIE session: Luis_Nightmare (Jan 17, 2018, 1:18:40 PM)
+[2018.01.17-13.18.40:318][467]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.17-13.18.40:476][467]LogPlayLevel: PIE: StaticDuplicateObject took: (0.157306s)
+[2018.01.17-13.18.40:477][467]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.17-13.18.40:477][467]LogPlayLevel: PIE: World Init took: (0.001303s)
+[2018.01.17-13.18.40:478][467]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.159889s)
+[2018.01.17-13.18.40:508][467]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.17-13.18.40:561][467]LogInit: FAudioDevice initialized.
+[2018.01.17-13.18.40:593][467]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.17-13.18.40:640][467]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.17-13.18.40
+[2018.01.17-13.18.40:646][467]LogWorld: Bringing up level for play took: 0.051991
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:651][467]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:652][467]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.18.40:656][467]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 0.56
+[2018.01.17-13.18.40:657][467]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.18.42:325][563]LogBlueprintUserMessages: [FirstPersonCharacter_452] Click to select
+[2018.01.17-13.19.00:260][622]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:261][622]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:262][622]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:262][622]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:263][622]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:277][623]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:293][624]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:310][625]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:327][626]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:344][627]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:360][628]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:377][629]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:394][630]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:410][631]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:426][632]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:443][633]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:460][634]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:476][635]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:494][636]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:510][637]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:527][638]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:544][639]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:560][640]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:577][641]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:593][642]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:610][643]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:627][644]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:644][645]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:660][646]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:676][647]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:693][648]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:710][649]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:726][650]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:743][651]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:760][652]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:776][653]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:793][654]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:810][655]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:826][656]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:844][657]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:860][658]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:877][659]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:894][660]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:910][661]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:927][662]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:944][663]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:960][664]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:977][665]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.00:993][666]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:010][667]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:027][668]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:044][669]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:060][670]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:077][671]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:093][672]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:110][673]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:127][674]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:144][675]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:160][676]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:177][677]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:194][678]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:210][679]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:226][680]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:243][681]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:260][682]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:277][683]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:293][684]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:310][685]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:327][686]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:344][687]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:360][688]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:377][689]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:393][690]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:410][691]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:427][692]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:444][693]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:460][694]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:477][695]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:494][696]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:510][697]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:527][698]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:543][699]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:560][700]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:577][701]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:594][702]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:610][703]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:627][704]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:644][705]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:660][706]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:676][707]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:693][708]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:710][709]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:726][710]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:744][711]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:760][712]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:777][713]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:793][714]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:810][715]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:826][716]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:844][717]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:860][718]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:877][719]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:893][720]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:910][721]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:927][722]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:944][723]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:960][724]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:976][725]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.01:993][726]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:010][727]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:026][728]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:043][729]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:060][730]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:076][731]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:093][732]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:110][733]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:127][734]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:143][735]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:160][736]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:177][737]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:193][738]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:210][739]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:226][740]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:243][741]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:260][742]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:277][743]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:294][744]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:310][745]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:327][746]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:344][747]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:360][748]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:377][749]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:393][750]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:410][751]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:427][752]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:444][753]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:460][754]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:476][755]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:494][756]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:510][757]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:527][758]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:544][759]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:560][760]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:577][761]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:593][762]LogBlueprintUserMessages: [FirstPersonCharacter_452] restarting
+[2018.01.17-13.19.02:651][762]LogBlueprintUserMessages: [GameHUD_C_3] Hello
+[2018.01.17-13.19.02:662][763]LogNet: Browse: /Game/Maps/Luis_Nightmare
+[2018.01.17-13.19.02:664][763]LogLoad: LoadMap: /Game/Maps/Luis_Nightmare
+[2018.01.17-13.19.02:777][763]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.17-13.19.02:932][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.154584s)
+[2018.01.17-13.19.02:932][763]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.17-13.19.02:933][763]LogPlayLevel: PIE: World Init took: (0.001328s)
+[2018.01.17-13.19.02:934][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.157496s)
+[2018.01.17-13.19.02:935][763]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.17-13.19.02:984][763]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.17-13.19.02
+[2018.01.17-13.19.02:990][763]LogWorld: Bringing up level for play took: 0.054064
+[2018.01.17-13.19.02:990][763]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.17-13.19.02:994][763]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:994][763]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:994][763]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:995][763]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:996][763]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:996][763]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:996][763]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.02:996][763]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.19.03:009][763]LogLoad: Took 0.345170 seconds to LoadMap(/Game/Maps/UEDPIE_0_Luis_Nightmare)
+[2018.01.17-13.19.05:369][902]LogBlueprintUserMessages: [FirstPersonCharacter_452] Click to select
+[2018.01.17-13.19.12:188][311]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.19.12:254][311]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.20.51:202][881]LogSavePackage: Save=577.26ms
+[2018.01.17-13.20.51:202][881]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/FirstPersonCharacter9AECCBC444B2224EEA245EA302D86D4B.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.01.17-13.20.51:230][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.01.17-13.20.53:992][881]LogSlate: Took 0.041499 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.01.17-13.20.56:082][881]LogSavePackage: Save=4401.29ms
+[2018.01.17-13.20.56:082][881]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare1A025DF1499117FF2571B3BBC6F71104.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-13.20.56:090][881]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-13.20.56:145][881]LogFileHelpers: Saving map 'Luis_Nightmare' took 4.911
+[2018.01.17-13.20.59:463][ 52]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.17-13.20.59:490][ 52]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.20.59:490][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-13.20.59:490][ 52]PIE: New page: PIE session: Luis_Nightmare (Jan 17, 2018, 1:20:59 PM)
+[2018.01.17-13.20.59:490][ 52]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.17-13.20.59:655][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.164384s)
+[2018.01.17-13.20.59:655][ 52]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.17-13.20.59:655][ 52]LogPlayLevel: PIE: World Init took: (0.000823s)
+[2018.01.17-13.20.59:657][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.167043s)
+[2018.01.17-13.20.59:689][ 52]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.17-13.20.59:740][ 52]LogInit: FAudioDevice initialized.
+[2018.01.17-13.20.59:777][ 52]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.17-13.20.59:826][ 52]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.17-13.20.59
+[2018.01.17-13.20.59:832][ 52]LogWorld: Bringing up level for play took: 0.054272
+[2018.01.17-13.20.59:837][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:837][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:837][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:837][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:837][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:837][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:838][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:839][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:839][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:839][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:839][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:839][ 52]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.20.59:842][ 52]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare -0.254
+[2018.01.17-13.20.59:843][ 52]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.21.01:285][134]LogBlueprintUserMessages: [FirstPersonCharacter_452] Click to select
+[2018.01.17-13.21.20:753][302]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:769][303]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:786][304]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:803][305]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:819][306]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:836][307]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:853][308]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:870][309]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:886][310]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:903][311]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:919][312]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:937][313]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:953][314]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:970][315]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.20:986][316]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:003][317]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:019][318]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:036][319]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:053][320]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:069][321]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:086][322]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:103][323]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:119][324]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:136][325]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:153][326]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:170][327]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:186][328]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:204][329]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:220][330]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:236][331]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:253][332]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:269][333]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:286][334]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:303][335]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:320][336]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:336][337]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:353][338]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:370][339]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:387][340]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:403][341]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:419][342]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:436][343]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:453][344]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:469][345]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:486][346]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:503][347]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:520][348]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:536][349]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:554][350]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:570][351]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:586][352]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:603][353]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:619][354]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:636][355]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:653][356]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:669][357]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:686][358]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:703][359]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:720][360]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:736][361]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:753][362]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:769][363]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:786][364]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:803][365]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:820][366]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:836][367]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:853][368]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:869][369]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:886][370]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:903][371]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:919][372]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:936][373]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:953][374]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:969][375]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.21:986][376]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:003][377]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:019][378]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:036][379]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:053][380]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:069][381]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:086][382]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:103][383]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:120][384]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:137][385]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:153][386]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:169][387]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:186][388]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:203][389]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:220][390]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:236][391]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:253][392]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:269][393]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:286][394]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:303][395]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:320][396]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:336][397]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:353][398]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:369][399]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:386][400]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:403][401]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:420][402]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:436][403]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:453][404]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:469][405]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:486][406]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:503][407]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:519][408]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:536][409]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:553][410]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:570][411]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:586][412]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:603][413]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:619][414]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:636][415]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:653][416]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:670][417]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:686][418]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:703][419]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:719][420]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:736][421]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:753][422]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:769][423]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:787][424]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:803][425]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:820][426]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:853][428]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.22:903][431]LogBlueprintUserMessages: [GameHUD_C_5] Hello
+[2018.01.17-13.21.25:319][576]LogBlueprintUserMessages: [FirstPersonCharacter_452] restarting
+[2018.01.17-13.21.25:336][577]LogNet: Browse: /Game/Maps/Luis_Nightmare
+[2018.01.17-13.21.25:337][577]LogLoad: LoadMap: /Game/Maps/Luis_Nightmare
+[2018.01.17-13.21.25:405][577]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.17-13.21.25:564][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.159162s)
+[2018.01.17-13.21.25:565][577]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.17-13.21.25:565][577]LogPlayLevel: PIE: World Init took: (0.000934s)
+[2018.01.17-13.21.25:567][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.161908s)
+[2018.01.17-13.21.25:567][577]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.17-13.21.25:613][577]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.17-13.21.25
+[2018.01.17-13.21.25:619][577]LogWorld: Bringing up level for play took: 0.051204
+[2018.01.17-13.21.25:619][577]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.17-13.21.25:623][577]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:623][577]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:623][577]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:624][577]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:625][577]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:625][577]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:625][577]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:625][577]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.25:629][577]LogLoad: Took 0.292119 seconds to LoadMap(/Game/Maps/UEDPIE_0_Luis_Nightmare)
+[2018.01.17-13.21.31:783][945]LogBlueprintUserMessages: [FirstPersonCharacter_452] Click to select
+[2018.01.17-13.21.49:056][980]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:073][981]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:089][982]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:106][983]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:123][984]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:139][985]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:157][986]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:173][987]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:189][988]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:206][989]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:223][990]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:239][991]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:256][992]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:273][993]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:289][994]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:306][995]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:323][996]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:339][997]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:357][998]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.49:373][999]LogBlueprintUserMessages: [GameHUD_C_6] Hello
+[2018.01.17-13.21.51:223][110]LogBlueprintUserMessages: [FirstPersonCharacter_452] restarting
+[2018.01.17-13.21.51:240][111]LogNet: Browse: /Game/Maps/Luis_Nightmare
+[2018.01.17-13.21.51:240][111]LogLoad: LoadMap: /Game/Maps/Luis_Nightmare
+[2018.01.17-13.21.51:303][111]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.17-13.21.51:464][111]LogPlayLevel: PIE: StaticDuplicateObject took: (0.160370s)
+[2018.01.17-13.21.51:464][111]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.17-13.21.51:465][111]LogPlayLevel: PIE: World Init took: (0.000918s)
+[2018.01.17-13.21.51:466][111]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.162971s)
+[2018.01.17-13.21.51:466][111]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.17-13.21.51:515][111]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 60) at 2018.01.17-13.21.51
+[2018.01.17-13.21.51:520][111]LogWorld: Bringing up level for play took: 0.053319
+[2018.01.17-13.21.51:521][111]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:525][111]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:526][111]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:526][111]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:526][111]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:526][111]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:526][111]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:526][111]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:526][111]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:526][111]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:526][111]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:526][111]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-13.21.51:529][111]LogLoad: Took 0.289639 seconds to LoadMap(/Game/Maps/UEDPIE_0_Luis_Nightmare)
+[2018.01.17-13.21.53:458][226]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.21.53:517][226]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-13.22.14:742][431]BlueprintLog: New page: Compile FirstPersonCharacter
+[2018.01.17-13.22.14:993][431]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.22.14:995][431]LogBlueprint: Warning: [Compiler FirstPersonCharacter] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2018.01.17-13.22.15:503][431]LogBlueprint: Warning: [Compiler FirstPersonCharacter] [0671.28] Compile of FirstPersonCharacter successful, but with 2 Warning(s) [in 761 ms] (/Game/FirstPersonBP/Blueprints/FirstPersonCharacter.FirstPersonCharacter)
+[2018.01.17-13.22.22:176][721]LogSavePackage: Save=501.74ms
+[2018.01.17-13.22.22:176][721]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/FirstPersonCharacter4AADB1A24EF1CC9FCBCBF69022D77634.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset'
+[2018.01.17-13.22.22:180][721]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/FirstPersonBP/Blueprints/FirstPersonCharacter.uasset
+[2018.01.17-13.22.26:553][721]LogSavePackage: Save=4261.27ms
+[2018.01.17-13.22.26:553][721]LogSavePackage: Moving '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare1C0DE78948C6201E1A1752AF85F67F3B.tmp' to '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-13.22.26:559][721]LogSavePackage: Display: Finished SavePackage ../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-13.22.26:593][721]LogFileHelpers: Saving map 'Luis_Nightmare' took 4.409
+[2018.01.17-13.22.36:250][260]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.17-13.22.36:792][261]Cmd: QUIT_EDITOR
+[2018.01.17-13.22.37:557][261]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.17-13.22.37:727][261]LogExit: Preparing to exit.
+[2018.01.17-13.22.39:377][261]LogDirectoryWatcher: A directory notification for 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.17-13.22.39:703][261]LogExit: Editor shut down
+[2018.01.17-13.22.39:706][261]LogExit: Transaction tracking system shut down
+[2018.01.17-13.22.40:199][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.17-13.22.40:199][261]LogDirectoryWatcher: A directory notification for '../../../../../../Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.17-13.22.40:199][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.17-13.22.40:199][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.17-13.22.40:199][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.17-13.22.40:199][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.17-13.22.40:199][261]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.17-13.22.40:995][261]LogExit: Object subsystem successfully closed.
+[2018.01.17-13.22.41:182][261]LogD3D11RHI: Shutdown
+[2018.01.17-13.22.41:186][261]LogD3D11RHI: CleanupD3DDevice
+[2018.01.17-13.22.41:199][261]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.17-13.22.41:732][261]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.01.17-13.22.41:732][261]LogModuleManager: Shutting down and abandoning module SequencerWidgets (552)
+[2018.01.17-13.22.41:732][261]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.01.17-13.22.41:732][261]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.17-13.22.41:732][261]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.17-13.22.41:735][261]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.17-13.22.41:741][261]LogDirectoryWatcher: A directory notification for 'D:/Program files (x86)/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.17-13.22.41:742][261]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.17-13.22.41:742][261]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.17-13.22.41:742][261]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.17-13.22.41:750][261]LogDirectoryWatcher: A directory notification for 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' was aborted.
+[2018.01.17-13.22.41:750][261]LogDirectoryWatcher: A directory notification for 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/PaopuKid/Collections/' was aborted.
+[2018.01.17-13.22.41:750][261]LogDirectoryWatcher: A directory notification for 'D:/Documentos/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' was aborted.
+[2018.01.17-13.22.41:750][261]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.17-13.22.41:754][261]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.17-13.22.41:764][261]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.17-13.22.41:788][261]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.17-13.22.41:791][261]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.17-13.22.41:792][261]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.17-13.22.41:792][261]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.17-13.22.41:792][261]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.17-13.22.41:792][261]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.17-13.22.41:792][261]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.17-13.22.41:792][261]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.17-13.22.41:792][261]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.17-13.22.41:801][261]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.17-13.22.41:811][261]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.17-13.22.41:822][261]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.17-13.22.41:844][261]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.17-13.22.41:850][261]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.17-13.22.41:850][261]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.17-13.22.41:850][261]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.17-13.22.41:850][261]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.17-13.22.41:850][261]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.17-13.22.41:850][261]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.17-13.22.41:867][261]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.17-13.22.41:878][261]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.17-13.22.41:891][261]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.17-13.22.41:910][261]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.17-13.22.41:927][261]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.17-13.22.41:927][261]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.17-13.22.41:927][261]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.17-13.22.41:927][261]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.17-13.22.42:628][261]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.17-13.22.42:628][261]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.17-13.22.42:628][261]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.17-13.22.42:628][261]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.17-13.22.42:692][261]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.17-13.22.42:701][261]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.17-13.22.42:701][261]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.17-13.22.42:718][261]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.17-13.22.42:718][261]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.17-13.22.42:726][261]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.17-13.22.42:731][261]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.17-13.22.42:731][261]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.17-13.22.42:731][261]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.17-13.22.42:731][261]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.17-13.22.42:735][261]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.17-13.22.42:735][261]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.17-13.22.42:735][261]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.17-13.22.42:735][261]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.17-13.22.42:735][261]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.17-13.22.42:736][261]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.17-13.22.42:763][261]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.17-13.22.42:777][261]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.17-13.22.42:787][261]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.17-13.22.42:801][261]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.17-13.22.42:855][261]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.17-13.22.42:865][261]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.17-13.22.42:875][261]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.17-13.22.42:887][261]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.17-13.22.42:887][261]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.17-13.22.42:894][261]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.17-13.22.42:894][261]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.17-13.22.42:909][261]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.17-13.22.42:909][261]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.17-13.22.42:909][261]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.17-13.22.42:930][261]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.17-13.22.42:930][261]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.17-13.22.42:930][261]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.17-13.22.42:935][261]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.17-13.22.42:956][261]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.17-13.22.42:964][261]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.17-13.22.42:970][261]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.17-13.22.42:970][261]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.17-13.22.42:970][261]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.17-13.22.42:970][261]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.17-13.22.42:970][261]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.17-13.22.42:970][261]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.17-13.22.42:970][261]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.17-13.22.42:970][261]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.17-13.22.42:970][261]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.17-13.22.42:970][261]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.17-13.22.42:981][261]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.17-13.22.42:981][261]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.17-13.22.42:986][261]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.17-13.22.42:986][261]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.17-13.22.43:060][261]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.17-13.22.43:066][261]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.17-13.22.43:066][261]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.17-13.22.43:066][261]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.17-13.22.43:075][261]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.17-13.22.43:086][261]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.17-13.22.43:086][261]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.17-13.22.43:086][261]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.17-13.22.43:090][261]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.17-13.22.43:090][261]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.17-13.22.43:090][261]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.17-13.22.43:090][261]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.17-13.22.43:109][261]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.17-13.22.43:110][261]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.17-13.22.43:110][261]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.17-13.22.43:110][261]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.17-13.22.43:121][261]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.17-13.22.43:121][261]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.17-13.22.43:132][261]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.17-13.22.43:132][261]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.17-13.22.43:132][261]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.17-13.22.43:159][261]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.17-13.22.43:173][261]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.17-13.22.43:173][261]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.17-13.22.43:173][261]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.17-13.22.43:173][261]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.17-13.22.43:178][261]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.17-13.22.43:183][261]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.17-13.22.43:192][261]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.17-13.22.43:199][261]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.17-13.22.43:199][261]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.17-13.22.43:199][261]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.17-13.22.43:199][261]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.17-13.22.43:208][261]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.17-13.22.43:218][261]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.17-13.22.43:223][261]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.17-13.22.43:232][261]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.17-13.22.43:232][261]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.17-13.22.43:236][261]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.17-13.22.43:236][261]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.17-13.22.43:236][261]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.17-13.22.43:236][261]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.17-13.22.43:236][261]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.17-13.22.43:236][261]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.17-13.22.43:236][261]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.17-13.22.43:245][261]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.17-13.22.43:355][261]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.17-13.22.43:456][261]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.17-13.22.43:465][261]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.17-13.22.43:465][261]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.17-13.22.43:465][261]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.17-13.22.43:469][261]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.17-13.22.43:469][261]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.17-13.22.43:469][261]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.17-13.22.43:469][261]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.17-13.22.43:469][261]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.17-13.22.43:475][261]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.17-13.22.43:492][261]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.17-13.22.43:492][261]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.17-13.22.43:492][261]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.17-13.22.43:492][261]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.17-13.22.43:512][261]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.17-13.22.43:512][261]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.17-13.22.43:518][261]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.17-13.22.43:518][261]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.17-13.22.43:518][261]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.17-13.22.43:534][261]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.17-13.22.43:544][261]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.17-13.22.43:544][261]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.17-13.22.43:565][261]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.17-13.22.43:569][261]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.17-13.22.43:580][261]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.17-13.22.43:580][261]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.17-13.22.43:587][261]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.17-13.22.43:587][261]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.17-13.22.43:587][261]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.17-13.22.43:587][261]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.17-13.22.43:619][261]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.17-13.22.43:619][261]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.17-13.22.43:627][261]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.17-13.22.43:627][261]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.17-13.22.43:627][261]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.17-13.22.43:627][261]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.17-13.22.43:627][261]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.17-13.22.43:627][261]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.17-13.22.43:627][261]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.17-13.22.43:638][261]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.17-13.22.43:638][261]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.17-13.22.43:638][261]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.17-13.22.43:656][261]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.17-13.22.43:662][261]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.17-13.22.43:662][261]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.17-13.22.43:672][261]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.17-13.22.43:672][261]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.17-13.22.43:678][261]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.17-13.22.43:683][261]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.17-13.22.43:768][261]LogDerivedDataCache: Shutdown
+[2018.01.17-13.22.43:768][261]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.17-13.22.43:768][261]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.17-13.22.43:772][261]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.17-13.22.43:778][261]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.17-13.22.43:788][261]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.17-13.22.43:797][261]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.17-13.22.43:802][261]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.17-13.22.43:802][261]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.17-13.22.43:802][261]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.17-13.22.43:809][261]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.17-13.22.43:810][261]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.17-13.22.43:810][261]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.17-13.22.43:810][261]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.17-13.22.43:810][261]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.17-13.22.43:819][261]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.17-13.22.43:829][261]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.17-13.22.43:829][261]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.17-13.22.43:829][261]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.17-13.22.43:829][261]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.17-13.22.43:829][261]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.17-13.22.43:849][261]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.17-13.22.43:885][261]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.17-13.22.43:886][261]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.17-13.22.43:893][261]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BD3EB1806-4BA2-44AA-E08B-C5913C0A2C16%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=2fceb56d4a40ac257792998ca3b4fe96%7C494f2aed8aaa4653abca0652b0f5a05a%7Ce83211ac-8b44-4076-abaa-ade8133f85a6&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.17-13.22.43:910][261]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.17-13.22.43:921][261]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.17-13.22.43:928][261]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.17-13.22.43:928][261]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.17-13.22.43:937][261]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.17-13.22.43:944][261]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.17-13.22.43:944][261]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.17-13.22.43:944][261]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.17-13.22.43:951][261]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.17-13.22.43:968][261]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.17-13.22.43:968][261]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.17-13.22.43:984][261]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.17-13.22.43:984][261]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.17-13.22.43:984][261]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.17-13.22.43:984][261]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.17-13.22.43:988][261]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.17-13.22.43:988][261]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.17-13.22.43:990][261]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.17-13.22.43:990][261]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.17-13.22.44:004][261]LogExit: Exiting.
+[2018.01.17-13.22.44:019][261]Log file closed, 01/17/18 13:22:44
