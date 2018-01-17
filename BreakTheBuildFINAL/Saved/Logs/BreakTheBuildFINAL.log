@@ -1326,3 +1326,915 @@ LogInit: Object subsystem initialized
 [2018.01.17-15.15.18:510][607]LogSavePackage: Save=6140.26ms
 [2018.01.17-15.15.18:510][607]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare3FDB66FD4FCF94D8DDD575B6D7175172.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2018.01.17-15.15.18:522][607]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-15.21.25:490][822]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.21.26:527][839]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.21.26:930][840]Cmd: TRANSACTION UNDO
+[2018.01.17-15.21.26:930][840]LogEditorTransaction: Undo Create Actors
+[2018.01.17-15.21.29:591][874]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleDoor_C (BP_PuzzleDoor4)
+[2018.01.17-15.21.31:531][903]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.21.32:614][923]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.21.33:951][937]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.21.34:934][956]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.21.43:230][ 88]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-15.21.44:862][116]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-15.21.50:340][204]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-15.21.53:057][252]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-15.22.51:258][ 64]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert209)
+[2018.01.17-15.22.59:427][195]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-15.23.01:349][230]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-15.23.05:385][293]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-15.23.08:190][345]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-15.23.10:152][384]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.23.28:929][843]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.23.30:620][891]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.23.31:797][913]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.23.32:792][941]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.23.34:952][993]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.23.36:112][ 26]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.23.40:000][125]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.23.41:535][168]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.23.42:529][184]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-15.23.43:666][216]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-15.23.47:215][297]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.17-15.23.48:139][323]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.17-15.23.49:459][350]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-15.23.50:692][385]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-15.23.55:018][494]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.23.58:244][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_257)
+[2018.01.17-15.24.01:650][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_258)
+[2018.01.17-15.25.09:608][ 50]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-15.25.10:847][ 75]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-15.25.11:278][ 79]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.25.15:658][185]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.25.19:345][238]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.25.29:647][378]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.17-15.25.30:695][393]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.17-15.25.55:685][586]Cmd: TRANSACTION UNDO
+[2018.01.17-15.25.55:686][586]LogEditorTransaction: Undo Rotate Actors
+[2018.01.17-15.26.13:461][807]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-15.26.14:894][824]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-15.26.29:439][ 78]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group69)
+[2018.01.17-15.26.41:626][259]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.17-15.26.43:857][292]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.17-15.26.55:521][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_2b24)
+[2018.01.17-15.27.01:108][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group71)
+[2018.01.17-15.27.02:037][534]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group69)
+[2018.01.17-15.27.02:893][542]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group71)
+[2018.01.17-15.27.09:334][663]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.27.10:492][696]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.27.32:783][988]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.27.33:757][ 14]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.27.34:430][ 23]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.17-15.27.35:498][ 49]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.17-15.27.41:105][159]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-15.27.42:957][194]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-15.28.43:031][880]LogSavePackage: Save=6778.15ms
+[2018.01.17-15.28.43:031][880]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare_Auto14F3399FC4FF1970408A5D9815EB2F259.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap'
+[2018.01.17-15.28.43:036][880]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Autosaves/Game/Maps/Luis_Nightmare_Auto1.umap
+[2018.01.17-15.28.43:040][880]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/Luis_Nightmare' took 6.852
+[2018.01.17-15.28.43:040][880]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 6.852
+[2018.01.17-15.29.12:473][233]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.29.15:449][276]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyRed_116.Cube' 
+[2018.01.17-15.29.15:449][276]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyRed_116.Cube' 
+[2018.01.17-15.29.16:383][290]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyRed_116.Cube' 
+[2018.01.17-15.29.16:384][290]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.KeyRed_116.Cube' 
+[2018.01.17-15.29.22:435][392]Cmd: TRANSACTION UNDO
+[2018.01.17-15.29.22:436][392]LogEditorTransaction: Undo Scale Actors
+[2018.01.17-15.29.35:064][596]Cmd: DELETE
+[2018.01.17-15.29.35:064][596]Cmd: ACTOR DELETE
+[2018.01.17-15.29.35:202][596]LogEditorActor: Deleted Actor: KeyRed_C
+[2018.01.17-15.29.35:233][596]LogEditorActor: Deleted 1 Actors (0.169 secs)
+[2018.01.17-15.29.42:289][773]Cmd: DELETE
+[2018.01.17-15.29.42:289][773]Cmd: ACTOR DELETE
+[2018.01.17-15.29.42:382][773]LogEditorActor: Deleted Actor: KeyBlue_C
+[2018.01.17-15.29.42:405][773]LogEditorActor: Deleted 1 Actors (0.116 secs)
+[2018.01.17-15.29.50:452][934]LogActorFactory: Actor Factory created house_lo
+[2018.01.17-15.29.51:184][950]LogActorFactory: Actor Factory created house_lo
+[2018.01.17-15.29.52:617][984]Cmd: DELETE
+[2018.01.17-15.29.52:617][984]Cmd: ACTOR DELETE
+[2018.01.17-15.29.52:723][984]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-15.29.52:746][984]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2018.01.17-15.31.19:451][578]LogActorFactory: Actor Factory created Pumpkin4
+[2018.01.17-15.31.20:125][606]LogActorFactory: Actor Factory created Pumpkin4
+[2018.01.17-15.32.05:523][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pumpkin4)
+[2018.01.17-15.32.05:831][561]Cmd: EDIT COPY
+[2018.01.17-15.32.06:118][574]Cmd: EDIT PASTE
+[2018.01.17-15.32.25:759][386]Cmd: DELETE
+[2018.01.17-15.32.25:759][386]Cmd: ACTOR DELETE
+[2018.01.17-15.32.25:856][386]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-15.32.25:890][386]LogEditorActor: Deleted 1 Actors (0.130 secs)
+[2018.01.17-15.32.30:316][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane49)
+[2018.01.17-15.32.31:451][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pumpkin4)
+[2018.01.17-15.32.32:231][665]Cmd: EDIT COPY
+[2018.01.17-15.32.32:494][676]Cmd: EDIT PASTE
+[2018.01.17-15.33.13:871][445]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening490)
+[2018.01.17-15.34.05:600][525]LogActorFactory: Actor Factory created Hedge_Wall
+[2018.01.17-15.34.10:577][702]LogActorFactory: Actor Factory created Hedge_Wall
+[2018.01.17-15.34.11:339][728]Cmd: TRANSACTION UNDO
+[2018.01.17-15.34.11:339][728]LogEditorTransaction: Undo Create Actors
+[2018.01.17-15.34.12:696][770]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleDoor_C (BP_PuzzleDoor3)
+[2018.01.17-15.34.13:299][790]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening490)
+[2018.01.17-15.34.14:556][835]Cmd: DELETE
+[2018.01.17-15.34.14:556][835]Cmd: ACTOR DELETE
+[2018.01.17-15.34.14:652][835]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-15.34.14:697][835]LogEditorActor: Deleted 1 Actors (0.141 secs)
+[2018.01.17-15.34.18:203][958]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane74)
+[2018.01.17-15.34.19:836][ 14]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert152)
+[2018.01.17-15.34.23:685][150]Cmd: DELETE
+[2018.01.17-15.34.23:685][150]Cmd: ACTOR DELETE
+[2018.01.17-15.34.23:787][150]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-15.34.23:821][150]LogEditorActor: Deleted 1 Actors (0.136 secs)
+[2018.01.17-15.34.27:881][291]LogActorFactory: Actor Factory created mazeHedge_wideShortCornert
+[2018.01.17-15.34.31:576][426]LogActorFactory: Actor Factory created mazeHedge_wideShortCornert
+[2018.01.17-15.34.41:819][856]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.34.49:638][679]Cmd: TRANSACTION UNDO
+[2018.01.17-15.34.49:638][679]LogEditorTransaction: Undo Marquee Select
+[2018.01.17-15.35.13:138][413]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.35.26:084][736]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening491)
+[2018.01.17-15.35.41:912][308]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleDoor_C (BP_PuzzleDoor3)
+[2018.01.17-15.36.02:886][ 27]LogActorFactory: Actor Factory created Hedge_Wall
+[2018.01.17-15.36.06:918][160]LogActorFactory: Actor Factory created Hedge_Wall
+[2018.01.17-15.36.11:911][366]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.36.36:954][874]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall)
+[2018.01.17-15.36.48:172][245]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert151)
+[2018.01.17-15.36.49:096][276]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane36)
+[2018.01.17-15.36.49:735][296]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall)
+[2018.01.17-15.36.56:414][548]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.37.04:960][846]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane74)
+[2018.01.17-15.37.22:401][229]Cmd: TRANSACTION UNDO
+[2018.01.17-15.37.22:401][229]LogEditorTransaction: Undo Create Actors
+[2018.01.17-15.37.41:695][602]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert)
+[2018.01.17-15.37.43:879][633]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening491)
+[2018.01.17-15.37.45:293][650]Cmd: EDIT COPY
+[2018.01.17-15.37.54:579][780]LogActorFactory: Actor Factory created Hedge_Wall
+[2018.01.17-15.37.59:018][844]LogActorFactory: Actor Factory created Hedge_Wall
+[2018.01.17-15.38.08:683][516]Cmd: DELETE
+[2018.01.17-15.38.08:683][516]Cmd: ACTOR DELETE
+[2018.01.17-15.38.08:741][516]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-15.38.08:765][516]LogEditorActor: Deleted 1 Actors (0.083 secs)
+[2018.01.17-15.38.21:762][874]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.38.23:678][932]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-15.38.34:910][242]Cmd: TRANSACTION UNDO
+[2018.01.17-15.38.34:910][242]LogEditorTransaction: Undo Scale Actors
+[2018.01.17-15.38.47:579][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert)
+[2018.01.17-15.38.51:605][687]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.38.52:758][718]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.39.24:118][384]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_2a41)
+[2018.01.17-15.39.29:527][440]Cmd: EDIT COPY
+[2018.01.17-15.39.29:797][443]Cmd: EDIT PASTE
+[2018.01.17-15.39.33:350][544]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.39.44:058][532]Cmd: TRANSACTION UNDO
+[2018.01.17-15.39.44:058][532]LogEditorTransaction: Undo Move Actors
+[2018.01.17-15.39.57:026][582]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.40.00:588][691]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_2b25)
+[2018.01.17-15.40.02:787][762]Cmd: DELETE
+[2018.01.17-15.40.02:787][762]Cmd: ACTOR DELETE
+[2018.01.17-15.40.02:889][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-15.40.02:891][762]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-15.40.02:926][762]LogEditorActor: Deleted 2 Actors (0.139 secs)
+[2018.01.17-15.40.13:079][ 78]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-15.40.15:188][147]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-15.40.15:528][156]Cmd: TRANSACTION UNDO
+[2018.01.17-15.40.15:528][156]LogEditorTransaction: Undo Create Actors
+[2018.01.17-15.40.19:973][283]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.40.20:915][319]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.40.28:396][607]Cmd: EDIT COPY
+[2018.01.17-15.40.28:671][618]Cmd: EDIT PASTE
+[2018.01.17-15.40.34:561][850]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall)
+[2018.01.17-15.40.36:978][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert151)
+[2018.01.17-15.40.45:217][154]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.40.47:168][208]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.41.11:665][752]LogSavePackage: Save=5598.97ms
+[2018.01.17-15.41.11:665][752]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare13330CA947683346B6427E8FC9E2D89D.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-15.41.11:676][752]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-15.42.46:726][580]LogSavePackage: Save=5032.71ms
+[2018.01.17-15.42.46:726][580]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareB49C8B2749D1F86C113F9ABA66EFCA0B.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-15.42.46:733][580]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-15.45.46:703][354]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane60)
+[2018.01.17-15.45.47:190][367]LogEditorViewport: Clicking on Actor (LMB): Item2GnomeThomas_C (Item2GnomeThomas)
+[2018.01.17-15.45.47:532][375]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.45.49:072][429]Cmd: DELETE
+[2018.01.17-15.45.49:072][429]Cmd: ACTOR DELETE
+[2018.01.17-15.45.49:184][429]LogEditorActor: Deleted Actor: Item2GnomeThomas_C
+[2018.01.17-15.45.49:226][429]LogEditorActor: Deleted 1 Actors (0.153 secs)
+[2018.01.17-15.45.52:771][559]LogEditorViewport: Clicking on Actor (LMB): GabyGnome_C (GabyGnome)
+[2018.01.17-15.45.53:550][585]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.45.55:537][665]LogEditorViewport: Clicking on Actor (LMB): GabyGnome_C (GabyGnome)
+[2018.01.17-15.45.56:231][692]Cmd: DELETE
+[2018.01.17-15.45.56:231][692]Cmd: ACTOR DELETE
+[2018.01.17-15.45.56:323][692]LogEditorActor: Deleted Actor: GabyGnome_C
+[2018.01.17-15.45.56:355][692]LogEditorActor: Deleted 1 Actors (0.123 secs)
+[2018.01.17-15.45.57:395][729]LogEditorViewport: Clicking on Actor (LMB): Item5GnomeGabyGnome_C (Item5GnomeGabyGnome)
+[2018.01.17-15.46.39:828][206]LogEditorViewport: Clicking on Actor (LMB): Item5GnomeGabyGnome_C (Item5GnomeGabyGnome)
+[2018.01.17-15.47.09:591][626]Cmd: TRANSACTION UNDO
+[2018.01.17-15.47.09:591][626]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.17-15.47.10:989][680]LogEditorViewport: Clicking on Actor (LMB): Item5GnomeGabyGnome_C (Item5GnomeGabyGnome)
+[2018.01.17-15.47.16:308][922]Cmd: TRANSACTION UNDO
+[2018.01.17-15.47.16:308][922]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.17-15.47.16:795][942]Cmd: TRANSACTION UNDO
+[2018.01.17-15.47.16:795][942]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.17-15.47.17:303][965]Cmd: TRANSACTION UNDO
+[2018.01.17-15.47.17:303][965]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.17-15.47.17:823][988]Cmd: TRANSACTION UNDO
+[2018.01.17-15.47.17:823][988]LogEditorTransaction: Undo Rename Actor
+[2018.01.17-15.47.18:964][ 41]Cmd: TRANSACTION UNDO
+[2018.01.17-15.47.18:964][ 41]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.17-15.47.19:393][ 60]Cmd: TRANSACTION UNDO
+[2018.01.17-15.47.19:393][ 60]LogEditorTransaction: Undo Set Scale
+[2018.01.17-15.47.23:416][242]LogEditorViewport: Clicking on Actor (LMB): Item5GnomeGabyGnome_C (Item5GnomeGabyGnome)
+[2018.01.17-15.47.38:662][ 14]LogEditorViewport: Clicking on Actor (LMB): TobyGnome_C (TobyGnome2)
+[2018.01.17-15.47.41:002][218]LogEditorViewport: Clicking on Actor (LMB): Item3GnomeToby_C (Item3GnomeToby)
+[2018.01.17-15.47.49:859][  8]LogEditorViewport: Clicking on Actor (LMB): TobyGnome_C (TobyGnome2)
+[2018.01.17-15.47.50:755][ 84]LogEditorViewport: Clicking on Actor (LMB): Item3GnomeToby_C (Item3GnomeToby)
+[2018.01.17-15.47.51:499][146]LogEditorViewport: Clicking on Actor (LMB): TobyGnome_C (TobyGnome2)
+[2018.01.17-15.47.52:108][197]Cmd: DELETE
+[2018.01.17-15.47.52:108][197]Cmd: ACTOR DELETE
+[2018.01.17-15.47.52:173][197]LogEditorActor: Deleted Actor: TobyGnome_C
+[2018.01.17-15.47.52:199][197]LogEditorActor: Deleted 1 Actors (0.092 secs)
+[2018.01.17-15.47.52:685][229]LogEditorViewport: Clicking on Actor (LMB): Item3GnomeToby_C (Item3GnomeToby)
+[2018.01.17-15.47.59:177][713]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.48.08:903][621]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.48.15:042][894]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_162)
+[2018.01.17-15.48.21:288][328]LogEditorViewport: Clicking on Actor (LMB): Item3GnomeToby_C (Item3GnomeToby)
+[2018.01.17-15.48.26:039][760]Cmd: TRANSACTION UNDO
+[2018.01.17-15.48.26:039][760]LogEditorTransaction: Undo Move Actors
+[2018.01.17-15.48.27:543][860]LogEditorViewport: Clicking on Actor (LMB): Item3GnomeToby_C (Item3GnomeToby)
+[2018.01.17-15.48.38:643][818]LogEditorViewport: Clicking on Actor (LMB): PabloGnome_C (PabloGnome)
+[2018.01.17-15.48.41:083][ 84]Cmd: DELETE
+[2018.01.17-15.48.41:083][ 84]Cmd: ACTOR DELETE
+[2018.01.17-15.48.41:147][ 84]LogEditorActor: Deleted Actor: PabloGnome_C
+[2018.01.17-15.48.41:171][ 84]LogEditorActor: Deleted 1 Actors (0.088 secs)
+[2018.01.17-15.48.46:423][689]LogEditorViewport: Clicking on Actor (LMB): Item1GnomaPablo_C (Item1GnomaPablo)
+[2018.01.17-15.50.37:563][966]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (plantFlower29)
+[2018.01.17-15.50.57:224][544]LogEditorViewport: Clicking on Actor (LMB): Item1GnomaPablo_C (Item1GnomaPablo)
+[2018.01.17-15.51.09:290][137]LogEditorViewport: Clicking on Actor (LMB): BP_pavillion_C (BP_pavillion)
+[2018.01.17-15.51.14:512][288]Cmd: TRANSACTION UNDO
+[2018.01.17-15.51.14:512][288]LogEditorTransaction: Undo Move Actors
+[2018.01.17-15.51.15:153][297]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane61)
+[2018.01.17-15.51.23:212][580]Cmd: TRANSACTION UNDO
+[2018.01.17-15.51.23:212][580]LogEditorTransaction: Undo Move Actors
+[2018.01.17-15.51.24:070][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane66)
+[2018.01.17-15.51.57:922][818]LogSavePackage: Save=5206.93ms
+[2018.01.17-15.51.57:922][818]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare56E11EFD496B8E1C426DCE812848E6A3.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-15.51.57:929][818]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-15.53.10:581][223]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.53.11:632][239]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.53.16:102][304]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.53.17:140][321]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.53.20:785][396]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane50)
+[2018.01.17-15.53.21:934][440]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pumpkin5)
+[2018.01.17-15.53.46:103][513]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-15.54.01:794][ 52]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.54.03:370][115]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.54.04:652][167]Cmd: TRANSACTION UNDO
+[2018.01.17-15.54.04:652][167]LogEditorTransaction: Undo Scale Actors
+[2018.01.17-15.54.06:731][249]Cmd: TRANSACTION UNDO
+[2018.01.17-15.54.06:731][249]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-15.54.07:448][279]Cmd: TRANSACTION UNDO
+[2018.01.17-15.54.07:448][279]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-15.54.10:327][406]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS272)
+[2018.01.17-15.54.10:807][424]Cmd: DELETE
+[2018.01.17-15.54.10:807][424]Cmd: ACTOR DELETE
+[2018.01.17-15.54.10:876][424]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-15.54.10:901][424]LogEditorActor: Deleted 1 Actors (0.094 secs)
+[2018.01.17-15.54.12:054][465]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.54.14:193][561]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-15.54.19:007][743]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-15.54.20:490][804]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-15.55.36:641][973]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-15.55.37:787][ 20]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-15.55.47:524][423]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane49)
+[2018.01.17-15.59.11:350][872]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-15.59.12:948][911]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-15.59.27:390][344]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pumpkin4)
+[2018.01.17-15.59.28:531][387]Cmd: EDIT COPY
+[2018.01.17-15.59.28:764][395]Cmd: EDIT PASTE
+[2018.01.17-16.00.05:405][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS270)
+[2018.01.17-16.00.06:801][402]Cmd: DELETE
+[2018.01.17-16.00.06:801][402]Cmd: ACTOR DELETE
+[2018.01.17-16.00.06:901][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.00.06:903][402]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.00.06:941][402]LogEditorActor: Deleted 2 Actors (0.139 secs)
+[2018.01.17-16.00.16:215][648]LogActorFactory: Actor Factory created Rock_Group_5
+[2018.01.17-16.00.17:529][669]LogActorFactory: Actor Factory created Rock_Group_5
+[2018.01.17-16.00.18:062][671]Cmd: TRANSACTION UNDO
+[2018.01.17-16.00.18:062][671]LogEditorTransaction: Undo Create Actors
+[2018.01.17-16.00.20:113][692]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.17-16.00.22:227][727]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.17-16.00.23:304][737]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.00.36:131][ 94]Cmd: EDIT COPY
+[2018.01.17-16.00.36:424][ 97]Cmd: EDIT PASTE
+[2018.01.17-16.00.46:170][251]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert164)
+[2018.01.17-16.00.51:356][398]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group_25)
+[2018.01.17-16.00.53:524][473]Cmd: DELETE
+[2018.01.17-16.00.53:524][473]Cmd: ACTOR DELETE
+[2018.01.17-16.00.53:663][473]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.00.53:714][473]LogEditorActor: Deleted 1 Actors (0.190 secs)
+[2018.01.17-16.00.56:261][559]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.17-16.00.57:667][620]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.17-16.01.07:301][887]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert164)
+[2018.01.17-16.01.09:199][908]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-16.01.11:239][937]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-16.01.12:192][947]Cmd: DELETE
+[2018.01.17-16.01.12:192][947]Cmd: ACTOR DELETE
+[2018.01.17-16.01.12:357][947]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.01.12:415][947]LogEditorActor: Deleted 1 Actors (0.223 secs)
+[2018.01.17-16.01.12:936][952]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Pumpkin5)
+[2018.01.17-16.01.14:115][966]Cmd: EDIT COPY
+[2018.01.17-16.01.14:307][969]Cmd: EDIT PASTE
+[2018.01.17-16.01.46:661][913]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group_25)
+[2018.01.17-16.02.12:170][ 16]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.02.13:243][ 66]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.02.27:524][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert151)
+[2018.01.17-16.02.27:719][587]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.02.30:751][704]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group72)
+[2018.01.17-16.02.33:888][832]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2018.01.17-16.02.43:825][ 69]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.02.47:642][117]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_2a35)
+[2018.01.17-16.02.48:827][133]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.03.10:486][883]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.17-16.03.12:017][938]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.17-16.03.14:925][ 42]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-16.03.16:287][ 88]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-16.03.24:454][419]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall68)
+[2018.01.17-16.03.29:965][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane33)
+[2018.01.17-16.03.36:272][865]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.03.37:313][903]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.03.39:358][978]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert167)
+[2018.01.17-16.03.59:139][525]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT137)
+[2018.01.17-16.04.00:554][572]Cmd: EDIT COPY
+[2018.01.17-16.04.00:787][581]Cmd: EDIT PASTE
+[2018.01.17-16.04.03:196][661]Cmd: EDIT COPY
+[2018.01.17-16.04.03:403][669]Cmd: EDIT PASTE
+[2018.01.17-16.04.10:915][938]Cmd: EDIT COPY
+[2018.01.17-16.04.11:158][945]Cmd: EDIT PASTE
+[2018.01.17-16.04.13:394][  6]Cmd: TRANSACTION UNDO
+[2018.01.17-16.04.13:395][  6]LogEditorTransaction: Undo Move Actors
+[2018.01.17-16.04.15:711][ 82]Cmd: EDIT COPY
+[2018.01.17-16.04.15:981][ 90]Cmd: EDIT PASTE
+[2018.01.17-16.04.21:478][277]Cmd: EDIT COPY
+[2018.01.17-16.04.21:695][284]Cmd: EDIT PASTE
+[2018.01.17-16.04.28:017][476]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.04.30:523][736]Cmd: TRANSACTION UNDO
+[2018.01.17-16.04.30:523][736]LogEditorTransaction: Undo Marquee Select
+[2018.01.17-16.04.33:064][980]Cmd: EDIT COPY
+[2018.01.17-16.04.33:292][  3]Cmd: EDIT PASTE
+[2018.01.17-16.04.36:243][301]LogEditorViewport: Clicking Background
+[2018.01.17-16.04.36:917][380]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT144)
+[2018.01.17-16.04.39:471][645]Cmd: EDIT COPY
+[2018.01.17-16.04.39:672][666]Cmd: EDIT PASTE
+[2018.01.17-16.04.50:007][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT149)
+[2018.01.17-16.04.51:648][345]Cmd: DELETE
+[2018.01.17-16.04.51:648][345]Cmd: ACTOR DELETE
+[2018.01.17-16.04.51:747][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.04.51:749][345]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.04.51:782][345]LogEditorActor: Deleted 2 Actors (0.133 secs)
+[2018.01.17-16.04.54:871][462]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT152)
+[2018.01.17-16.04.55:554][486]Cmd: DELETE
+[2018.01.17-16.04.55:554][486]Cmd: ACTOR DELETE
+[2018.01.17-16.04.55:651][486]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.04.55:683][486]LogEditorActor: Deleted 1 Actors (0.129 secs)
+[2018.01.17-16.05.00:095][665]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT153)
+[2018.01.17-16.05.03:747][810]Cmd: TRANSACTION UNDO
+[2018.01.17-16.05.03:747][810]LogEditorTransaction: Undo Scale Actors
+[2018.01.17-16.05.04:342][829]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT153)
+[2018.01.17-16.05.07:033][937]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT145)
+[2018.01.17-16.05.09:249][ 26]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT148)
+[2018.01.17-16.05.11:278][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert158)
+[2018.01.17-16.05.12:023][134]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT151)
+[2018.01.17-16.05.21:407][489]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.17-16.05.22:423][527]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.17-16.05.25:333][627]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.17-16.05.26:308][667]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.17-16.05.45:270][384]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.17-16.05.46:435][428]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.17-16.05.51:395][607]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane66)
+[2018.01.17-16.05.59:696][907]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.17-16.06.00:634][939]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.17-16.06.02:413][  6]Cmd: TRANSACTION UNDO
+[2018.01.17-16.06.02:413][  6]LogEditorTransaction: Undo Create Actors
+[2018.01.17-16.06.11:731][333]Cmd: EDIT COPY
+[2018.01.17-16.06.12:144][347]Cmd: EDIT PASTE
+[2018.01.17-16.06.25:409][802]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane55)
+[2018.01.17-16.06.56:745][765]LogEditorViewport: Clicking on Actor (LMB): BP_pavillion_C (BP_pavillion)
+[2018.01.17-16.06.57:072][767]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.07.19:365][475]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-16.07.21:400][562]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-16.07.22:287][590]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.07.23:235][630]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.07.29:136][866]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.07.30:286][916]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.07.34:614][ 70]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-16.07.36:026][119]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-16.07.53:170][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane71)
+[2018.01.17-16.08.10:655][419]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-16.08.12:616][489]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-16.08.15:252][576]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.08.20:100][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall153)
+[2018.01.17-16.08.20:734][792]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Lamp52)
+[2018.01.17-16.08.29:534][ 98]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-16.08.31:753][135]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-16.08.39:186][398]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-16.08.40:699][449]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-16.09.01:961][ 34]LogSavePackage: Save=5643.12ms
+[2018.01.17-16.09.01:962][ 34]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare37EB0A3246ADAE602EC6F093889B81A1.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-16.09.01:968][ 34]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-16.09.05:420][159]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-16.09.06:818][213]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-16.09.14:185][489]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane40)
+[2018.01.17-16.09.47:657][397]LogSavePackage: Save=5472.65ms
+[2018.01.17-16.09.47:657][397]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare53E259D448D4C088CB9DA7892A58DD35.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-16.09.47:663][397]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-16.09.51:490][488]Cmd: TRANSACTION UNDO
+[2018.01.17-16.09.51:490][488]LogEditorTransaction: Undo Move Actors
+[2018.01.17-16.09.52:500][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert145)
+[2018.01.17-16.09.52:820][518]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.10.01:286][793]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert146)
+[2018.01.17-16.10.01:707][802]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.10.04:406][885]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.17-16.10.05:283][913]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.17-16.10.09:032][ 60]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.10.50:646][550]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.17-16.10.52:352][652]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.17-16.10.58:807][ 33]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-16.11.00:488][133]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-16.11.02:670][242]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.11.06:195][377]Cmd: DELETE
+[2018.01.17-16.11.06:195][377]Cmd: ACTOR DELETE
+[2018.01.17-16.11.06:274][377]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.11.06:318][377]LogEditorActor: Deleted 1 Actors (0.124 secs)
+[2018.01.17-16.11.13:346][633]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.11.14:357][675]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.11.21:322][912]Cmd: TRANSACTION UNDO
+[2018.01.17-16.11.21:322][912]LogEditorTransaction: Undo Create Actors
+[2018.01.17-16.12.02:674][568]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.17-16.12.03:750][632]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.17-16.12.09:587][977]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.17-16.12.11:080][ 66]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.17-16.12.19:852][574]Cmd: TRANSACTION UNDO
+[2018.01.17-16.12.19:852][574]LogEditorTransaction: Undo Marquee Select
+[2018.01.17-16.12.24:604][849]Cmd: TRANSACTION UNDO
+[2018.01.17-16.12.24:604][849]LogEditorTransaction: Undo Marquee Select
+[2018.01.17-16.12.29:233][116]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.12.30:226][175]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.12.32:567][312]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plants_+_Mushrooms8)
+[2018.01.17-16.12.36:972][569]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.12.38:032][632]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.12.41:449][829]Cmd: TRANSACTION UNDO
+[2018.01.17-16.12.41:449][829]LogEditorTransaction: Undo Move Actors
+[2018.01.17-16.12.41:948][841]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.12.42:499][871]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.12.42:953][893]Cmd: TRANSACTION UNDO
+[2018.01.17-16.12.42:953][893]LogEditorTransaction: Undo Create Actors
+[2018.01.17-16.12.43:464][916]Cmd: TRANSACTION UNDO
+[2018.01.17-16.12.43:464][916]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-16.12.44:176][954]Cmd: TRANSACTION UNDO
+[2018.01.17-16.12.44:176][954]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-16.12.44:594][975]Cmd: TRANSACTION UNDO
+[2018.01.17-16.12.44:594][975]LogEditorTransaction: Undo Create Actors
+[2018.01.17-16.12.46:962][109]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.12.48:622][208]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.12.53:449][429]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert154)
+[2018.01.17-16.12.55:650][513]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert143)
+[2018.01.17-16.12.56:702][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert143)
+[2018.01.17-16.12.57:145][569]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert143)
+[2018.01.17-16.12.57:418][578]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert143)
+[2018.01.17-16.13.01:851][776]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plants_+_Mushrooms8)
+[2018.01.17-16.13.02:588][817]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plants_+_Mushrooms8)
+[2018.01.17-16.13.08:497][ 97]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.13.12:042][307]Cmd: DELETE
+[2018.01.17-16.13.12:042][307]Cmd: ACTOR DELETE
+[2018.01.17-16.13.12:100][307]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.13.12:125][307]LogEditorActor: Deleted 1 Actors (0.082 secs)
+[2018.01.17-16.13.36:289][505]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane40)
+[2018.01.17-16.13.37:361][524]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.13.48:267][810]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.17-16.13.49:494][851]LogActorFactory: Actor Factory created Plants_+_Mushrooms
+[2018.01.17-16.14.11:316][989]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert154)
+[2018.01.17-16.14.20:408][275]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.14.22:538][348]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.14.24:879][425]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.14.26:605][490]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.14.28:857][571]Cmd: TRANSACTION UNDO
+[2018.01.17-16.14.28:857][571]LogEditorTransaction: Undo Create Actors
+[2018.01.17-16.14.29:752][587]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.14.33:710][724]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.14.34:307][744]Cmd: DELETE
+[2018.01.17-16.14.34:307][744]Cmd: ACTOR DELETE
+[2018.01.17-16.14.34:418][744]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.14.34:455][744]LogEditorActor: Deleted 1 Actors (0.147 secs)
+[2018.01.17-16.14.44:842][120]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.14.46:586][186]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.14.47:266][204]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.14.48:485][249]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.14.49:662][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert154)
+[2018.01.17-16.14.58:047][383]LogSavePackage: Save=5337.02ms
+[2018.01.17-16.14.58:048][383]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare4DC3AC9341DD4E076885ECB09213701A.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-16.14.58:054][383]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-16.15.44:312][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall)
+[2018.01.17-16.15.46:871][ 86]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert)
+[2018.01.17-16.15.58:639][444]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane49)
+[2018.01.17-16.15.59:657][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane48)
+[2018.01.17-16.16.00:367][496]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert159)
+[2018.01.17-16.16.01:505][531]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert160)
+[2018.01.17-16.16.03:613][599]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane50)
+[2018.01.17-16.16.04:661][631]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane48)
+[2018.01.17-16.16.05:907][670]Cmd: EDIT COPY
+[2018.01.17-16.16.06:085][676]Cmd: EDIT PASTE
+[2018.01.17-16.16.17:953][ 25]Cmd: DELETE
+[2018.01.17-16.16.17:953][ 25]Cmd: ACTOR DELETE
+[2018.01.17-16.16.18:076][ 25]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.16.18:119][ 25]LogEditorActor: Deleted 1 Actors (0.166 secs)
+[2018.01.17-16.16.38:449][612]LogRenderer: Reallocating scene render targets to support 1016x632 Format 10 NumSamples 1 (Frame:174602).
+[2018.01.17-16.16.38:547][613]LogRenderer: Reallocating scene render targets to support 1016x648 Format 10 NumSamples 1 (Frame:174604).
+[2018.01.17-16.16.38:656][614]LogRenderer: Reallocating scene render targets to support 1016x656 Format 10 NumSamples 1 (Frame:174606).
+[2018.01.17-16.16.38:758][615]LogRenderer: Reallocating scene render targets to support 1016x660 Format 10 NumSamples 1 (Frame:174608).
+[2018.01.17-16.16.38:943][617]LogRenderer: Reallocating scene render targets to support 1016x664 Format 10 NumSamples 1 (Frame:174612).
+[2018.01.17-16.16.39:040][618]LogRenderer: Reallocating scene render targets to support 1016x668 Format 10 NumSamples 1 (Frame:174614).
+[2018.01.17-16.16.50:022][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall76)
+[2018.01.17-16.16.51:089][906]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.16.59:981][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT34)
+[2018.01.17-16.17.01:899][ 69]Cmd: EDIT COPY
+[2018.01.17-16.17.02:024][ 71]Cmd: EDIT PASTE
+[2018.01.17-16.17.11:896][222]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group20)
+[2018.01.17-16.17.19:443][329]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-16.17.20:935][354]LogActorFactory: Actor Factory created Mushroom_1
+[2018.01.17-16.17.25:221][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.17.34:028][698]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-16.17.35:602][753]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-16.17.50:343][292]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-16.17.51:911][345]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-16.18.37:786][885]LogRenderer: Reallocating scene render targets to support 1016x684 Format 10 NumSamples 1 (Frame:178034).
+[2018.01.17-16.19.27:064][714]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_254)
+[2018.01.17-16.19.43:666][142]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.19.44:570][172]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.20.02:187][773]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.20.03:373][817]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.20.10:756][ 67]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.20.14:482][191]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.20.32:228][773]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane51)
+[2018.01.17-16.20.45:968][982]LogSavePackage: Save=5608.71ms
+[2018.01.17-16.20.45:968][982]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare604C6C414A460DC1C450F09076B64C91.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-16.20.45:975][982]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-16.21.17:006][741]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane49)
+[2018.01.17-16.21.19:285][787]LogEditorViewport: Clicking on Actor (LMB): BP_pavillion_C (BP_pavillion)
+[2018.01.17-16.21.26:066][919]LogEditorViewport: Clicking on Actor (LMB): Item5GnomeGabyGnome_C (Item5GnomeGabyGnome)
+[2018.01.17-16.21.28:482][966]LogEditorViewport: Clicking on Actor (LMB): Skybox_Blueprint_C (Skybox_Blueprint2)
+[2018.01.17-16.24.02:072][626]LogEditorViewport: Clicking on Actor (LMB): BP_House_C (BP_house)
+[2018.01.17-16.24.02:614][628]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.24.17:585][  6]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.24.18:799][ 50]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.24.27:614][363]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.24.29:137][415]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.24.32:320][532]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.17-16.24.43:805][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.17-16.24.44:750][815]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.17-16.25.00:240][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (flowerPot54)
+[2018.01.17-16.25.00:514][ 82]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.25.04:870][172]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-16.25.06:495][207]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-16.25.10:431][281]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-16.25.12:090][316]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-16.25.19:266][457]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.17-16.25.20:800][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group74)
+[2018.01.17-16.25.23:020][538]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.17-16.25.28:210][660]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-16.25.29:711][701]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-16.25.35:655][854]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.17-16.25.43:844][ 27]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.25.45:286][ 61]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.25.45:757][ 71]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.25.51:654][305]Cmd: EDIT COPY
+[2018.01.17-16.25.51:906][315]Cmd: EDIT PASTE
+[2018.01.17-16.25.58:943][549]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.17-16.26.05:695][703]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_67)
+[2018.01.17-16.26.06:158][714]Cmd: DELETE
+[2018.01.17-16.26.06:158][714]Cmd: ACTOR DELETE
+[2018.01.17-16.26.06:299][714]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-16.26.06:353][714]LogEditorActor: Deleted 1 Actors (0.194 secs)
+[2018.01.17-16.26.40:409][526]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.17-16.26.41:433][560]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.17-16.26.43:748][640]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.26.49:109][922]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.26.50:098][978]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-16.26.51:973][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.01.17-16.27.07:347][485]Cmd: TRANSACTION UNDO
+[2018.01.17-16.27.07:347][485]LogEditorTransaction: Undo Move Actors
+[2018.01.17-16.27.11:942][593]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening825)
+[2018.01.17-16.27.12:332][602]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.27.21:821][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane29)
+[2018.01.17-16.27.22:267][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.27.29:305][116]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.27.31:168][189]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.27.31:634][207]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.27.38:795][458]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall88)
+[2018.01.17-16.27.39:003][464]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.27.40:070][499]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_27)
+[2018.01.17-16.27.40:309][504]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-16.27.44:915][603]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.27.46:219][626]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-16.27.52:790][804]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall88)
+[2018.01.17-16.27.55:146][870]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (PumpkinNormal15)
+[2018.01.17-16.28.19:073][476]LogSavePackage: Save=5355.91ms
+[2018.01.17-16.28.19:073][476]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare4BF16B804A4CC8C23A27F9949073CE18.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-16.28.19:080][476]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-16.28.20:705][517]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.01.17-16.28.21:141][518]Cmd: QUIT_EDITOR
+[2018.01.17-16.28.21:171][518]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.17-16.28.21:172][518]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.01.17-16.28.21:194][518]LogExit: Preparing to exit.
+[2018.01.17-16.28.21:982][518]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.17-16.28.22:234][518]LogExit: Editor shut down
+[2018.01.17-16.28.22:263][518]LogExit: Transaction tracking system shut down
+[2018.01.17-16.28.22:887][518]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.01.17-16.28.22:887][518]LogDirectoryWatcher: A directory notification for '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/' was aborted.
+[2018.01.17-16.28.22:887][518]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.01.17-16.28.22:887][518]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.01.17-16.28.22:887][518]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.01.17-16.28.22:887][518]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.01.17-16.28.22:887][518]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.01.17-16.28.23:909][518]LogExit: Object subsystem successfully closed.
+[2018.01.17-16.28.24:214][518]LogD3D11RHI: Shutdown
+[2018.01.17-16.28.24:215][518]LogD3D11RHI: CleanupD3DDevice
+[2018.01.17-16.28.24:241][518]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.01.17-16.28.24:335][518]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.01.17-16.28.24:335][518]LogModuleManager: Shutting down and abandoning module SequencerWidgets (552)
+[2018.01.17-16.28.24:335][518]LogModuleManager: Shutting down and abandoning module BlueprintGraph (550)
+[2018.01.17-16.28.24:335][518]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (548)
+[2018.01.17-16.28.24:335][518]LogModuleManager: Shutting down and abandoning module SceneOutliner (546)
+[2018.01.17-16.28.24:335][518]LogModuleManager: Shutting down and abandoning module AddContentDialog (544)
+[2018.01.17-16.28.24:336][518]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.01.17-16.28.24:353][518]LogModuleManager: Shutting down and abandoning module WidgetCarousel (543)
+[2018.01.17-16.28.24:353][518]LogModuleManager: Shutting down and abandoning module EditorWidgets (540)
+[2018.01.17-16.28.24:353][518]LogModuleManager: Shutting down and abandoning module CollectionManager (538)
+[2018.01.17-16.28.24:353][518]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Collections/' was aborted.
+[2018.01.17-16.28.24:354][518]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Developers/Leszek/Collections/' was aborted.
+[2018.01.17-16.28.24:354][518]LogDirectoryWatcher: A directory notification for 'C:/Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Collections/' was aborted.
+[2018.01.17-16.28.24:354][518]LogModuleManager: Shutting down and abandoning module StatsViewer (536)
+[2018.01.17-16.28.24:355][518]LogModuleManager: Shutting down and abandoning module FoliageEdit (534)
+[2018.01.17-16.28.24:355][518]LogModuleManager: Shutting down and abandoning module LandscapeEditor (532)
+[2018.01.17-16.28.24:356][518]LogModuleManager: Shutting down and abandoning module MeshPaintMode (530)
+[2018.01.17-16.28.24:357][518]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (528)
+[2018.01.17-16.28.24:357][518]LogModuleManager: Shutting down and abandoning module ActorPickerMode (526)
+[2018.01.17-16.28.24:357][518]LogModuleManager: Shutting down and abandoning module GeometryMode (524)
+[2018.01.17-16.28.24:357][518]LogModuleManager: Shutting down and abandoning module TextureAlignMode (522)
+[2018.01.17-16.28.24:357][518]LogModuleManager: Shutting down and abandoning module BspMode (520)
+[2018.01.17-16.28.24:357][518]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (518)
+[2018.01.17-16.28.24:357][518]LogModuleManager: Shutting down and abandoning module HardwareSurvey (516)
+[2018.01.17-16.28.24:357][518]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (514)
+[2018.01.17-16.28.24:357][518]LogModuleManager: Shutting down and abandoning module AutomationWorker (512)
+[2018.01.17-16.28.24:358][518]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (510)
+[2018.01.17-16.28.24:358][518]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (508)
+[2018.01.17-16.28.24:360][518]LogModuleManager: Shutting down and abandoning module PlacementMode (507)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (504)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (502)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (500)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (498)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (496)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (494)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (492)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (490)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (488)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module CharacterAI (486)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module AudioCapture (484)
+[2018.01.17-16.28.24:361][518]LogModuleManager: Shutting down and abandoning module SequenceRecorder (483)
+[2018.01.17-16.28.24:362][518]LogModuleManager: Shutting down and abandoning module SmartSnapping (480)
+[2018.01.17-16.28.24:362][518]LogModuleManager: Shutting down and abandoning module SessionServices (478)
+[2018.01.17-16.28.24:362][518]LogModuleManager: Shutting down and abandoning module ViewportSnapping (476)
+[2018.01.17-16.28.24:362][518]LogModuleManager: Shutting down and abandoning module ViewportInteraction (474)
+[2018.01.17-16.28.24:362][518]LogModuleManager: Shutting down and abandoning module ClothPainter (472)
+[2018.01.17-16.28.24:363][518]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (471)
+[2018.01.17-16.28.24:365][518]LogModuleManager: Shutting down and abandoning module LogVisualizer (468)
+[2018.01.17-16.28.24:366][518]LogModuleManager: Shutting down and abandoning module IntroTutorials (466)
+[2018.01.17-16.28.24:368][518]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (465)
+[2018.01.17-16.28.24:369][518]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (462)
+[2018.01.17-16.28.24:370][518]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (460)
+[2018.01.17-16.28.24:370][518]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (458)
+[2018.01.17-16.28.24:370][518]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (457)
+[2018.01.17-16.28.24:917][518]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (454)
+[2018.01.17-16.28.24:918][518]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (452)
+[2018.01.17-16.28.24:918][518]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (450)
+[2018.01.17-16.28.24:918][518]LogModuleManager: Shutting down and abandoning module InputBindingEditor (448)
+[2018.01.17-16.28.24:918][518]LogModuleManager: Shutting down and abandoning module MergeActors (446)
+[2018.01.17-16.28.24:919][518]LogModuleManager: Shutting down and abandoning module SizeMap (444)
+[2018.01.17-16.28.24:919][518]LogModuleManager: Shutting down and abandoning module TreeMap (442)
+[2018.01.17-16.28.24:920][518]LogModuleManager: Shutting down and abandoning module ReferenceViewer (440)
+[2018.01.17-16.28.24:920][518]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (438)
+[2018.01.17-16.28.24:921][518]LogModuleManager: Shutting down and abandoning module LocalizationService (437)
+[2018.01.17-16.28.24:922][518]LogModuleManager: Shutting down and abandoning module HardwareTargeting (434)
+[2018.01.17-16.28.24:922][518]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (432)
+[2018.01.17-16.28.24:922][518]LogModuleManager: Shutting down and abandoning module UndoHistory (430)
+[2018.01.17-16.28.24:922][518]LogModuleManager: Shutting down and abandoning module XmlParser (428)
+[2018.01.17-16.28.24:922][518]LogModuleManager: Shutting down and abandoning module Blutility (426)
+[2018.01.17-16.28.24:922][518]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (424)
+[2018.01.17-16.28.24:923][518]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (423)
+[2018.01.17-16.28.24:923][518]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (420)
+[2018.01.17-16.28.24:924][518]LogModuleManager: Shutting down and abandoning module SettingsEditor (418)
+[2018.01.17-16.28.24:925][518]LogModuleManager: Shutting down and abandoning module ProjectLauncher (416)
+[2018.01.17-16.28.24:926][518]LogModuleManager: Shutting down and abandoning module SessionFrontend (414)
+[2018.01.17-16.28.24:927][518]LogModuleManager: Shutting down and abandoning module ProfilerClient (412)
+[2018.01.17-16.28.24:927][518]LogModuleManager: Shutting down and abandoning module DeviceManager (410)
+[2018.01.17-16.28.24:928][518]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (409)
+[2018.01.17-16.28.24:983][518]LogModuleManager: Shutting down and abandoning module AutomationController (406)
+[2018.01.17-16.28.24:984][518]LogModuleManager: Shutting down and abandoning module AutomationWindow (404)
+[2018.01.17-16.28.24:985][518]LogModuleManager: Shutting down and abandoning module Layers (402)
+[2018.01.17-16.28.24:988][518]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (400)
+[2018.01.17-16.28.24:988][518]LogModuleManager: Shutting down and abandoning module DetailCustomizations (398)
+[2018.01.17-16.28.24:988][518]LogModuleManager: Shutting down and abandoning module PackagesDialog (396)
+[2018.01.17-16.28.24:989][518]LogModuleManager: Shutting down and abandoning module Persona (394)
+[2018.01.17-16.28.24:990][518]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (393)
+[2018.01.17-16.28.24:990][518]LogModuleManager: Shutting down and abandoning module AnimGraph (391)
+[2018.01.17-16.28.24:991][518]LogModuleManager: Shutting down and abandoning module Kismet (388)
+[2018.01.17-16.28.25:041][518]LogModuleManager: Shutting down and abandoning module ClassViewer (386)
+[2018.01.17-16.28.25:041][518]LogModuleManager: Shutting down and abandoning module Toolbox (384)
+[2018.01.17-16.28.25:041][518]LogModuleManager: Shutting down and abandoning module ModuleUI (382)
+[2018.01.17-16.28.25:042][518]LogModuleManager: Shutting down and abandoning module MovieSceneTools (380)
+[2018.01.17-16.28.25:042][518]LogModuleManager: Shutting down and abandoning module OutputLog (378)
+[2018.01.17-16.28.25:043][518]LogModuleManager: Shutting down and abandoning module GammaUI (376)
+[2018.01.17-16.28.25:043][518]LogModuleManager: Shutting down and abandoning module Documentation (374)
+[2018.01.17-16.28.25:043][518]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (372)
+[2018.01.17-16.28.25:044][518]LogModuleManager: Shutting down and abandoning module MovieScene (370)
+[2018.01.17-16.28.25:044][518]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (368)
+[2018.01.17-16.28.25:044][518]LogModuleManager: Shutting down and abandoning module LauncherPlatform (366)
+[2018.01.17-16.28.25:044][518]LogModuleManager: Shutting down and abandoning module AnalyticsET (364)
+[2018.01.17-16.28.25:044][518]LogModuleManager: Shutting down and abandoning module PortalServices (362)
+[2018.01.17-16.28.25:044][518]LogModuleManager: Shutting down and abandoning module PortalRpc (360)
+[2018.01.17-16.28.25:044][518]LogModuleManager: Shutting down and abandoning module MessagingRpc (358)
+[2018.01.17-16.28.25:044][518]LogModuleManager: Shutting down and abandoning module AIModule (356)
+[2018.01.17-16.28.25:044][518]LogModuleManager: Shutting down and abandoning module GameplayDebugger (355)
+[2018.01.17-16.28.25:044][518]LogModuleManager: Shutting down and abandoning module AITestSuite (353)
+[2018.01.17-16.28.25:045][518]LogModuleManager: Shutting down and abandoning module DesktopPlatform (350)
+[2018.01.17-16.28.25:045][518]LogModuleManager: Shutting down and abandoning module ProfilerService (348)
+[2018.01.17-16.28.25:069][518]LogModuleManager: Shutting down and abandoning module TaskGraph (346)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module SteamVRController (344)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (342)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (340)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module OculusInput (338)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (336)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (334)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module CableComponent (332)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (330)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module AndroidPermission (328)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module ActorSequence (324)
+[2018.01.17-16.28.25:071][518]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (322)
+[2018.01.17-16.28.25:074][518]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (320)
+[2018.01.17-16.28.25:075][518]LogModuleManager: Shutting down and abandoning module MediaCompositing (318)
+[2018.01.17-16.28.25:075][518]LogModuleManager: Shutting down and abandoning module HTML5Networking (316)
+[2018.01.17-16.28.25:075][518]LogModuleManager: Shutting down and abandoning module AlembicImporter (314)
+[2018.01.17-16.28.25:075][518]LogModuleManager: Shutting down and abandoning module AlembicLibrary (313)
+[2018.01.17-16.28.25:075][518]LogModuleManager: Shutting down and abandoning module GeometryCache (312)
+[2018.01.17-16.28.25:075][518]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (311)
+[2018.01.17-16.28.25:075][518]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (306)
+[2018.01.17-16.28.25:076][518]LogModuleManager: Shutting down and abandoning module PluginBrowser (304)
+[2018.01.17-16.28.25:077][518]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (302)
+[2018.01.17-16.28.25:079][518]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (300)
+[2018.01.17-16.28.25:079][518]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (298)
+[2018.01.17-16.28.25:079][518]LogModuleManager: Shutting down and abandoning module UObjectPlugin (296)
+[2018.01.17-16.28.25:079][518]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (294)
+[2018.01.17-16.28.25:080][518]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (292)
+[2018.01.17-16.28.25:081][518]LogModuleManager: Shutting down and abandoning module GitSourceControl (290)
+[2018.01.17-16.28.25:083][518]LogModuleManager: Shutting down and abandoning module SourceControl (289)
+[2018.01.17-16.28.25:084][518]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (286)
+[2018.01.17-16.28.25:084][518]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (284)
+[2018.01.17-16.28.25:084][518]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (282)
+[2018.01.17-16.28.25:084][518]LogModuleManager: Shutting down and abandoning module Paper2DEditor (280)
+[2018.01.17-16.28.25:086][518]LogModuleManager: Shutting down and abandoning module MeshPaint (279)
+[2018.01.17-16.28.25:086][518]LogModuleManager: Shutting down and abandoning module LevelEditor (277)
+[2018.01.17-16.28.25:092][518]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (276)
+[2018.01.17-16.28.25:092][518]LogModuleManager: Shutting down and abandoning module MainFrame (274)
+[2018.01.17-16.28.25:093][518]LogModuleManager: Shutting down and abandoning module HotReload (273)
+[2018.01.17-16.28.25:095][518]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (268)
+[2018.01.17-16.28.25:095][518]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (266)
+[2018.01.17-16.28.25:095][518]LogModuleManager: Shutting down and abandoning module PhysXVehicles (264)
+[2018.01.17-16.28.25:095][518]LogModuleManager: Shutting down and abandoning module OculusEditor (262)
+[2018.01.17-16.28.25:095][518]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (260)
+[2018.01.17-16.28.25:095][518]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (258)
+[2018.01.17-16.28.25:096][518]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (256)
+[2018.01.17-16.28.25:096][518]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.01.17-16.28.25:196][518]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.01.17-16.28.25:297][518]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.01.17-16.28.25:299][518]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.01.17-16.28.25:299][518]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.01.17-16.28.25:299][518]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.01.17-16.28.25:300][518]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.01.17-16.28.25:300][518]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.01.17-16.28.25:306][518]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.01.17-16.28.25:306][518]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.01.17-16.28.25:306][518]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.01.17-16.28.25:307][518]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.01.17-16.28.25:314][518]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.01.17-16.28.25:314][518]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.01.17-16.28.25:315][518]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.01.17-16.28.25:316][518]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.01.17-16.28.25:316][518]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.01.17-16.28.25:317][518]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.01.17-16.28.25:324][518]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.01.17-16.28.25:324][518]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.01.17-16.28.25:324][518]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.01.17-16.28.25:325][518]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.01.17-16.28.25:326][518]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.01.17-16.28.25:326][518]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.01.17-16.28.25:328][518]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.01.17-16.28.25:328][518]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.01.17-16.28.25:330][518]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.01.17-16.28.25:330][518]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.01.17-16.28.25:330][518]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.01.17-16.28.25:330][518]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.01.17-16.28.25:331][518]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.01.17-16.28.25:331][518]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.01.17-16.28.25:335][518]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.01.17-16.28.25:335][518]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.01.17-16.28.25:349][518]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.01.17-16.28.25:349][518]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.01.17-16.28.25:349][518]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.01.17-16.28.25:349][518]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.01.17-16.28.25:349][518]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.01.17-16.28.25:349][518]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.01.17-16.28.25:349][518]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.01.17-16.28.25:350][518]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.01.17-16.28.25:378][518]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.01.17-16.28.25:379][518]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.01.17-16.28.25:380][518]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.01.17-16.28.25:380][518]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.01.17-16.28.25:380][518]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.01.17-16.28.25:381][518]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.01.17-16.28.25:381][518]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.01.17-16.28.25:381][518]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.01.17-16.28.25:382][518]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.01.17-16.28.25:400][518]LogDerivedDataCache: Shutdown
+[2018.01.17-16.28.25:400][518]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.01.17-16.28.25:400][518]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.01.17-16.28.25:401][518]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.01.17-16.28.25:401][518]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.01.17-16.28.25:402][518]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.01.17-16.28.25:402][518]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.01.17-16.28.25:403][518]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.01.17-16.28.25:403][518]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.01.17-16.28.25:403][518]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.01.17-16.28.25:404][518]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.01.17-16.28.25:404][518]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.01.17-16.28.25:404][518]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.01.17-16.28.25:404][518]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.01.17-16.28.25:404][518]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.01.17-16.28.25:405][518]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.01.17-16.28.25:405][518]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.01.17-16.28.25:405][518]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.01.17-16.28.25:405][518]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.01.17-16.28.25:405][518]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.01.17-16.28.25:405][518]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.01.17-16.28.25:405][518]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.01.17-16.28.25:405][518]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.01.17-16.28.25:406][518]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.01.17-16.28.25:407][518]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.01.17-16.28.25:407][518]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.01.17-16.28.25:407][518]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.01.17-16.28.25:407][518]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.01.17-16.28.25:407][518]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.01.17-16.28.25:408][518]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.01.17-16.28.25:408][518]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.01.17-16.28.25:408][518]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.01.17-16.28.25:408][518]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.01.17-16.28.25:408][518]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.01.17-16.28.25:408][518]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.01.17-16.28.25:408][518]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.01.17-16.28.25:408][518]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.01.17-16.28.25:409][518]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.01.17-16.28.25:409][518]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.01.17-16.28.25:409][518]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.01.17-16.28.25:409][518]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.01.17-16.28.25:409][518]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.01.17-16.28.25:410][518]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.01.17-16.28.25:411][518]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.01.17-16.28.25:411][518]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.01.17-16.28.25:411][518]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BCC1800CC-4139-3232-18B0-69B93AF06B9D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.2-3794801%2B%2B%2BUE4%2BRelease-4.18&UserID=a202bbab4bfb72a6c72ab59bf5105770%7Ca6b7376151474e159cf10430cd50646e%7C20bc636a-a4d7-41a8-a2dc-7238c7cddcf0&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.01.17-16.28.25:424][518]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.01.17-16.28.25:430][518]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.01.17-16.28.25:430][518]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.01.17-16.28.25:431][518]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.01.17-16.28.25:431][518]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.01.17-16.28.25:431][518]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.01.17-16.28.25:431][518]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.01.17-16.28.25:431][518]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.01.17-16.28.25:449][518]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.01.17-16.28.25:450][518]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.01.17-16.28.25:450][518]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.01.17-16.28.25:450][518]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.01.17-16.28.25:450][518]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.01.17-16.28.25:451][518]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.01.17-16.28.25:451][518]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.01.17-16.28.25:451][518]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.01.17-16.28.25:451][518]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.01.17-16.28.25:451][518]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.01.17-16.28.25:451][518]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.01.17-16.28.25:463][518]LogExit: Exiting.
+[2018.01.17-16.28.25:577][518]Log file closed, 01/17/18 16:28:25
