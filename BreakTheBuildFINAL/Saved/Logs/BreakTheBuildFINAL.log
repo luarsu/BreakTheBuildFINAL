@@ -833,3 +833,337 @@ LogInit: Object subsystem initialized
 [2018.01.17-14.33.47:915][395]LogSavePackage: Save=11161.64ms
 [2018.01.17-14.33.47:915][395]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareC5D392544569579A70CF6BABA383299E.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
 [2018.01.17-14.33.47:926][395]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-14.37.36:284][377]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.37.37:442][408]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.37.38:663][441]Cmd: TRANSACTION UNDO
+[2018.01.17-14.37.38:663][441]LogEditorTransaction: Undo Create Actors
+[2018.01.17-14.37.39:587][448]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.37.40:674][467]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.37.44:786][569]Cmd: EDIT COPY
+[2018.01.17-14.37.44:996][574]Cmd: EDIT PASTE
+[2018.01.17-14.37.50:709][730]Cmd: EDIT COPY
+[2018.01.17-14.37.50:943][737]Cmd: EDIT PASTE
+[2018.01.17-14.37.56:439][858]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.17-14.37.57:444][880]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.17-14.38.00:406][939]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.38.03:131][  6]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.38.08:353][100]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.17-14.38.09:665][131]LogActorFactory: Actor Factory created Rock_Group2
+[2018.01.17-14.38.16:206][300]Cmd: DELETE
+[2018.01.17-14.38.16:206][300]Cmd: ACTOR DELETE
+[2018.01.17-14.38.16:325][300]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-14.38.16:364][300]LogEditorActor: Deleted 1 Actors (0.158 secs)
+[2018.01.17-14.38.35:110][650]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-14.38.36:472][674]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-14.38.44:359][848]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.38.45:602][879]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.38.48:868][945]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.38.49:944][970]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.38.55:088][ 99]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-14.38.56:734][141]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-14.38.59:263][203]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall68)
+[2018.01.17-14.39.12:709][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_2a36)
+[2018.01.17-14.39.16:151][635]Cmd: TRANSACTION UNDO
+[2018.01.17-14.39.16:151][635]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.39.17:537][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group64)
+[2018.01.17-14.39.45:778][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS233)
+[2018.01.17-14.40.26:987][411]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.17-14.40.28:834][457]LogActorFactory: Actor Factory created WHEAT_small
+[2018.01.17-14.40.31:487][520]LogEditorViewport: Clicking on Actor (LMB): BP_pavillion_C (BP_pavillion)
+[2018.01.17-14.40.32:271][539]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.40.34:740][602]Cmd: TRANSACTION UNDO
+[2018.01.17-14.40.34:740][602]LogEditorTransaction: Undo Move Actors
+[2018.01.17-14.40.35:310][608]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening283)
+[2018.01.17-14.40.36:064][618]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT_small34)
+[2018.01.17-14.40.36:877][627]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.40.41:019][724]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.40.42:819][769]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.40.43:738][775]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.40.44:721][798]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.40.45:708][811]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.40.47:278][852]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.40.49:828][904]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-14.40.50:796][928]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-14.40.57:173][ 87]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.40.59:771][150]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.41.02:543][192]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.17-14.41.03:756][218]LogActorFactory: Actor Factory created Rock_2b
+[2018.01.17-14.41.13:505][442]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.17-14.41.15:403][485]LogActorFactory: Actor Factory created Mushroom_2
+[2018.01.17-14.41.16:957][507]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-14.41.17:990][529]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-14.41.22:301][614]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-14.41.23:873][643]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-14.41.36:104][866]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.41.37:445][890]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.41.38:422][900]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.41.39:760][925]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.41.40:605][935]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-14.41.41:593][953]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-14.41.46:315][ 32]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-14.41.47:328][ 50]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-14.41.49:097][ 81]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT126)
+[2018.01.17-14.41.49:791][ 92]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane61)
+[2018.01.17-14.42.06:680][498]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-14.42.08:774][536]LogActorFactory: Actor Factory created Lamp
+[2018.01.17-14.42.13:974][635]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-14.42.15:866][669]LogActorFactory: Actor Factory created Rock_Group
+[2018.01.17-14.42.17:996][700]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.17-14.42.19:951][737]LogActorFactory: Actor Factory created Rock_Group_4
+[2018.01.17-14.42.38:766][114]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.17-14.42.39:433][124]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.17-14.42.40:531][138]Cmd: DELETE
+[2018.01.17-14.42.40:531][138]Cmd: ACTOR DELETE
+[2018.01.17-14.42.40:641][138]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-14.42.40:670][138]LogEditorActor: Deleted 1 Actors (0.139 secs)
+[2018.01.17-14.42.42:689][170]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-14.42.44:425][202]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-14.42.46:860][240]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.42.48:495][271]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.42.49:395][281]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.42.50:679][304]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.42.53:695][362]Cmd: TRANSACTION UNDO
+[2018.01.17-14.42.53:695][362]LogEditorTransaction: Undo Create Actors
+[2018.01.17-14.42.54:231][365]Cmd: TRANSACTION UNDO
+[2018.01.17-14.42.54:231][365]LogEditorTransaction: Undo Create Actors
+[2018.01.17-14.42.58:719][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group_17)
+[2018.01.17-14.43.04:550][555]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.43.06:539][604]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.43.12:852][760]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane58)
+[2018.01.17-14.43.14:983][813]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.17-14.43.15:039][813]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-14.43.15:039][813]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.17-14.43.15:040][813]PIE: New page: PIE session: Luis_Nightmare (17 Jan 2018 14:43:15)
+[2018.01.17-14.43.15:040][813]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Luis_Nightmare
+[2018.01.17-14.43.15:413][813]LogPlayLevel: PIE: StaticDuplicateObject took: (0.372447s)
+[2018.01.17-14.43.15:413][813]LogAIModule: Creating AISystem for world Luis_Nightmare
+[2018.01.17-14.43.15:414][813]LogPlayLevel: PIE: World Init took: (0.001292s)
+[2018.01.17-14.43.15:415][813]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Luis_Nightmare.Luis_Nightmare to /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare (0.375958s)
+[2018.01.17-14.43.15:462][813]LogInit: XAudio2 using 'Speakers / Headphones (Realtek Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.01.17-14.43.15:485][813]LogInit: FAudioDevice initialized.
+[2018.01.17-14.43.15:534][813]LogLoad: Game class is 'FirstPersonGameMode_C'
+[2018.01.17-14.43.15:643][813]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Luis_Nightmare.Luis_Nightmare up for play (max tick rate 0) at 2018.01.17-14.43.15
+[2018.01.17-14.43.15:650][813]LogWorld: Bringing up level for play took: 0.113553
+[2018.01.17-14.43.15:655][813]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:655][813]PIE: Warning: Invalid Simulate Options: Body (KeyBlue7.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:655][813]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyBlue6.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyBlue5.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyBlue4.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyBlue3_260.Cube Pumpkin1) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyGreen_272.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyGreen5.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyGreen4.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:656][813]PIE: Warning: Invalid Simulate Options: Body (KeyGreen3.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyGreen2.Cube Pumpkin4) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyRed4.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyRed3.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyRed2_311.Cube Pumpkin2) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyViolet2.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:657][813]PIE: Warning: Invalid Simulate Options: Body (KeyViolet_155.Cube Pumpkin3) is set to simulate physics but Collision Enabled is incompatible
+[2018.01.17-14.43.15:662][813]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Luis_Nightmare 1.379
+[2018.01.17-14.43.15:663][813]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-14.43.17:775][858]LogBlueprintUserMessages: [FirstPersonCharacter_452] Click to select
+[2018.01.17-14.43.25:132][ 68]LogBlueprintUserMessages: [FirstPersonCharacter_452] Click to select
+[2018.01.17-14.43.37:412][399]LogBlueprintUserMessages: [FirstPersonCharacter_452] Click to select
+[2018.01.17-14.43.39:486][453]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-14.43.39:624][453]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare' with GeneratedClass '/Game/Maps/Luis_Nightmare.Luis_Nightmare_C' with ClassGeneratedBy '/Game/Maps/Luis_Nightmare.Luis_Nightmare:PersistentLevel.Luis_Nightmare'
+[2018.01.17-14.43.59:637][764]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group_17)
+[2018.01.17-14.44.00:487][770]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT128)
+[2018.01.17-14.44.01:068][774]Cmd: DELETE
+[2018.01.17-14.44.01:068][774]Cmd: ACTOR DELETE
+[2018.01.17-14.44.01:234][774]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-14.44.01:288][774]LogEditorActor: Deleted 1 Actors (0.220 secs)
+[2018.01.17-14.44.02:106][783]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group_17)
+[2018.01.17-14.44.13:539][915]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.44.15:161][934]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.44.21:461][ 41]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane71)
+[2018.01.17-14.44.27:969][158]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.44.28:911][175]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.44.29:725][183]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-14.44.31:072][208]LogActorFactory: Actor Factory created GRASS_2
+[2018.01.17-14.44.36:178][291]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.44.37:697][320]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.44.43:804][422]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.44.45:104][446]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.44.50:628][535]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-14.44.51:715][557]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-14.44.55:717][636]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-14.44.56:637][655]LogActorFactory: Actor Factory created Mushroom_3
+[2018.01.17-14.45.04:985][827]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleDoor_C (BP_PuzzleDoor4)
+[2018.01.17-14.45.24:097][179]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.17-14.45.25:466][204]LogActorFactory: Actor Factory created Rock_Group_3
+[2018.01.17-14.45.34:922][391]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.45.51:107][850]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.45.54:194][896]Cmd: TRANSACTION UNDO
+[2018.01.17-14.45.54:194][896]LogEditorTransaction: Undo Rotate Actors
+[2018.01.17-14.45.54:983][901]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane59)
+[2018.01.17-14.45.59:364][975]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group_19)
+[2018.01.17-14.46.03:545][ 43]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-14.46.05:365][ 76]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-14.46.17:674][291]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.46.18:797][317]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.46.25:845][337]LogSavePackage: Save=5917.00ms
+[2018.01.17-14.46.25:845][337]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare3ED23634495BA511C2FA8FBFF2453EB9.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-14.46.25:854][337]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-14.46.41:373][601]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleDoor_C (BP_PuzzleDoor3)
+[2018.01.17-14.47.02:301][923]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle8)
+[2018.01.17-14.47.02:720][925]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.47.12:393][ 48]Cmd: TRANSACTION UNDO
+[2018.01.17-14.47.12:393][ 48]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.17-14.47.12:675][ 50]Cmd: TRANSACTION UNDO
+[2018.01.17-14.47.12:676][ 50]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.47.14:129][ 67]Cmd: TRANSACTION UNDO
+[2018.01.17-14.47.14:129][ 67]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.17-14.47.14:489][ 69]Cmd: TRANSACTION UNDO
+[2018.01.17-14.47.14:489][ 69]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.47.15:265][ 79]Cmd: TRANSACTION UNDO
+[2018.01.17-14.47.15:265][ 79]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.47.16:200][ 89]Cmd: TRANSACTION UNDO
+[2018.01.17-14.47.16:200][ 89]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.47.16:983][ 98]Cmd: TRANSACTION UNDO
+[2018.01.17-14.47.16:984][ 98]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.47.17:901][109]Cmd: TRANSACTION UNDO
+[2018.01.17-14.47.17:901][109]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.47.18:818][120]Cmd: TRANSACTION UNDO
+[2018.01.17-14.47.18:818][120]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.47.23:073][170]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group20)
+[2018.01.17-14.47.30:440][345]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.47.31:479][369]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.47.37:655][523]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane43)
+[2018.01.17-14.47.47:154][729]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-14.47.48:965][762]LogActorFactory: Actor Factory created Rock_1
+[2018.01.17-14.47.53:155][839]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group20)
+[2018.01.17-14.47.55:104][871]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_62)
+[2018.01.17-14.48.19:506][491]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle7)
+[2018.01.17-14.48.27:127][668]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.48.37:305][962]Cmd: EDIT COPY
+[2018.01.17-14.48.37:538][969]Cmd: EDIT PASTE
+[2018.01.17-14.49.03:333][700]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.49.09:256][840]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.50.12:040][965]LogSavePackage: Save=5765.48ms
+[2018.01.17-14.50.12:040][965]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare69DAEB8441C54A0A53657485B01E0570.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-14.50.12:053][965]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-14.50.47:331][608]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleDoor_C (BP_PuzzleDoor3)
+[2018.01.17-14.51.11:523][ 49]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.51.32:830][670]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Opening486)
+[2018.01.17-14.51.33:491][688]LogEditorViewport: Clicking on Actor (LMB): PortcullisGate_C (PortcullisGate22)
+[2018.01.17-14.51.35:204][732]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.51.41:679][849]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleDoor_C (BP_PuzzleDoor3)
+[2018.01.17-14.51.42:414][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.52.11:783][356]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall153)
+[2018.01.17-14.52.27:407][735]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane43)
+[2018.01.17-14.52.32:363][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall153)
+[2018.01.17-14.52.48:698][106]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.53.19:814][973]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall152)
+[2018.01.17-14.53.22:018][ 13]Cmd: DELETE
+[2018.01.17-14.53.22:019][ 13]Cmd: ACTOR DELETE
+[2018.01.17-14.53.22:199][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-14.53.22:235][ 13]LogEditorActor: Deleted 1 Actors (0.216 secs)
+[2018.01.17-14.53.23:953][ 45]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleDoor_C (BP_PuzzleDoor3)
+[2018.01.17-14.53.35:632][270]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Gargoyle8)
+[2018.01.17-14.53.42:175][402]Cmd: TRANSACTION UNDO
+[2018.01.17-14.53.42:175][402]LogEditorTransaction: Undo Move Actors
+[2018.01.17-14.53.45:944][454]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.53.55:807][744]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_46)
+[2018.01.17-14.54.06:951][  8]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_119)
+[2018.01.17-14.54.09:970][ 61]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_120)
+[2018.01.17-14.54.20:225][284]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_117)
+[2018.01.17-14.54.24:287][385]Cmd: TRANSACTION UNDO
+[2018.01.17-14.54.24:288][385]LogEditorTransaction: Undo Move Actors
+[2018.01.17-14.54.27:081][431]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_45)
+[2018.01.17-14.54.33:013][595]Cmd: DELETE
+[2018.01.17-14.54.33:013][595]Cmd: ACTOR DELETE
+[2018.01.17-14.54.33:178][595]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-14.54.33:233][595]LogEditorActor: Deleted 1 Actors (0.219 secs)
+[2018.01.17-14.54.34:542][626]LogEditorViewport: Clicking on Actor (LMB): BP_PuzzleDoor_C (BP_PuzzleDoor3)
+[2018.01.17-14.54.35:212][642]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (GRASS_46)
+[2018.01.17-14.54.36:104][656]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group18)
+[2018.01.17-14.54.41:872][811]Cmd: DELETE
+[2018.01.17-14.54.41:872][811]Cmd: ACTOR DELETE
+[2018.01.17-14.54.42:027][811]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-14.54.42:077][811]LogEditorActor: Deleted 1 Actors (0.204 secs)
+[2018.01.17-14.54.48:488][947]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.54.50:517][  2]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.54.51:377][ 13]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.54.53:688][ 75]LogActorFactory: Actor Factory created GRASS
+[2018.01.17-14.55.02:102][278]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group20)
+[2018.01.17-14.55.05:032][323]Cmd: TRANSACTION UNDO
+[2018.01.17-14.55.05:032][323]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.17-14.55.10:938][418]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_120)
+[2018.01.17-14.55.15:762][498]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.55.17:283][527]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.55.21:736][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Rock_Group20)
+[2018.01.17-14.55.32:111][893]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT130)
+[2018.01.17-14.55.43:992][151]Cmd: DELETE
+[2018.01.17-14.55.43:992][151]Cmd: ACTOR DELETE
+[2018.01.17-14.55.44:175][151]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-14.55.44:237][151]LogEditorActor: Deleted 1 Actors (0.245 secs)
+[2018.01.17-14.55.52:053][277]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Mushroom_120)
+[2018.01.17-14.56.01:802][410]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.17-14.56.03:703][439]LogActorFactory: Actor Factory created Rock_2a
+[2018.01.17-14.56.30:675][909]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Hedge_Wall76)
+[2018.01.17-14.56.39:393][100]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.56.41:861][160]LogActorFactory: Actor Factory created WHEAT
+[2018.01.17-14.56.48:913][325]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mazeHedge_wideShortCornert154)
+[2018.01.17-14.56.50:781][363]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (WHEAT130)
+[2018.01.17-14.56.51:550][374]Cmd: DELETE
+[2018.01.17-14.56.51:551][374]Cmd: ACTOR DELETE
+[2018.01.17-14.56.51:713][374]LogEditorActor: Deleted Actor: StaticMeshActor
+[2018.01.17-14.56.51:753][374]LogEditorActor: Deleted 1 Actors (0.202 secs)
+[2018.01.17-14.56.59:348][410]LogSavePackage: Save=5620.96ms
+[2018.01.17-14.56.59:348][410]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare67557E3E4353EC8E388FF9B81BCBA77F.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-14.56.59:355][410]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-14.57.09:585][626]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh2)
+[2018.01.17-14.57.12:637][685]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2018.01.17-14.57.19:778][893]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh4)
+[2018.01.17-14.57.24:524][ 31]LogEditorViewport: Clicking Background
+[2018.01.17-14.57.28:087][136]LogEditorViewport: Clicking on Actor (LMB): StaticPuzzleMesh1_C (PuzzleMesh4)
+[2018.01.17-14.57.36:448][382]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.36:449][382]LogEditorTransaction: Undo Move Actors
+[2018.01.17-14.57.36:779][386]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.36:779][386]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.57.37:133][392]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.37:133][392]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.57.37:482][395]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.37:482][395]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.17-14.57.37:677][397]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.37:678][397]LogEditorTransaction: Undo Clicking Background
+[2018.01.17-14.57.37:873][399]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.37:873][399]LogEditorTransaction: Undo Move Actors
+[2018.01.17-14.57.38:246][404]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.38:246][404]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.57.38:695][409]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.38:695][409]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.57.38:966][414]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.38:966][414]LogEditorTransaction: Undo Clicking on Actors
+[2018.01.17-14.57.39:236][418]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.39:236][418]LogEditorTransaction: Undo Move Actors
+[2018.01.17-14.57.39:619][424]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.39:619][424]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.57.39:961][430]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.39:961][430]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.57.40:277][436]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.40:277][436]LogEditorTransaction: Undo Move Actors
+[2018.01.17-14.57.40:457][438]Cmd: TRANSACTION UNDO
+[2018.01.17-14.57.40:457][438]LogEditorTransaction: Undo Animatable Property Changed
+[2018.01.17-14.57.41:711][462]LogEditorViewport: Clicking Background
+[2018.01.17-14.57.52:335][591]LogSavePackage: Save=5245.44ms
+[2018.01.17-14.57.52:335][591]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_NightmareEF077A5E493DE51CFA0D3B8C9745B9F7.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-14.57.52:345][591]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
+[2018.01.17-14.58.26:835][727]LogSavePackage: Save=6370.00ms
+[2018.01.17-14.58.26:835][727]LogSavePackage: Moving '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Saved/Luis_Nightmare299E080046A91C068DD77493D186D1BF.tmp' to '../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap'
+[2018.01.17-14.58.26:842][727]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Leszek/Documents/Unreal Projects/BreakTheBuildFINAL/BreakTheBuildFINAL/Content/Maps/Luis_Nightmare.umap
