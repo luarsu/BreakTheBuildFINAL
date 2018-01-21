@@ -15,7 +15,7 @@ https://www.youtube.com/watch?v=LZi61NI38TU
 
 Personal write up of the creators:
 
-Angela Cai: 
+Angela Cai: https://github.com/tianshucai/Term_1_Programming_Modelling_HandIn/blob/master/README.md 
 
 Toby Christmas:
 
