@@ -17,7 +17,7 @@ Personal write up of the creators:
 
 Angela Cai: https://github.com/tianshucai/Term_1_Programming_Modelling_HandIn/blob/master/README.md 
 
-Toby Christmas:
+Toby Christmas:  https://github.com/TobyC-CG/term1_submission_Toby_WriteUp.git
 
 Pablo Bueno Melchor :
 Modeling and art: https://docs.google.com/presentation/d/1R25MJ-rpYaOmYNt0ER-5Bo0-qFUjkszHPa3FWCXkvBA/edit#slide=id.g2cdf4013f3_0_50
